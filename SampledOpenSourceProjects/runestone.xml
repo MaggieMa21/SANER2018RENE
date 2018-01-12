@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547d4559bd354316440079bb</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/dcreilly/runestone/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/dcreilly/runestone/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/dcreilly/runestone/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/dcreilly/runestone/branches{/branch}</branches_url>
+  <clone_url>https://github.com/dcreilly/runestone.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/dcreilly/runestone/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/dcreilly/runestone/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/dcreilly/runestone/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/dcreilly/runestone/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/dcreilly/runestone/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/dcreilly/runestone/contributors</contributors_url>
+  <created_at>12/2/2014 4:35:50 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Interactive books for computer science</description>
+  <downloads_url>https://api.github.com/repos/dcreilly/runestone/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/dcreilly/runestone/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/dcreilly/runestone/forks</forks_url>
+  <full_name>dcreilly/runestone</full_name>
+  <git_commits_url>https://api.github.com/repos/dcreilly/runestone/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/dcreilly/runestone/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/dcreilly/runestone/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/dcreilly/runestone.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://interactivepython.org</homepage>
+  <hooks_url>https://api.github.com/repos/dcreilly/runestone/hooks</hooks_url>
+  <html_url>https://github.com/dcreilly/runestone</html_url>
+  <id>27415205</id>
+  <issue_comment_url>https://api.github.com/repos/dcreilly/runestone/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/dcreilly/runestone/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/dcreilly/runestone/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/dcreilly/runestone/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/dcreilly/runestone/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/dcreilly/runestone/languages</languages_url>
+  <merges_url>https://api.github.com/repos/dcreilly/runestone/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/dcreilly/runestone/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>runestone</name>
+  <network_count>128</network_count>
+  <notifications_url>https://api.github.com/repos/dcreilly/runestone/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/10042240?v=3</avatar_url>
+    <events_url>https://api.github.com/users/dcreilly/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/dcreilly/followers</followers_url>
+    <following_url>https://api.github.com/users/dcreilly/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/dcreilly/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/dcreilly</html_url>
+    <id>10042240</id>
+    <login>dcreilly</login>
+    <organizations_url>https://api.github.com/users/dcreilly/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/dcreilly/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/dcreilly/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/dcreilly/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/dcreilly/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/dcreilly</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/presnick/runestone/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/presnick/runestone/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/presnick/runestone/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/presnick/runestone/branches{/branch}",
+  "clone_url": "https://github.com/presnick/runestone.git",
+  "collaborators_url": "https://api.github.com/repos/presnick/runestone/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/presnick/runestone/comments{/number}",
+  "commits_url": "https://api.github.com/repos/presnick/runestone/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/presnick/runestone/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/presnick/runestone/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/presnick/runestone/contributors",
+  "created_at": "2013-02-28T20:06:53Z",
+  "default_branch": "master",
+  "description": "Interactive books for computer science",
+  "downloads_url": "https://api.github.com/repos/presnick/runestone/downloads",
+  "events_url": "https://api.github.com/repos/presnick/runestone/events",
+  "fork": true,
+  "forks": 8,
+  "forks_count": 8,
+  "forks_url": "https://api.github.com/repos/presnick/runestone/forks",
+  "full_name": "presnick/runestone",
+  "git_commits_url": "https://api.github.com/repos/presnick/runestone/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/presnick/runestone/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/presnick/runestone/git/tags{/sha}",
+  "git_url": "git://github.com/presnick/runestone.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://interactivepython.org",
+  "hooks_url": "https://api.github.com/repos/presnick/runestone/hooks",
+  "html_url": "https://github.com/presnick/runestone",
+  "id": 8487012,
+  "issue_comment_url": "https://api.github.com/repos/presnick/runestone/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/presnick/runestone/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/presnick/runestone/issues{/number}",
+  "keys_url": "https://api.github.com/repos/presnick/runestone/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/presnick/runestone/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/presnick/runestone/languages",
+  "merges_url": "https://api.github.com/repos/presnick/runestone/merges",
+  "milestones_url": "https://api.github.com/repos/presnick/runestone/milestones{/number}",
+  "mirror_url": null,
+  "name": "runestone",
+  "notifications_url": "https://api.github.com/repos/presnick/runestone/notifications{?since,all,participating}",
+  "open_issues": 9,
+  "open_issues_count": 9,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1077198?v=3",
+    "events_url": "https://api.github.com/users/presnick/events{/privacy}",
+    "followers_url": "https://api.github.com/users/presnick/followers",
+    "following_url": "https://api.github.com/users/presnick/following{/other_user}",
+    "gists_url": "https://api.github.com/users/presnick/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/presnick",
+    "id": 1077198,
+    "login": "presnick",
+    "organizations_url": "https://api.github.com/users/presnick/orgs",
+    "received_events_url": "https://api.github.com/users/presnick/received_events",
+    "repos_url": "https://api.github.com/users/presnick/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/presnick/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/presnick/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/presnick"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/presnick/runestone/pulls{/number}",
+  "pushed_at": "2014-11-28T21:44:04Z",
+  "releases_url": "https://api.github.com/repos/presnick/runestone/releases{/id}",
+  "size": 163649,
+  "ssh_url": "git@github.com:presnick/runestone.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/presnick/runestone/stargazers",
+  "statuses_url": "https://api.github.com/repos/presnick/runestone/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/presnick/runestone/subscribers",
+  "subscription_url": "https://api.github.com/repos/presnick/runestone/subscription",
+  "svn_url": "https://github.com/presnick/runestone",
+  "tags_url": "https://api.github.com/repos/presnick/runestone/tags",
+  "teams_url": "https://api.github.com/repos/presnick/runestone/teams",
+  "trees_url": "https://api.github.com/repos/presnick/runestone/git/trees{/sha}",
+  "updated_at": "2014-11-28T21:44:04Z",
+  "url": "https://api.github.com/repos/presnick/runestone",
+  "watchers": 1,
+  "watchers_count": 1
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/dcreilly/runestone/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 4:46:41 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/dcreilly/runestone/releases{/id}</releases_url>
+  <size>163649</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/bnmnetp/runestone/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/bnmnetp/runestone/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/bnmnetp/runestone/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/bnmnetp/runestone/branches{/branch}",
+  "clone_url": "https://github.com/bnmnetp/runestone.git",
+  "collaborators_url": "https://api.github.com/repos/bnmnetp/runestone/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/bnmnetp/runestone/comments{/number}",
+  "commits_url": "https://api.github.com/repos/bnmnetp/runestone/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/bnmnetp/runestone/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/bnmnetp/runestone/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/bnmnetp/runestone/contributors",
+  "created_at": "2012-01-27T00:25:53Z",
+  "default_branch": "master",
+  "description": "Interactive books for computer science",
+  "downloads_url": "https://api.github.com/repos/bnmnetp/runestone/downloads",
+  "events_url": "https://api.github.com/repos/bnmnetp/runestone/events",
+  "fork": false,
+  "forks": 128,
+  "forks_count": 128,
+  "forks_url": "https://api.github.com/repos/bnmnetp/runestone/forks",
+  "full_name": "bnmnetp/runestone",
+  "git_commits_url": "https://api.github.com/repos/bnmnetp/runestone/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/bnmnetp/runestone/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/bnmnetp/runestone/git/tags{/sha}",
+  "git_url": "git://github.com/bnmnetp/runestone.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://runestoneinteractive.org",
+  "hooks_url": "https://api.github.com/repos/bnmnetp/runestone/hooks",
+  "html_url": "https://github.com/bnmnetp/runestone",
+  "id": 3278888,
+  "issue_comment_url": "https://api.github.com/repos/bnmnetp/runestone/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/bnmnetp/runestone/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/bnmnetp/runestone/issues{/number}",
+  "keys_url": "https://api.github.com/repos/bnmnetp/runestone/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/bnmnetp/runestone/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/bnmnetp/runestone/languages",
+  "merges_url": "https://api.github.com/repos/bnmnetp/runestone/merges",
+  "milestones_url": "https://api.github.com/repos/bnmnetp/runestone/milestones{/number}",
+  "mirror_url": null,
+  "name": "runestone",
+  "notifications_url": "https://api.github.com/repos/bnmnetp/runestone/notifications{?since,all,participating}",
+  "open_issues": 99,
+  "open_issues_count": 99,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/51115?v=3",
+    "events_url": "https://api.github.com/users/bnmnetp/events{/privacy}",
+    "followers_url": "https://api.github.com/users/bnmnetp/followers",
+    "following_url": "https://api.github.com/users/bnmnetp/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bnmnetp/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/bnmnetp",
+    "id": 51115,
+    "login": "bnmnetp",
+    "organizations_url": "https://api.github.com/users/bnmnetp/orgs",
+    "received_events_url": "https://api.github.com/users/bnmnetp/received_events",
+    "repos_url": "https://api.github.com/users/bnmnetp/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/bnmnetp/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bnmnetp/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/bnmnetp"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/bnmnetp/runestone/pulls{/number}",
+  "pushed_at": "2014-11-25T21:44:59Z",
+  "releases_url": "https://api.github.com/repos/bnmnetp/runestone/releases{/id}",
+  "size": 164307,
+  "ssh_url": "git@github.com:bnmnetp/runestone.git",
+  "stargazers_count": 182,
+  "stargazers_url": "https://api.github.com/repos/bnmnetp/runestone/stargazers",
+  "statuses_url": "https://api.github.com/repos/bnmnetp/runestone/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/bnmnetp/runestone/subscribers",
+  "subscription_url": "https://api.github.com/repos/bnmnetp/runestone/subscription",
+  "svn_url": "https://github.com/bnmnetp/runestone",
+  "tags_url": "https://api.github.com/repos/bnmnetp/runestone/tags",
+  "teams_url": "https://api.github.com/repos/bnmnetp/runestone/teams",
+  "trees_url": "https://api.github.com/repos/bnmnetp/runestone/git/trees{/sha}",
+  "updated_at": "2014-11-25T21:44:59Z",
+  "url": "https://api.github.com/repos/bnmnetp/runestone",
+  "watchers": 182,
+  "watchers_count": 182
+}</source>
+  <ssh_url>git@github.com:dcreilly/runestone.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/dcreilly/runestone/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/dcreilly/runestone/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/dcreilly/runestone/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/dcreilly/runestone/subscription</subscription_url>
+  <svn_url>https://github.com/dcreilly/runestone</svn_url>
+  <tags_url>https://api.github.com/repos/dcreilly/runestone/tags</tags_url>
+  <teams_url>https://api.github.com/repos/dcreilly/runestone/teams</teams_url>
+  <trees_url>https://api.github.com/repos/dcreilly/runestone/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 4:46:41 AM</updated_at>
+  <url>https://api.github.com/repos/dcreilly/runestone</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a9e49bd35430939002fa7</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/dvionnet/booter/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/dvionnet/booter/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/dvionnet/booter/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/dvionnet/booter/branches{/branch}</branches_url>
+  <clone_url>https://github.com/dvionnet/booter.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/dvionnet/booter/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/dvionnet/booter/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/dvionnet/booter/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/dvionnet/booter/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/dvionnet/booter/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/dvionnet/booter/contributors</contributors_url>
+  <created_at>12/11/2014 7:08:11 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Boot an Elixir application step by step (inspired by RabbitMQ)</description>
+  <downloads_url>https://api.github.com/repos/dvionnet/booter/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/dvionnet/booter/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/dvionnet/booter/forks</forks_url>
+  <full_name>dvionnet/booter</full_name>
+  <git_commits_url>https://api.github.com/repos/dvionnet/booter/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/dvionnet/booter/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/dvionnet/booter/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/dvionnet/booter.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://eraserewind.github.io/booter</homepage>
+  <hooks_url>https://api.github.com/repos/dvionnet/booter/hooks</hooks_url>
+  <html_url>https://github.com/dvionnet/booter</html_url>
+  <id>27858667</id>
+  <issue_comment_url>https://api.github.com/repos/dvionnet/booter/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/dvionnet/booter/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/dvionnet/booter/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/dvionnet/booter/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/dvionnet/booter/labels{/name}</labels_url>
+  <language>Elixir</language>
+  <languages_url>https://api.github.com/repos/dvionnet/booter/languages</languages_url>
+  <merges_url>https://api.github.com/repos/dvionnet/booter/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/dvionnet/booter/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>booter</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/dvionnet/booter/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/10069423?v=3</avatar_url>
+    <events_url>https://api.github.com/users/dvionnet/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/dvionnet/followers</followers_url>
+    <following_url>https://api.github.com/users/dvionnet/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/dvionnet/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/dvionnet</html_url>
+    <id>10069423</id>
+    <login>dvionnet</login>
+    <organizations_url>https://api.github.com/users/dvionnet/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/dvionnet/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/dvionnet/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/dvionnet/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/dvionnet/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/dvionnet</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/eraserewind/booter/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/eraserewind/booter/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/eraserewind/booter/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/eraserewind/booter/branches{/branch}",
+  "clone_url": "https://github.com/eraserewind/booter.git",
+  "collaborators_url": "https://api.github.com/repos/eraserewind/booter/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/eraserewind/booter/comments{/number}",
+  "commits_url": "https://api.github.com/repos/eraserewind/booter/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/eraserewind/booter/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/eraserewind/booter/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/eraserewind/booter/contributors",
+  "created_at": "2014-01-27T15:41:42Z",
+  "default_branch": "master",
+  "description": "Boot an Elixir application step by step (inspired by RabbitMQ)",
+  "downloads_url": "https://api.github.com/repos/eraserewind/booter/downloads",
+  "events_url": "https://api.github.com/repos/eraserewind/booter/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/eraserewind/booter/forks",
+  "full_name": "eraserewind/booter",
+  "git_commits_url": "https://api.github.com/repos/eraserewind/booter/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/eraserewind/booter/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/eraserewind/booter/git/tags{/sha}",
+  "git_url": "git://github.com/eraserewind/booter.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": false,
+  "homepage": "http://eraserewind.github.io/booter",
+  "hooks_url": "https://api.github.com/repos/eraserewind/booter/hooks",
+  "html_url": "https://github.com/eraserewind/booter",
+  "id": 16283373,
+  "issue_comment_url": "https://api.github.com/repos/eraserewind/booter/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/eraserewind/booter/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/eraserewind/booter/issues{/number}",
+  "keys_url": "https://api.github.com/repos/eraserewind/booter/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/eraserewind/booter/labels{/name}",
+  "language": "Elixir",
+  "languages_url": "https://api.github.com/repos/eraserewind/booter/languages",
+  "merges_url": "https://api.github.com/repos/eraserewind/booter/merges",
+  "milestones_url": "https://api.github.com/repos/eraserewind/booter/milestones{/number}",
+  "mirror_url": null,
+  "name": "booter",
+  "notifications_url": "https://api.github.com/repos/eraserewind/booter/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1089486?v=3",
+    "events_url": "https://api.github.com/users/eraserewind/events{/privacy}",
+    "followers_url": "https://api.github.com/users/eraserewind/followers",
+    "following_url": "https://api.github.com/users/eraserewind/following{/other_user}",
+    "gists_url": "https://api.github.com/users/eraserewind/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/eraserewind",
+    "id": 1089486,
+    "login": "eraserewind",
+    "organizations_url": "https://api.github.com/users/eraserewind/orgs",
+    "received_events_url": "https://api.github.com/users/eraserewind/received_events",
+    "repos_url": "https://api.github.com/users/eraserewind/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/eraserewind/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/eraserewind/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/eraserewind"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/eraserewind/booter/pulls{/number}",
+  "pushed_at": "2014-12-11T15:22:44Z",
+  "releases_url": "https://api.github.com/repos/eraserewind/booter/releases{/id}",
+  "size": 284,
+  "ssh_url": "git@github.com:eraserewind/booter.git",
+  "stargazers_count": 4,
+  "stargazers_url": "https://api.github.com/repos/eraserewind/booter/stargazers",
+  "statuses_url": "https://api.github.com/repos/eraserewind/booter/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/eraserewind/booter/subscribers",
+  "subscription_url": "https://api.github.com/repos/eraserewind/booter/subscription",
+  "svn_url": "https://github.com/eraserewind/booter",
+  "tags_url": "https://api.github.com/repos/eraserewind/booter/tags",
+  "teams_url": "https://api.github.com/repos/eraserewind/booter/teams",
+  "trees_url": "https://api.github.com/repos/eraserewind/booter/git/trees{/sha}",
+  "updated_at": "2014-12-11T12:56:59Z",
+  "url": "https://api.github.com/repos/eraserewind/booter",
+  "watchers": 4,
+  "watchers_count": 4
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/dvionnet/booter/pulls{/number}</pulls_url>
+  <pushed_at>12/11/2014 7:58:39 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/dvionnet/booter/releases{/id}</releases_url>
+  <size>146</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/eraserewind/booter/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/eraserewind/booter/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/eraserewind/booter/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/eraserewind/booter/branches{/branch}",
+  "clone_url": "https://github.com/eraserewind/booter.git",
+  "collaborators_url": "https://api.github.com/repos/eraserewind/booter/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/eraserewind/booter/comments{/number}",
+  "commits_url": "https://api.github.com/repos/eraserewind/booter/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/eraserewind/booter/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/eraserewind/booter/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/eraserewind/booter/contributors",
+  "created_at": "2014-01-27T15:41:42Z",
+  "default_branch": "master",
+  "description": "Boot an Elixir application step by step (inspired by RabbitMQ)",
+  "downloads_url": "https://api.github.com/repos/eraserewind/booter/downloads",
+  "events_url": "https://api.github.com/repos/eraserewind/booter/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/eraserewind/booter/forks",
+  "full_name": "eraserewind/booter",
+  "git_commits_url": "https://api.github.com/repos/eraserewind/booter/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/eraserewind/booter/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/eraserewind/booter/git/tags{/sha}",
+  "git_url": "git://github.com/eraserewind/booter.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": false,
+  "homepage": "http://eraserewind.github.io/booter",
+  "hooks_url": "https://api.github.com/repos/eraserewind/booter/hooks",
+  "html_url": "https://github.com/eraserewind/booter",
+  "id": 16283373,
+  "issue_comment_url": "https://api.github.com/repos/eraserewind/booter/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/eraserewind/booter/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/eraserewind/booter/issues{/number}",
+  "keys_url": "https://api.github.com/repos/eraserewind/booter/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/eraserewind/booter/labels{/name}",
+  "language": "Elixir",
+  "languages_url": "https://api.github.com/repos/eraserewind/booter/languages",
+  "merges_url": "https://api.github.com/repos/eraserewind/booter/merges",
+  "milestones_url": "https://api.github.com/repos/eraserewind/booter/milestones{/number}",
+  "mirror_url": null,
+  "name": "booter",
+  "notifications_url": "https://api.github.com/repos/eraserewind/booter/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1089486?v=3",
+    "events_url": "https://api.github.com/users/eraserewind/events{/privacy}",
+    "followers_url": "https://api.github.com/users/eraserewind/followers",
+    "following_url": "https://api.github.com/users/eraserewind/following{/other_user}",
+    "gists_url": "https://api.github.com/users/eraserewind/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/eraserewind",
+    "id": 1089486,
+    "login": "eraserewind",
+    "organizations_url": "https://api.github.com/users/eraserewind/orgs",
+    "received_events_url": "https://api.github.com/users/eraserewind/received_events",
+    "repos_url": "https://api.github.com/users/eraserewind/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/eraserewind/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/eraserewind/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/eraserewind"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/eraserewind/booter/pulls{/number}",
+  "pushed_at": "2014-12-11T15:22:44Z",
+  "releases_url": "https://api.github.com/repos/eraserewind/booter/releases{/id}",
+  "size": 284,
+  "ssh_url": "git@github.com:eraserewind/booter.git",
+  "stargazers_count": 4,
+  "stargazers_url": "https://api.github.com/repos/eraserewind/booter/stargazers",
+  "statuses_url": "https://api.github.com/repos/eraserewind/booter/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/eraserewind/booter/subscribers",
+  "subscription_url": "https://api.github.com/repos/eraserewind/booter/subscription",
+  "svn_url": "https://github.com/eraserewind/booter",
+  "tags_url": "https://api.github.com/repos/eraserewind/booter/tags",
+  "teams_url": "https://api.github.com/repos/eraserewind/booter/teams",
+  "trees_url": "https://api.github.com/repos/eraserewind/booter/git/trees{/sha}",
+  "updated_at": "2014-12-11T12:56:59Z",
+  "url": "https://api.github.com/repos/eraserewind/booter",
+  "watchers": 4,
+  "watchers_count": 4
+}</source>
+  <ssh_url>git@github.com:dvionnet/booter.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/dvionnet/booter/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/dvionnet/booter/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/dvionnet/booter/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/dvionnet/booter/subscription</subscription_url>
+  <svn_url>https://github.com/dvionnet/booter</svn_url>
+  <tags_url>https://api.github.com/repos/dvionnet/booter/tags</tags_url>
+  <teams_url>https://api.github.com/repos/dvionnet/booter/teams</teams_url>
+  <trees_url>https://api.github.com/repos/dvionnet/booter/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 7:08:11 AM</updated_at>
+  <url>https://api.github.com/repos/dvionnet/booter</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a9873bd3543189d0032d3</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/khalaan/pslp/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/khalaan/pslp/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/khalaan/pslp/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/khalaan/pslp/branches{/branch}</branches_url>
+  <clone_url>https://github.com/khalaan/pslp.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/khalaan/pslp/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/khalaan/pslp/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/khalaan/pslp/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/khalaan/pslp/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/khalaan/pslp/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/khalaan/pslp/contributors</contributors_url>
+  <created_at>12/9/2014 12:30:59 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Power Source Locale Plugin</description>
+  <downloads_url>https://api.github.com/repos/khalaan/pslp/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/khalaan/pslp/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/khalaan/pslp/forks</forks_url>
+  <full_name>khalaan/pslp</full_name>
+  <git_commits_url>https://api.github.com/repos/khalaan/pslp/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/khalaan/pslp/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/khalaan/pslp/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/khalaan/pslp.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://chris.boyle.name/projects/pslp</homepage>
+  <hooks_url>https://api.github.com/repos/khalaan/pslp/hooks</hooks_url>
+  <html_url>https://github.com/khalaan/pslp</html_url>
+  <id>27742044</id>
+  <issue_comment_url>https://api.github.com/repos/khalaan/pslp/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/khalaan/pslp/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/khalaan/pslp/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/khalaan/pslp/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/khalaan/pslp/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/khalaan/pslp/languages</languages_url>
+  <merges_url>https://api.github.com/repos/khalaan/pslp/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/khalaan/pslp/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>pslp</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/khalaan/pslp/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/391345?v=3</avatar_url>
+    <events_url>https://api.github.com/users/khalaan/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/khalaan/followers</followers_url>
+    <following_url>https://api.github.com/users/khalaan/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/khalaan/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/khalaan</html_url>
+    <id>391345</id>
+    <login>khalaan</login>
+    <organizations_url>https://api.github.com/users/khalaan/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/khalaan/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/khalaan/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/khalaan/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/khalaan/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/khalaan</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/chrisboyle/pslp/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/chrisboyle/pslp/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/chrisboyle/pslp/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/chrisboyle/pslp/branches{/branch}",
+  "clone_url": "https://github.com/chrisboyle/pslp.git",
+  "collaborators_url": "https://api.github.com/repos/chrisboyle/pslp/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/chrisboyle/pslp/comments{/number}",
+  "commits_url": "https://api.github.com/repos/chrisboyle/pslp/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/chrisboyle/pslp/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/chrisboyle/pslp/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/chrisboyle/pslp/contributors",
+  "created_at": "2010-03-19T19:49:14Z",
+  "default_branch": "master",
+  "description": "Power Source Locale Plugin",
+  "downloads_url": "https://api.github.com/repos/chrisboyle/pslp/downloads",
+  "events_url": "https://api.github.com/repos/chrisboyle/pslp/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/chrisboyle/pslp/forks",
+  "full_name": "chrisboyle/pslp",
+  "git_commits_url": "https://api.github.com/repos/chrisboyle/pslp/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/chrisboyle/pslp/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/chrisboyle/pslp/git/tags{/sha}",
+  "git_url": "git://github.com/chrisboyle/pslp.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://chris.boyle.name/projects/pslp",
+  "hooks_url": "https://api.github.com/repos/chrisboyle/pslp/hooks",
+  "html_url": "https://github.com/chrisboyle/pslp",
+  "id": 570429,
+  "issue_comment_url": "https://api.github.com/repos/chrisboyle/pslp/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/chrisboyle/pslp/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/chrisboyle/pslp/issues{/number}",
+  "keys_url": "https://api.github.com/repos/chrisboyle/pslp/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/chrisboyle/pslp/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/chrisboyle/pslp/languages",
+  "merges_url": "https://api.github.com/repos/chrisboyle/pslp/merges",
+  "milestones_url": "https://api.github.com/repos/chrisboyle/pslp/milestones{/number}",
+  "mirror_url": null,
+  "name": "pslp",
+  "notifications_url": "https://api.github.com/repos/chrisboyle/pslp/notifications{?since,all,participating}",
+  "open_issues": 4,
+  "open_issues_count": 4,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/127305?v=3",
+    "events_url": "https://api.github.com/users/chrisboyle/events{/privacy}",
+    "followers_url": "https://api.github.com/users/chrisboyle/followers",
+    "following_url": "https://api.github.com/users/chrisboyle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/chrisboyle/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/chrisboyle",
+    "id": 127305,
+    "login": "chrisboyle",
+    "organizations_url": "https://api.github.com/users/chrisboyle/orgs",
+    "received_events_url": "https://api.github.com/users/chrisboyle/received_events",
+    "repos_url": "https://api.github.com/users/chrisboyle/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/chrisboyle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/chrisboyle/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/chrisboyle"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/chrisboyle/pslp/pulls{/number}",
+  "pushed_at": "2010-07-31T23:08:00Z",
+  "releases_url": "https://api.github.com/repos/chrisboyle/pslp/releases{/id}",
+  "size": 116,
+  "ssh_url": "git@github.com:chrisboyle/pslp.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/chrisboyle/pslp/stargazers",
+  "statuses_url": "https://api.github.com/repos/chrisboyle/pslp/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/chrisboyle/pslp/subscribers",
+  "subscription_url": "https://api.github.com/repos/chrisboyle/pslp/subscription",
+  "svn_url": "https://github.com/chrisboyle/pslp",
+  "tags_url": "https://api.github.com/repos/chrisboyle/pslp/tags",
+  "teams_url": "https://api.github.com/repos/chrisboyle/pslp/teams",
+  "trees_url": "https://api.github.com/repos/chrisboyle/pslp/git/trees{/sha}",
+  "updated_at": "2014-04-29T22:44:19Z",
+  "url": "https://api.github.com/repos/chrisboyle/pslp",
+  "watchers": 2,
+  "watchers_count": 2
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/khalaan/pslp/pulls{/number}</pulls_url>
+  <pushed_at>12/11/2014 3:45:18 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/khalaan/pslp/releases{/id}</releases_url>
+  <size>118</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/chrisboyle/pslp/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/chrisboyle/pslp/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/chrisboyle/pslp/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/chrisboyle/pslp/branches{/branch}",
+  "clone_url": "https://github.com/chrisboyle/pslp.git",
+  "collaborators_url": "https://api.github.com/repos/chrisboyle/pslp/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/chrisboyle/pslp/comments{/number}",
+  "commits_url": "https://api.github.com/repos/chrisboyle/pslp/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/chrisboyle/pslp/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/chrisboyle/pslp/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/chrisboyle/pslp/contributors",
+  "created_at": "2010-03-19T19:49:14Z",
+  "default_branch": "master",
+  "description": "Power Source Locale Plugin",
+  "downloads_url": "https://api.github.com/repos/chrisboyle/pslp/downloads",
+  "events_url": "https://api.github.com/repos/chrisboyle/pslp/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/chrisboyle/pslp/forks",
+  "full_name": "chrisboyle/pslp",
+  "git_commits_url": "https://api.github.com/repos/chrisboyle/pslp/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/chrisboyle/pslp/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/chrisboyle/pslp/git/tags{/sha}",
+  "git_url": "git://github.com/chrisboyle/pslp.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://chris.boyle.name/projects/pslp",
+  "hooks_url": "https://api.github.com/repos/chrisboyle/pslp/hooks",
+  "html_url": "https://github.com/chrisboyle/pslp",
+  "id": 570429,
+  "issue_comment_url": "https://api.github.com/repos/chrisboyle/pslp/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/chrisboyle/pslp/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/chrisboyle/pslp/issues{/number}",
+  "keys_url": "https://api.github.com/repos/chrisboyle/pslp/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/chrisboyle/pslp/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/chrisboyle/pslp/languages",
+  "merges_url": "https://api.github.com/repos/chrisboyle/pslp/merges",
+  "milestones_url": "https://api.github.com/repos/chrisboyle/pslp/milestones{/number}",
+  "mirror_url": null,
+  "name": "pslp",
+  "notifications_url": "https://api.github.com/repos/chrisboyle/pslp/notifications{?since,all,participating}",
+  "open_issues": 4,
+  "open_issues_count": 4,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/127305?v=3",
+    "events_url": "https://api.github.com/users/chrisboyle/events{/privacy}",
+    "followers_url": "https://api.github.com/users/chrisboyle/followers",
+    "following_url": "https://api.github.com/users/chrisboyle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/chrisboyle/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/chrisboyle",
+    "id": 127305,
+    "login": "chrisboyle",
+    "organizations_url": "https://api.github.com/users/chrisboyle/orgs",
+    "received_events_url": "https://api.github.com/users/chrisboyle/received_events",
+    "repos_url": "https://api.github.com/users/chrisboyle/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/chrisboyle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/chrisboyle/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/chrisboyle"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/chrisboyle/pslp/pulls{/number}",
+  "pushed_at": "2010-07-31T23:08:00Z",
+  "releases_url": "https://api.github.com/repos/chrisboyle/pslp/releases{/id}",
+  "size": 116,
+  "ssh_url": "git@github.com:chrisboyle/pslp.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/chrisboyle/pslp/stargazers",
+  "statuses_url": "https://api.github.com/repos/chrisboyle/pslp/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/chrisboyle/pslp/subscribers",
+  "subscription_url": "https://api.github.com/repos/chrisboyle/pslp/subscription",
+  "svn_url": "https://github.com/chrisboyle/pslp",
+  "tags_url": "https://api.github.com/repos/chrisboyle/pslp/tags",
+  "teams_url": "https://api.github.com/repos/chrisboyle/pslp/teams",
+  "trees_url": "https://api.github.com/repos/chrisboyle/pslp/git/trees{/sha}",
+  "updated_at": "2014-04-29T22:44:19Z",
+  "url": "https://api.github.com/repos/chrisboyle/pslp",
+  "watchers": 2,
+  "watchers_count": 2
+}</source>
+  <ssh_url>git@github.com:khalaan/pslp.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/khalaan/pslp/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/khalaan/pslp/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/khalaan/pslp/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/khalaan/pslp/subscription</subscription_url>
+  <svn_url>https://github.com/khalaan/pslp</svn_url>
+  <tags_url>https://api.github.com/repos/khalaan/pslp/tags</tags_url>
+  <teams_url>https://api.github.com/repos/khalaan/pslp/teams</teams_url>
+  <trees_url>https://api.github.com/repos/khalaan/pslp/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 3:45:18 AM</updated_at>
+  <url>https://api.github.com/repos/khalaan/pslp</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d8dd6bd3543174b014af1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/branches{/branch}</branches_url>
+  <clone_url>https://github.com/polymer-rocks/codelab-polymer.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/contributors</contributors_url>
+  <created_at>11/29/2014 1:29:07 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>
+  </description>
+  <downloads_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/forks</forks_url>
+  <full_name>polymer-rocks/codelab-polymer</full_name>
+  <git_commits_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/polymer-rocks/codelab-polymer.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/hooks</hooks_url>
+  <html_url>https://github.com/polymer-rocks/codelab-polymer</html_url>
+  <id>27287785</id>
+  <issue_comment_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/labels{/name}</labels_url>
+  <language>CSS</language>
+  <languages_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/languages</languages_url>
+  <merges_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>codelab-polymer</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/9733160?v=3",
+  "events_url": "https://api.github.com/users/polymer-rocks/events{/privacy}",
+  "followers_url": "https://api.github.com/users/polymer-rocks/followers",
+  "following_url": "https://api.github.com/users/polymer-rocks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/polymer-rocks/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/polymer-rocks",
+  "id": 9733160,
+  "login": "polymer-rocks",
+  "organizations_url": "https://api.github.com/users/polymer-rocks/orgs",
+  "received_events_url": "https://api.github.com/users/polymer-rocks/received_events",
+  "repos_url": "https://api.github.com/users/polymer-rocks/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/polymer-rocks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/polymer-rocks/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/polymer-rocks"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9733160?v=3</avatar_url>
+    <events_url>https://api.github.com/users/polymer-rocks/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/polymer-rocks/followers</followers_url>
+    <following_url>https://api.github.com/users/polymer-rocks/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/polymer-rocks/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/polymer-rocks</html_url>
+    <id>9733160</id>
+    <login>polymer-rocks</login>
+    <organizations_url>https://api.github.com/users/polymer-rocks/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/polymer-rocks/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/polymer-rocks/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/polymer-rocks/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/polymer-rocks/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/polymer-rocks</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/pulls{/number}</pulls_url>
+  <pushed_at>12/7/2014 11:55:18 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/releases{/id}</releases_url>
+  <size>540</size>
+  <ssh_url>git@github.com:polymer-rocks/codelab-polymer.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/subscription</subscription_url>
+  <svn_url>https://github.com/polymer-rocks/codelab-polymer</svn_url>
+  <tags_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/tags</tags_url>
+  <teams_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/teams</teams_url>
+  <trees_url>https://api.github.com/repos/polymer-rocks/codelab-polymer/git/trees{/sha}</trees_url>
+  <updated_at>12/7/2014 11:41:30 PM</updated_at>
+  <url>https://api.github.com/repos/polymer-rocks/codelab-polymer</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

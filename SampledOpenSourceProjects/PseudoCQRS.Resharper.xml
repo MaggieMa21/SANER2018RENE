@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d7e9dbd354319e7013efe</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/branches{/branch}</branches_url>
+  <clone_url>https://github.com/LiquidThinking/PseudoCQRS.Resharper.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/contributors</contributors_url>
+  <created_at>11/28/2014 11:57:02 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Resharper shortcuts to work with PseudoCQRS</description>
+  <downloads_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/forks</forks_url>
+  <full_name>LiquidThinking/PseudoCQRS.Resharper</full_name>
+  <git_commits_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/LiquidThinking/PseudoCQRS.Resharper.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/hooks</hooks_url>
+  <html_url>https://github.com/LiquidThinking/PseudoCQRS.Resharper</html_url>
+  <id>27265176</id>
+  <issue_comment_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/labels{/name}</labels_url>
+  <language>C#</language>
+  <languages_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/languages</languages_url>
+  <merges_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>PseudoCQRS.Resharper</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/5612717?v=3",
+  "events_url": "https://api.github.com/users/LiquidThinking/events{/privacy}",
+  "followers_url": "https://api.github.com/users/LiquidThinking/followers",
+  "following_url": "https://api.github.com/users/LiquidThinking/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LiquidThinking/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/LiquidThinking",
+  "id": 5612717,
+  "login": "LiquidThinking",
+  "organizations_url": "https://api.github.com/users/LiquidThinking/orgs",
+  "received_events_url": "https://api.github.com/users/LiquidThinking/received_events",
+  "repos_url": "https://api.github.com/users/LiquidThinking/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/LiquidThinking/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LiquidThinking/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/LiquidThinking"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/5612717?v=3</avatar_url>
+    <events_url>https://api.github.com/users/LiquidThinking/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/LiquidThinking/followers</followers_url>
+    <following_url>https://api.github.com/users/LiquidThinking/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/LiquidThinking/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/LiquidThinking</html_url>
+    <id>5612717</id>
+    <login>LiquidThinking</login>
+    <organizations_url>https://api.github.com/users/LiquidThinking/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/LiquidThinking/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/LiquidThinking/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/LiquidThinking/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/LiquidThinking/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/LiquidThinking</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/pulls{/number}</pulls_url>
+  <pushed_at>11/28/2014 1:15:41 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/releases{/id}</releases_url>
+  <size>136</size>
+  <ssh_url>git@github.com:LiquidThinking/PseudoCQRS.Resharper.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/statuses/{sha}</statuses_url>
+  <subscribers_count>3</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/subscription</subscription_url>
+  <svn_url>https://github.com/LiquidThinking/PseudoCQRS.Resharper</svn_url>
+  <tags_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/tags</tags_url>
+  <teams_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/teams</teams_url>
+  <trees_url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper/git/trees{/sha}</trees_url>
+  <updated_at>11/28/2014 1:15:41 PM</updated_at>
+  <url>https://api.github.com/repos/LiquidThinking/PseudoCQRS.Resharper</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

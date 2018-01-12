@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548ce3d1bd35430a0c00dc37</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/branches{/branch}</branches_url>
+  <clone_url>https://github.com/madeby-nicolaslopezj/elevate.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/contributors</contributors_url>
+  <created_at>11/23/2014 10:36:19 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>
+  </description>
+  <downloads_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/forks</forks_url>
+  <full_name>madeby-nicolaslopezj/elevate</full_name>
+  <git_commits_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/madeby-nicolaslopezj/elevate.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/hooks</hooks_url>
+  <html_url>https://github.com/madeby-nicolaslopezj/elevate</html_url>
+  <id>27050750</id>
+  <issue_comment_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/labels{/name}</labels_url>
+  <language>CSS</language>
+  <languages_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/languages</languages_url>
+  <merges_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>elevate</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/9659652?v=3",
+  "events_url": "https://api.github.com/users/madeby-nicolaslopezj/events{/privacy}",
+  "followers_url": "https://api.github.com/users/madeby-nicolaslopezj/followers",
+  "following_url": "https://api.github.com/users/madeby-nicolaslopezj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/madeby-nicolaslopezj/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/madeby-nicolaslopezj",
+  "id": 9659652,
+  "login": "madeby-nicolaslopezj",
+  "organizations_url": "https://api.github.com/users/madeby-nicolaslopezj/orgs",
+  "received_events_url": "https://api.github.com/users/madeby-nicolaslopezj/received_events",
+  "repos_url": "https://api.github.com/users/madeby-nicolaslopezj/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/madeby-nicolaslopezj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/madeby-nicolaslopezj/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/madeby-nicolaslopezj"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9659652?v=3</avatar_url>
+    <events_url>https://api.github.com/users/madeby-nicolaslopezj/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/madeby-nicolaslopezj/followers</followers_url>
+    <following_url>https://api.github.com/users/madeby-nicolaslopezj/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/madeby-nicolaslopezj/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/madeby-nicolaslopezj</html_url>
+    <id>9659652</id>
+    <login>madeby-nicolaslopezj</login>
+    <organizations_url>https://api.github.com/users/madeby-nicolaslopezj/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/madeby-nicolaslopezj/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/madeby-nicolaslopezj/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/madeby-nicolaslopezj/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/madeby-nicolaslopezj/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/madeby-nicolaslopezj</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/pulls{/number}</pulls_url>
+  <pushed_at>12/3/2014 5:49:53 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/releases{/id}</releases_url>
+  <size>26692</size>
+  <ssh_url>git@github.com:madeby-nicolaslopezj/elevate.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/subscription</subscription_url>
+  <svn_url>https://github.com/madeby-nicolaslopezj/elevate</svn_url>
+  <tags_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/tags</tags_url>
+  <teams_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/teams</teams_url>
+  <trees_url>https://api.github.com/repos/madeby-nicolaslopezj/elevate/git/trees{/sha}</trees_url>
+  <updated_at>12/3/2014 5:49:53 AM</updated_at>
+  <url>https://api.github.com/repos/madeby-nicolaslopezj/elevate</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

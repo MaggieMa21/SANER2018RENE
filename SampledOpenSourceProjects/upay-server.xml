@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548da0b3bd35431927014d31</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/muccc/upay-server/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/muccc/upay-server/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/muccc/upay-server/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/muccc/upay-server/branches{/branch}</branches_url>
+  <clone_url>https://github.com/muccc/upay-server.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/muccc/upay-server/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/muccc/upay-server/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/muccc/upay-server/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/muccc/upay-server/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/muccc/upay-server/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/muccc/upay-server/contributors</contributors_url>
+  <created_at>11/29/2014 8:50:23 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Token Authority Server for upay</description>
+  <downloads_url>https://api.github.com/repos/muccc/upay-server/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/muccc/upay-server/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/muccc/upay-server/forks</forks_url>
+  <full_name>muccc/upay-server</full_name>
+  <git_commits_url>https://api.github.com/repos/muccc/upay-server/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/muccc/upay-server/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/muccc/upay-server/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/muccc/upay-server.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/muccc/upay-server/hooks</hooks_url>
+  <html_url>https://github.com/muccc/upay-server</html_url>
+  <id>27314646</id>
+  <issue_comment_url>https://api.github.com/repos/muccc/upay-server/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/muccc/upay-server/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/muccc/upay-server/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/muccc/upay-server/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/muccc/upay-server/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/muccc/upay-server/languages</languages_url>
+  <merges_url>https://api.github.com/repos/muccc/upay-server/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/muccc/upay-server/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>upay-server</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/muccc/upay-server/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/372291?v=3",
+  "events_url": "https://api.github.com/users/muccc/events{/privacy}",
+  "followers_url": "https://api.github.com/users/muccc/followers",
+  "following_url": "https://api.github.com/users/muccc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/muccc/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/muccc",
+  "id": 372291,
+  "login": "muccc",
+  "organizations_url": "https://api.github.com/users/muccc/orgs",
+  "received_events_url": "https://api.github.com/users/muccc/received_events",
+  "repos_url": "https://api.github.com/users/muccc/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/muccc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/muccc/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/muccc"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/372291?v=3</avatar_url>
+    <events_url>https://api.github.com/users/muccc/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/muccc/followers</followers_url>
+    <following_url>https://api.github.com/users/muccc/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/muccc/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/muccc</html_url>
+    <id>372291</id>
+    <login>muccc</login>
+    <organizations_url>https://api.github.com/users/muccc/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/muccc/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/muccc/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/muccc/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/muccc/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/muccc</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/muccc/upay-server/pulls{/number}</pulls_url>
+  <pushed_at>11/30/2014 5:02:34 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/muccc/upay-server/releases{/id}</releases_url>
+  <size>272</size>
+  <ssh_url>git@github.com:muccc/upay-server.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/muccc/upay-server/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/muccc/upay-server/statuses/{sha}</statuses_url>
+  <subscribers_count>33</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/muccc/upay-server/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/muccc/upay-server/subscription</subscription_url>
+  <svn_url>https://github.com/muccc/upay-server</svn_url>
+  <tags_url>https://api.github.com/repos/muccc/upay-server/tags</tags_url>
+  <teams_url>https://api.github.com/repos/muccc/upay-server/teams</teams_url>
+  <trees_url>https://api.github.com/repos/muccc/upay-server/git/trees{/sha}</trees_url>
+  <updated_at>11/30/2014 5:02:35 PM</updated_at>
+  <url>https://api.github.com/repos/muccc/upay-server</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

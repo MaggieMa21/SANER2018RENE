@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a9822bd3543092d0034f3</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/branches{/branch}</branches_url>
+  <clone_url>https://github.com/opscode-cookbooks/chef-server-image.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/contributors</contributors_url>
+  <created_at>12/12/2014 7:24:06 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Cookbook to create deployable images of a Chef Server.</description>
+  <downloads_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/forks</forks_url>
+  <full_name>opscode-cookbooks/chef-server-image</full_name>
+  <git_commits_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/opscode-cookbooks/chef-server-image.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/hooks</hooks_url>
+  <html_url>https://github.com/opscode-cookbooks/chef-server-image</html_url>
+  <id>27910036</id>
+  <issue_comment_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/labels{/name}</labels_url>
+  <language>
+  </language>
+  <languages_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/languages</languages_url>
+  <merges_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>chef-server-image</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/1537126?v=3",
+  "events_url": "https://api.github.com/users/opscode-cookbooks/events{/privacy}",
+  "followers_url": "https://api.github.com/users/opscode-cookbooks/followers",
+  "following_url": "https://api.github.com/users/opscode-cookbooks/following{/other_user}",
+  "gists_url": "https://api.github.com/users/opscode-cookbooks/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/opscode-cookbooks",
+  "id": 1537126,
+  "login": "opscode-cookbooks",
+  "organizations_url": "https://api.github.com/users/opscode-cookbooks/orgs",
+  "received_events_url": "https://api.github.com/users/opscode-cookbooks/received_events",
+  "repos_url": "https://api.github.com/users/opscode-cookbooks/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/opscode-cookbooks/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/opscode-cookbooks/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/opscode-cookbooks"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1537126?v=3</avatar_url>
+    <events_url>https://api.github.com/users/opscode-cookbooks/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/opscode-cookbooks/followers</followers_url>
+    <following_url>https://api.github.com/users/opscode-cookbooks/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/opscode-cookbooks/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/opscode-cookbooks</html_url>
+    <id>1537126</id>
+    <login>opscode-cookbooks</login>
+    <organizations_url>https://api.github.com/users/opscode-cookbooks/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/opscode-cookbooks/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/opscode-cookbooks/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/opscode-cookbooks/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/opscode-cookbooks/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/opscode-cookbooks</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/pulls{/number}</pulls_url>
+  <pushed_at>12/12/2014 7:24:07 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/releases{/id}</releases_url>
+  <size>0</size>
+  <ssh_url>git@github.com:opscode-cookbooks/chef-server-image.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/statuses/{sha}</statuses_url>
+  <subscribers_count>21</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/subscription</subscription_url>
+  <svn_url>https://github.com/opscode-cookbooks/chef-server-image</svn_url>
+  <tags_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/tags</tags_url>
+  <teams_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/teams</teams_url>
+  <trees_url>https://api.github.com/repos/opscode-cookbooks/chef-server-image/git/trees{/sha}</trees_url>
+  <updated_at>12/12/2014 7:24:06 AM</updated_at>
+  <url>https://api.github.com/repos/opscode-cookbooks/chef-server-image</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

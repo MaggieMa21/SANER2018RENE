@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a255cbd3543189d00158a</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/pki-io/build/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/pki-io/build/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/pki-io/build/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/pki-io/build/branches{/branch}</branches_url>
+  <clone_url>https://github.com/pki-io/build.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/pki-io/build/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/pki-io/build/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/pki-io/build/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/pki-io/build/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/pki-io/build/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/pki-io/build/contributors</contributors_url>
+  <created_at>12/11/2014 11:14:26 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Build environment</description>
+  <downloads_url>https://api.github.com/repos/pki-io/build/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/pki-io/build/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/pki-io/build/forks</forks_url>
+  <full_name>pki-io/build</full_name>
+  <git_commits_url>https://api.github.com/repos/pki-io/build/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/pki-io/build/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/pki-io/build/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/pki-io/build.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/pki-io/build/hooks</hooks_url>
+  <html_url>https://github.com/pki-io/build</html_url>
+  <id>27896492</id>
+  <issue_comment_url>https://api.github.com/repos/pki-io/build/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/pki-io/build/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/pki-io/build/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/pki-io/build/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/pki-io/build/labels{/name}</labels_url>
+  <language>
+  </language>
+  <languages_url>https://api.github.com/repos/pki-io/build/languages</languages_url>
+  <merges_url>https://api.github.com/repos/pki-io/build/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/pki-io/build/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>build</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/pki-io/build/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/7575178?v=3",
+  "events_url": "https://api.github.com/users/pki-io/events{/privacy}",
+  "followers_url": "https://api.github.com/users/pki-io/followers",
+  "following_url": "https://api.github.com/users/pki-io/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pki-io/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/pki-io",
+  "id": 7575178,
+  "login": "pki-io",
+  "organizations_url": "https://api.github.com/users/pki-io/orgs",
+  "received_events_url": "https://api.github.com/users/pki-io/received_events",
+  "repos_url": "https://api.github.com/users/pki-io/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/pki-io/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pki-io/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/pki-io"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/7575178?v=3</avatar_url>
+    <events_url>https://api.github.com/users/pki-io/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/pki-io/followers</followers_url>
+    <following_url>https://api.github.com/users/pki-io/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/pki-io/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/pki-io</html_url>
+    <id>7575178</id>
+    <login>pki-io</login>
+    <organizations_url>https://api.github.com/users/pki-io/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/pki-io/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/pki-io/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/pki-io/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/pki-io/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/pki-io</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/pki-io/build/pulls{/number}</pulls_url>
+  <pushed_at>12/11/2014 11:14:26 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/pki-io/build/releases{/id}</releases_url>
+  <size>0</size>
+  <ssh_url>git@github.com:pki-io/build.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/pki-io/build/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/pki-io/build/statuses/{sha}</statuses_url>
+  <subscribers_count>6</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/pki-io/build/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/pki-io/build/subscription</subscription_url>
+  <svn_url>https://github.com/pki-io/build</svn_url>
+  <tags_url>https://api.github.com/repos/pki-io/build/tags</tags_url>
+  <teams_url>https://api.github.com/repos/pki-io/build/teams</teams_url>
+  <trees_url>https://api.github.com/repos/pki-io/build/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 11:14:26 PM</updated_at>
+  <url>https://api.github.com/repos/pki-io/build</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

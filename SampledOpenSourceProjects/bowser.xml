@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548aa1ccbd354317b000356c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/apismontana/bowser/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/apismontana/bowser/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/apismontana/bowser/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/apismontana/bowser/branches{/branch}</branches_url>
+  <clone_url>https://github.com/apismontana/bowser.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/apismontana/bowser/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/apismontana/bowser/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/apismontana/bowser/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/apismontana/bowser/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/apismontana/bowser/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/apismontana/bowser/contributors</contributors_url>
+  <created_at>12/12/2014 8:05:23 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>A WebRTC browser for iOS developed in the open</description>
+  <downloads_url>https://api.github.com/repos/apismontana/bowser/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/apismontana/bowser/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/apismontana/bowser/forks</forks_url>
+  <full_name>apismontana/bowser</full_name>
+  <git_commits_url>https://api.github.com/repos/apismontana/bowser/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/apismontana/bowser/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/apismontana/bowser/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/apismontana/bowser.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/apismontana/bowser/hooks</hooks_url>
+  <html_url>https://github.com/apismontana/bowser</html_url>
+  <id>27911268</id>
+  <issue_comment_url>https://api.github.com/repos/apismontana/bowser/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/apismontana/bowser/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/apismontana/bowser/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/apismontana/bowser/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/apismontana/bowser/labels{/name}</labels_url>
+  <language>Objective-C</language>
+  <languages_url>https://api.github.com/repos/apismontana/bowser/languages</languages_url>
+  <merges_url>https://api.github.com/repos/apismontana/bowser/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/apismontana/bowser/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>bowser</name>
+  <network_count>14</network_count>
+  <notifications_url>https://api.github.com/repos/apismontana/bowser/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/8329122?v=3</avatar_url>
+    <events_url>https://api.github.com/users/apismontana/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/apismontana/followers</followers_url>
+    <following_url>https://api.github.com/users/apismontana/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/apismontana/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/apismontana</html_url>
+    <id>8329122</id>
+    <login>apismontana</login>
+    <organizations_url>https://api.github.com/users/apismontana/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/apismontana/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/apismontana/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/apismontana/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/apismontana/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/apismontana</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/EricssonResearch/bowser/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/EricssonResearch/bowser/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/EricssonResearch/bowser/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/EricssonResearch/bowser/branches{/branch}",
+  "clone_url": "https://github.com/EricssonResearch/bowser.git",
+  "collaborators_url": "https://api.github.com/repos/EricssonResearch/bowser/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/EricssonResearch/bowser/comments{/number}",
+  "commits_url": "https://api.github.com/repos/EricssonResearch/bowser/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/EricssonResearch/bowser/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/EricssonResearch/bowser/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/EricssonResearch/bowser/contributors",
+  "created_at": "2014-09-22T12:08:23Z",
+  "default_branch": "master",
+  "description": "A WebRTC browser for iOS developed in the open",
+  "downloads_url": "https://api.github.com/repos/EricssonResearch/bowser/downloads",
+  "events_url": "https://api.github.com/repos/EricssonResearch/bowser/events",
+  "fork": false,
+  "forks": 14,
+  "forks_count": 14,
+  "forks_url": "https://api.github.com/repos/EricssonResearch/bowser/forks",
+  "full_name": "EricssonResearch/bowser",
+  "git_commits_url": "https://api.github.com/repos/EricssonResearch/bowser/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/EricssonResearch/bowser/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/EricssonResearch/bowser/git/tags{/sha}",
+  "git_url": "git://github.com/EricssonResearch/bowser.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/EricssonResearch/bowser/hooks",
+  "html_url": "https://github.com/EricssonResearch/bowser",
+  "id": 24327025,
+  "issue_comment_url": "https://api.github.com/repos/EricssonResearch/bowser/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/EricssonResearch/bowser/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/EricssonResearch/bowser/issues{/number}",
+  "keys_url": "https://api.github.com/repos/EricssonResearch/bowser/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/EricssonResearch/bowser/labels{/name}",
+  "language": "Objective-C",
+  "languages_url": "https://api.github.com/repos/EricssonResearch/bowser/languages",
+  "merges_url": "https://api.github.com/repos/EricssonResearch/bowser/merges",
+  "milestones_url": "https://api.github.com/repos/EricssonResearch/bowser/milestones{/number}",
+  "mirror_url": null,
+  "name": "bowser",
+  "notifications_url": "https://api.github.com/repos/EricssonResearch/bowser/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/611464?v=3",
+    "events_url": "https://api.github.com/users/EricssonResearch/events{/privacy}",
+    "followers_url": "https://api.github.com/users/EricssonResearch/followers",
+    "following_url": "https://api.github.com/users/EricssonResearch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/EricssonResearch/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/EricssonResearch",
+    "id": 611464,
+    "login": "EricssonResearch",
+    "organizations_url": "https://api.github.com/users/EricssonResearch/orgs",
+    "received_events_url": "https://api.github.com/users/EricssonResearch/received_events",
+    "repos_url": "https://api.github.com/users/EricssonResearch/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/EricssonResearch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/EricssonResearch/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/EricssonResearch"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/EricssonResearch/bowser/pulls{/number}",
+  "pushed_at": "2014-11-22T18:37:39Z",
+  "releases_url": "https://api.github.com/repos/EricssonResearch/bowser/releases{/id}",
+  "size": 867,
+  "ssh_url": "git@github.com:EricssonResearch/bowser.git",
+  "stargazers_count": 63,
+  "stargazers_url": "https://api.github.com/repos/EricssonResearch/bowser/stargazers",
+  "statuses_url": "https://api.github.com/repos/EricssonResearch/bowser/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/EricssonResearch/bowser/subscribers",
+  "subscription_url": "https://api.github.com/repos/EricssonResearch/bowser/subscription",
+  "svn_url": "https://github.com/EricssonResearch/bowser",
+  "tags_url": "https://api.github.com/repos/EricssonResearch/bowser/tags",
+  "teams_url": "https://api.github.com/repos/EricssonResearch/bowser/teams",
+  "trees_url": "https://api.github.com/repos/EricssonResearch/bowser/git/trees{/sha}",
+  "updated_at": "2014-12-04T22:19:17Z",
+  "url": "https://api.github.com/repos/EricssonResearch/bowser",
+  "watchers": 63,
+  "watchers_count": 63
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/apismontana/bowser/pulls{/number}</pulls_url>
+  <pushed_at>11/22/2014 6:37:39 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/apismontana/bowser/releases{/id}</releases_url>
+  <size>867</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/EricssonResearch/bowser/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/EricssonResearch/bowser/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/EricssonResearch/bowser/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/EricssonResearch/bowser/branches{/branch}",
+  "clone_url": "https://github.com/EricssonResearch/bowser.git",
+  "collaborators_url": "https://api.github.com/repos/EricssonResearch/bowser/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/EricssonResearch/bowser/comments{/number}",
+  "commits_url": "https://api.github.com/repos/EricssonResearch/bowser/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/EricssonResearch/bowser/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/EricssonResearch/bowser/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/EricssonResearch/bowser/contributors",
+  "created_at": "2014-09-22T12:08:23Z",
+  "default_branch": "master",
+  "description": "A WebRTC browser for iOS developed in the open",
+  "downloads_url": "https://api.github.com/repos/EricssonResearch/bowser/downloads",
+  "events_url": "https://api.github.com/repos/EricssonResearch/bowser/events",
+  "fork": false,
+  "forks": 14,
+  "forks_count": 14,
+  "forks_url": "https://api.github.com/repos/EricssonResearch/bowser/forks",
+  "full_name": "EricssonResearch/bowser",
+  "git_commits_url": "https://api.github.com/repos/EricssonResearch/bowser/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/EricssonResearch/bowser/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/EricssonResearch/bowser/git/tags{/sha}",
+  "git_url": "git://github.com/EricssonResearch/bowser.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/EricssonResearch/bowser/hooks",
+  "html_url": "https://github.com/EricssonResearch/bowser",
+  "id": 24327025,
+  "issue_comment_url": "https://api.github.com/repos/EricssonResearch/bowser/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/EricssonResearch/bowser/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/EricssonResearch/bowser/issues{/number}",
+  "keys_url": "https://api.github.com/repos/EricssonResearch/bowser/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/EricssonResearch/bowser/labels{/name}",
+  "language": "Objective-C",
+  "languages_url": "https://api.github.com/repos/EricssonResearch/bowser/languages",
+  "merges_url": "https://api.github.com/repos/EricssonResearch/bowser/merges",
+  "milestones_url": "https://api.github.com/repos/EricssonResearch/bowser/milestones{/number}",
+  "mirror_url": null,
+  "name": "bowser",
+  "notifications_url": "https://api.github.com/repos/EricssonResearch/bowser/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/611464?v=3",
+    "events_url": "https://api.github.com/users/EricssonResearch/events{/privacy}",
+    "followers_url": "https://api.github.com/users/EricssonResearch/followers",
+    "following_url": "https://api.github.com/users/EricssonResearch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/EricssonResearch/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/EricssonResearch",
+    "id": 611464,
+    "login": "EricssonResearch",
+    "organizations_url": "https://api.github.com/users/EricssonResearch/orgs",
+    "received_events_url": "https://api.github.com/users/EricssonResearch/received_events",
+    "repos_url": "https://api.github.com/users/EricssonResearch/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/EricssonResearch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/EricssonResearch/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/EricssonResearch"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/EricssonResearch/bowser/pulls{/number}",
+  "pushed_at": "2014-11-22T18:37:39Z",
+  "releases_url": "https://api.github.com/repos/EricssonResearch/bowser/releases{/id}",
+  "size": 867,
+  "ssh_url": "git@github.com:EricssonResearch/bowser.git",
+  "stargazers_count": 63,
+  "stargazers_url": "https://api.github.com/repos/EricssonResearch/bowser/stargazers",
+  "statuses_url": "https://api.github.com/repos/EricssonResearch/bowser/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/EricssonResearch/bowser/subscribers",
+  "subscription_url": "https://api.github.com/repos/EricssonResearch/bowser/subscription",
+  "svn_url": "https://github.com/EricssonResearch/bowser",
+  "tags_url": "https://api.github.com/repos/EricssonResearch/bowser/tags",
+  "teams_url": "https://api.github.com/repos/EricssonResearch/bowser/teams",
+  "trees_url": "https://api.github.com/repos/EricssonResearch/bowser/git/trees{/sha}",
+  "updated_at": "2014-12-04T22:19:17Z",
+  "url": "https://api.github.com/repos/EricssonResearch/bowser",
+  "watchers": 63,
+  "watchers_count": 63
+}</source>
+  <ssh_url>git@github.com:apismontana/bowser.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/apismontana/bowser/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/apismontana/bowser/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/apismontana/bowser/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/apismontana/bowser/subscription</subscription_url>
+  <svn_url>https://github.com/apismontana/bowser</svn_url>
+  <tags_url>https://api.github.com/repos/apismontana/bowser/tags</tags_url>
+  <teams_url>https://api.github.com/repos/apismontana/bowser/teams</teams_url>
+  <trees_url>https://api.github.com/repos/apismontana/bowser/git/trees{/sha}</trees_url>
+  <updated_at>12/12/2014 8:05:24 AM</updated_at>
+  <url>https://api.github.com/repos/apismontana/bowser</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

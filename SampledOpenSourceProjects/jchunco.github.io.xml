@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d4ce3bd354317d6011b4e</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/jchunco/jchunco.github.io/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/jchunco/jchunco.github.io/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/jchunco/jchunco.github.io/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/jchunco/jchunco.github.io/branches{/branch}</branches_url>
+  <clone_url>https://github.com/jchunco/jchunco.github.io.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/jchunco/jchunco.github.io/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/jchunco/jchunco.github.io/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/jchunco/jchunco.github.io/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/jchunco/jchunco.github.io/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/jchunco/jchunco.github.io/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/jchunco/jchunco.github.io/contributors</contributors_url>
+  <created_at>11/26/2014 9:46:12 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Build a Jekyll blog in minutes, without touching the command line.</description>
+  <downloads_url>https://api.github.com/repos/jchunco/jchunco.github.io/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/jchunco/jchunco.github.io/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/jchunco/jchunco.github.io/forks</forks_url>
+  <full_name>jchunco/jchunco.github.io</full_name>
+  <git_commits_url>https://api.github.com/repos/jchunco/jchunco.github.io/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/jchunco/jchunco.github.io/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/jchunco/jchunco.github.io/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/jchunco/jchunco.github.io.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/jchunco/jchunco.github.io/hooks</hooks_url>
+  <html_url>https://github.com/jchunco/jchunco.github.io</html_url>
+  <id>27197590</id>
+  <issue_comment_url>https://api.github.com/repos/jchunco/jchunco.github.io/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/jchunco/jchunco.github.io/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/jchunco/jchunco.github.io/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/jchunco/jchunco.github.io/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/jchunco/jchunco.github.io/labels{/name}</labels_url>
+  <language>CSS</language>
+  <languages_url>https://api.github.com/repos/jchunco/jchunco.github.io/languages</languages_url>
+  <merges_url>https://api.github.com/repos/jchunco/jchunco.github.io/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/jchunco/jchunco.github.io/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>jchunco.github.io</name>
+  <network_count>1965</network_count>
+  <notifications_url>https://api.github.com/repos/jchunco/jchunco.github.io/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9097235?v=3</avatar_url>
+    <events_url>https://api.github.com/users/jchunco/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/jchunco/followers</followers_url>
+    <following_url>https://api.github.com/users/jchunco/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/jchunco/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/jchunco</html_url>
+    <id>9097235</id>
+    <login>jchunco</login>
+    <organizations_url>https://api.github.com/users/jchunco/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/jchunco/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/jchunco/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/jchunco/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/jchunco/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/jchunco</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/barryclark/jekyll-now/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/barryclark/jekyll-now/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/barryclark/jekyll-now/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/barryclark/jekyll-now/branches{/branch}",
+  "clone_url": "https://github.com/barryclark/jekyll-now.git",
+  "collaborators_url": "https://api.github.com/repos/barryclark/jekyll-now/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/barryclark/jekyll-now/comments{/number}",
+  "commits_url": "https://api.github.com/repos/barryclark/jekyll-now/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/barryclark/jekyll-now/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/barryclark/jekyll-now/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/barryclark/jekyll-now/contributors",
+  "created_at": "2014-02-07T00:14:55Z",
+  "default_branch": "master",
+  "description": "Build a Jekyll blog in minutes, without touching the command line.",
+  "downloads_url": "https://api.github.com/repos/barryclark/jekyll-now/downloads",
+  "events_url": "https://api.github.com/repos/barryclark/jekyll-now/events",
+  "fork": false,
+  "forks": 1965,
+  "forks_count": 1965,
+  "forks_url": "https://api.github.com/repos/barryclark/jekyll-now/forks",
+  "full_name": "barryclark/jekyll-now",
+  "git_commits_url": "https://api.github.com/repos/barryclark/jekyll-now/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/barryclark/jekyll-now/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/barryclark/jekyll-now/git/tags{/sha}",
+  "git_url": "git://github.com/barryclark/jekyll-now.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/barryclark/jekyll-now/hooks",
+  "html_url": "https://github.com/barryclark/jekyll-now",
+  "id": 16599031,
+  "issue_comment_url": "https://api.github.com/repos/barryclark/jekyll-now/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/barryclark/jekyll-now/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/barryclark/jekyll-now/issues{/number}",
+  "keys_url": "https://api.github.com/repos/barryclark/jekyll-now/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/barryclark/jekyll-now/labels{/name}",
+  "language": "CSS",
+  "languages_url": "https://api.github.com/repos/barryclark/jekyll-now/languages",
+  "merges_url": "https://api.github.com/repos/barryclark/jekyll-now/merges",
+  "milestones_url": "https://api.github.com/repos/barryclark/jekyll-now/milestones{/number}",
+  "mirror_url": null,
+  "name": "jekyll-now",
+  "notifications_url": "https://api.github.com/repos/barryclark/jekyll-now/notifications{?since,all,participating}",
+  "open_issues": 8,
+  "open_issues_count": 8,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/692762?v=3",
+    "events_url": "https://api.github.com/users/barryclark/events{/privacy}",
+    "followers_url": "https://api.github.com/users/barryclark/followers",
+    "following_url": "https://api.github.com/users/barryclark/following{/other_user}",
+    "gists_url": "https://api.github.com/users/barryclark/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/barryclark",
+    "id": 692762,
+    "login": "barryclark",
+    "organizations_url": "https://api.github.com/users/barryclark/orgs",
+    "received_events_url": "https://api.github.com/users/barryclark/received_events",
+    "repos_url": "https://api.github.com/users/barryclark/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/barryclark/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/barryclark/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/barryclark"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/barryclark/jekyll-now/pulls{/number}",
+  "pushed_at": "2014-10-22T23:10:56Z",
+  "releases_url": "https://api.github.com/repos/barryclark/jekyll-now/releases{/id}",
+  "size": 10737,
+  "ssh_url": "git@github.com:barryclark/jekyll-now.git",
+  "stargazers_count": 705,
+  "stargazers_url": "https://api.github.com/repos/barryclark/jekyll-now/stargazers",
+  "statuses_url": "https://api.github.com/repos/barryclark/jekyll-now/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/barryclark/jekyll-now/subscribers",
+  "subscription_url": "https://api.github.com/repos/barryclark/jekyll-now/subscription",
+  "svn_url": "https://github.com/barryclark/jekyll-now",
+  "tags_url": "https://api.github.com/repos/barryclark/jekyll-now/tags",
+  "teams_url": "https://api.github.com/repos/barryclark/jekyll-now/teams",
+  "trees_url": "https://api.github.com/repos/barryclark/jekyll-now/git/trees{/sha}",
+  "updated_at": "2014-12-13T22:06:31Z",
+  "url": "https://api.github.com/repos/barryclark/jekyll-now",
+  "watchers": 705,
+  "watchers_count": 705
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/jchunco/jchunco.github.io/pulls{/number}</pulls_url>
+  <pushed_at>11/26/2014 10:34:58 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/jchunco/jchunco.github.io/releases{/id}</releases_url>
+  <size>7273</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/barryclark/jekyll-now/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/barryclark/jekyll-now/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/barryclark/jekyll-now/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/barryclark/jekyll-now/branches{/branch}",
+  "clone_url": "https://github.com/barryclark/jekyll-now.git",
+  "collaborators_url": "https://api.github.com/repos/barryclark/jekyll-now/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/barryclark/jekyll-now/comments{/number}",
+  "commits_url": "https://api.github.com/repos/barryclark/jekyll-now/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/barryclark/jekyll-now/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/barryclark/jekyll-now/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/barryclark/jekyll-now/contributors",
+  "created_at": "2014-02-07T00:14:55Z",
+  "default_branch": "master",
+  "description": "Build a Jekyll blog in minutes, without touching the command line.",
+  "downloads_url": "https://api.github.com/repos/barryclark/jekyll-now/downloads",
+  "events_url": "https://api.github.com/repos/barryclark/jekyll-now/events",
+  "fork": false,
+  "forks": 1965,
+  "forks_count": 1965,
+  "forks_url": "https://api.github.com/repos/barryclark/jekyll-now/forks",
+  "full_name": "barryclark/jekyll-now",
+  "git_commits_url": "https://api.github.com/repos/barryclark/jekyll-now/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/barryclark/jekyll-now/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/barryclark/jekyll-now/git/tags{/sha}",
+  "git_url": "git://github.com/barryclark/jekyll-now.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/barryclark/jekyll-now/hooks",
+  "html_url": "https://github.com/barryclark/jekyll-now",
+  "id": 16599031,
+  "issue_comment_url": "https://api.github.com/repos/barryclark/jekyll-now/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/barryclark/jekyll-now/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/barryclark/jekyll-now/issues{/number}",
+  "keys_url": "https://api.github.com/repos/barryclark/jekyll-now/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/barryclark/jekyll-now/labels{/name}",
+  "language": "CSS",
+  "languages_url": "https://api.github.com/repos/barryclark/jekyll-now/languages",
+  "merges_url": "https://api.github.com/repos/barryclark/jekyll-now/merges",
+  "milestones_url": "https://api.github.com/repos/barryclark/jekyll-now/milestones{/number}",
+  "mirror_url": null,
+  "name": "jekyll-now",
+  "notifications_url": "https://api.github.com/repos/barryclark/jekyll-now/notifications{?since,all,participating}",
+  "open_issues": 8,
+  "open_issues_count": 8,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/692762?v=3",
+    "events_url": "https://api.github.com/users/barryclark/events{/privacy}",
+    "followers_url": "https://api.github.com/users/barryclark/followers",
+    "following_url": "https://api.github.com/users/barryclark/following{/other_user}",
+    "gists_url": "https://api.github.com/users/barryclark/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/barryclark",
+    "id": 692762,
+    "login": "barryclark",
+    "organizations_url": "https://api.github.com/users/barryclark/orgs",
+    "received_events_url": "https://api.github.com/users/barryclark/received_events",
+    "repos_url": "https://api.github.com/users/barryclark/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/barryclark/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/barryclark/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/barryclark"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/barryclark/jekyll-now/pulls{/number}",
+  "pushed_at": "2014-10-22T23:10:56Z",
+  "releases_url": "https://api.github.com/repos/barryclark/jekyll-now/releases{/id}",
+  "size": 10737,
+  "ssh_url": "git@github.com:barryclark/jekyll-now.git",
+  "stargazers_count": 705,
+  "stargazers_url": "https://api.github.com/repos/barryclark/jekyll-now/stargazers",
+  "statuses_url": "https://api.github.com/repos/barryclark/jekyll-now/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/barryclark/jekyll-now/subscribers",
+  "subscription_url": "https://api.github.com/repos/barryclark/jekyll-now/subscription",
+  "svn_url": "https://github.com/barryclark/jekyll-now",
+  "tags_url": "https://api.github.com/repos/barryclark/jekyll-now/tags",
+  "teams_url": "https://api.github.com/repos/barryclark/jekyll-now/teams",
+  "trees_url": "https://api.github.com/repos/barryclark/jekyll-now/git/trees{/sha}",
+  "updated_at": "2014-12-13T22:06:31Z",
+  "url": "https://api.github.com/repos/barryclark/jekyll-now",
+  "watchers": 705,
+  "watchers_count": 705
+}</source>
+  <ssh_url>git@github.com:jchunco/jchunco.github.io.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/jchunco/jchunco.github.io/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/jchunco/jchunco.github.io/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/jchunco/jchunco.github.io/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/jchunco/jchunco.github.io/subscription</subscription_url>
+  <svn_url>https://github.com/jchunco/jchunco.github.io</svn_url>
+  <tags_url>https://api.github.com/repos/jchunco/jchunco.github.io/tags</tags_url>
+  <teams_url>https://api.github.com/repos/jchunco/jchunco.github.io/teams</teams_url>
+  <trees_url>https://api.github.com/repos/jchunco/jchunco.github.io/git/trees{/sha}</trees_url>
+  <updated_at>11/26/2014 10:34:58 PM</updated_at>
+  <url>https://api.github.com/repos/jchunco/jchunco.github.io</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

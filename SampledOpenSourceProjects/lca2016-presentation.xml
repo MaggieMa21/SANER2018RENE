@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a5924bd3543153c001dc8</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/dtbell91/lca2016-presentation/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/dtbell91/lca2016-presentation/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/dtbell91/lca2016-presentation/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/dtbell91/lca2016-presentation/branches{/branch}</branches_url>
+  <clone_url>https://github.com/dtbell91/lca2016-presentation.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/dtbell91/lca2016-presentation/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/dtbell91/lca2016-presentation/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/dtbell91/lca2016-presentation/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/dtbell91/lca2016-presentation/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/dtbell91/lca2016-presentation/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/dtbell91/lca2016-presentation/contributors</contributors_url>
+  <created_at>12/6/2014 9:37:46 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Impress.js-based presentation to introduce lca2016 in Auckland, January 2015</description>
+  <downloads_url>https://api.github.com/repos/dtbell91/lca2016-presentation/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/dtbell91/lca2016-presentation/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/dtbell91/lca2016-presentation/forks</forks_url>
+  <full_name>dtbell91/lca2016-presentation</full_name>
+  <git_commits_url>https://api.github.com/repos/dtbell91/lca2016-presentation/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/dtbell91/lca2016-presentation/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/dtbell91/lca2016-presentation/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/dtbell91/lca2016-presentation.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/dtbell91/lca2016-presentation/hooks</hooks_url>
+  <html_url>https://github.com/dtbell91/lca2016-presentation</html_url>
+  <id>27649948</id>
+  <issue_comment_url>https://api.github.com/repos/dtbell91/lca2016-presentation/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/dtbell91/lca2016-presentation/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/dtbell91/lca2016-presentation/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/dtbell91/lca2016-presentation/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/dtbell91/lca2016-presentation/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/dtbell91/lca2016-presentation/languages</languages_url>
+  <merges_url>https://api.github.com/repos/dtbell91/lca2016-presentation/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/dtbell91/lca2016-presentation/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>lca2016-presentation</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/dtbell91/lca2016-presentation/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/3462170?v=3</avatar_url>
+    <events_url>https://api.github.com/users/dtbell91/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/dtbell91/followers</followers_url>
+    <following_url>https://api.github.com/users/dtbell91/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/dtbell91/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/dtbell91</html_url>
+    <id>3462170</id>
+    <login>dtbell91</login>
+    <organizations_url>https://api.github.com/users/dtbell91/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/dtbell91/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/dtbell91/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/dtbell91/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/dtbell91/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/dtbell91</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/branches{/branch}",
+  "clone_url": "https://github.com/KathyReid/lca2016-presentation.git",
+  "collaborators_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/comments{/number}",
+  "commits_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/contributors",
+  "created_at": "2014-12-06T12:02:11Z",
+  "default_branch": "master",
+  "description": "Impress.js-based presentation to introduce lca2016 in Auckland, January 2015",
+  "downloads_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/downloads",
+  "events_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/forks",
+  "full_name": "KathyReid/lca2016-presentation",
+  "git_commits_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/tags{/sha}",
+  "git_url": "git://github.com/KathyReid/lca2016-presentation.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/hooks",
+  "html_url": "https://github.com/KathyReid/lca2016-presentation",
+  "id": 27632942,
+  "issue_comment_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/issues{/number}",
+  "keys_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/languages",
+  "merges_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/merges",
+  "milestones_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/milestones{/number}",
+  "mirror_url": null,
+  "name": "lca2016-presentation",
+  "notifications_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/114158?v=3",
+    "events_url": "https://api.github.com/users/KathyReid/events{/privacy}",
+    "followers_url": "https://api.github.com/users/KathyReid/followers",
+    "following_url": "https://api.github.com/users/KathyReid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KathyReid/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/KathyReid",
+    "id": 114158,
+    "login": "KathyReid",
+    "organizations_url": "https://api.github.com/users/KathyReid/orgs",
+    "received_events_url": "https://api.github.com/users/KathyReid/received_events",
+    "repos_url": "https://api.github.com/users/KathyReid/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/KathyReid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KathyReid/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/KathyReid"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/pulls{/number}",
+  "pushed_at": "2014-12-10T11:50:56Z",
+  "releases_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/releases{/id}",
+  "size": 0,
+  "ssh_url": "git@github.com:KathyReid/lca2016-presentation.git",
+  "stargazers_count": 0,
+  "stargazers_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/stargazers",
+  "statuses_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/subscribers",
+  "subscription_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/subscription",
+  "svn_url": "https://github.com/KathyReid/lca2016-presentation",
+  "tags_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/tags",
+  "teams_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/teams",
+  "trees_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/trees{/sha}",
+  "updated_at": "2014-12-10T11:50:56Z",
+  "url": "https://api.github.com/repos/KathyReid/lca2016-presentation",
+  "watchers": 0,
+  "watchers_count": 0
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/dtbell91/lca2016-presentation/pulls{/number}</pulls_url>
+  <pushed_at>12/9/2014 7:34:09 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/dtbell91/lca2016-presentation/releases{/id}</releases_url>
+  <size>0</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/branches{/branch}",
+  "clone_url": "https://github.com/KathyReid/lca2016-presentation.git",
+  "collaborators_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/comments{/number}",
+  "commits_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/contributors",
+  "created_at": "2014-12-06T12:02:11Z",
+  "default_branch": "master",
+  "description": "Impress.js-based presentation to introduce lca2016 in Auckland, January 2015",
+  "downloads_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/downloads",
+  "events_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/forks",
+  "full_name": "KathyReid/lca2016-presentation",
+  "git_commits_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/tags{/sha}",
+  "git_url": "git://github.com/KathyReid/lca2016-presentation.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/hooks",
+  "html_url": "https://github.com/KathyReid/lca2016-presentation",
+  "id": 27632942,
+  "issue_comment_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/issues{/number}",
+  "keys_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/languages",
+  "merges_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/merges",
+  "milestones_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/milestones{/number}",
+  "mirror_url": null,
+  "name": "lca2016-presentation",
+  "notifications_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/114158?v=3",
+    "events_url": "https://api.github.com/users/KathyReid/events{/privacy}",
+    "followers_url": "https://api.github.com/users/KathyReid/followers",
+    "following_url": "https://api.github.com/users/KathyReid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KathyReid/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/KathyReid",
+    "id": 114158,
+    "login": "KathyReid",
+    "organizations_url": "https://api.github.com/users/KathyReid/orgs",
+    "received_events_url": "https://api.github.com/users/KathyReid/received_events",
+    "repos_url": "https://api.github.com/users/KathyReid/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/KathyReid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KathyReid/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/KathyReid"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/pulls{/number}",
+  "pushed_at": "2014-12-10T11:50:56Z",
+  "releases_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/releases{/id}",
+  "size": 0,
+  "ssh_url": "git@github.com:KathyReid/lca2016-presentation.git",
+  "stargazers_count": 0,
+  "stargazers_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/stargazers",
+  "statuses_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/subscribers",
+  "subscription_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/subscription",
+  "svn_url": "https://github.com/KathyReid/lca2016-presentation",
+  "tags_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/tags",
+  "teams_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/teams",
+  "trees_url": "https://api.github.com/repos/KathyReid/lca2016-presentation/git/trees{/sha}",
+  "updated_at": "2014-12-10T11:50:56Z",
+  "url": "https://api.github.com/repos/KathyReid/lca2016-presentation",
+  "watchers": 0,
+  "watchers_count": 0
+}</source>
+  <ssh_url>git@github.com:dtbell91/lca2016-presentation.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/dtbell91/lca2016-presentation/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/dtbell91/lca2016-presentation/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/dtbell91/lca2016-presentation/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/dtbell91/lca2016-presentation/subscription</subscription_url>
+  <svn_url>https://github.com/dtbell91/lca2016-presentation</svn_url>
+  <tags_url>https://api.github.com/repos/dtbell91/lca2016-presentation/tags</tags_url>
+  <teams_url>https://api.github.com/repos/dtbell91/lca2016-presentation/teams</teams_url>
+  <trees_url>https://api.github.com/repos/dtbell91/lca2016-presentation/git/trees{/sha}</trees_url>
+  <updated_at>12/9/2014 7:34:09 AM</updated_at>
+  <url>https://api.github.com/repos/dtbell91/lca2016-presentation</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

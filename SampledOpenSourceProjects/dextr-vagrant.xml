@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547b482ebd354316c4004ef9</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/LinkValue/dextr-vagrant/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/LinkValue/dextr-vagrant/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/LinkValue/dextr-vagrant/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/LinkValue/dextr-vagrant/branches{/branch}</branches_url>
+  <clone_url>https://github.com/LinkValue/dextr-vagrant.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/LinkValue/dextr-vagrant/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/LinkValue/dextr-vagrant/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/LinkValue/dextr-vagrant/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/LinkValue/dextr-vagrant/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/LinkValue/dextr-vagrant/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/LinkValue/dextr-vagrant/contributors</contributors_url>
+  <created_at>11/30/2014 3:52:48 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Virtual Machine optimized to develop DextR project</description>
+  <downloads_url>https://api.github.com/repos/LinkValue/dextr-vagrant/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/LinkValue/dextr-vagrant/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/LinkValue/dextr-vagrant/forks</forks_url>
+  <full_name>LinkValue/dextr-vagrant</full_name>
+  <git_commits_url>https://api.github.com/repos/LinkValue/dextr-vagrant/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/LinkValue/dextr-vagrant/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/LinkValue/dextr-vagrant/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/LinkValue/dextr-vagrant.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/LinkValue/dextr-vagrant/hooks</hooks_url>
+  <html_url>https://github.com/LinkValue/dextr-vagrant</html_url>
+  <id>27340967</id>
+  <issue_comment_url>https://api.github.com/repos/LinkValue/dextr-vagrant/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/LinkValue/dextr-vagrant/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/LinkValue/dextr-vagrant/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/LinkValue/dextr-vagrant/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/LinkValue/dextr-vagrant/labels{/name}</labels_url>
+  <language>Ruby</language>
+  <languages_url>https://api.github.com/repos/LinkValue/dextr-vagrant/languages</languages_url>
+  <merges_url>https://api.github.com/repos/LinkValue/dextr-vagrant/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/LinkValue/dextr-vagrant/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>dextr-vagrant</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/LinkValue/dextr-vagrant/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/8301788?v=3",
+  "events_url": "https://api.github.com/users/LinkValue/events{/privacy}",
+  "followers_url": "https://api.github.com/users/LinkValue/followers",
+  "following_url": "https://api.github.com/users/LinkValue/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LinkValue/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/LinkValue",
+  "id": 8301788,
+  "login": "LinkValue",
+  "organizations_url": "https://api.github.com/users/LinkValue/orgs",
+  "received_events_url": "https://api.github.com/users/LinkValue/received_events",
+  "repos_url": "https://api.github.com/users/LinkValue/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/LinkValue/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LinkValue/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/LinkValue"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/8301788?v=3</avatar_url>
+    <events_url>https://api.github.com/users/LinkValue/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/LinkValue/followers</followers_url>
+    <following_url>https://api.github.com/users/LinkValue/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/LinkValue/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/LinkValue</html_url>
+    <id>8301788</id>
+    <login>LinkValue</login>
+    <organizations_url>https://api.github.com/users/LinkValue/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/LinkValue/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/LinkValue/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/LinkValue/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/LinkValue/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/LinkValue</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/LinkValue/dextr-vagrant/pulls{/number}</pulls_url>
+  <pushed_at>11/30/2014 3:53:57 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/LinkValue/dextr-vagrant/releases{/id}</releases_url>
+  <size>0</size>
+  <ssh_url>git@github.com:LinkValue/dextr-vagrant.git</ssh_url>
+  <stargazers_count>1</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/LinkValue/dextr-vagrant/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/LinkValue/dextr-vagrant/statuses/{sha}</statuses_url>
+  <subscribers_count>2</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/LinkValue/dextr-vagrant/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/LinkValue/dextr-vagrant/subscription</subscription_url>
+  <svn_url>https://github.com/LinkValue/dextr-vagrant</svn_url>
+  <tags_url>https://api.github.com/repos/LinkValue/dextr-vagrant/tags</tags_url>
+  <teams_url>https://api.github.com/repos/LinkValue/dextr-vagrant/teams</teams_url>
+  <trees_url>https://api.github.com/repos/LinkValue/dextr-vagrant/git/trees{/sha}</trees_url>
+  <updated_at>11/30/2014 4:39:00 PM</updated_at>
+  <url>https://api.github.com/repos/LinkValue/dextr-vagrant</url>
+  <watchers>1</watchers>
+  <watchers_count>1</watchers_count>
+</Properties>

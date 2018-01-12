@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547af21abd354316c4004053</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/branches{/branch}</branches_url>
+  <clone_url>https://github.com/danielepantaleone/big-brother-bot.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/contributors</contributors_url>
+  <created_at>11/3/2013 11:22:58 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.</description>
+  <downloads_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/forks</forks_url>
+  <full_name>danielepantaleone/big-brother-bot</full_name>
+  <git_commits_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/danielepantaleone/big-brother-bot.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://www.bigbrotherbot.net</homepage>
+  <hooks_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/hooks</hooks_url>
+  <html_url>https://github.com/danielepantaleone/big-brother-bot</html_url>
+  <id>14095847</id>
+  <issue_comment_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/languages</languages_url>
+  <merges_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>big-brother-bot</name>
+  <network_count>79</network_count>
+  <notifications_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1245124?v=3</avatar_url>
+    <events_url>https://api.github.com/users/danielepantaleone/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/danielepantaleone/followers</followers_url>
+    <following_url>https://api.github.com/users/danielepantaleone/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/danielepantaleone/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/danielepantaleone</html_url>
+    <id>1245124</id>
+    <login>danielepantaleone</login>
+    <organizations_url>https://api.github.com/users/danielepantaleone/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/danielepantaleone/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/danielepantaleone/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/danielepantaleone/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/danielepantaleone/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/danielepantaleone</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/branches{/branch}",
+  "clone_url": "https://github.com/BigBrotherBot/big-brother-bot.git",
+  "collaborators_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/comments{/number}",
+  "commits_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/contributors",
+  "created_at": "2008-12-23T06:51:28Z",
+  "default_branch": "master",
+  "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.",
+  "downloads_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/downloads",
+  "events_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/events",
+  "fork": false,
+  "forks": 79,
+  "forks_count": 79,
+  "forks_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/forks",
+  "full_name": "BigBrotherBot/big-brother-bot",
+  "git_commits_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/tags{/sha}",
+  "git_url": "git://github.com/BigBrotherBot/big-brother-bot.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://www.bigbrotherbot.net",
+  "hooks_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/hooks",
+  "html_url": "https://github.com/BigBrotherBot/big-brother-bot",
+  "id": 95712,
+  "issue_comment_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/issues{/number}",
+  "keys_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/languages",
+  "merges_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/merges",
+  "milestones_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/milestones{/number}",
+  "mirror_url": null,
+  "name": "big-brother-bot",
+  "notifications_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/42244?v=3",
+    "events_url": "https://api.github.com/users/BigBrotherBot/events{/privacy}",
+    "followers_url": "https://api.github.com/users/BigBrotherBot/followers",
+    "following_url": "https://api.github.com/users/BigBrotherBot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BigBrotherBot/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/BigBrotherBot",
+    "id": 42244,
+    "login": "BigBrotherBot",
+    "organizations_url": "https://api.github.com/users/BigBrotherBot/orgs",
+    "received_events_url": "https://api.github.com/users/BigBrotherBot/received_events",
+    "repos_url": "https://api.github.com/users/BigBrotherBot/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/BigBrotherBot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BigBrotherBot/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/BigBrotherBot"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/pulls{/number}",
+  "pushed_at": "2014-11-24T23:15:20Z",
+  "releases_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/releases{/id}",
+  "size": 21150,
+  "ssh_url": "git@github.com:BigBrotherBot/big-brother-bot.git",
+  "stargazers_count": 76,
+  "stargazers_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/stargazers",
+  "statuses_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/subscribers",
+  "subscription_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/subscription",
+  "svn_url": "https://github.com/BigBrotherBot/big-brother-bot",
+  "tags_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/tags",
+  "teams_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/teams",
+  "trees_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/trees{/sha}",
+  "updated_at": "2014-10-28T17:40:42Z",
+  "url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot",
+  "watchers": 76,
+  "watchers_count": 76
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/pulls{/number}</pulls_url>
+  <pushed_at>11/30/2014 10:26:54 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/releases{/id}</releases_url>
+  <size>15310</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/branches{/branch}",
+  "clone_url": "https://github.com/BigBrotherBot/big-brother-bot.git",
+  "collaborators_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/comments{/number}",
+  "commits_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/contributors",
+  "created_at": "2008-12-23T06:51:28Z",
+  "default_branch": "master",
+  "description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.",
+  "downloads_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/downloads",
+  "events_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/events",
+  "fork": false,
+  "forks": 79,
+  "forks_count": 79,
+  "forks_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/forks",
+  "full_name": "BigBrotherBot/big-brother-bot",
+  "git_commits_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/tags{/sha}",
+  "git_url": "git://github.com/BigBrotherBot/big-brother-bot.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://www.bigbrotherbot.net",
+  "hooks_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/hooks",
+  "html_url": "https://github.com/BigBrotherBot/big-brother-bot",
+  "id": 95712,
+  "issue_comment_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/issues{/number}",
+  "keys_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/languages",
+  "merges_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/merges",
+  "milestones_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/milestones{/number}",
+  "mirror_url": null,
+  "name": "big-brother-bot",
+  "notifications_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/42244?v=3",
+    "events_url": "https://api.github.com/users/BigBrotherBot/events{/privacy}",
+    "followers_url": "https://api.github.com/users/BigBrotherBot/followers",
+    "following_url": "https://api.github.com/users/BigBrotherBot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BigBrotherBot/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/BigBrotherBot",
+    "id": 42244,
+    "login": "BigBrotherBot",
+    "organizations_url": "https://api.github.com/users/BigBrotherBot/orgs",
+    "received_events_url": "https://api.github.com/users/BigBrotherBot/received_events",
+    "repos_url": "https://api.github.com/users/BigBrotherBot/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/BigBrotherBot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BigBrotherBot/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/BigBrotherBot"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/pulls{/number}",
+  "pushed_at": "2014-11-24T23:15:20Z",
+  "releases_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/releases{/id}",
+  "size": 21150,
+  "ssh_url": "git@github.com:BigBrotherBot/big-brother-bot.git",
+  "stargazers_count": 76,
+  "stargazers_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/stargazers",
+  "statuses_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/subscribers",
+  "subscription_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/subscription",
+  "svn_url": "https://github.com/BigBrotherBot/big-brother-bot",
+  "tags_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/tags",
+  "teams_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/teams",
+  "trees_url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot/git/trees{/sha}",
+  "updated_at": "2014-10-28T17:40:42Z",
+  "url": "https://api.github.com/repos/BigBrotherBot/big-brother-bot",
+  "watchers": 76,
+  "watchers_count": 76
+}</source>
+  <ssh_url>git@github.com:danielepantaleone/big-brother-bot.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/statuses/{sha}</statuses_url>
+  <subscribers_count>2</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/subscription</subscription_url>
+  <svn_url>https://github.com/danielepantaleone/big-brother-bot</svn_url>
+  <tags_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/tags</tags_url>
+  <teams_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/teams</teams_url>
+  <trees_url>https://api.github.com/repos/danielepantaleone/big-brother-bot/git/trees{/sha}</trees_url>
+  <updated_at>11/23/2014 3:48:22 PM</updated_at>
+  <url>https://api.github.com/repos/danielepantaleone/big-brother-bot</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

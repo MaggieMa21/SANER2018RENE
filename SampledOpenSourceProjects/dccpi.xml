@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d4becbd3543090e0119e7</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/robjcaskey/dccpi/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/robjcaskey/dccpi/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/robjcaskey/dccpi/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/robjcaskey/dccpi/branches{/branch}</branches_url>
+  <clone_url>https://github.com/robjcaskey/dccpi.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/robjcaskey/dccpi/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/robjcaskey/dccpi/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/robjcaskey/dccpi/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/robjcaskey/dccpi/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/robjcaskey/dccpi/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/robjcaskey/dccpi/contributors</contributors_url>
+  <created_at>11/26/2014 8:42:15 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>A simple, easy to use, NMRA Digital Command Control (DCC) Python implementation for Raspberry Pi</description>
+  <downloads_url>https://api.github.com/repos/robjcaskey/dccpi/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/robjcaskey/dccpi/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/robjcaskey/dccpi/forks</forks_url>
+  <full_name>robjcaskey/dccpi</full_name>
+  <git_commits_url>https://api.github.com/repos/robjcaskey/dccpi/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/robjcaskey/dccpi/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/robjcaskey/dccpi/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/robjcaskey/dccpi.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/robjcaskey/dccpi/hooks</hooks_url>
+  <html_url>https://github.com/robjcaskey/dccpi</html_url>
+  <id>27195343</id>
+  <issue_comment_url>https://api.github.com/repos/robjcaskey/dccpi/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/robjcaskey/dccpi/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/robjcaskey/dccpi/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/robjcaskey/dccpi/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/robjcaskey/dccpi/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/robjcaskey/dccpi/languages</languages_url>
+  <merges_url>https://api.github.com/repos/robjcaskey/dccpi/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/robjcaskey/dccpi/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>dccpi</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/robjcaskey/dccpi/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/590536?v=3</avatar_url>
+    <events_url>https://api.github.com/users/robjcaskey/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/robjcaskey/followers</followers_url>
+    <following_url>https://api.github.com/users/robjcaskey/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/robjcaskey/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/robjcaskey</html_url>
+    <id>590536</id>
+    <login>robjcaskey</login>
+    <organizations_url>https://api.github.com/users/robjcaskey/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/robjcaskey/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/robjcaskey/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/robjcaskey/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/robjcaskey/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/robjcaskey</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/hsanjuan/dccpi/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/hsanjuan/dccpi/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/hsanjuan/dccpi/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/hsanjuan/dccpi/branches{/branch}",
+  "clone_url": "https://github.com/hsanjuan/dccpi.git",
+  "collaborators_url": "https://api.github.com/repos/hsanjuan/dccpi/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/hsanjuan/dccpi/comments{/number}",
+  "commits_url": "https://api.github.com/repos/hsanjuan/dccpi/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/hsanjuan/dccpi/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/hsanjuan/dccpi/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/hsanjuan/dccpi/contributors",
+  "created_at": "2014-11-05T18:19:02Z",
+  "default_branch": "master",
+  "description": "A simple, easy to use, NMRA Digital Command Control (DCC) Python implementation for Raspberry Pi",
+  "downloads_url": "https://api.github.com/repos/hsanjuan/dccpi/downloads",
+  "events_url": "https://api.github.com/repos/hsanjuan/dccpi/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/hsanjuan/dccpi/forks",
+  "full_name": "hsanjuan/dccpi",
+  "git_commits_url": "https://api.github.com/repos/hsanjuan/dccpi/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/hsanjuan/dccpi/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/hsanjuan/dccpi/git/tags{/sha}",
+  "git_url": "git://github.com/hsanjuan/dccpi.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/hsanjuan/dccpi/hooks",
+  "html_url": "https://github.com/hsanjuan/dccpi",
+  "id": 26233002,
+  "issue_comment_url": "https://api.github.com/repos/hsanjuan/dccpi/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/hsanjuan/dccpi/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/hsanjuan/dccpi/issues{/number}",
+  "keys_url": "https://api.github.com/repos/hsanjuan/dccpi/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/hsanjuan/dccpi/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/hsanjuan/dccpi/languages",
+  "merges_url": "https://api.github.com/repos/hsanjuan/dccpi/merges",
+  "milestones_url": "https://api.github.com/repos/hsanjuan/dccpi/milestones{/number}",
+  "mirror_url": null,
+  "name": "dccpi",
+  "notifications_url": "https://api.github.com/repos/hsanjuan/dccpi/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1027022?v=3",
+    "events_url": "https://api.github.com/users/hsanjuan/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hsanjuan/followers",
+    "following_url": "https://api.github.com/users/hsanjuan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hsanjuan/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hsanjuan",
+    "id": 1027022,
+    "login": "hsanjuan",
+    "organizations_url": "https://api.github.com/users/hsanjuan/orgs",
+    "received_events_url": "https://api.github.com/users/hsanjuan/received_events",
+    "repos_url": "https://api.github.com/users/hsanjuan/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hsanjuan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hsanjuan/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hsanjuan"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/hsanjuan/dccpi/pulls{/number}",
+  "pushed_at": "2014-11-28T12:02:17Z",
+  "releases_url": "https://api.github.com/repos/hsanjuan/dccpi/releases{/id}",
+  "size": 502,
+  "ssh_url": "git@github.com:hsanjuan/dccpi.git",
+  "stargazers_count": 0,
+  "stargazers_url": "https://api.github.com/repos/hsanjuan/dccpi/stargazers",
+  "statuses_url": "https://api.github.com/repos/hsanjuan/dccpi/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/hsanjuan/dccpi/subscribers",
+  "subscription_url": "https://api.github.com/repos/hsanjuan/dccpi/subscription",
+  "svn_url": "https://github.com/hsanjuan/dccpi",
+  "tags_url": "https://api.github.com/repos/hsanjuan/dccpi/tags",
+  "teams_url": "https://api.github.com/repos/hsanjuan/dccpi/teams",
+  "trees_url": "https://api.github.com/repos/hsanjuan/dccpi/git/trees{/sha}",
+  "updated_at": "2014-11-28T12:02:17Z",
+  "url": "https://api.github.com/repos/hsanjuan/dccpi",
+  "watchers": 0,
+  "watchers_count": 0
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/robjcaskey/dccpi/pulls{/number}</pulls_url>
+  <pushed_at>12/14/2014 3:00:03 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/robjcaskey/dccpi/releases{/id}</releases_url>
+  <size>354</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/hsanjuan/dccpi/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/hsanjuan/dccpi/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/hsanjuan/dccpi/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/hsanjuan/dccpi/branches{/branch}",
+  "clone_url": "https://github.com/hsanjuan/dccpi.git",
+  "collaborators_url": "https://api.github.com/repos/hsanjuan/dccpi/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/hsanjuan/dccpi/comments{/number}",
+  "commits_url": "https://api.github.com/repos/hsanjuan/dccpi/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/hsanjuan/dccpi/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/hsanjuan/dccpi/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/hsanjuan/dccpi/contributors",
+  "created_at": "2014-11-05T18:19:02Z",
+  "default_branch": "master",
+  "description": "A simple, easy to use, NMRA Digital Command Control (DCC) Python implementation for Raspberry Pi",
+  "downloads_url": "https://api.github.com/repos/hsanjuan/dccpi/downloads",
+  "events_url": "https://api.github.com/repos/hsanjuan/dccpi/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/hsanjuan/dccpi/forks",
+  "full_name": "hsanjuan/dccpi",
+  "git_commits_url": "https://api.github.com/repos/hsanjuan/dccpi/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/hsanjuan/dccpi/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/hsanjuan/dccpi/git/tags{/sha}",
+  "git_url": "git://github.com/hsanjuan/dccpi.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/hsanjuan/dccpi/hooks",
+  "html_url": "https://github.com/hsanjuan/dccpi",
+  "id": 26233002,
+  "issue_comment_url": "https://api.github.com/repos/hsanjuan/dccpi/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/hsanjuan/dccpi/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/hsanjuan/dccpi/issues{/number}",
+  "keys_url": "https://api.github.com/repos/hsanjuan/dccpi/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/hsanjuan/dccpi/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/hsanjuan/dccpi/languages",
+  "merges_url": "https://api.github.com/repos/hsanjuan/dccpi/merges",
+  "milestones_url": "https://api.github.com/repos/hsanjuan/dccpi/milestones{/number}",
+  "mirror_url": null,
+  "name": "dccpi",
+  "notifications_url": "https://api.github.com/repos/hsanjuan/dccpi/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1027022?v=3",
+    "events_url": "https://api.github.com/users/hsanjuan/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hsanjuan/followers",
+    "following_url": "https://api.github.com/users/hsanjuan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hsanjuan/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hsanjuan",
+    "id": 1027022,
+    "login": "hsanjuan",
+    "organizations_url": "https://api.github.com/users/hsanjuan/orgs",
+    "received_events_url": "https://api.github.com/users/hsanjuan/received_events",
+    "repos_url": "https://api.github.com/users/hsanjuan/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hsanjuan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hsanjuan/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hsanjuan"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/hsanjuan/dccpi/pulls{/number}",
+  "pushed_at": "2014-11-28T12:02:17Z",
+  "releases_url": "https://api.github.com/repos/hsanjuan/dccpi/releases{/id}",
+  "size": 502,
+  "ssh_url": "git@github.com:hsanjuan/dccpi.git",
+  "stargazers_count": 0,
+  "stargazers_url": "https://api.github.com/repos/hsanjuan/dccpi/stargazers",
+  "statuses_url": "https://api.github.com/repos/hsanjuan/dccpi/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/hsanjuan/dccpi/subscribers",
+  "subscription_url": "https://api.github.com/repos/hsanjuan/dccpi/subscription",
+  "svn_url": "https://github.com/hsanjuan/dccpi",
+  "tags_url": "https://api.github.com/repos/hsanjuan/dccpi/tags",
+  "teams_url": "https://api.github.com/repos/hsanjuan/dccpi/teams",
+  "trees_url": "https://api.github.com/repos/hsanjuan/dccpi/git/trees{/sha}",
+  "updated_at": "2014-11-28T12:02:17Z",
+  "url": "https://api.github.com/repos/hsanjuan/dccpi",
+  "watchers": 0,
+  "watchers_count": 0
+}</source>
+  <ssh_url>git@github.com:robjcaskey/dccpi.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/robjcaskey/dccpi/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/robjcaskey/dccpi/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/robjcaskey/dccpi/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/robjcaskey/dccpi/subscription</subscription_url>
+  <svn_url>https://github.com/robjcaskey/dccpi</svn_url>
+  <tags_url>https://api.github.com/repos/robjcaskey/dccpi/tags</tags_url>
+  <teams_url>https://api.github.com/repos/robjcaskey/dccpi/teams</teams_url>
+  <trees_url>https://api.github.com/repos/robjcaskey/dccpi/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 3:00:04 AM</updated_at>
+  <url>https://api.github.com/repos/robjcaskey/dccpi</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

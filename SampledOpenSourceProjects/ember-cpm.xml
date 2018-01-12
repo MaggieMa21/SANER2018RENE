@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547ceaa8bd3543169e008119</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/GavinJoyce/ember-cpm/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/GavinJoyce/ember-cpm/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/GavinJoyce/ember-cpm/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/GavinJoyce/ember-cpm/branches{/branch}</branches_url>
+  <clone_url>https://github.com/GavinJoyce/ember-cpm.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/GavinJoyce/ember-cpm/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/GavinJoyce/ember-cpm/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/GavinJoyce/ember-cpm/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/GavinJoyce/ember-cpm/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/GavinJoyce/ember-cpm/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/GavinJoyce/ember-cpm/contributors</contributors_url>
+  <created_at>11/8/2014 11:40:55 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>ComputedProperty Macros for Ember</description>
+  <downloads_url>https://api.github.com/repos/GavinJoyce/ember-cpm/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/GavinJoyce/ember-cpm/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/GavinJoyce/ember-cpm/forks</forks_url>
+  <full_name>GavinJoyce/ember-cpm</full_name>
+  <git_commits_url>https://api.github.com/repos/GavinJoyce/ember-cpm/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/GavinJoyce/ember-cpm/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/GavinJoyce/ember-cpm/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/GavinJoyce/ember-cpm.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/GavinJoyce/ember-cpm/hooks</hooks_url>
+  <html_url>https://github.com/GavinJoyce/ember-cpm</html_url>
+  <id>26358751</id>
+  <issue_comment_url>https://api.github.com/repos/GavinJoyce/ember-cpm/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/GavinJoyce/ember-cpm/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/GavinJoyce/ember-cpm/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/GavinJoyce/ember-cpm/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/GavinJoyce/ember-cpm/labels{/name}</labels_url>
+  <language>
+  </language>
+  <languages_url>https://api.github.com/repos/GavinJoyce/ember-cpm/languages</languages_url>
+  <merges_url>https://api.github.com/repos/GavinJoyce/ember-cpm/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/GavinJoyce/ember-cpm/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>ember-cpm</name>
+  <network_count>17</network_count>
+  <notifications_url>https://api.github.com/repos/GavinJoyce/ember-cpm/notifications{?since,all,participating}</notifications_url>
+  <open_issues>1</open_issues>
+  <open_issues_count>1</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/2526?v=3</avatar_url>
+    <events_url>https://api.github.com/users/GavinJoyce/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/GavinJoyce/followers</followers_url>
+    <following_url>https://api.github.com/users/GavinJoyce/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/GavinJoyce/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/GavinJoyce</html_url>
+    <id>2526</id>
+    <login>GavinJoyce</login>
+    <organizations_url>https://api.github.com/users/GavinJoyce/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/GavinJoyce/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/GavinJoyce/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/GavinJoyce/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/GavinJoyce/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/GavinJoyce</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/cibernox/ember-cpm/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/cibernox/ember-cpm/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/cibernox/ember-cpm/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/cibernox/ember-cpm/branches{/branch}",
+  "clone_url": "https://github.com/cibernox/ember-cpm.git",
+  "collaborators_url": "https://api.github.com/repos/cibernox/ember-cpm/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/cibernox/ember-cpm/comments{/number}",
+  "commits_url": "https://api.github.com/repos/cibernox/ember-cpm/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/cibernox/ember-cpm/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/cibernox/ember-cpm/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/cibernox/ember-cpm/contributors",
+  "created_at": "2013-06-20T02:25:03Z",
+  "default_branch": "master",
+  "description": "ComputedProperty Macros for Ember",
+  "downloads_url": "https://api.github.com/repos/cibernox/ember-cpm/downloads",
+  "events_url": "https://api.github.com/repos/cibernox/ember-cpm/events",
+  "fork": false,
+  "forks": 17,
+  "forks_count": 17,
+  "forks_url": "https://api.github.com/repos/cibernox/ember-cpm/forks",
+  "full_name": "cibernox/ember-cpm",
+  "git_commits_url": "https://api.github.com/repos/cibernox/ember-cpm/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/cibernox/ember-cpm/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/cibernox/ember-cpm/git/tags{/sha}",
+  "git_url": "git://github.com/cibernox/ember-cpm.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/cibernox/ember-cpm/hooks",
+  "html_url": "https://github.com/cibernox/ember-cpm",
+  "id": 10810592,
+  "issue_comment_url": "https://api.github.com/repos/cibernox/ember-cpm/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/cibernox/ember-cpm/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/cibernox/ember-cpm/issues{/number}",
+  "keys_url": "https://api.github.com/repos/cibernox/ember-cpm/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/cibernox/ember-cpm/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/cibernox/ember-cpm/languages",
+  "merges_url": "https://api.github.com/repos/cibernox/ember-cpm/merges",
+  "milestones_url": "https://api.github.com/repos/cibernox/ember-cpm/milestones{/number}",
+  "mirror_url": null,
+  "name": "ember-cpm",
+  "notifications_url": "https://api.github.com/repos/cibernox/ember-cpm/notifications{?since,all,participating}",
+  "open_issues": 6,
+  "open_issues_count": 6,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/265339?v=3",
+    "events_url": "https://api.github.com/users/cibernox/events{/privacy}",
+    "followers_url": "https://api.github.com/users/cibernox/followers",
+    "following_url": "https://api.github.com/users/cibernox/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cibernox/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/cibernox",
+    "id": 265339,
+    "login": "cibernox",
+    "organizations_url": "https://api.github.com/users/cibernox/orgs",
+    "received_events_url": "https://api.github.com/users/cibernox/received_events",
+    "repos_url": "https://api.github.com/users/cibernox/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/cibernox/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cibernox/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/cibernox"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/cibernox/ember-cpm/pulls{/number}",
+  "pushed_at": "2014-12-01T19:42:46Z",
+  "releases_url": "https://api.github.com/repos/cibernox/ember-cpm/releases{/id}",
+  "size": 2669,
+  "ssh_url": "git@github.com:cibernox/ember-cpm.git",
+  "stargazers_count": 150,
+  "stargazers_url": "https://api.github.com/repos/cibernox/ember-cpm/stargazers",
+  "statuses_url": "https://api.github.com/repos/cibernox/ember-cpm/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/cibernox/ember-cpm/subscribers",
+  "subscription_url": "https://api.github.com/repos/cibernox/ember-cpm/subscription",
+  "svn_url": "https://github.com/cibernox/ember-cpm",
+  "tags_url": "https://api.github.com/repos/cibernox/ember-cpm/tags",
+  "teams_url": "https://api.github.com/repos/cibernox/ember-cpm/teams",
+  "trees_url": "https://api.github.com/repos/cibernox/ember-cpm/git/trees{/sha}",
+  "updated_at": "2014-12-01T19:42:46Z",
+  "url": "https://api.github.com/repos/cibernox/ember-cpm",
+  "watchers": 150,
+  "watchers_count": 150
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/GavinJoyce/ember-cpm/pulls{/number}</pulls_url>
+  <pushed_at>11/9/2014 10:05:39 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/GavinJoyce/ember-cpm/releases{/id}</releases_url>
+  <size>741</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/cibernox/ember-cpm/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/cibernox/ember-cpm/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/cibernox/ember-cpm/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/cibernox/ember-cpm/branches{/branch}",
+  "clone_url": "https://github.com/cibernox/ember-cpm.git",
+  "collaborators_url": "https://api.github.com/repos/cibernox/ember-cpm/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/cibernox/ember-cpm/comments{/number}",
+  "commits_url": "https://api.github.com/repos/cibernox/ember-cpm/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/cibernox/ember-cpm/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/cibernox/ember-cpm/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/cibernox/ember-cpm/contributors",
+  "created_at": "2013-06-20T02:25:03Z",
+  "default_branch": "master",
+  "description": "ComputedProperty Macros for Ember",
+  "downloads_url": "https://api.github.com/repos/cibernox/ember-cpm/downloads",
+  "events_url": "https://api.github.com/repos/cibernox/ember-cpm/events",
+  "fork": false,
+  "forks": 17,
+  "forks_count": 17,
+  "forks_url": "https://api.github.com/repos/cibernox/ember-cpm/forks",
+  "full_name": "cibernox/ember-cpm",
+  "git_commits_url": "https://api.github.com/repos/cibernox/ember-cpm/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/cibernox/ember-cpm/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/cibernox/ember-cpm/git/tags{/sha}",
+  "git_url": "git://github.com/cibernox/ember-cpm.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/cibernox/ember-cpm/hooks",
+  "html_url": "https://github.com/cibernox/ember-cpm",
+  "id": 10810592,
+  "issue_comment_url": "https://api.github.com/repos/cibernox/ember-cpm/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/cibernox/ember-cpm/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/cibernox/ember-cpm/issues{/number}",
+  "keys_url": "https://api.github.com/repos/cibernox/ember-cpm/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/cibernox/ember-cpm/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/cibernox/ember-cpm/languages",
+  "merges_url": "https://api.github.com/repos/cibernox/ember-cpm/merges",
+  "milestones_url": "https://api.github.com/repos/cibernox/ember-cpm/milestones{/number}",
+  "mirror_url": null,
+  "name": "ember-cpm",
+  "notifications_url": "https://api.github.com/repos/cibernox/ember-cpm/notifications{?since,all,participating}",
+  "open_issues": 6,
+  "open_issues_count": 6,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/265339?v=3",
+    "events_url": "https://api.github.com/users/cibernox/events{/privacy}",
+    "followers_url": "https://api.github.com/users/cibernox/followers",
+    "following_url": "https://api.github.com/users/cibernox/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cibernox/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/cibernox",
+    "id": 265339,
+    "login": "cibernox",
+    "organizations_url": "https://api.github.com/users/cibernox/orgs",
+    "received_events_url": "https://api.github.com/users/cibernox/received_events",
+    "repos_url": "https://api.github.com/users/cibernox/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/cibernox/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cibernox/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/cibernox"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/cibernox/ember-cpm/pulls{/number}",
+  "pushed_at": "2014-12-01T19:42:46Z",
+  "releases_url": "https://api.github.com/repos/cibernox/ember-cpm/releases{/id}",
+  "size": 2669,
+  "ssh_url": "git@github.com:cibernox/ember-cpm.git",
+  "stargazers_count": 150,
+  "stargazers_url": "https://api.github.com/repos/cibernox/ember-cpm/stargazers",
+  "statuses_url": "https://api.github.com/repos/cibernox/ember-cpm/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/cibernox/ember-cpm/subscribers",
+  "subscription_url": "https://api.github.com/repos/cibernox/ember-cpm/subscription",
+  "svn_url": "https://github.com/cibernox/ember-cpm",
+  "tags_url": "https://api.github.com/repos/cibernox/ember-cpm/tags",
+  "teams_url": "https://api.github.com/repos/cibernox/ember-cpm/teams",
+  "trees_url": "https://api.github.com/repos/cibernox/ember-cpm/git/trees{/sha}",
+  "updated_at": "2014-12-01T19:42:46Z",
+  "url": "https://api.github.com/repos/cibernox/ember-cpm",
+  "watchers": 150,
+  "watchers_count": 150
+}</source>
+  <ssh_url>git@github.com:GavinJoyce/ember-cpm.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/GavinJoyce/ember-cpm/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/GavinJoyce/ember-cpm/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/GavinJoyce/ember-cpm/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/GavinJoyce/ember-cpm/subscription</subscription_url>
+  <svn_url>https://github.com/GavinJoyce/ember-cpm</svn_url>
+  <tags_url>https://api.github.com/repos/GavinJoyce/ember-cpm/tags</tags_url>
+  <teams_url>https://api.github.com/repos/GavinJoyce/ember-cpm/teams</teams_url>
+  <trees_url>https://api.github.com/repos/GavinJoyce/ember-cpm/git/trees{/sha}</trees_url>
+  <updated_at>11/7/2014 4:55:23 AM</updated_at>
+  <url>https://api.github.com/repos/GavinJoyce/ember-cpm</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

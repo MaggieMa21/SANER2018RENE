@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d2e73bd3543095801180c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/OHI-Science/sgp/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/OHI-Science/sgp/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/OHI-Science/sgp/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/OHI-Science/sgp/branches{/branch}</branches_url>
+  <clone_url>https://github.com/OHI-Science/sgp.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/OHI-Science/sgp/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/OHI-Science/sgp/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/OHI-Science/sgp/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/OHI-Science/sgp/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/OHI-Science/sgp/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/OHI-Science/sgp/contributors</contributors_url>
+  <created_at>10/24/2014 3:56:52 AM</created_at>
+  <default_branch>draft</default_branch>
+  <description>Ocean Health Index for Singapore</description>
+  <downloads_url>https://api.github.com/repos/OHI-Science/sgp/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/OHI-Science/sgp/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/OHI-Science/sgp/forks</forks_url>
+  <full_name>OHI-Science/sgp</full_name>
+  <git_commits_url>https://api.github.com/repos/OHI-Science/sgp/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/OHI-Science/sgp/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/OHI-Science/sgp/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/OHI-Science/sgp.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://ohi-science.org/sgp</homepage>
+  <hooks_url>https://api.github.com/repos/OHI-Science/sgp/hooks</hooks_url>
+  <html_url>https://github.com/OHI-Science/sgp</html_url>
+  <id>25670799</id>
+  <issue_comment_url>https://api.github.com/repos/OHI-Science/sgp/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/OHI-Science/sgp/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/OHI-Science/sgp/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/OHI-Science/sgp/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/OHI-Science/sgp/labels{/name}</labels_url>
+  <language>R</language>
+  <languages_url>https://api.github.com/repos/OHI-Science/sgp/languages</languages_url>
+  <merges_url>https://api.github.com/repos/OHI-Science/sgp/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/OHI-Science/sgp/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>sgp</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/OHI-Science/sgp/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/5827205?v=3",
+  "events_url": "https://api.github.com/users/OHI-Science/events{/privacy}",
+  "followers_url": "https://api.github.com/users/OHI-Science/followers",
+  "following_url": "https://api.github.com/users/OHI-Science/following{/other_user}",
+  "gists_url": "https://api.github.com/users/OHI-Science/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/OHI-Science",
+  "id": 5827205,
+  "login": "OHI-Science",
+  "organizations_url": "https://api.github.com/users/OHI-Science/orgs",
+  "received_events_url": "https://api.github.com/users/OHI-Science/received_events",
+  "repos_url": "https://api.github.com/users/OHI-Science/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/OHI-Science/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/OHI-Science/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/OHI-Science"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/5827205?v=3</avatar_url>
+    <events_url>https://api.github.com/users/OHI-Science/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/OHI-Science/followers</followers_url>
+    <following_url>https://api.github.com/users/OHI-Science/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/OHI-Science/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/OHI-Science</html_url>
+    <id>5827205</id>
+    <login>OHI-Science</login>
+    <organizations_url>https://api.github.com/users/OHI-Science/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/OHI-Science/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/OHI-Science/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/OHI-Science/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/OHI-Science/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/OHI-Science</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/OHI-Science/sgp/pulls{/number}</pulls_url>
+  <pushed_at>12/1/2014 7:21:52 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/OHI-Science/sgp/releases{/id}</releases_url>
+  <size>4376</size>
+  <ssh_url>git@github.com:OHI-Science/sgp.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/OHI-Science/sgp/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/OHI-Science/sgp/statuses/{sha}</statuses_url>
+  <subscribers_count>4</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/OHI-Science/sgp/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/OHI-Science/sgp/subscription</subscription_url>
+  <svn_url>https://github.com/OHI-Science/sgp</svn_url>
+  <tags_url>https://api.github.com/repos/OHI-Science/sgp/tags</tags_url>
+  <teams_url>https://api.github.com/repos/OHI-Science/sgp/teams</teams_url>
+  <trees_url>https://api.github.com/repos/OHI-Science/sgp/git/trees{/sha}</trees_url>
+  <updated_at>11/29/2014 6:52:52 AM</updated_at>
+  <url>https://api.github.com/repos/OHI-Science/sgp</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

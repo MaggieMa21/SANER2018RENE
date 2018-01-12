@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547dcc91bd354317360100f1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/branches{/branch}</branches_url>
+  <clone_url>https://github.com/PlanSwift/sdk-examples-2008.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/contributors</contributors_url>
+  <created_at>4/29/2014 4:49:27 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>These are SDK examples for PlanSwift9 that were created in 2008.</description>
+  <downloads_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/events</events_url>
+  <fork>False</fork>
+  <forks>1</forks>
+  <forks_count>1</forks_count>
+  <forks_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/forks</forks_url>
+  <full_name>PlanSwift/sdk-examples-2008</full_name>
+  <git_commits_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/PlanSwift/sdk-examples-2008.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/hooks</hooks_url>
+  <html_url>https://github.com/PlanSwift/sdk-examples-2008</html_url>
+  <id>19284085</id>
+  <issue_comment_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/labels{/name}</labels_url>
+  <language>Pascal</language>
+  <languages_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/languages</languages_url>
+  <merges_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>sdk-examples-2008</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/notifications{?since,all,participating}</notifications_url>
+  <open_issues>1</open_issues>
+  <open_issues_count>1</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/6577280?v=3",
+  "events_url": "https://api.github.com/users/PlanSwift/events{/privacy}",
+  "followers_url": "https://api.github.com/users/PlanSwift/followers",
+  "following_url": "https://api.github.com/users/PlanSwift/following{/other_user}",
+  "gists_url": "https://api.github.com/users/PlanSwift/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/PlanSwift",
+  "id": 6577280,
+  "login": "PlanSwift",
+  "organizations_url": "https://api.github.com/users/PlanSwift/orgs",
+  "received_events_url": "https://api.github.com/users/PlanSwift/received_events",
+  "repos_url": "https://api.github.com/users/PlanSwift/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/PlanSwift/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/PlanSwift/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/PlanSwift"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/6577280?v=3</avatar_url>
+    <events_url>https://api.github.com/users/PlanSwift/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/PlanSwift/followers</followers_url>
+    <following_url>https://api.github.com/users/PlanSwift/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/PlanSwift/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/PlanSwift</html_url>
+    <id>6577280</id>
+    <login>PlanSwift</login>
+    <organizations_url>https://api.github.com/users/PlanSwift/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/PlanSwift/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/PlanSwift/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/PlanSwift/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/PlanSwift/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/PlanSwift</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/pulls{/number}</pulls_url>
+  <pushed_at>4/29/2014 4:52:38 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/releases{/id}</releases_url>
+  <size>1620</size>
+  <ssh_url>git@github.com:PlanSwift/sdk-examples-2008.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/subscription</subscription_url>
+  <svn_url>https://github.com/PlanSwift/sdk-examples-2008</svn_url>
+  <tags_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/tags</tags_url>
+  <teams_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/teams</teams_url>
+  <trees_url>https://api.github.com/repos/PlanSwift/sdk-examples-2008/git/trees{/sha}</trees_url>
+  <updated_at>4/29/2014 4:52:34 PM</updated_at>
+  <url>https://api.github.com/repos/PlanSwift/sdk-examples-2008</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

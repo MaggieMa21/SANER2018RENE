@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547e4c8bbd3543165800ace6</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/greyfade/licenses-utils/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/greyfade/licenses-utils/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/greyfade/licenses-utils/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/greyfade/licenses-utils/branches{/branch}</branches_url>
+  <clone_url>https://github.com/greyfade/licenses-utils.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/greyfade/licenses-utils/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/greyfade/licenses-utils/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/greyfade/licenses-utils/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/greyfade/licenses-utils/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/greyfade/licenses-utils/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/greyfade/licenses-utils/contributors</contributors_url>
+  <created_at>12/2/2014 10:03:19 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Utilities to detect licenses from project</description>
+  <downloads_url>https://api.github.com/repos/greyfade/licenses-utils/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/greyfade/licenses-utils/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/greyfade/licenses-utils/forks</forks_url>
+  <full_name>greyfade/licenses-utils</full_name>
+  <git_commits_url>https://api.github.com/repos/greyfade/licenses-utils/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/greyfade/licenses-utils/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/greyfade/licenses-utils/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/greyfade/licenses-utils.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/greyfade/licenses-utils/hooks</hooks_url>
+  <html_url>https://github.com/greyfade/licenses-utils</html_url>
+  <id>27455824</id>
+  <issue_comment_url>https://api.github.com/repos/greyfade/licenses-utils/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/greyfade/licenses-utils/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/greyfade/licenses-utils/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/greyfade/licenses-utils/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/greyfade/licenses-utils/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/greyfade/licenses-utils/languages</languages_url>
+  <merges_url>https://api.github.com/repos/greyfade/licenses-utils/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/greyfade/licenses-utils/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>licenses-utils</name>
+  <network_count>2</network_count>
+  <notifications_url>https://api.github.com/repos/greyfade/licenses-utils/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1986?v=3</avatar_url>
+    <events_url>https://api.github.com/users/greyfade/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/greyfade/followers</followers_url>
+    <following_url>https://api.github.com/users/greyfade/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/greyfade/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/greyfade</html_url>
+    <id>1986</id>
+    <login>greyfade</login>
+    <organizations_url>https://api.github.com/users/greyfade/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/greyfade/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/greyfade/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/greyfade/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/greyfade/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/greyfade</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/SamyPesse/licenses-utils/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/SamyPesse/licenses-utils/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/SamyPesse/licenses-utils/branches{/branch}",
+  "clone_url": "https://github.com/SamyPesse/licenses-utils.git",
+  "collaborators_url": "https://api.github.com/repos/SamyPesse/licenses-utils/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/SamyPesse/licenses-utils/comments{/number}",
+  "commits_url": "https://api.github.com/repos/SamyPesse/licenses-utils/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/SamyPesse/licenses-utils/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/SamyPesse/licenses-utils/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/SamyPesse/licenses-utils/contributors",
+  "created_at": "2014-08-20T18:22:27Z",
+  "default_branch": "master",
+  "description": "Utilities to detect licenses from project",
+  "downloads_url": "https://api.github.com/repos/SamyPesse/licenses-utils/downloads",
+  "events_url": "https://api.github.com/repos/SamyPesse/licenses-utils/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/SamyPesse/licenses-utils/forks",
+  "full_name": "SamyPesse/licenses-utils",
+  "git_commits_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/tags{/sha}",
+  "git_url": "git://github.com/SamyPesse/licenses-utils.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/SamyPesse/licenses-utils/hooks",
+  "html_url": "https://github.com/SamyPesse/licenses-utils",
+  "id": 23159293,
+  "issue_comment_url": "https://api.github.com/repos/SamyPesse/licenses-utils/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/SamyPesse/licenses-utils/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/SamyPesse/licenses-utils/issues{/number}",
+  "keys_url": "https://api.github.com/repos/SamyPesse/licenses-utils/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/SamyPesse/licenses-utils/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/SamyPesse/licenses-utils/languages",
+  "merges_url": "https://api.github.com/repos/SamyPesse/licenses-utils/merges",
+  "milestones_url": "https://api.github.com/repos/SamyPesse/licenses-utils/milestones{/number}",
+  "mirror_url": null,
+  "name": "licenses-utils",
+  "notifications_url": "https://api.github.com/repos/SamyPesse/licenses-utils/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/845425?v=3",
+    "events_url": "https://api.github.com/users/SamyPesse/events{/privacy}",
+    "followers_url": "https://api.github.com/users/SamyPesse/followers",
+    "following_url": "https://api.github.com/users/SamyPesse/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SamyPesse/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/SamyPesse",
+    "id": 845425,
+    "login": "SamyPesse",
+    "organizations_url": "https://api.github.com/users/SamyPesse/orgs",
+    "received_events_url": "https://api.github.com/users/SamyPesse/received_events",
+    "repos_url": "https://api.github.com/users/SamyPesse/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/SamyPesse/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SamyPesse/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/SamyPesse"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/SamyPesse/licenses-utils/pulls{/number}",
+  "pushed_at": "2014-09-17T08:15:05Z",
+  "releases_url": "https://api.github.com/repos/SamyPesse/licenses-utils/releases{/id}",
+  "size": 260,
+  "ssh_url": "git@github.com:SamyPesse/licenses-utils.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/SamyPesse/licenses-utils/stargazers",
+  "statuses_url": "https://api.github.com/repos/SamyPesse/licenses-utils/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/SamyPesse/licenses-utils/subscribers",
+  "subscription_url": "https://api.github.com/repos/SamyPesse/licenses-utils/subscription",
+  "svn_url": "https://github.com/SamyPesse/licenses-utils",
+  "tags_url": "https://api.github.com/repos/SamyPesse/licenses-utils/tags",
+  "teams_url": "https://api.github.com/repos/SamyPesse/licenses-utils/teams",
+  "trees_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/trees{/sha}",
+  "updated_at": "2014-09-17T08:13:32Z",
+  "url": "https://api.github.com/repos/SamyPesse/licenses-utils",
+  "watchers": 2,
+  "watchers_count": 2
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/greyfade/licenses-utils/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 10:42:56 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/greyfade/licenses-utils/releases{/id}</releases_url>
+  <size>177</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/SamyPesse/licenses-utils/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/SamyPesse/licenses-utils/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/SamyPesse/licenses-utils/branches{/branch}",
+  "clone_url": "https://github.com/SamyPesse/licenses-utils.git",
+  "collaborators_url": "https://api.github.com/repos/SamyPesse/licenses-utils/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/SamyPesse/licenses-utils/comments{/number}",
+  "commits_url": "https://api.github.com/repos/SamyPesse/licenses-utils/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/SamyPesse/licenses-utils/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/SamyPesse/licenses-utils/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/SamyPesse/licenses-utils/contributors",
+  "created_at": "2014-08-20T18:22:27Z",
+  "default_branch": "master",
+  "description": "Utilities to detect licenses from project",
+  "downloads_url": "https://api.github.com/repos/SamyPesse/licenses-utils/downloads",
+  "events_url": "https://api.github.com/repos/SamyPesse/licenses-utils/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/SamyPesse/licenses-utils/forks",
+  "full_name": "SamyPesse/licenses-utils",
+  "git_commits_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/tags{/sha}",
+  "git_url": "git://github.com/SamyPesse/licenses-utils.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/SamyPesse/licenses-utils/hooks",
+  "html_url": "https://github.com/SamyPesse/licenses-utils",
+  "id": 23159293,
+  "issue_comment_url": "https://api.github.com/repos/SamyPesse/licenses-utils/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/SamyPesse/licenses-utils/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/SamyPesse/licenses-utils/issues{/number}",
+  "keys_url": "https://api.github.com/repos/SamyPesse/licenses-utils/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/SamyPesse/licenses-utils/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/SamyPesse/licenses-utils/languages",
+  "merges_url": "https://api.github.com/repos/SamyPesse/licenses-utils/merges",
+  "milestones_url": "https://api.github.com/repos/SamyPesse/licenses-utils/milestones{/number}",
+  "mirror_url": null,
+  "name": "licenses-utils",
+  "notifications_url": "https://api.github.com/repos/SamyPesse/licenses-utils/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/845425?v=3",
+    "events_url": "https://api.github.com/users/SamyPesse/events{/privacy}",
+    "followers_url": "https://api.github.com/users/SamyPesse/followers",
+    "following_url": "https://api.github.com/users/SamyPesse/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SamyPesse/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/SamyPesse",
+    "id": 845425,
+    "login": "SamyPesse",
+    "organizations_url": "https://api.github.com/users/SamyPesse/orgs",
+    "received_events_url": "https://api.github.com/users/SamyPesse/received_events",
+    "repos_url": "https://api.github.com/users/SamyPesse/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/SamyPesse/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SamyPesse/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/SamyPesse"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/SamyPesse/licenses-utils/pulls{/number}",
+  "pushed_at": "2014-09-17T08:15:05Z",
+  "releases_url": "https://api.github.com/repos/SamyPesse/licenses-utils/releases{/id}",
+  "size": 260,
+  "ssh_url": "git@github.com:SamyPesse/licenses-utils.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/SamyPesse/licenses-utils/stargazers",
+  "statuses_url": "https://api.github.com/repos/SamyPesse/licenses-utils/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/SamyPesse/licenses-utils/subscribers",
+  "subscription_url": "https://api.github.com/repos/SamyPesse/licenses-utils/subscription",
+  "svn_url": "https://github.com/SamyPesse/licenses-utils",
+  "tags_url": "https://api.github.com/repos/SamyPesse/licenses-utils/tags",
+  "teams_url": "https://api.github.com/repos/SamyPesse/licenses-utils/teams",
+  "trees_url": "https://api.github.com/repos/SamyPesse/licenses-utils/git/trees{/sha}",
+  "updated_at": "2014-09-17T08:13:32Z",
+  "url": "https://api.github.com/repos/SamyPesse/licenses-utils",
+  "watchers": 2,
+  "watchers_count": 2
+}</source>
+  <ssh_url>git@github.com:greyfade/licenses-utils.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/greyfade/licenses-utils/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/greyfade/licenses-utils/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/greyfade/licenses-utils/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/greyfade/licenses-utils/subscription</subscription_url>
+  <svn_url>https://github.com/greyfade/licenses-utils</svn_url>
+  <tags_url>https://api.github.com/repos/greyfade/licenses-utils/tags</tags_url>
+  <teams_url>https://api.github.com/repos/greyfade/licenses-utils/teams</teams_url>
+  <trees_url>https://api.github.com/repos/greyfade/licenses-utils/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 10:42:56 PM</updated_at>
+  <url>https://api.github.com/repos/greyfade/licenses-utils</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

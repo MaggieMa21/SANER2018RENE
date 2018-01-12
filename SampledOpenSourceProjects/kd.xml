@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547e9959bd354317b300bc59</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/tetsuo/kd/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/tetsuo/kd/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/tetsuo/kd/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/tetsuo/kd/branches{/branch}</branches_url>
+  <clone_url>https://github.com/tetsuo/kd.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/tetsuo/kd/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/tetsuo/kd/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/tetsuo/kd/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/tetsuo/kd/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/tetsuo/kd/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/tetsuo/kd/contributors</contributors_url>
+  <created_at>12/2/2014 10:06:54 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>a non-document focused UI Framework for web applications.</description>
+  <downloads_url>https://api.github.com/repos/tetsuo/kd/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/tetsuo/kd/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/tetsuo/kd/forks</forks_url>
+  <full_name>tetsuo/kd</full_name>
+  <git_commits_url>https://api.github.com/repos/tetsuo/kd/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/tetsuo/kd/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/tetsuo/kd/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/tetsuo/kd.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://kd.io</homepage>
+  <hooks_url>https://api.github.com/repos/tetsuo/kd/hooks</hooks_url>
+  <html_url>https://github.com/tetsuo/kd</html_url>
+  <id>27455963</id>
+  <issue_comment_url>https://api.github.com/repos/tetsuo/kd/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/tetsuo/kd/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/tetsuo/kd/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/tetsuo/kd/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/tetsuo/kd/labels{/name}</labels_url>
+  <language>CoffeeScript</language>
+  <languages_url>https://api.github.com/repos/tetsuo/kd/languages</languages_url>
+  <merges_url>https://api.github.com/repos/tetsuo/kd/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/tetsuo/kd/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>kd</name>
+  <network_count>18</network_count>
+  <notifications_url>https://api.github.com/repos/tetsuo/kd/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/50026?v=3</avatar_url>
+    <events_url>https://api.github.com/users/tetsuo/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/tetsuo/followers</followers_url>
+    <following_url>https://api.github.com/users/tetsuo/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/tetsuo/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/tetsuo</html_url>
+    <id>50026</id>
+    <login>tetsuo</login>
+    <organizations_url>https://api.github.com/users/tetsuo/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/tetsuo/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/tetsuo/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/tetsuo/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/tetsuo/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/tetsuo</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/koding/kd/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/koding/kd/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/koding/kd/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/koding/kd/branches{/branch}",
+  "clone_url": "https://github.com/koding/kd.git",
+  "collaborators_url": "https://api.github.com/repos/koding/kd/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/koding/kd/comments{/number}",
+  "commits_url": "https://api.github.com/repos/koding/kd/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/koding/kd/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/koding/kd/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/koding/kd/contributors",
+  "created_at": "2014-03-12T03:54:59Z",
+  "default_branch": "master",
+  "description": "a non-document focused UI Framework for web applications.",
+  "downloads_url": "https://api.github.com/repos/koding/kd/downloads",
+  "events_url": "https://api.github.com/repos/koding/kd/events",
+  "fork": false,
+  "forks": 18,
+  "forks_count": 18,
+  "forks_url": "https://api.github.com/repos/koding/kd/forks",
+  "full_name": "koding/kd",
+  "git_commits_url": "https://api.github.com/repos/koding/kd/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/koding/kd/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/koding/kd/git/tags{/sha}",
+  "git_url": "git://github.com/koding/kd.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://kd.io",
+  "hooks_url": "https://api.github.com/repos/koding/kd/hooks",
+  "html_url": "https://github.com/koding/kd",
+  "id": 17654723,
+  "issue_comment_url": "https://api.github.com/repos/koding/kd/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/koding/kd/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/koding/kd/issues{/number}",
+  "keys_url": "https://api.github.com/repos/koding/kd/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/koding/kd/labels{/name}",
+  "language": "CoffeeScript",
+  "languages_url": "https://api.github.com/repos/koding/kd/languages",
+  "merges_url": "https://api.github.com/repos/koding/kd/merges",
+  "milestones_url": "https://api.github.com/repos/koding/kd/milestones{/number}",
+  "mirror_url": null,
+  "name": "kd",
+  "notifications_url": "https://api.github.com/repos/koding/kd/notifications{?since,all,participating}",
+  "open_issues": 4,
+  "open_issues_count": 4,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1066754?v=3",
+    "events_url": "https://api.github.com/users/koding/events{/privacy}",
+    "followers_url": "https://api.github.com/users/koding/followers",
+    "following_url": "https://api.github.com/users/koding/following{/other_user}",
+    "gists_url": "https://api.github.com/users/koding/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/koding",
+    "id": 1066754,
+    "login": "koding",
+    "organizations_url": "https://api.github.com/users/koding/orgs",
+    "received_events_url": "https://api.github.com/users/koding/received_events",
+    "repos_url": "https://api.github.com/users/koding/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/koding/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/koding/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/koding"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/koding/kd/pulls{/number}",
+  "pushed_at": "2014-12-02T21:04:52Z",
+  "releases_url": "https://api.github.com/repos/koding/kd/releases{/id}",
+  "size": 7056,
+  "ssh_url": "git@github.com:koding/kd.git",
+  "stargazers_count": 58,
+  "stargazers_url": "https://api.github.com/repos/koding/kd/stargazers",
+  "statuses_url": "https://api.github.com/repos/koding/kd/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/koding/kd/subscribers",
+  "subscription_url": "https://api.github.com/repos/koding/kd/subscription",
+  "svn_url": "https://github.com/koding/kd",
+  "tags_url": "https://api.github.com/repos/koding/kd/tags",
+  "teams_url": "https://api.github.com/repos/koding/kd/teams",
+  "trees_url": "https://api.github.com/repos/koding/kd/git/trees{/sha}",
+  "updated_at": "2014-12-02T21:04:52Z",
+  "url": "https://api.github.com/repos/koding/kd",
+  "watchers": 58,
+  "watchers_count": 58
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/tetsuo/kd/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 10:51:52 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/tetsuo/kd/releases{/id}</releases_url>
+  <size>7056</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/koding/kd/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/koding/kd/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/koding/kd/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/koding/kd/branches{/branch}",
+  "clone_url": "https://github.com/koding/kd.git",
+  "collaborators_url": "https://api.github.com/repos/koding/kd/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/koding/kd/comments{/number}",
+  "commits_url": "https://api.github.com/repos/koding/kd/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/koding/kd/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/koding/kd/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/koding/kd/contributors",
+  "created_at": "2014-03-12T03:54:59Z",
+  "default_branch": "master",
+  "description": "a non-document focused UI Framework for web applications.",
+  "downloads_url": "https://api.github.com/repos/koding/kd/downloads",
+  "events_url": "https://api.github.com/repos/koding/kd/events",
+  "fork": false,
+  "forks": 18,
+  "forks_count": 18,
+  "forks_url": "https://api.github.com/repos/koding/kd/forks",
+  "full_name": "koding/kd",
+  "git_commits_url": "https://api.github.com/repos/koding/kd/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/koding/kd/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/koding/kd/git/tags{/sha}",
+  "git_url": "git://github.com/koding/kd.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://kd.io",
+  "hooks_url": "https://api.github.com/repos/koding/kd/hooks",
+  "html_url": "https://github.com/koding/kd",
+  "id": 17654723,
+  "issue_comment_url": "https://api.github.com/repos/koding/kd/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/koding/kd/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/koding/kd/issues{/number}",
+  "keys_url": "https://api.github.com/repos/koding/kd/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/koding/kd/labels{/name}",
+  "language": "CoffeeScript",
+  "languages_url": "https://api.github.com/repos/koding/kd/languages",
+  "merges_url": "https://api.github.com/repos/koding/kd/merges",
+  "milestones_url": "https://api.github.com/repos/koding/kd/milestones{/number}",
+  "mirror_url": null,
+  "name": "kd",
+  "notifications_url": "https://api.github.com/repos/koding/kd/notifications{?since,all,participating}",
+  "open_issues": 4,
+  "open_issues_count": 4,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1066754?v=3",
+    "events_url": "https://api.github.com/users/koding/events{/privacy}",
+    "followers_url": "https://api.github.com/users/koding/followers",
+    "following_url": "https://api.github.com/users/koding/following{/other_user}",
+    "gists_url": "https://api.github.com/users/koding/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/koding",
+    "id": 1066754,
+    "login": "koding",
+    "organizations_url": "https://api.github.com/users/koding/orgs",
+    "received_events_url": "https://api.github.com/users/koding/received_events",
+    "repos_url": "https://api.github.com/users/koding/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/koding/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/koding/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/koding"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/koding/kd/pulls{/number}",
+  "pushed_at": "2014-12-02T21:04:52Z",
+  "releases_url": "https://api.github.com/repos/koding/kd/releases{/id}",
+  "size": 7056,
+  "ssh_url": "git@github.com:koding/kd.git",
+  "stargazers_count": 58,
+  "stargazers_url": "https://api.github.com/repos/koding/kd/stargazers",
+  "statuses_url": "https://api.github.com/repos/koding/kd/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/koding/kd/subscribers",
+  "subscription_url": "https://api.github.com/repos/koding/kd/subscription",
+  "svn_url": "https://github.com/koding/kd",
+  "tags_url": "https://api.github.com/repos/koding/kd/tags",
+  "teams_url": "https://api.github.com/repos/koding/kd/teams",
+  "trees_url": "https://api.github.com/repos/koding/kd/git/trees{/sha}",
+  "updated_at": "2014-12-02T21:04:52Z",
+  "url": "https://api.github.com/repos/koding/kd",
+  "watchers": 58,
+  "watchers_count": 58
+}</source>
+  <ssh_url>git@github.com:tetsuo/kd.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/tetsuo/kd/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/tetsuo/kd/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/tetsuo/kd/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/tetsuo/kd/subscription</subscription_url>
+  <svn_url>https://github.com/tetsuo/kd</svn_url>
+  <tags_url>https://api.github.com/repos/tetsuo/kd/tags</tags_url>
+  <teams_url>https://api.github.com/repos/tetsuo/kd/teams</teams_url>
+  <trees_url>https://api.github.com/repos/tetsuo/kd/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 10:06:54 PM</updated_at>
+  <url>https://api.github.com/repos/tetsuo/kd</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

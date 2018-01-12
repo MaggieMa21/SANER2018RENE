@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547b4ff7bd35431634014c8b</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/gjasny/android-cmake/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/gjasny/android-cmake/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/gjasny/android-cmake/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/gjasny/android-cmake/branches{/branch}</branches_url>
+  <clone_url>https://github.com/gjasny/android-cmake.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/gjasny/android-cmake/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/gjasny/android-cmake/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/gjasny/android-cmake/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/gjasny/android-cmake/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/gjasny/android-cmake/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/gjasny/android-cmake/contributors</contributors_url>
+  <created_at>11/30/2014 5:06:01 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>CMake scripts and patches for libraries using CMake and the Android NDK</description>
+  <downloads_url>https://api.github.com/repos/gjasny/android-cmake/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/gjasny/android-cmake/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/gjasny/android-cmake/forks</forks_url>
+  <full_name>gjasny/android-cmake</full_name>
+  <git_commits_url>https://api.github.com/repos/gjasny/android-cmake/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/gjasny/android-cmake/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/gjasny/android-cmake/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/gjasny/android-cmake.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/gjasny/android-cmake/hooks</hooks_url>
+  <html_url>https://github.com/gjasny/android-cmake</html_url>
+  <id>27343231</id>
+  <issue_comment_url>https://api.github.com/repos/gjasny/android-cmake/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/gjasny/android-cmake/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/gjasny/android-cmake/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/gjasny/android-cmake/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/gjasny/android-cmake/labels{/name}</labels_url>
+  <language>C</language>
+  <languages_url>https://api.github.com/repos/gjasny/android-cmake/languages</languages_url>
+  <merges_url>https://api.github.com/repos/gjasny/android-cmake/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/gjasny/android-cmake/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>android-cmake</name>
+  <network_count>63</network_count>
+  <notifications_url>https://api.github.com/repos/gjasny/android-cmake/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1165598?v=3</avatar_url>
+    <events_url>https://api.github.com/users/gjasny/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/gjasny/followers</followers_url>
+    <following_url>https://api.github.com/users/gjasny/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/gjasny/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/gjasny</html_url>
+    <id>1165598</id>
+    <login>gjasny</login>
+    <organizations_url>https://api.github.com/users/gjasny/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/gjasny/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/gjasny/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/gjasny/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/gjasny/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/gjasny</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/taka-no-me/android-cmake/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/taka-no-me/android-cmake/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/taka-no-me/android-cmake/branches{/branch}",
+  "clone_url": "https://github.com/taka-no-me/android-cmake.git",
+  "collaborators_url": "https://api.github.com/repos/taka-no-me/android-cmake/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/taka-no-me/android-cmake/comments{/number}",
+  "commits_url": "https://api.github.com/repos/taka-no-me/android-cmake/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/taka-no-me/android-cmake/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/taka-no-me/android-cmake/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/taka-no-me/android-cmake/contributors",
+  "created_at": "2012-11-18T20:46:00Z",
+  "default_branch": "master",
+  "description": "CMake scripts and patches for libraries using CMake and the Android NDK",
+  "downloads_url": "https://api.github.com/repos/taka-no-me/android-cmake/downloads",
+  "events_url": "https://api.github.com/repos/taka-no-me/android-cmake/events",
+  "fork": false,
+  "forks": 63,
+  "forks_count": 63,
+  "forks_url": "https://api.github.com/repos/taka-no-me/android-cmake/forks",
+  "full_name": "taka-no-me/android-cmake",
+  "git_commits_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/tags{/sha}",
+  "git_url": "git://github.com/taka-no-me/android-cmake.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/taka-no-me/android-cmake/hooks",
+  "html_url": "https://github.com/taka-no-me/android-cmake",
+  "id": 6751113,
+  "issue_comment_url": "https://api.github.com/repos/taka-no-me/android-cmake/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/taka-no-me/android-cmake/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/taka-no-me/android-cmake/issues{/number}",
+  "keys_url": "https://api.github.com/repos/taka-no-me/android-cmake/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/taka-no-me/android-cmake/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/taka-no-me/android-cmake/languages",
+  "merges_url": "https://api.github.com/repos/taka-no-me/android-cmake/merges",
+  "milestones_url": "https://api.github.com/repos/taka-no-me/android-cmake/milestones{/number}",
+  "mirror_url": null,
+  "name": "android-cmake",
+  "notifications_url": "https://api.github.com/repos/taka-no-me/android-cmake/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1668548?v=3",
+    "events_url": "https://api.github.com/users/taka-no-me/events{/privacy}",
+    "followers_url": "https://api.github.com/users/taka-no-me/followers",
+    "following_url": "https://api.github.com/users/taka-no-me/following{/other_user}",
+    "gists_url": "https://api.github.com/users/taka-no-me/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/taka-no-me",
+    "id": 1668548,
+    "login": "taka-no-me",
+    "organizations_url": "https://api.github.com/users/taka-no-me/orgs",
+    "received_events_url": "https://api.github.com/users/taka-no-me/received_events",
+    "repos_url": "https://api.github.com/users/taka-no-me/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/taka-no-me/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/taka-no-me/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/taka-no-me"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/taka-no-me/android-cmake/pulls{/number}",
+  "pushed_at": "2014-11-05T23:28:04Z",
+  "releases_url": "https://api.github.com/repos/taka-no-me/android-cmake/releases{/id}",
+  "size": 580,
+  "ssh_url": "git@github.com:taka-no-me/android-cmake.git",
+  "stargazers_count": 117,
+  "stargazers_url": "https://api.github.com/repos/taka-no-me/android-cmake/stargazers",
+  "statuses_url": "https://api.github.com/repos/taka-no-me/android-cmake/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/taka-no-me/android-cmake/subscribers",
+  "subscription_url": "https://api.github.com/repos/taka-no-me/android-cmake/subscription",
+  "svn_url": "https://github.com/taka-no-me/android-cmake",
+  "tags_url": "https://api.github.com/repos/taka-no-me/android-cmake/tags",
+  "teams_url": "https://api.github.com/repos/taka-no-me/android-cmake/teams",
+  "trees_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/trees{/sha}",
+  "updated_at": "2014-11-28T11:07:47Z",
+  "url": "https://api.github.com/repos/taka-no-me/android-cmake",
+  "watchers": 117,
+  "watchers_count": 117
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/gjasny/android-cmake/pulls{/number}</pulls_url>
+  <pushed_at>11/30/2014 5:11:36 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/gjasny/android-cmake/releases{/id}</releases_url>
+  <size>580</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/taka-no-me/android-cmake/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/taka-no-me/android-cmake/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/taka-no-me/android-cmake/branches{/branch}",
+  "clone_url": "https://github.com/taka-no-me/android-cmake.git",
+  "collaborators_url": "https://api.github.com/repos/taka-no-me/android-cmake/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/taka-no-me/android-cmake/comments{/number}",
+  "commits_url": "https://api.github.com/repos/taka-no-me/android-cmake/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/taka-no-me/android-cmake/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/taka-no-me/android-cmake/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/taka-no-me/android-cmake/contributors",
+  "created_at": "2012-11-18T20:46:00Z",
+  "default_branch": "master",
+  "description": "CMake scripts and patches for libraries using CMake and the Android NDK",
+  "downloads_url": "https://api.github.com/repos/taka-no-me/android-cmake/downloads",
+  "events_url": "https://api.github.com/repos/taka-no-me/android-cmake/events",
+  "fork": false,
+  "forks": 63,
+  "forks_count": 63,
+  "forks_url": "https://api.github.com/repos/taka-no-me/android-cmake/forks",
+  "full_name": "taka-no-me/android-cmake",
+  "git_commits_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/tags{/sha}",
+  "git_url": "git://github.com/taka-no-me/android-cmake.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/taka-no-me/android-cmake/hooks",
+  "html_url": "https://github.com/taka-no-me/android-cmake",
+  "id": 6751113,
+  "issue_comment_url": "https://api.github.com/repos/taka-no-me/android-cmake/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/taka-no-me/android-cmake/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/taka-no-me/android-cmake/issues{/number}",
+  "keys_url": "https://api.github.com/repos/taka-no-me/android-cmake/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/taka-no-me/android-cmake/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/taka-no-me/android-cmake/languages",
+  "merges_url": "https://api.github.com/repos/taka-no-me/android-cmake/merges",
+  "milestones_url": "https://api.github.com/repos/taka-no-me/android-cmake/milestones{/number}",
+  "mirror_url": null,
+  "name": "android-cmake",
+  "notifications_url": "https://api.github.com/repos/taka-no-me/android-cmake/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1668548?v=3",
+    "events_url": "https://api.github.com/users/taka-no-me/events{/privacy}",
+    "followers_url": "https://api.github.com/users/taka-no-me/followers",
+    "following_url": "https://api.github.com/users/taka-no-me/following{/other_user}",
+    "gists_url": "https://api.github.com/users/taka-no-me/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/taka-no-me",
+    "id": 1668548,
+    "login": "taka-no-me",
+    "organizations_url": "https://api.github.com/users/taka-no-me/orgs",
+    "received_events_url": "https://api.github.com/users/taka-no-me/received_events",
+    "repos_url": "https://api.github.com/users/taka-no-me/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/taka-no-me/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/taka-no-me/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/taka-no-me"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/taka-no-me/android-cmake/pulls{/number}",
+  "pushed_at": "2014-11-05T23:28:04Z",
+  "releases_url": "https://api.github.com/repos/taka-no-me/android-cmake/releases{/id}",
+  "size": 580,
+  "ssh_url": "git@github.com:taka-no-me/android-cmake.git",
+  "stargazers_count": 117,
+  "stargazers_url": "https://api.github.com/repos/taka-no-me/android-cmake/stargazers",
+  "statuses_url": "https://api.github.com/repos/taka-no-me/android-cmake/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/taka-no-me/android-cmake/subscribers",
+  "subscription_url": "https://api.github.com/repos/taka-no-me/android-cmake/subscription",
+  "svn_url": "https://github.com/taka-no-me/android-cmake",
+  "tags_url": "https://api.github.com/repos/taka-no-me/android-cmake/tags",
+  "teams_url": "https://api.github.com/repos/taka-no-me/android-cmake/teams",
+  "trees_url": "https://api.github.com/repos/taka-no-me/android-cmake/git/trees{/sha}",
+  "updated_at": "2014-11-28T11:07:47Z",
+  "url": "https://api.github.com/repos/taka-no-me/android-cmake",
+  "watchers": 117,
+  "watchers_count": 117
+}</source>
+  <ssh_url>git@github.com:gjasny/android-cmake.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/gjasny/android-cmake/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/gjasny/android-cmake/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/gjasny/android-cmake/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/gjasny/android-cmake/subscription</subscription_url>
+  <svn_url>https://github.com/gjasny/android-cmake</svn_url>
+  <tags_url>https://api.github.com/repos/gjasny/android-cmake/tags</tags_url>
+  <teams_url>https://api.github.com/repos/gjasny/android-cmake/teams</teams_url>
+  <trees_url>https://api.github.com/repos/gjasny/android-cmake/git/trees{/sha}</trees_url>
+  <updated_at>11/30/2014 5:06:01 PM</updated_at>
+  <url>https://api.github.com/repos/gjasny/android-cmake</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d78b0bd3543182801356e</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/NetLancer/BlockAnywhere/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/NetLancer/BlockAnywhere/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/NetLancer/BlockAnywhere/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/NetLancer/BlockAnywhere/branches{/branch}</branches_url>
+  <clone_url>https://github.com/NetLancer/BlockAnywhere.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/NetLancer/BlockAnywhere/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/NetLancer/BlockAnywhere/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/NetLancer/BlockAnywhere/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/NetLancer/BlockAnywhere/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/NetLancer/BlockAnywhere/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/NetLancer/BlockAnywhere/contributors</contributors_url>
+  <created_at>12/14/2014 11:46:49 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Put an block anywhere in Croogo</description>
+  <downloads_url>https://api.github.com/repos/NetLancer/BlockAnywhere/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/NetLancer/BlockAnywhere/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/NetLancer/BlockAnywhere/forks</forks_url>
+  <full_name>NetLancer/BlockAnywhere</full_name>
+  <git_commits_url>https://api.github.com/repos/NetLancer/BlockAnywhere/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/NetLancer/BlockAnywhere/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/NetLancer/BlockAnywhere/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/NetLancer/BlockAnywhere.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/NetLancer/BlockAnywhere/hooks</hooks_url>
+  <html_url>https://github.com/NetLancer/BlockAnywhere</html_url>
+  <id>27992633</id>
+  <issue_comment_url>https://api.github.com/repos/NetLancer/BlockAnywhere/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/NetLancer/BlockAnywhere/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/NetLancer/BlockAnywhere/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/NetLancer/BlockAnywhere/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/NetLancer/BlockAnywhere/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/NetLancer/BlockAnywhere/languages</languages_url>
+  <merges_url>https://api.github.com/repos/NetLancer/BlockAnywhere/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/NetLancer/BlockAnywhere/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>BlockAnywhere</name>
+  <network_count>3</network_count>
+  <notifications_url>https://api.github.com/repos/NetLancer/BlockAnywhere/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/6131430?v=3</avatar_url>
+    <events_url>https://api.github.com/users/NetLancer/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/NetLancer/followers</followers_url>
+    <following_url>https://api.github.com/users/NetLancer/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/NetLancer/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/NetLancer</html_url>
+    <id>6131430</id>
+    <login>NetLancer</login>
+    <organizations_url>https://api.github.com/users/NetLancer/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/NetLancer/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/NetLancer/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/NetLancer/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/NetLancer/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/NetLancer</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/firecreek/BlockAnywhere/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/firecreek/BlockAnywhere/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/firecreek/BlockAnywhere/branches{/branch}",
+  "clone_url": "https://github.com/firecreek/BlockAnywhere.git",
+  "collaborators_url": "https://api.github.com/repos/firecreek/BlockAnywhere/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/firecreek/BlockAnywhere/comments{/number}",
+  "commits_url": "https://api.github.com/repos/firecreek/BlockAnywhere/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/firecreek/BlockAnywhere/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/firecreek/BlockAnywhere/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/firecreek/BlockAnywhere/contributors",
+  "created_at": "2011-04-10T12:41:32Z",
+  "default_branch": "master",
+  "description": "Put an block anywhere in Croogo",
+  "downloads_url": "https://api.github.com/repos/firecreek/BlockAnywhere/downloads",
+  "events_url": "https://api.github.com/repos/firecreek/BlockAnywhere/events",
+  "fork": false,
+  "forks": 3,
+  "forks_count": 3,
+  "forks_url": "https://api.github.com/repos/firecreek/BlockAnywhere/forks",
+  "full_name": "firecreek/BlockAnywhere",
+  "git_commits_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/tags{/sha}",
+  "git_url": "git://github.com/firecreek/BlockAnywhere.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/firecreek/BlockAnywhere/hooks",
+  "html_url": "https://github.com/firecreek/BlockAnywhere",
+  "id": 1594783,
+  "issue_comment_url": "https://api.github.com/repos/firecreek/BlockAnywhere/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/firecreek/BlockAnywhere/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/firecreek/BlockAnywhere/issues{/number}",
+  "keys_url": "https://api.github.com/repos/firecreek/BlockAnywhere/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/firecreek/BlockAnywhere/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/firecreek/BlockAnywhere/languages",
+  "merges_url": "https://api.github.com/repos/firecreek/BlockAnywhere/merges",
+  "milestones_url": "https://api.github.com/repos/firecreek/BlockAnywhere/milestones{/number}",
+  "mirror_url": null,
+  "name": "BlockAnywhere",
+  "notifications_url": "https://api.github.com/repos/firecreek/BlockAnywhere/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/239578?v=3",
+    "events_url": "https://api.github.com/users/firecreek/events{/privacy}",
+    "followers_url": "https://api.github.com/users/firecreek/followers",
+    "following_url": "https://api.github.com/users/firecreek/following{/other_user}",
+    "gists_url": "https://api.github.com/users/firecreek/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/firecreek",
+    "id": 239578,
+    "login": "firecreek",
+    "organizations_url": "https://api.github.com/users/firecreek/orgs",
+    "received_events_url": "https://api.github.com/users/firecreek/received_events",
+    "repos_url": "https://api.github.com/users/firecreek/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/firecreek/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/firecreek/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/firecreek"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/firecreek/BlockAnywhere/pulls{/number}",
+  "pushed_at": "2012-09-03T04:40:05Z",
+  "releases_url": "https://api.github.com/repos/firecreek/BlockAnywhere/releases{/id}",
+  "size": 134,
+  "ssh_url": "git@github.com:firecreek/BlockAnywhere.git",
+  "stargazers_count": 5,
+  "stargazers_url": "https://api.github.com/repos/firecreek/BlockAnywhere/stargazers",
+  "statuses_url": "https://api.github.com/repos/firecreek/BlockAnywhere/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/firecreek/BlockAnywhere/subscribers",
+  "subscription_url": "https://api.github.com/repos/firecreek/BlockAnywhere/subscription",
+  "svn_url": "https://github.com/firecreek/BlockAnywhere",
+  "tags_url": "https://api.github.com/repos/firecreek/BlockAnywhere/tags",
+  "teams_url": "https://api.github.com/repos/firecreek/BlockAnywhere/teams",
+  "trees_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/trees{/sha}",
+  "updated_at": "2014-07-26T11:54:55Z",
+  "url": "https://api.github.com/repos/firecreek/BlockAnywhere",
+  "watchers": 5,
+  "watchers_count": 5
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/NetLancer/BlockAnywhere/pulls{/number}</pulls_url>
+  <pushed_at>9/3/2012 4:40:05 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/NetLancer/BlockAnywhere/releases{/id}</releases_url>
+  <size>134</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/firecreek/BlockAnywhere/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/firecreek/BlockAnywhere/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/firecreek/BlockAnywhere/branches{/branch}",
+  "clone_url": "https://github.com/firecreek/BlockAnywhere.git",
+  "collaborators_url": "https://api.github.com/repos/firecreek/BlockAnywhere/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/firecreek/BlockAnywhere/comments{/number}",
+  "commits_url": "https://api.github.com/repos/firecreek/BlockAnywhere/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/firecreek/BlockAnywhere/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/firecreek/BlockAnywhere/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/firecreek/BlockAnywhere/contributors",
+  "created_at": "2011-04-10T12:41:32Z",
+  "default_branch": "master",
+  "description": "Put an block anywhere in Croogo",
+  "downloads_url": "https://api.github.com/repos/firecreek/BlockAnywhere/downloads",
+  "events_url": "https://api.github.com/repos/firecreek/BlockAnywhere/events",
+  "fork": false,
+  "forks": 3,
+  "forks_count": 3,
+  "forks_url": "https://api.github.com/repos/firecreek/BlockAnywhere/forks",
+  "full_name": "firecreek/BlockAnywhere",
+  "git_commits_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/tags{/sha}",
+  "git_url": "git://github.com/firecreek/BlockAnywhere.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/firecreek/BlockAnywhere/hooks",
+  "html_url": "https://github.com/firecreek/BlockAnywhere",
+  "id": 1594783,
+  "issue_comment_url": "https://api.github.com/repos/firecreek/BlockAnywhere/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/firecreek/BlockAnywhere/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/firecreek/BlockAnywhere/issues{/number}",
+  "keys_url": "https://api.github.com/repos/firecreek/BlockAnywhere/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/firecreek/BlockAnywhere/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/firecreek/BlockAnywhere/languages",
+  "merges_url": "https://api.github.com/repos/firecreek/BlockAnywhere/merges",
+  "milestones_url": "https://api.github.com/repos/firecreek/BlockAnywhere/milestones{/number}",
+  "mirror_url": null,
+  "name": "BlockAnywhere",
+  "notifications_url": "https://api.github.com/repos/firecreek/BlockAnywhere/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/239578?v=3",
+    "events_url": "https://api.github.com/users/firecreek/events{/privacy}",
+    "followers_url": "https://api.github.com/users/firecreek/followers",
+    "following_url": "https://api.github.com/users/firecreek/following{/other_user}",
+    "gists_url": "https://api.github.com/users/firecreek/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/firecreek",
+    "id": 239578,
+    "login": "firecreek",
+    "organizations_url": "https://api.github.com/users/firecreek/orgs",
+    "received_events_url": "https://api.github.com/users/firecreek/received_events",
+    "repos_url": "https://api.github.com/users/firecreek/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/firecreek/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/firecreek/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/firecreek"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/firecreek/BlockAnywhere/pulls{/number}",
+  "pushed_at": "2012-09-03T04:40:05Z",
+  "releases_url": "https://api.github.com/repos/firecreek/BlockAnywhere/releases{/id}",
+  "size": 134,
+  "ssh_url": "git@github.com:firecreek/BlockAnywhere.git",
+  "stargazers_count": 5,
+  "stargazers_url": "https://api.github.com/repos/firecreek/BlockAnywhere/stargazers",
+  "statuses_url": "https://api.github.com/repos/firecreek/BlockAnywhere/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/firecreek/BlockAnywhere/subscribers",
+  "subscription_url": "https://api.github.com/repos/firecreek/BlockAnywhere/subscription",
+  "svn_url": "https://github.com/firecreek/BlockAnywhere",
+  "tags_url": "https://api.github.com/repos/firecreek/BlockAnywhere/tags",
+  "teams_url": "https://api.github.com/repos/firecreek/BlockAnywhere/teams",
+  "trees_url": "https://api.github.com/repos/firecreek/BlockAnywhere/git/trees{/sha}",
+  "updated_at": "2014-07-26T11:54:55Z",
+  "url": "https://api.github.com/repos/firecreek/BlockAnywhere",
+  "watchers": 5,
+  "watchers_count": 5
+}</source>
+  <ssh_url>git@github.com:NetLancer/BlockAnywhere.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/NetLancer/BlockAnywhere/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/NetLancer/BlockAnywhere/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/NetLancer/BlockAnywhere/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/NetLancer/BlockAnywhere/subscription</subscription_url>
+  <svn_url>https://github.com/NetLancer/BlockAnywhere</svn_url>
+  <tags_url>https://api.github.com/repos/NetLancer/BlockAnywhere/tags</tags_url>
+  <teams_url>https://api.github.com/repos/NetLancer/BlockAnywhere/teams</teams_url>
+  <trees_url>https://api.github.com/repos/NetLancer/BlockAnywhere/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 11:46:50 AM</updated_at>
+  <url>https://api.github.com/repos/NetLancer/BlockAnywhere</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

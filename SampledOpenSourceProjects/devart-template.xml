@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cf2b9bd35431bee00ec01</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/rmnzr/devart-template/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/rmnzr/devart-template/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/rmnzr/devart-template/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/rmnzr/devart-template/branches{/branch}</branches_url>
+  <clone_url>https://github.com/rmnzr/devart-template.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/rmnzr/devart-template/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/rmnzr/devart-template/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/rmnzr/devart-template/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/rmnzr/devart-template/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/rmnzr/devart-template/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/rmnzr/devart-template/contributors</contributors_url>
+  <created_at>12/14/2014 2:15:16 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>
+  </description>
+  <downloads_url>https://api.github.com/repos/rmnzr/devart-template/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/rmnzr/devart-template/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/rmnzr/devart-template/forks</forks_url>
+  <full_name>rmnzr/devart-template</full_name>
+  <git_commits_url>https://api.github.com/repos/rmnzr/devart-template/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/rmnzr/devart-template/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/rmnzr/devart-template/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/rmnzr/devart-template.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/rmnzr/devart-template/hooks</hooks_url>
+  <html_url>https://github.com/rmnzr/devart-template</html_url>
+  <id>27980475</id>
+  <issue_comment_url>https://api.github.com/repos/rmnzr/devart-template/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/rmnzr/devart-template/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/rmnzr/devart-template/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/rmnzr/devart-template/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/rmnzr/devart-template/labels{/name}</labels_url>
+  <language>CoffeeScript</language>
+  <languages_url>https://api.github.com/repos/rmnzr/devart-template/languages</languages_url>
+  <merges_url>https://api.github.com/repos/rmnzr/devart-template/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/rmnzr/devart-template/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>devart-template</name>
+  <network_count>2473</network_count>
+  <notifications_url>https://api.github.com/repos/rmnzr/devart-template/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/4929992?v=3",
+  "events_url": "https://api.github.com/users/rmnzr/events{/privacy}",
+  "followers_url": "https://api.github.com/users/rmnzr/followers",
+  "following_url": "https://api.github.com/users/rmnzr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rmnzr/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/rmnzr",
+  "id": 4929992,
+  "login": "rmnzr",
+  "organizations_url": "https://api.github.com/users/rmnzr/orgs",
+  "received_events_url": "https://api.github.com/users/rmnzr/received_events",
+  "repos_url": "https://api.github.com/users/rmnzr/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/rmnzr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rmnzr/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/rmnzr"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/4929992?v=3</avatar_url>
+    <events_url>https://api.github.com/users/rmnzr/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/rmnzr/followers</followers_url>
+    <following_url>https://api.github.com/users/rmnzr/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/rmnzr/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/rmnzr</html_url>
+    <id>4929992</id>
+    <login>rmnzr</login>
+    <organizations_url>https://api.github.com/users/rmnzr/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/rmnzr/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/rmnzr/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/rmnzr/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/rmnzr/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/rmnzr</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/kikko/devart-template/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/kikko/devart-template/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/kikko/devart-template/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/kikko/devart-template/branches{/branch}",
+  "clone_url": "https://github.com/kikko/devart-template.git",
+  "collaborators_url": "https://api.github.com/repos/kikko/devart-template/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/kikko/devart-template/comments{/number}",
+  "commits_url": "https://api.github.com/repos/kikko/devart-template/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/kikko/devart-template/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/kikko/devart-template/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/kikko/devart-template/contributors",
+  "created_at": "2014-02-06T09:27:22Z",
+  "default_branch": "master",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/kikko/devart-template/downloads",
+  "events_url": "https://api.github.com/repos/kikko/devart-template/events",
+  "fork": true,
+  "forks": 8,
+  "forks_count": 8,
+  "forks_url": "https://api.github.com/repos/kikko/devart-template/forks",
+  "full_name": "kikko/devart-template",
+  "git_commits_url": "https://api.github.com/repos/kikko/devart-template/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/kikko/devart-template/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/kikko/devart-template/git/tags{/sha}",
+  "git_url": "git://github.com/kikko/devart-template.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/kikko/devart-template/hooks",
+  "html_url": "https://github.com/kikko/devart-template",
+  "id": 16574285,
+  "issue_comment_url": "https://api.github.com/repos/kikko/devart-template/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/kikko/devart-template/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/kikko/devart-template/issues{/number}",
+  "keys_url": "https://api.github.com/repos/kikko/devart-template/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/kikko/devart-template/labels{/name}",
+  "language": "CoffeeScript",
+  "languages_url": "https://api.github.com/repos/kikko/devart-template/languages",
+  "merges_url": "https://api.github.com/repos/kikko/devart-template/merges",
+  "milestones_url": "https://api.github.com/repos/kikko/devart-template/milestones{/number}",
+  "mirror_url": null,
+  "name": "devart-template",
+  "notifications_url": "https://api.github.com/repos/kikko/devart-template/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/144372?v=3",
+    "events_url": "https://api.github.com/users/kikko/events{/privacy}",
+    "followers_url": "https://api.github.com/users/kikko/followers",
+    "following_url": "https://api.github.com/users/kikko/following{/other_user}",
+    "gists_url": "https://api.github.com/users/kikko/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/kikko",
+    "id": 144372,
+    "login": "kikko",
+    "organizations_url": "https://api.github.com/users/kikko/orgs",
+    "received_events_url": "https://api.github.com/users/kikko/received_events",
+    "repos_url": "https://api.github.com/users/kikko/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/kikko/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/kikko/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/kikko"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/kikko/devart-template/pulls{/number}",
+  "pushed_at": "2014-10-28T08:54:27Z",
+  "releases_url": "https://api.github.com/repos/kikko/devart-template/releases{/id}",
+  "size": 166218,
+  "ssh_url": "git@github.com:kikko/devart-template.git",
+  "stargazers_count": 15,
+  "stargazers_url": "https://api.github.com/repos/kikko/devart-template/stargazers",
+  "statuses_url": "https://api.github.com/repos/kikko/devart-template/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/kikko/devart-template/subscribers",
+  "subscription_url": "https://api.github.com/repos/kikko/devart-template/subscription",
+  "svn_url": "https://github.com/kikko/devart-template",
+  "tags_url": "https://api.github.com/repos/kikko/devart-template/tags",
+  "teams_url": "https://api.github.com/repos/kikko/devart-template/teams",
+  "trees_url": "https://api.github.com/repos/kikko/devart-template/git/trees{/sha}",
+  "updated_at": "2014-10-30T10:32:03Z",
+  "url": "https://api.github.com/repos/kikko/devart-template",
+  "watchers": 15,
+  "watchers_count": 15
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/rmnzr/devart-template/pulls{/number}</pulls_url>
+  <pushed_at>10/28/2014 8:54:27 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/rmnzr/devart-template/releases{/id}</releases_url>
+  <size>166218</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/devart-by-google/devart-template/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/devart-by-google/devart-template/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/devart-by-google/devart-template/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/devart-by-google/devart-template/branches{/branch}",
+  "clone_url": "https://github.com/devart-by-google/devart-template.git",
+  "collaborators_url": "https://api.github.com/repos/devart-by-google/devart-template/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/devart-by-google/devart-template/comments{/number}",
+  "commits_url": "https://api.github.com/repos/devart-by-google/devart-template/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/devart-by-google/devart-template/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/devart-by-google/devart-template/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/devart-by-google/devart-template/contributors",
+  "created_at": "2014-01-06T18:33:17Z",
+  "default_branch": "master",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/devart-by-google/devart-template/downloads",
+  "events_url": "https://api.github.com/repos/devart-by-google/devart-template/events",
+  "fork": false,
+  "forks": 2473,
+  "forks_count": 2473,
+  "forks_url": "https://api.github.com/repos/devart-by-google/devart-template/forks",
+  "full_name": "devart-by-google/devart-template",
+  "git_commits_url": "https://api.github.com/repos/devart-by-google/devart-template/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/devart-by-google/devart-template/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/devart-by-google/devart-template/git/tags{/sha}",
+  "git_url": "git://github.com/devart-by-google/devart-template.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/devart-by-google/devart-template/hooks",
+  "html_url": "https://github.com/devart-by-google/devart-template",
+  "id": 15681670,
+  "issue_comment_url": "https://api.github.com/repos/devart-by-google/devart-template/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/devart-by-google/devart-template/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/devart-by-google/devart-template/issues{/number}",
+  "keys_url": "https://api.github.com/repos/devart-by-google/devart-template/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/devart-by-google/devart-template/labels{/name}",
+  "language": null,
+  "languages_url": "https://api.github.com/repos/devart-by-google/devart-template/languages",
+  "merges_url": "https://api.github.com/repos/devart-by-google/devart-template/merges",
+  "milestones_url": "https://api.github.com/repos/devart-by-google/devart-template/milestones{/number}",
+  "mirror_url": null,
+  "name": "devart-template",
+  "notifications_url": "https://api.github.com/repos/devart-by-google/devart-template/notifications{?since,all,participating}",
+  "open_issues": 200,
+  "open_issues_count": 200,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/6205136?v=3",
+    "events_url": "https://api.github.com/users/devart-by-google/events{/privacy}",
+    "followers_url": "https://api.github.com/users/devart-by-google/followers",
+    "following_url": "https://api.github.com/users/devart-by-google/following{/other_user}",
+    "gists_url": "https://api.github.com/users/devart-by-google/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/devart-by-google",
+    "id": 6205136,
+    "login": "devart-by-google",
+    "organizations_url": "https://api.github.com/users/devart-by-google/orgs",
+    "received_events_url": "https://api.github.com/users/devart-by-google/received_events",
+    "repos_url": "https://api.github.com/users/devart-by-google/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/devart-by-google/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/devart-by-google/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/devart-by-google"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/devart-by-google/devart-template/pulls{/number}",
+  "pushed_at": "2014-03-28T18:05:32Z",
+  "releases_url": "https://api.github.com/repos/devart-by-google/devart-template/releases{/id}",
+  "size": 69237,
+  "ssh_url": "git@github.com:devart-by-google/devart-template.git",
+  "stargazers_count": 86,
+  "stargazers_url": "https://api.github.com/repos/devart-by-google/devart-template/stargazers",
+  "statuses_url": "https://api.github.com/repos/devart-by-google/devart-template/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/devart-by-google/devart-template/subscribers",
+  "subscription_url": "https://api.github.com/repos/devart-by-google/devart-template/subscription",
+  "svn_url": "https://github.com/devart-by-google/devart-template",
+  "tags_url": "https://api.github.com/repos/devart-by-google/devart-template/tags",
+  "teams_url": "https://api.github.com/repos/devart-by-google/devart-template/teams",
+  "trees_url": "https://api.github.com/repos/devart-by-google/devart-template/git/trees{/sha}",
+  "updated_at": "2014-08-24T03:42:46Z",
+  "url": "https://api.github.com/repos/devart-by-google/devart-template",
+  "watchers": 86,
+  "watchers_count": 86
+}</source>
+  <ssh_url>git@github.com:rmnzr/devart-template.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/rmnzr/devart-template/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/rmnzr/devart-template/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/rmnzr/devart-template/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/rmnzr/devart-template/subscription</subscription_url>
+  <svn_url>https://github.com/rmnzr/devart-template</svn_url>
+  <tags_url>https://api.github.com/repos/rmnzr/devart-template/tags</tags_url>
+  <teams_url>https://api.github.com/repos/rmnzr/devart-template/teams</teams_url>
+  <trees_url>https://api.github.com/repos/rmnzr/devart-template/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 2:15:17 AM</updated_at>
+  <url>https://api.github.com/repos/rmnzr/devart-template</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

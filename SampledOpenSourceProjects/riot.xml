@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a2009bd35431a4a001494</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/mprasad78/riot/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/mprasad78/riot/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/mprasad78/riot/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/mprasad78/riot/branches{/branch}</branches_url>
+  <clone_url>https://github.com/mprasad78/riot.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/mprasad78/riot/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/mprasad78/riot/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/mprasad78/riot/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/mprasad78/riot/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/mprasad78/riot/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/mprasad78/riot/contributors</contributors_url>
+  <created_at>12/11/2014 10:51:24 PM</created_at>
+  <default_branch>9.1.x</default_branch>
+  <description>
+  </description>
+  <downloads_url>https://api.github.com/repos/mprasad78/riot/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/mprasad78/riot/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/mprasad78/riot/forks</forks_url>
+  <full_name>mprasad78/riot</full_name>
+  <git_commits_url>https://api.github.com/repos/mprasad78/riot/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/mprasad78/riot/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/mprasad78/riot/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/mprasad78/riot.git</git_url>
+  <has_downloads>False</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://www.riotfamily.org</homepage>
+  <hooks_url>https://api.github.com/repos/mprasad78/riot/hooks</hooks_url>
+  <html_url>https://github.com/mprasad78/riot</html_url>
+  <id>27895645</id>
+  <issue_comment_url>https://api.github.com/repos/mprasad78/riot/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/mprasad78/riot/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/mprasad78/riot/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/mprasad78/riot/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/mprasad78/riot/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/mprasad78/riot/languages</languages_url>
+  <merges_url>https://api.github.com/repos/mprasad78/riot/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/mprasad78/riot/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>riot</name>
+  <network_count>27</network_count>
+  <notifications_url>https://api.github.com/repos/mprasad78/riot/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/8030002?v=3</avatar_url>
+    <events_url>https://api.github.com/users/mprasad78/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/mprasad78/followers</followers_url>
+    <following_url>https://api.github.com/users/mprasad78/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/mprasad78/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/mprasad78</html_url>
+    <id>8030002</id>
+    <login>mprasad78</login>
+    <organizations_url>https://api.github.com/users/mprasad78/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/mprasad78/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/mprasad78/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/mprasad78/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/mprasad78/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/mprasad78</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/riotfamily/riot/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/riotfamily/riot/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/riotfamily/riot/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/riotfamily/riot/branches{/branch}",
+  "clone_url": "https://github.com/riotfamily/riot.git",
+  "collaborators_url": "https://api.github.com/repos/riotfamily/riot/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/riotfamily/riot/comments{/number}",
+  "commits_url": "https://api.github.com/repos/riotfamily/riot/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/riotfamily/riot/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/riotfamily/riot/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/riotfamily/riot/contributors",
+  "created_at": "2009-11-18T10:25:58Z",
+  "default_branch": "9.1.x",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/riotfamily/riot/downloads",
+  "events_url": "https://api.github.com/repos/riotfamily/riot/events",
+  "fork": false,
+  "forks": 27,
+  "forks_count": 27,
+  "forks_url": "https://api.github.com/repos/riotfamily/riot/forks",
+  "full_name": "riotfamily/riot",
+  "git_commits_url": "https://api.github.com/repos/riotfamily/riot/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/riotfamily/riot/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/riotfamily/riot/git/tags{/sha}",
+  "git_url": "git://github.com/riotfamily/riot.git",
+  "has_downloads": false,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://www.riotfamily.org",
+  "hooks_url": "https://api.github.com/repos/riotfamily/riot/hooks",
+  "html_url": "https://github.com/riotfamily/riot",
+  "id": 377005,
+  "issue_comment_url": "https://api.github.com/repos/riotfamily/riot/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/riotfamily/riot/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/riotfamily/riot/issues{/number}",
+  "keys_url": "https://api.github.com/repos/riotfamily/riot/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/riotfamily/riot/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/riotfamily/riot/languages",
+  "merges_url": "https://api.github.com/repos/riotfamily/riot/merges",
+  "milestones_url": "https://api.github.com/repos/riotfamily/riot/milestones{/number}",
+  "mirror_url": null,
+  "name": "riot",
+  "notifications_url": "https://api.github.com/repos/riotfamily/riot/notifications{?since,all,participating}",
+  "open_issues": 39,
+  "open_issues_count": 39,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/154765?v=3",
+    "events_url": "https://api.github.com/users/riotfamily/events{/privacy}",
+    "followers_url": "https://api.github.com/users/riotfamily/followers",
+    "following_url": "https://api.github.com/users/riotfamily/following{/other_user}",
+    "gists_url": "https://api.github.com/users/riotfamily/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/riotfamily",
+    "id": 154765,
+    "login": "riotfamily",
+    "organizations_url": "https://api.github.com/users/riotfamily/orgs",
+    "received_events_url": "https://api.github.com/users/riotfamily/received_events",
+    "repos_url": "https://api.github.com/users/riotfamily/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/riotfamily/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/riotfamily/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/riotfamily"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/riotfamily/riot/pulls{/number}",
+  "pushed_at": "2014-12-04T09:30:08Z",
+  "releases_url": "https://api.github.com/repos/riotfamily/riot/releases{/id}",
+  "size": 24699,
+  "ssh_url": "git@github.com:riotfamily/riot.git",
+  "stargazers_count": 50,
+  "stargazers_url": "https://api.github.com/repos/riotfamily/riot/stargazers",
+  "statuses_url": "https://api.github.com/repos/riotfamily/riot/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/riotfamily/riot/subscribers",
+  "subscription_url": "https://api.github.com/repos/riotfamily/riot/subscription",
+  "svn_url": "https://github.com/riotfamily/riot",
+  "tags_url": "https://api.github.com/repos/riotfamily/riot/tags",
+  "teams_url": "https://api.github.com/repos/riotfamily/riot/teams",
+  "trees_url": "https://api.github.com/repos/riotfamily/riot/git/trees{/sha}",
+  "updated_at": "2014-12-10T11:36:47Z",
+  "url": "https://api.github.com/repos/riotfamily/riot",
+  "watchers": 50,
+  "watchers_count": 50
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/mprasad78/riot/pulls{/number}</pulls_url>
+  <pushed_at>12/4/2014 9:30:08 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/mprasad78/riot/releases{/id}</releases_url>
+  <size>24699</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/riotfamily/riot/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/riotfamily/riot/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/riotfamily/riot/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/riotfamily/riot/branches{/branch}",
+  "clone_url": "https://github.com/riotfamily/riot.git",
+  "collaborators_url": "https://api.github.com/repos/riotfamily/riot/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/riotfamily/riot/comments{/number}",
+  "commits_url": "https://api.github.com/repos/riotfamily/riot/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/riotfamily/riot/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/riotfamily/riot/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/riotfamily/riot/contributors",
+  "created_at": "2009-11-18T10:25:58Z",
+  "default_branch": "9.1.x",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/riotfamily/riot/downloads",
+  "events_url": "https://api.github.com/repos/riotfamily/riot/events",
+  "fork": false,
+  "forks": 27,
+  "forks_count": 27,
+  "forks_url": "https://api.github.com/repos/riotfamily/riot/forks",
+  "full_name": "riotfamily/riot",
+  "git_commits_url": "https://api.github.com/repos/riotfamily/riot/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/riotfamily/riot/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/riotfamily/riot/git/tags{/sha}",
+  "git_url": "git://github.com/riotfamily/riot.git",
+  "has_downloads": false,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://www.riotfamily.org",
+  "hooks_url": "https://api.github.com/repos/riotfamily/riot/hooks",
+  "html_url": "https://github.com/riotfamily/riot",
+  "id": 377005,
+  "issue_comment_url": "https://api.github.com/repos/riotfamily/riot/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/riotfamily/riot/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/riotfamily/riot/issues{/number}",
+  "keys_url": "https://api.github.com/repos/riotfamily/riot/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/riotfamily/riot/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/riotfamily/riot/languages",
+  "merges_url": "https://api.github.com/repos/riotfamily/riot/merges",
+  "milestones_url": "https://api.github.com/repos/riotfamily/riot/milestones{/number}",
+  "mirror_url": null,
+  "name": "riot",
+  "notifications_url": "https://api.github.com/repos/riotfamily/riot/notifications{?since,all,participating}",
+  "open_issues": 39,
+  "open_issues_count": 39,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/154765?v=3",
+    "events_url": "https://api.github.com/users/riotfamily/events{/privacy}",
+    "followers_url": "https://api.github.com/users/riotfamily/followers",
+    "following_url": "https://api.github.com/users/riotfamily/following{/other_user}",
+    "gists_url": "https://api.github.com/users/riotfamily/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/riotfamily",
+    "id": 154765,
+    "login": "riotfamily",
+    "organizations_url": "https://api.github.com/users/riotfamily/orgs",
+    "received_events_url": "https://api.github.com/users/riotfamily/received_events",
+    "repos_url": "https://api.github.com/users/riotfamily/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/riotfamily/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/riotfamily/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/riotfamily"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/riotfamily/riot/pulls{/number}",
+  "pushed_at": "2014-12-04T09:30:08Z",
+  "releases_url": "https://api.github.com/repos/riotfamily/riot/releases{/id}",
+  "size": 24699,
+  "ssh_url": "git@github.com:riotfamily/riot.git",
+  "stargazers_count": 50,
+  "stargazers_url": "https://api.github.com/repos/riotfamily/riot/stargazers",
+  "statuses_url": "https://api.github.com/repos/riotfamily/riot/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/riotfamily/riot/subscribers",
+  "subscription_url": "https://api.github.com/repos/riotfamily/riot/subscription",
+  "svn_url": "https://github.com/riotfamily/riot",
+  "tags_url": "https://api.github.com/repos/riotfamily/riot/tags",
+  "teams_url": "https://api.github.com/repos/riotfamily/riot/teams",
+  "trees_url": "https://api.github.com/repos/riotfamily/riot/git/trees{/sha}",
+  "updated_at": "2014-12-10T11:36:47Z",
+  "url": "https://api.github.com/repos/riotfamily/riot",
+  "watchers": 50,
+  "watchers_count": 50
+}</source>
+  <ssh_url>git@github.com:mprasad78/riot.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/mprasad78/riot/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/mprasad78/riot/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/mprasad78/riot/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/mprasad78/riot/subscription</subscription_url>
+  <svn_url>https://github.com/mprasad78/riot</svn_url>
+  <tags_url>https://api.github.com/repos/mprasad78/riot/tags</tags_url>
+  <teams_url>https://api.github.com/repos/mprasad78/riot/teams</teams_url>
+  <trees_url>https://api.github.com/repos/mprasad78/riot/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 10:51:28 PM</updated_at>
+  <url>https://api.github.com/repos/mprasad78/riot</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

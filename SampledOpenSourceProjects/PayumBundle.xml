@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a3b49bd354309bb001ba6</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/mvar/PayumBundle/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/mvar/PayumBundle/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/mvar/PayumBundle/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/mvar/PayumBundle/branches{/branch}</branches_url>
+  <clone_url>https://github.com/mvar/PayumBundle.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/mvar/PayumBundle/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/mvar/PayumBundle/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/mvar/PayumBundle/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/mvar/PayumBundle/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/mvar/PayumBundle/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/mvar/PayumBundle/contributors</contributors_url>
+  <created_at>12/8/2014 9:45:59 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more</description>
+  <downloads_url>https://api.github.com/repos/mvar/PayumBundle/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/mvar/PayumBundle/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/mvar/PayumBundle/forks</forks_url>
+  <full_name>mvar/PayumBundle</full_name>
+  <git_commits_url>https://api.github.com/repos/mvar/PayumBundle/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/mvar/PayumBundle/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/mvar/PayumBundle/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/mvar/PayumBundle.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>  http://payum.org/doc#PayumBundle</homepage>
+  <hooks_url>https://api.github.com/repos/mvar/PayumBundle/hooks</hooks_url>
+  <html_url>https://github.com/mvar/PayumBundle</html_url>
+  <id>27708045</id>
+  <issue_comment_url>https://api.github.com/repos/mvar/PayumBundle/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/mvar/PayumBundle/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/mvar/PayumBundle/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/mvar/PayumBundle/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/mvar/PayumBundle/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/mvar/PayumBundle/languages</languages_url>
+  <merges_url>https://api.github.com/repos/mvar/PayumBundle/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/mvar/PayumBundle/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>PayumBundle</name>
+  <network_count>44</network_count>
+  <notifications_url>https://api.github.com/repos/mvar/PayumBundle/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1286752?v=3</avatar_url>
+    <events_url>https://api.github.com/users/mvar/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/mvar/followers</followers_url>
+    <following_url>https://api.github.com/users/mvar/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/mvar/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/mvar</html_url>
+    <id>1286752</id>
+    <login>mvar</login>
+    <organizations_url>https://api.github.com/users/mvar/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/mvar/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/mvar/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/mvar/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/mvar/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/mvar</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/Payum/PayumBundle/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Payum/PayumBundle/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Payum/PayumBundle/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Payum/PayumBundle/branches{/branch}",
+  "clone_url": "https://github.com/Payum/PayumBundle.git",
+  "collaborators_url": "https://api.github.com/repos/Payum/PayumBundle/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Payum/PayumBundle/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Payum/PayumBundle/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Payum/PayumBundle/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Payum/PayumBundle/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Payum/PayumBundle/contributors",
+  "created_at": "2012-12-05T11:40:39Z",
+  "default_branch": "master",
+  "description": "Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more",
+  "downloads_url": "https://api.github.com/repos/Payum/PayumBundle/downloads",
+  "events_url": "https://api.github.com/repos/Payum/PayumBundle/events",
+  "fork": false,
+  "forks": 44,
+  "forks_count": 44,
+  "forks_url": "https://api.github.com/repos/Payum/PayumBundle/forks",
+  "full_name": "Payum/PayumBundle",
+  "git_commits_url": "https://api.github.com/repos/Payum/PayumBundle/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Payum/PayumBundle/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Payum/PayumBundle/git/tags{/sha}",
+  "git_url": "git://github.com/Payum/PayumBundle.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "  http://payum.org/doc#PayumBundle",
+  "hooks_url": "https://api.github.com/repos/Payum/PayumBundle/hooks",
+  "html_url": "https://github.com/Payum/PayumBundle",
+  "id": 7016481,
+  "issue_comment_url": "https://api.github.com/repos/Payum/PayumBundle/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Payum/PayumBundle/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Payum/PayumBundle/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Payum/PayumBundle/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Payum/PayumBundle/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/Payum/PayumBundle/languages",
+  "merges_url": "https://api.github.com/repos/Payum/PayumBundle/merges",
+  "milestones_url": "https://api.github.com/repos/Payum/PayumBundle/milestones{/number}",
+  "mirror_url": null,
+  "name": "PayumBundle",
+  "notifications_url": "https://api.github.com/repos/Payum/PayumBundle/notifications{?since,all,participating}",
+  "open_issues": 19,
+  "open_issues_count": 19,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2638697?v=3",
+    "events_url": "https://api.github.com/users/Payum/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Payum/followers",
+    "following_url": "https://api.github.com/users/Payum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Payum/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Payum",
+    "id": 2638697,
+    "login": "Payum",
+    "organizations_url": "https://api.github.com/users/Payum/orgs",
+    "received_events_url": "https://api.github.com/users/Payum/received_events",
+    "repos_url": "https://api.github.com/users/Payum/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Payum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Payum/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/Payum"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Payum/PayumBundle/pulls{/number}",
+  "pushed_at": "2014-12-08T13:12:38Z",
+  "releases_url": "https://api.github.com/repos/Payum/PayumBundle/releases{/id}",
+  "size": 2361,
+  "ssh_url": "git@github.com:Payum/PayumBundle.git",
+  "stargazers_count": 117,
+  "stargazers_url": "https://api.github.com/repos/Payum/PayumBundle/stargazers",
+  "statuses_url": "https://api.github.com/repos/Payum/PayumBundle/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Payum/PayumBundle/subscribers",
+  "subscription_url": "https://api.github.com/repos/Payum/PayumBundle/subscription",
+  "svn_url": "https://github.com/Payum/PayumBundle",
+  "tags_url": "https://api.github.com/repos/Payum/PayumBundle/tags",
+  "teams_url": "https://api.github.com/repos/Payum/PayumBundle/teams",
+  "trees_url": "https://api.github.com/repos/Payum/PayumBundle/git/trees{/sha}",
+  "updated_at": "2014-12-08T22:49:00Z",
+  "url": "https://api.github.com/repos/Payum/PayumBundle",
+  "watchers": 117,
+  "watchers_count": 117
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/mvar/PayumBundle/pulls{/number}</pulls_url>
+  <pushed_at>12/8/2014 1:14:04 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/mvar/PayumBundle/releases{/id}</releases_url>
+  <size>847</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/Payum/PayumBundle/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Payum/PayumBundle/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Payum/PayumBundle/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Payum/PayumBundle/branches{/branch}",
+  "clone_url": "https://github.com/Payum/PayumBundle.git",
+  "collaborators_url": "https://api.github.com/repos/Payum/PayumBundle/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Payum/PayumBundle/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Payum/PayumBundle/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Payum/PayumBundle/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Payum/PayumBundle/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Payum/PayumBundle/contributors",
+  "created_at": "2012-12-05T11:40:39Z",
+  "default_branch": "master",
+  "description": "Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more",
+  "downloads_url": "https://api.github.com/repos/Payum/PayumBundle/downloads",
+  "events_url": "https://api.github.com/repos/Payum/PayumBundle/events",
+  "fork": false,
+  "forks": 44,
+  "forks_count": 44,
+  "forks_url": "https://api.github.com/repos/Payum/PayumBundle/forks",
+  "full_name": "Payum/PayumBundle",
+  "git_commits_url": "https://api.github.com/repos/Payum/PayumBundle/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Payum/PayumBundle/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Payum/PayumBundle/git/tags{/sha}",
+  "git_url": "git://github.com/Payum/PayumBundle.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "  http://payum.org/doc#PayumBundle",
+  "hooks_url": "https://api.github.com/repos/Payum/PayumBundle/hooks",
+  "html_url": "https://github.com/Payum/PayumBundle",
+  "id": 7016481,
+  "issue_comment_url": "https://api.github.com/repos/Payum/PayumBundle/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Payum/PayumBundle/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Payum/PayumBundle/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Payum/PayumBundle/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Payum/PayumBundle/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/Payum/PayumBundle/languages",
+  "merges_url": "https://api.github.com/repos/Payum/PayumBundle/merges",
+  "milestones_url": "https://api.github.com/repos/Payum/PayumBundle/milestones{/number}",
+  "mirror_url": null,
+  "name": "PayumBundle",
+  "notifications_url": "https://api.github.com/repos/Payum/PayumBundle/notifications{?since,all,participating}",
+  "open_issues": 19,
+  "open_issues_count": 19,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2638697?v=3",
+    "events_url": "https://api.github.com/users/Payum/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Payum/followers",
+    "following_url": "https://api.github.com/users/Payum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Payum/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Payum",
+    "id": 2638697,
+    "login": "Payum",
+    "organizations_url": "https://api.github.com/users/Payum/orgs",
+    "received_events_url": "https://api.github.com/users/Payum/received_events",
+    "repos_url": "https://api.github.com/users/Payum/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Payum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Payum/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/Payum"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Payum/PayumBundle/pulls{/number}",
+  "pushed_at": "2014-12-08T13:12:38Z",
+  "releases_url": "https://api.github.com/repos/Payum/PayumBundle/releases{/id}",
+  "size": 2361,
+  "ssh_url": "git@github.com:Payum/PayumBundle.git",
+  "stargazers_count": 117,
+  "stargazers_url": "https://api.github.com/repos/Payum/PayumBundle/stargazers",
+  "statuses_url": "https://api.github.com/repos/Payum/PayumBundle/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Payum/PayumBundle/subscribers",
+  "subscription_url": "https://api.github.com/repos/Payum/PayumBundle/subscription",
+  "svn_url": "https://github.com/Payum/PayumBundle",
+  "tags_url": "https://api.github.com/repos/Payum/PayumBundle/tags",
+  "teams_url": "https://api.github.com/repos/Payum/PayumBundle/teams",
+  "trees_url": "https://api.github.com/repos/Payum/PayumBundle/git/trees{/sha}",
+  "updated_at": "2014-12-08T22:49:00Z",
+  "url": "https://api.github.com/repos/Payum/PayumBundle",
+  "watchers": 117,
+  "watchers_count": 117
+}</source>
+  <ssh_url>git@github.com:mvar/PayumBundle.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/mvar/PayumBundle/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/mvar/PayumBundle/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/mvar/PayumBundle/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/mvar/PayumBundle/subscription</subscription_url>
+  <svn_url>https://github.com/mvar/PayumBundle</svn_url>
+  <tags_url>https://api.github.com/repos/mvar/PayumBundle/tags</tags_url>
+  <teams_url>https://api.github.com/repos/mvar/PayumBundle/teams</teams_url>
+  <trees_url>https://api.github.com/repos/mvar/PayumBundle/git/trees{/sha}</trees_url>
+  <updated_at>12/8/2014 9:46:00 AM</updated_at>
+  <url>https://api.github.com/repos/mvar/PayumBundle</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

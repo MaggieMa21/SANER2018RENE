@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cc998bd3543168100d9b6</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/jwcunhagit/annyang/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/jwcunhagit/annyang/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/jwcunhagit/annyang/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/jwcunhagit/annyang/branches{/branch}</branches_url>
+  <clone_url>https://github.com/jwcunhagit/annyang.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/jwcunhagit/annyang/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/jwcunhagit/annyang/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/jwcunhagit/annyang/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/jwcunhagit/annyang/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/jwcunhagit/annyang/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/jwcunhagit/annyang/contributors</contributors_url>
+  <created_at>12/13/2014 11:19:45 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>A javascript library for adding voice commands to your site, using speech recognition.</description>
+  <downloads_url>https://api.github.com/repos/jwcunhagit/annyang/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/jwcunhagit/annyang/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/jwcunhagit/annyang/forks</forks_url>
+  <full_name>jwcunhagit/annyang</full_name>
+  <git_commits_url>https://api.github.com/repos/jwcunhagit/annyang/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/jwcunhagit/annyang/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/jwcunhagit/annyang/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/jwcunhagit/annyang.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>https://www.talater.com/annyang/</homepage>
+  <hooks_url>https://api.github.com/repos/jwcunhagit/annyang/hooks</hooks_url>
+  <html_url>https://github.com/jwcunhagit/annyang</html_url>
+  <id>27976972</id>
+  <issue_comment_url>https://api.github.com/repos/jwcunhagit/annyang/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/jwcunhagit/annyang/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/jwcunhagit/annyang/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/jwcunhagit/annyang/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/jwcunhagit/annyang/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/jwcunhagit/annyang/languages</languages_url>
+  <merges_url>https://api.github.com/repos/jwcunhagit/annyang/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/jwcunhagit/annyang/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>annyang</name>
+  <network_count>244</network_count>
+  <notifications_url>https://api.github.com/repos/jwcunhagit/annyang/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/4650746?v=3</avatar_url>
+    <events_url>https://api.github.com/users/jwcunhagit/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/jwcunhagit/followers</followers_url>
+    <following_url>https://api.github.com/users/jwcunhagit/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/jwcunhagit/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/jwcunhagit</html_url>
+    <id>4650746</id>
+    <login>jwcunhagit</login>
+    <organizations_url>https://api.github.com/users/jwcunhagit/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/jwcunhagit/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/jwcunhagit/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/jwcunhagit/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/jwcunhagit/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/jwcunhagit</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/TalAter/annyang/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/TalAter/annyang/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/TalAter/annyang/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/TalAter/annyang/branches{/branch}",
+  "clone_url": "https://github.com/TalAter/annyang.git",
+  "collaborators_url": "https://api.github.com/repos/TalAter/annyang/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/TalAter/annyang/comments{/number}",
+  "commits_url": "https://api.github.com/repos/TalAter/annyang/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/TalAter/annyang/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/TalAter/annyang/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/TalAter/annyang/contributors",
+  "created_at": "2013-08-23T10:59:34Z",
+  "default_branch": "master",
+  "description": "A javascript library for adding voice commands to your site, using speech recognition.",
+  "downloads_url": "https://api.github.com/repos/TalAter/annyang/downloads",
+  "events_url": "https://api.github.com/repos/TalAter/annyang/events",
+  "fork": false,
+  "forks": 244,
+  "forks_count": 244,
+  "forks_url": "https://api.github.com/repos/TalAter/annyang/forks",
+  "full_name": "TalAter/annyang",
+  "git_commits_url": "https://api.github.com/repos/TalAter/annyang/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/TalAter/annyang/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/TalAter/annyang/git/tags{/sha}",
+  "git_url": "git://github.com/TalAter/annyang.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "https://www.talater.com/annyang/",
+  "hooks_url": "https://api.github.com/repos/TalAter/annyang/hooks",
+  "html_url": "https://github.com/TalAter/annyang",
+  "id": 12320895,
+  "issue_comment_url": "https://api.github.com/repos/TalAter/annyang/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/TalAter/annyang/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/TalAter/annyang/issues{/number}",
+  "keys_url": "https://api.github.com/repos/TalAter/annyang/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/TalAter/annyang/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/TalAter/annyang/languages",
+  "merges_url": "https://api.github.com/repos/TalAter/annyang/merges",
+  "milestones_url": "https://api.github.com/repos/TalAter/annyang/milestones{/number}",
+  "mirror_url": null,
+  "name": "annyang",
+  "notifications_url": "https://api.github.com/repos/TalAter/annyang/notifications{?since,all,participating}",
+  "open_issues": 24,
+  "open_issues_count": 24,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/926653?v=3",
+    "events_url": "https://api.github.com/users/TalAter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/TalAter/followers",
+    "following_url": "https://api.github.com/users/TalAter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TalAter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/TalAter",
+    "id": 926653,
+    "login": "TalAter",
+    "organizations_url": "https://api.github.com/users/TalAter/orgs",
+    "received_events_url": "https://api.github.com/users/TalAter/received_events",
+    "repos_url": "https://api.github.com/users/TalAter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/TalAter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TalAter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/TalAter"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/TalAter/annyang/pulls{/number}",
+  "pushed_at": "2014-11-25T09:39:54Z",
+  "releases_url": "https://api.github.com/repos/TalAter/annyang/releases{/id}",
+  "size": 1381,
+  "ssh_url": "git@github.com:TalAter/annyang.git",
+  "stargazers_count": 1785,
+  "stargazers_url": "https://api.github.com/repos/TalAter/annyang/stargazers",
+  "statuses_url": "https://api.github.com/repos/TalAter/annyang/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/TalAter/annyang/subscribers",
+  "subscription_url": "https://api.github.com/repos/TalAter/annyang/subscription",
+  "svn_url": "https://github.com/TalAter/annyang",
+  "tags_url": "https://api.github.com/repos/TalAter/annyang/tags",
+  "teams_url": "https://api.github.com/repos/TalAter/annyang/teams",
+  "trees_url": "https://api.github.com/repos/TalAter/annyang/git/trees{/sha}",
+  "updated_at": "2014-12-13T06:16:35Z",
+  "url": "https://api.github.com/repos/TalAter/annyang",
+  "watchers": 1785,
+  "watchers_count": 1785
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/jwcunhagit/annyang/pulls{/number}</pulls_url>
+  <pushed_at>11/25/2014 9:39:54 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/jwcunhagit/annyang/releases{/id}</releases_url>
+  <size>1381</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/TalAter/annyang/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/TalAter/annyang/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/TalAter/annyang/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/TalAter/annyang/branches{/branch}",
+  "clone_url": "https://github.com/TalAter/annyang.git",
+  "collaborators_url": "https://api.github.com/repos/TalAter/annyang/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/TalAter/annyang/comments{/number}",
+  "commits_url": "https://api.github.com/repos/TalAter/annyang/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/TalAter/annyang/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/TalAter/annyang/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/TalAter/annyang/contributors",
+  "created_at": "2013-08-23T10:59:34Z",
+  "default_branch": "master",
+  "description": "A javascript library for adding voice commands to your site, using speech recognition.",
+  "downloads_url": "https://api.github.com/repos/TalAter/annyang/downloads",
+  "events_url": "https://api.github.com/repos/TalAter/annyang/events",
+  "fork": false,
+  "forks": 244,
+  "forks_count": 244,
+  "forks_url": "https://api.github.com/repos/TalAter/annyang/forks",
+  "full_name": "TalAter/annyang",
+  "git_commits_url": "https://api.github.com/repos/TalAter/annyang/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/TalAter/annyang/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/TalAter/annyang/git/tags{/sha}",
+  "git_url": "git://github.com/TalAter/annyang.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "https://www.talater.com/annyang/",
+  "hooks_url": "https://api.github.com/repos/TalAter/annyang/hooks",
+  "html_url": "https://github.com/TalAter/annyang",
+  "id": 12320895,
+  "issue_comment_url": "https://api.github.com/repos/TalAter/annyang/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/TalAter/annyang/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/TalAter/annyang/issues{/number}",
+  "keys_url": "https://api.github.com/repos/TalAter/annyang/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/TalAter/annyang/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/TalAter/annyang/languages",
+  "merges_url": "https://api.github.com/repos/TalAter/annyang/merges",
+  "milestones_url": "https://api.github.com/repos/TalAter/annyang/milestones{/number}",
+  "mirror_url": null,
+  "name": "annyang",
+  "notifications_url": "https://api.github.com/repos/TalAter/annyang/notifications{?since,all,participating}",
+  "open_issues": 24,
+  "open_issues_count": 24,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/926653?v=3",
+    "events_url": "https://api.github.com/users/TalAter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/TalAter/followers",
+    "following_url": "https://api.github.com/users/TalAter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TalAter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/TalAter",
+    "id": 926653,
+    "login": "TalAter",
+    "organizations_url": "https://api.github.com/users/TalAter/orgs",
+    "received_events_url": "https://api.github.com/users/TalAter/received_events",
+    "repos_url": "https://api.github.com/users/TalAter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/TalAter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TalAter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/TalAter"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/TalAter/annyang/pulls{/number}",
+  "pushed_at": "2014-11-25T09:39:54Z",
+  "releases_url": "https://api.github.com/repos/TalAter/annyang/releases{/id}",
+  "size": 1381,
+  "ssh_url": "git@github.com:TalAter/annyang.git",
+  "stargazers_count": 1785,
+  "stargazers_url": "https://api.github.com/repos/TalAter/annyang/stargazers",
+  "statuses_url": "https://api.github.com/repos/TalAter/annyang/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/TalAter/annyang/subscribers",
+  "subscription_url": "https://api.github.com/repos/TalAter/annyang/subscription",
+  "svn_url": "https://github.com/TalAter/annyang",
+  "tags_url": "https://api.github.com/repos/TalAter/annyang/tags",
+  "teams_url": "https://api.github.com/repos/TalAter/annyang/teams",
+  "trees_url": "https://api.github.com/repos/TalAter/annyang/git/trees{/sha}",
+  "updated_at": "2014-12-13T06:16:35Z",
+  "url": "https://api.github.com/repos/TalAter/annyang",
+  "watchers": 1785,
+  "watchers_count": 1785
+}</source>
+  <ssh_url>git@github.com:jwcunhagit/annyang.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/jwcunhagit/annyang/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/jwcunhagit/annyang/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/jwcunhagit/annyang/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/jwcunhagit/annyang/subscription</subscription_url>
+  <svn_url>https://github.com/jwcunhagit/annyang</svn_url>
+  <tags_url>https://api.github.com/repos/jwcunhagit/annyang/tags</tags_url>
+  <teams_url>https://api.github.com/repos/jwcunhagit/annyang/teams</teams_url>
+  <trees_url>https://api.github.com/repos/jwcunhagit/annyang/git/trees{/sha}</trees_url>
+  <updated_at>12/13/2014 11:19:45 PM</updated_at>
+  <url>https://api.github.com/repos/jwcunhagit/annyang</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

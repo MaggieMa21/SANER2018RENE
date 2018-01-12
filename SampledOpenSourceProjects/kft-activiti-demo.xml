@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d0cd8bd35430a6f00f100</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/nandychen/kft-activiti-demo/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/nandychen/kft-activiti-demo/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/nandychen/kft-activiti-demo/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/nandychen/kft-activiti-demo/branches{/branch}</branches_url>
+  <clone_url>https://github.com/nandychen/kft-activiti-demo.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/nandychen/kft-activiti-demo/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/nandychen/kft-activiti-demo/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/nandychen/kft-activiti-demo/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/nandychen/kft-activiti-demo/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/nandychen/kft-activiti-demo/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/nandychen/kft-activiti-demo/contributors</contributors_url>
+  <created_at>12/14/2014 4:06:40 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Demo for workflow framework and BPM platform -- Activiti</description>
+  <downloads_url>https://api.github.com/repos/nandychen/kft-activiti-demo/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/nandychen/kft-activiti-demo/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/nandychen/kft-activiti-demo/forks</forks_url>
+  <full_name>nandychen/kft-activiti-demo</full_name>
+  <git_commits_url>https://api.github.com/repos/nandychen/kft-activiti-demo/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/nandychen/kft-activiti-demo/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/nandychen/kft-activiti-demo/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/nandychen/kft-activiti-demo.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://www.kafeitu.me/activiti/2012/05/26/kft-activiti-demo.html</homepage>
+  <hooks_url>https://api.github.com/repos/nandychen/kft-activiti-demo/hooks</hooks_url>
+  <html_url>https://github.com/nandychen/kft-activiti-demo</html_url>
+  <id>27982813</id>
+  <issue_comment_url>https://api.github.com/repos/nandychen/kft-activiti-demo/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/nandychen/kft-activiti-demo/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/nandychen/kft-activiti-demo/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/nandychen/kft-activiti-demo/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/nandychen/kft-activiti-demo/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/nandychen/kft-activiti-demo/languages</languages_url>
+  <merges_url>https://api.github.com/repos/nandychen/kft-activiti-demo/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/nandychen/kft-activiti-demo/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>kft-activiti-demo</name>
+  <network_count>469</network_count>
+  <notifications_url>https://api.github.com/repos/nandychen/kft-activiti-demo/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1040231?v=3</avatar_url>
+    <events_url>https://api.github.com/users/nandychen/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/nandychen/followers</followers_url>
+    <following_url>https://api.github.com/users/nandychen/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/nandychen/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/nandychen</html_url>
+    <id>1040231</id>
+    <login>nandychen</login>
+    <organizations_url>https://api.github.com/users/nandychen/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/nandychen/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/nandychen/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/nandychen/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/nandychen/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/nandychen</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/branches{/branch}",
+  "clone_url": "https://github.com/henryyan/kft-activiti-demo.git",
+  "collaborators_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/comments{/number}",
+  "commits_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/contributors",
+  "created_at": "2011-11-25T05:09:07Z",
+  "default_branch": "master",
+  "description": "Demo for workflow framework and BPM platform -- Activiti",
+  "downloads_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/downloads",
+  "events_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/events",
+  "fork": false,
+  "forks": 469,
+  "forks_count": 469,
+  "forks_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/forks",
+  "full_name": "henryyan/kft-activiti-demo",
+  "git_commits_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/tags{/sha}",
+  "git_url": "git://github.com/henryyan/kft-activiti-demo.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://www.kafeitu.me/activiti/2012/05/26/kft-activiti-demo.html",
+  "hooks_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/hooks",
+  "html_url": "https://github.com/henryyan/kft-activiti-demo",
+  "id": 2847776,
+  "issue_comment_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/issues{/number}",
+  "keys_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/languages",
+  "merges_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/merges",
+  "milestones_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/milestones{/number}",
+  "mirror_url": null,
+  "name": "kft-activiti-demo",
+  "notifications_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/notifications{?since,all,participating}",
+  "open_issues": 7,
+  "open_issues_count": 7,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1219399?v=3",
+    "events_url": "https://api.github.com/users/henryyan/events{/privacy}",
+    "followers_url": "https://api.github.com/users/henryyan/followers",
+    "following_url": "https://api.github.com/users/henryyan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/henryyan/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/henryyan",
+    "id": 1219399,
+    "login": "henryyan",
+    "organizations_url": "https://api.github.com/users/henryyan/orgs",
+    "received_events_url": "https://api.github.com/users/henryyan/received_events",
+    "repos_url": "https://api.github.com/users/henryyan/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/henryyan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/henryyan/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/henryyan"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/pulls{/number}",
+  "pushed_at": "2014-08-06T06:13:51Z",
+  "releases_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/releases{/id}",
+  "size": 147365,
+  "ssh_url": "git@github.com:henryyan/kft-activiti-demo.git",
+  "stargazers_count": 216,
+  "stargazers_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/stargazers",
+  "statuses_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/subscribers",
+  "subscription_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/subscription",
+  "svn_url": "https://github.com/henryyan/kft-activiti-demo",
+  "tags_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/tags",
+  "teams_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/teams",
+  "trees_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/trees{/sha}",
+  "updated_at": "2014-12-10T09:43:36Z",
+  "url": "https://api.github.com/repos/henryyan/kft-activiti-demo",
+  "watchers": 216,
+  "watchers_count": 216
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/nandychen/kft-activiti-demo/pulls{/number}</pulls_url>
+  <pushed_at>8/6/2014 6:13:51 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/nandychen/kft-activiti-demo/releases{/id}</releases_url>
+  <size>147365</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/branches{/branch}",
+  "clone_url": "https://github.com/henryyan/kft-activiti-demo.git",
+  "collaborators_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/comments{/number}",
+  "commits_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/contributors",
+  "created_at": "2011-11-25T05:09:07Z",
+  "default_branch": "master",
+  "description": "Demo for workflow framework and BPM platform -- Activiti",
+  "downloads_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/downloads",
+  "events_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/events",
+  "fork": false,
+  "forks": 469,
+  "forks_count": 469,
+  "forks_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/forks",
+  "full_name": "henryyan/kft-activiti-demo",
+  "git_commits_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/tags{/sha}",
+  "git_url": "git://github.com/henryyan/kft-activiti-demo.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://www.kafeitu.me/activiti/2012/05/26/kft-activiti-demo.html",
+  "hooks_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/hooks",
+  "html_url": "https://github.com/henryyan/kft-activiti-demo",
+  "id": 2847776,
+  "issue_comment_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/issues{/number}",
+  "keys_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/languages",
+  "merges_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/merges",
+  "milestones_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/milestones{/number}",
+  "mirror_url": null,
+  "name": "kft-activiti-demo",
+  "notifications_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/notifications{?since,all,participating}",
+  "open_issues": 7,
+  "open_issues_count": 7,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1219399?v=3",
+    "events_url": "https://api.github.com/users/henryyan/events{/privacy}",
+    "followers_url": "https://api.github.com/users/henryyan/followers",
+    "following_url": "https://api.github.com/users/henryyan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/henryyan/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/henryyan",
+    "id": 1219399,
+    "login": "henryyan",
+    "organizations_url": "https://api.github.com/users/henryyan/orgs",
+    "received_events_url": "https://api.github.com/users/henryyan/received_events",
+    "repos_url": "https://api.github.com/users/henryyan/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/henryyan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/henryyan/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/henryyan"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/pulls{/number}",
+  "pushed_at": "2014-08-06T06:13:51Z",
+  "releases_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/releases{/id}",
+  "size": 147365,
+  "ssh_url": "git@github.com:henryyan/kft-activiti-demo.git",
+  "stargazers_count": 216,
+  "stargazers_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/stargazers",
+  "statuses_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/subscribers",
+  "subscription_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/subscription",
+  "svn_url": "https://github.com/henryyan/kft-activiti-demo",
+  "tags_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/tags",
+  "teams_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/teams",
+  "trees_url": "https://api.github.com/repos/henryyan/kft-activiti-demo/git/trees{/sha}",
+  "updated_at": "2014-12-10T09:43:36Z",
+  "url": "https://api.github.com/repos/henryyan/kft-activiti-demo",
+  "watchers": 216,
+  "watchers_count": 216
+}</source>
+  <ssh_url>git@github.com:nandychen/kft-activiti-demo.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/nandychen/kft-activiti-demo/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/nandychen/kft-activiti-demo/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/nandychen/kft-activiti-demo/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/nandychen/kft-activiti-demo/subscription</subscription_url>
+  <svn_url>https://github.com/nandychen/kft-activiti-demo</svn_url>
+  <tags_url>https://api.github.com/repos/nandychen/kft-activiti-demo/tags</tags_url>
+  <teams_url>https://api.github.com/repos/nandychen/kft-activiti-demo/teams</teams_url>
+  <trees_url>https://api.github.com/repos/nandychen/kft-activiti-demo/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 4:06:43 AM</updated_at>
+  <url>https://api.github.com/repos/nandychen/kft-activiti-demo</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

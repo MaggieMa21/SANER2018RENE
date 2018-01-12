@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547ac6fcbd35431692003424</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/slorion/scredis/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/slorion/scredis/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/slorion/scredis/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/slorion/scredis/branches{/branch}</branches_url>
+  <clone_url>https://github.com/slorion/scredis.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/slorion/scredis/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/slorion/scredis/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/slorion/scredis/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/slorion/scredis/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/slorion/scredis/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/slorion/scredis/contributors</contributors_url>
+  <created_at>11/24/2014 1:44:57 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Non-blocking, ultra-fast Scala Redis client built on top of Akka IO, used in production at Livestream</description>
+  <downloads_url>https://api.github.com/repos/slorion/scredis/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/slorion/scredis/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/slorion/scredis/forks</forks_url>
+  <full_name>slorion/scredis</full_name>
+  <git_commits_url>https://api.github.com/repos/slorion/scredis/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/slorion/scredis/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/slorion/scredis/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/slorion/scredis.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/slorion/scredis/hooks</hooks_url>
+  <html_url>https://github.com/slorion/scredis</html_url>
+  <id>27055951</id>
+  <issue_comment_url>https://api.github.com/repos/slorion/scredis/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/slorion/scredis/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/slorion/scredis/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/slorion/scredis/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/slorion/scredis/labels{/name}</labels_url>
+  <language>Scala</language>
+  <languages_url>https://api.github.com/repos/slorion/scredis/languages</languages_url>
+  <merges_url>https://api.github.com/repos/slorion/scredis/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/slorion/scredis/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>scredis</name>
+  <network_count>6</network_count>
+  <notifications_url>https://api.github.com/repos/slorion/scredis/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1606672?v=3</avatar_url>
+    <events_url>https://api.github.com/users/slorion/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/slorion/followers</followers_url>
+    <following_url>https://api.github.com/users/slorion/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/slorion/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/slorion</html_url>
+    <id>1606672</id>
+    <login>slorion</login>
+    <organizations_url>https://api.github.com/users/slorion/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/slorion/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/slorion/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/slorion/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/slorion/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/slorion</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/Livestream/scredis/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Livestream/scredis/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Livestream/scredis/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Livestream/scredis/branches{/branch}",
+  "clone_url": "https://github.com/Livestream/scredis.git",
+  "collaborators_url": "https://api.github.com/repos/Livestream/scredis/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Livestream/scredis/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Livestream/scredis/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Livestream/scredis/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Livestream/scredis/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Livestream/scredis/contributors",
+  "created_at": "2013-02-27T16:13:18Z",
+  "default_branch": "master",
+  "description": "Non-blocking, ultra-fast Scala Redis client built on top of Akka IO, used in production at Livestream",
+  "downloads_url": "https://api.github.com/repos/Livestream/scredis/downloads",
+  "events_url": "https://api.github.com/repos/Livestream/scredis/events",
+  "fork": false,
+  "forks": 6,
+  "forks_count": 6,
+  "forks_url": "https://api.github.com/repos/Livestream/scredis/forks",
+  "full_name": "Livestream/scredis",
+  "git_commits_url": "https://api.github.com/repos/Livestream/scredis/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Livestream/scredis/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Livestream/scredis/git/tags{/sha}",
+  "git_url": "git://github.com/Livestream/scredis.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/Livestream/scredis/hooks",
+  "html_url": "https://github.com/Livestream/scredis",
+  "id": 8459828,
+  "issue_comment_url": "https://api.github.com/repos/Livestream/scredis/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Livestream/scredis/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Livestream/scredis/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Livestream/scredis/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Livestream/scredis/labels{/name}",
+  "language": "Scala",
+  "languages_url": "https://api.github.com/repos/Livestream/scredis/languages",
+  "merges_url": "https://api.github.com/repos/Livestream/scredis/merges",
+  "milestones_url": "https://api.github.com/repos/Livestream/scredis/milestones{/number}",
+  "mirror_url": null,
+  "name": "scredis",
+  "notifications_url": "https://api.github.com/repos/Livestream/scredis/notifications{?since,all,participating}",
+  "open_issues": 5,
+  "open_issues_count": 5,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1167448?v=3",
+    "events_url": "https://api.github.com/users/Livestream/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Livestream/followers",
+    "following_url": "https://api.github.com/users/Livestream/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Livestream/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Livestream",
+    "id": 1167448,
+    "login": "Livestream",
+    "organizations_url": "https://api.github.com/users/Livestream/orgs",
+    "received_events_url": "https://api.github.com/users/Livestream/received_events",
+    "repos_url": "https://api.github.com/users/Livestream/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Livestream/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Livestream/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/Livestream"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Livestream/scredis/pulls{/number}",
+  "pushed_at": "2014-10-27T10:02:35Z",
+  "releases_url": "https://api.github.com/repos/Livestream/scredis/releases{/id}",
+  "size": 6196,
+  "ssh_url": "git@github.com:Livestream/scredis.git",
+  "stargazers_count": 86,
+  "stargazers_url": "https://api.github.com/repos/Livestream/scredis/stargazers",
+  "statuses_url": "https://api.github.com/repos/Livestream/scredis/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Livestream/scredis/subscribers",
+  "subscription_url": "https://api.github.com/repos/Livestream/scredis/subscription",
+  "svn_url": "https://github.com/Livestream/scredis",
+  "tags_url": "https://api.github.com/repos/Livestream/scredis/tags",
+  "teams_url": "https://api.github.com/repos/Livestream/scredis/teams",
+  "trees_url": "https://api.github.com/repos/Livestream/scredis/git/trees{/sha}",
+  "updated_at": "2014-11-21T09:25:09Z",
+  "url": "https://api.github.com/repos/Livestream/scredis",
+  "watchers": 86,
+  "watchers_count": 86
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/slorion/scredis/pulls{/number}</pulls_url>
+  <pushed_at>11/24/2014 2:00:20 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/slorion/scredis/releases{/id}</releases_url>
+  <size>1916</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/Livestream/scredis/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Livestream/scredis/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Livestream/scredis/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Livestream/scredis/branches{/branch}",
+  "clone_url": "https://github.com/Livestream/scredis.git",
+  "collaborators_url": "https://api.github.com/repos/Livestream/scredis/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Livestream/scredis/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Livestream/scredis/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Livestream/scredis/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Livestream/scredis/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Livestream/scredis/contributors",
+  "created_at": "2013-02-27T16:13:18Z",
+  "default_branch": "master",
+  "description": "Non-blocking, ultra-fast Scala Redis client built on top of Akka IO, used in production at Livestream",
+  "downloads_url": "https://api.github.com/repos/Livestream/scredis/downloads",
+  "events_url": "https://api.github.com/repos/Livestream/scredis/events",
+  "fork": false,
+  "forks": 6,
+  "forks_count": 6,
+  "forks_url": "https://api.github.com/repos/Livestream/scredis/forks",
+  "full_name": "Livestream/scredis",
+  "git_commits_url": "https://api.github.com/repos/Livestream/scredis/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Livestream/scredis/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Livestream/scredis/git/tags{/sha}",
+  "git_url": "git://github.com/Livestream/scredis.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/Livestream/scredis/hooks",
+  "html_url": "https://github.com/Livestream/scredis",
+  "id": 8459828,
+  "issue_comment_url": "https://api.github.com/repos/Livestream/scredis/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Livestream/scredis/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Livestream/scredis/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Livestream/scredis/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Livestream/scredis/labels{/name}",
+  "language": "Scala",
+  "languages_url": "https://api.github.com/repos/Livestream/scredis/languages",
+  "merges_url": "https://api.github.com/repos/Livestream/scredis/merges",
+  "milestones_url": "https://api.github.com/repos/Livestream/scredis/milestones{/number}",
+  "mirror_url": null,
+  "name": "scredis",
+  "notifications_url": "https://api.github.com/repos/Livestream/scredis/notifications{?since,all,participating}",
+  "open_issues": 5,
+  "open_issues_count": 5,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1167448?v=3",
+    "events_url": "https://api.github.com/users/Livestream/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Livestream/followers",
+    "following_url": "https://api.github.com/users/Livestream/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Livestream/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Livestream",
+    "id": 1167448,
+    "login": "Livestream",
+    "organizations_url": "https://api.github.com/users/Livestream/orgs",
+    "received_events_url": "https://api.github.com/users/Livestream/received_events",
+    "repos_url": "https://api.github.com/users/Livestream/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Livestream/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Livestream/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/Livestream"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Livestream/scredis/pulls{/number}",
+  "pushed_at": "2014-10-27T10:02:35Z",
+  "releases_url": "https://api.github.com/repos/Livestream/scredis/releases{/id}",
+  "size": 6196,
+  "ssh_url": "git@github.com:Livestream/scredis.git",
+  "stargazers_count": 86,
+  "stargazers_url": "https://api.github.com/repos/Livestream/scredis/stargazers",
+  "statuses_url": "https://api.github.com/repos/Livestream/scredis/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Livestream/scredis/subscribers",
+  "subscription_url": "https://api.github.com/repos/Livestream/scredis/subscription",
+  "svn_url": "https://github.com/Livestream/scredis",
+  "tags_url": "https://api.github.com/repos/Livestream/scredis/tags",
+  "teams_url": "https://api.github.com/repos/Livestream/scredis/teams",
+  "trees_url": "https://api.github.com/repos/Livestream/scredis/git/trees{/sha}",
+  "updated_at": "2014-11-21T09:25:09Z",
+  "url": "https://api.github.com/repos/Livestream/scredis",
+  "watchers": 86,
+  "watchers_count": 86
+}</source>
+  <ssh_url>git@github.com:slorion/scredis.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/slorion/scredis/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/slorion/scredis/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/slorion/scredis/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/slorion/scredis/subscription</subscription_url>
+  <svn_url>https://github.com/slorion/scredis</svn_url>
+  <tags_url>https://api.github.com/repos/slorion/scredis/tags</tags_url>
+  <teams_url>https://api.github.com/repos/slorion/scredis/teams</teams_url>
+  <trees_url>https://api.github.com/repos/slorion/scredis/git/trees{/sha}</trees_url>
+  <updated_at>11/24/2014 2:00:21 AM</updated_at>
+  <url>https://api.github.com/repos/slorion/scredis</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

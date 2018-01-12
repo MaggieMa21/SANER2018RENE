@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a3ba8bd3543189d001a70</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/heldtogether/git-wrapper/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/heldtogether/git-wrapper/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/heldtogether/git-wrapper/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/heldtogether/git-wrapper/branches{/branch}</branches_url>
+  <clone_url>https://github.com/heldtogether/git-wrapper.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/heldtogether/git-wrapper/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/heldtogether/git-wrapper/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/heldtogether/git-wrapper/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/heldtogether/git-wrapper/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/heldtogether/git-wrapper/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/heldtogether/git-wrapper/contributors</contributors_url>
+  <created_at>12/8/2014 9:59:52 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>A PHP wrapper around the Git command line utility.</description>
+  <downloads_url>https://api.github.com/repos/heldtogether/git-wrapper/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/heldtogether/git-wrapper/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/heldtogether/git-wrapper/forks</forks_url>
+  <full_name>heldtogether/git-wrapper</full_name>
+  <git_commits_url>https://api.github.com/repos/heldtogether/git-wrapper/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/heldtogether/git-wrapper/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/heldtogether/git-wrapper/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/heldtogether/git-wrapper.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/heldtogether/git-wrapper/hooks</hooks_url>
+  <html_url>https://github.com/heldtogether/git-wrapper</html_url>
+  <id>27708596</id>
+  <issue_comment_url>https://api.github.com/repos/heldtogether/git-wrapper/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/heldtogether/git-wrapper/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/heldtogether/git-wrapper/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/heldtogether/git-wrapper/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/heldtogether/git-wrapper/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/heldtogether/git-wrapper/languages</languages_url>
+  <merges_url>https://api.github.com/repos/heldtogether/git-wrapper/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/heldtogether/git-wrapper/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>git-wrapper</name>
+  <network_count>18</network_count>
+  <notifications_url>https://api.github.com/repos/heldtogether/git-wrapper/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1642904?v=3</avatar_url>
+    <events_url>https://api.github.com/users/heldtogether/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/heldtogether/followers</followers_url>
+    <following_url>https://api.github.com/users/heldtogether/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/heldtogether/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/heldtogether</html_url>
+    <id>1642904</id>
+    <login>heldtogether</login>
+    <organizations_url>https://api.github.com/users/heldtogether/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/heldtogether/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/heldtogether/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/heldtogether/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/heldtogether/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/heldtogether</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/cpliakas/git-wrapper/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/cpliakas/git-wrapper/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/cpliakas/git-wrapper/branches{/branch}",
+  "clone_url": "https://github.com/cpliakas/git-wrapper.git",
+  "collaborators_url": "https://api.github.com/repos/cpliakas/git-wrapper/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/cpliakas/git-wrapper/comments{/number}",
+  "commits_url": "https://api.github.com/repos/cpliakas/git-wrapper/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/cpliakas/git-wrapper/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/cpliakas/git-wrapper/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/cpliakas/git-wrapper/contributors",
+  "created_at": "2013-01-09T18:23:16Z",
+  "default_branch": "master",
+  "description": "A PHP wrapper around the Git command line utility.",
+  "downloads_url": "https://api.github.com/repos/cpliakas/git-wrapper/downloads",
+  "events_url": "https://api.github.com/repos/cpliakas/git-wrapper/events",
+  "fork": false,
+  "forks": 18,
+  "forks_count": 18,
+  "forks_url": "https://api.github.com/repos/cpliakas/git-wrapper/forks",
+  "full_name": "cpliakas/git-wrapper",
+  "git_commits_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/tags{/sha}",
+  "git_url": "git://github.com/cpliakas/git-wrapper.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/cpliakas/git-wrapper/hooks",
+  "html_url": "https://github.com/cpliakas/git-wrapper",
+  "id": 7526388,
+  "issue_comment_url": "https://api.github.com/repos/cpliakas/git-wrapper/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/cpliakas/git-wrapper/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/cpliakas/git-wrapper/issues{/number}",
+  "keys_url": "https://api.github.com/repos/cpliakas/git-wrapper/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/cpliakas/git-wrapper/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/cpliakas/git-wrapper/languages",
+  "merges_url": "https://api.github.com/repos/cpliakas/git-wrapper/merges",
+  "milestones_url": "https://api.github.com/repos/cpliakas/git-wrapper/milestones{/number}",
+  "mirror_url": null,
+  "name": "git-wrapper",
+  "notifications_url": "https://api.github.com/repos/cpliakas/git-wrapper/notifications{?since,all,participating}",
+  "open_issues": 15,
+  "open_issues_count": 15,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/482722?v=3",
+    "events_url": "https://api.github.com/users/cpliakas/events{/privacy}",
+    "followers_url": "https://api.github.com/users/cpliakas/followers",
+    "following_url": "https://api.github.com/users/cpliakas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cpliakas/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/cpliakas",
+    "id": 482722,
+    "login": "cpliakas",
+    "organizations_url": "https://api.github.com/users/cpliakas/orgs",
+    "received_events_url": "https://api.github.com/users/cpliakas/received_events",
+    "repos_url": "https://api.github.com/users/cpliakas/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/cpliakas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cpliakas/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/cpliakas"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/cpliakas/git-wrapper/pulls{/number}",
+  "pushed_at": "2014-12-09T15:54:00Z",
+  "releases_url": "https://api.github.com/repos/cpliakas/git-wrapper/releases{/id}",
+  "size": 1315,
+  "ssh_url": "git@github.com:cpliakas/git-wrapper.git",
+  "stargazers_count": 79,
+  "stargazers_url": "https://api.github.com/repos/cpliakas/git-wrapper/stargazers",
+  "statuses_url": "https://api.github.com/repos/cpliakas/git-wrapper/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/cpliakas/git-wrapper/subscribers",
+  "subscription_url": "https://api.github.com/repos/cpliakas/git-wrapper/subscription",
+  "svn_url": "https://github.com/cpliakas/git-wrapper",
+  "tags_url": "https://api.github.com/repos/cpliakas/git-wrapper/tags",
+  "teams_url": "https://api.github.com/repos/cpliakas/git-wrapper/teams",
+  "trees_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/trees{/sha}",
+  "updated_at": "2014-12-09T17:16:24Z",
+  "url": "https://api.github.com/repos/cpliakas/git-wrapper",
+  "watchers": 79,
+  "watchers_count": 79
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/heldtogether/git-wrapper/pulls{/number}</pulls_url>
+  <pushed_at>12/8/2014 10:40:49 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/heldtogether/git-wrapper/releases{/id}</releases_url>
+  <size>338</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/cpliakas/git-wrapper/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/cpliakas/git-wrapper/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/cpliakas/git-wrapper/branches{/branch}",
+  "clone_url": "https://github.com/cpliakas/git-wrapper.git",
+  "collaborators_url": "https://api.github.com/repos/cpliakas/git-wrapper/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/cpliakas/git-wrapper/comments{/number}",
+  "commits_url": "https://api.github.com/repos/cpliakas/git-wrapper/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/cpliakas/git-wrapper/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/cpliakas/git-wrapper/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/cpliakas/git-wrapper/contributors",
+  "created_at": "2013-01-09T18:23:16Z",
+  "default_branch": "master",
+  "description": "A PHP wrapper around the Git command line utility.",
+  "downloads_url": "https://api.github.com/repos/cpliakas/git-wrapper/downloads",
+  "events_url": "https://api.github.com/repos/cpliakas/git-wrapper/events",
+  "fork": false,
+  "forks": 18,
+  "forks_count": 18,
+  "forks_url": "https://api.github.com/repos/cpliakas/git-wrapper/forks",
+  "full_name": "cpliakas/git-wrapper",
+  "git_commits_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/tags{/sha}",
+  "git_url": "git://github.com/cpliakas/git-wrapper.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/cpliakas/git-wrapper/hooks",
+  "html_url": "https://github.com/cpliakas/git-wrapper",
+  "id": 7526388,
+  "issue_comment_url": "https://api.github.com/repos/cpliakas/git-wrapper/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/cpliakas/git-wrapper/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/cpliakas/git-wrapper/issues{/number}",
+  "keys_url": "https://api.github.com/repos/cpliakas/git-wrapper/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/cpliakas/git-wrapper/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/cpliakas/git-wrapper/languages",
+  "merges_url": "https://api.github.com/repos/cpliakas/git-wrapper/merges",
+  "milestones_url": "https://api.github.com/repos/cpliakas/git-wrapper/milestones{/number}",
+  "mirror_url": null,
+  "name": "git-wrapper",
+  "notifications_url": "https://api.github.com/repos/cpliakas/git-wrapper/notifications{?since,all,participating}",
+  "open_issues": 15,
+  "open_issues_count": 15,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/482722?v=3",
+    "events_url": "https://api.github.com/users/cpliakas/events{/privacy}",
+    "followers_url": "https://api.github.com/users/cpliakas/followers",
+    "following_url": "https://api.github.com/users/cpliakas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cpliakas/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/cpliakas",
+    "id": 482722,
+    "login": "cpliakas",
+    "organizations_url": "https://api.github.com/users/cpliakas/orgs",
+    "received_events_url": "https://api.github.com/users/cpliakas/received_events",
+    "repos_url": "https://api.github.com/users/cpliakas/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/cpliakas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cpliakas/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/cpliakas"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/cpliakas/git-wrapper/pulls{/number}",
+  "pushed_at": "2014-12-09T15:54:00Z",
+  "releases_url": "https://api.github.com/repos/cpliakas/git-wrapper/releases{/id}",
+  "size": 1315,
+  "ssh_url": "git@github.com:cpliakas/git-wrapper.git",
+  "stargazers_count": 79,
+  "stargazers_url": "https://api.github.com/repos/cpliakas/git-wrapper/stargazers",
+  "statuses_url": "https://api.github.com/repos/cpliakas/git-wrapper/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/cpliakas/git-wrapper/subscribers",
+  "subscription_url": "https://api.github.com/repos/cpliakas/git-wrapper/subscription",
+  "svn_url": "https://github.com/cpliakas/git-wrapper",
+  "tags_url": "https://api.github.com/repos/cpliakas/git-wrapper/tags",
+  "teams_url": "https://api.github.com/repos/cpliakas/git-wrapper/teams",
+  "trees_url": "https://api.github.com/repos/cpliakas/git-wrapper/git/trees{/sha}",
+  "updated_at": "2014-12-09T17:16:24Z",
+  "url": "https://api.github.com/repos/cpliakas/git-wrapper",
+  "watchers": 79,
+  "watchers_count": 79
+}</source>
+  <ssh_url>git@github.com:heldtogether/git-wrapper.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/heldtogether/git-wrapper/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/heldtogether/git-wrapper/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/heldtogether/git-wrapper/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/heldtogether/git-wrapper/subscription</subscription_url>
+  <svn_url>https://github.com/heldtogether/git-wrapper</svn_url>
+  <tags_url>https://api.github.com/repos/heldtogether/git-wrapper/tags</tags_url>
+  <teams_url>https://api.github.com/repos/heldtogether/git-wrapper/teams</teams_url>
+  <trees_url>https://api.github.com/repos/heldtogether/git-wrapper/git/trees{/sha}</trees_url>
+  <updated_at>12/8/2014 9:59:53 AM</updated_at>
+  <url>https://api.github.com/repos/heldtogether/git-wrapper</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

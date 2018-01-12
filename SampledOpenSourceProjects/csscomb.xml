@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d800fbd354309bb0143d1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/ndfront/csscomb/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/ndfront/csscomb/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/ndfront/csscomb/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/ndfront/csscomb/branches{/branch}</branches_url>
+  <clone_url>https://github.com/ndfront/csscomb.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/ndfront/csscomb/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/ndfront/csscomb/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/ndfront/csscomb/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/ndfront/csscomb/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/ndfront/csscomb/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/ndfront/csscomb/contributors</contributors_url>
+  <created_at>12/14/2014 12:18:16 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>! DEPRECATED ! Please use csscomb.js instead</description>
+  <downloads_url>https://api.github.com/repos/ndfront/csscomb/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/ndfront/csscomb/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/ndfront/csscomb/forks</forks_url>
+  <full_name>ndfront/csscomb</full_name>
+  <git_commits_url>https://api.github.com/repos/ndfront/csscomb/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/ndfront/csscomb/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/ndfront/csscomb/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/ndfront/csscomb.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>https://github.com/csscomb/csscomb.js</homepage>
+  <hooks_url>https://api.github.com/repos/ndfront/csscomb/hooks</hooks_url>
+  <html_url>https://github.com/ndfront/csscomb</html_url>
+  <id>27993382</id>
+  <issue_comment_url>https://api.github.com/repos/ndfront/csscomb/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/ndfront/csscomb/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/ndfront/csscomb/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/ndfront/csscomb/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/ndfront/csscomb/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/ndfront/csscomb/languages</languages_url>
+  <merges_url>https://api.github.com/repos/ndfront/csscomb/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/ndfront/csscomb/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>csscomb</name>
+  <network_count>57</network_count>
+  <notifications_url>https://api.github.com/repos/ndfront/csscomb/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/8575399?v=3",
+  "events_url": "https://api.github.com/users/ndfront/events{/privacy}",
+  "followers_url": "https://api.github.com/users/ndfront/followers",
+  "following_url": "https://api.github.com/users/ndfront/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ndfront/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/ndfront",
+  "id": 8575399,
+  "login": "ndfront",
+  "organizations_url": "https://api.github.com/users/ndfront/orgs",
+  "received_events_url": "https://api.github.com/users/ndfront/received_events",
+  "repos_url": "https://api.github.com/users/ndfront/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/ndfront/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ndfront/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/ndfront"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/8575399?v=3</avatar_url>
+    <events_url>https://api.github.com/users/ndfront/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/ndfront/followers</followers_url>
+    <following_url>https://api.github.com/users/ndfront/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/ndfront/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/ndfront</html_url>
+    <id>8575399</id>
+    <login>ndfront</login>
+    <organizations_url>https://api.github.com/users/ndfront/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/ndfront/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/ndfront/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/ndfront/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/ndfront/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/ndfront</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/csscomb/csscomb/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/csscomb/csscomb/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/csscomb/csscomb/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/csscomb/csscomb/branches{/branch}",
+  "clone_url": "https://github.com/csscomb/csscomb.git",
+  "collaborators_url": "https://api.github.com/repos/csscomb/csscomb/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/csscomb/csscomb/comments{/number}",
+  "commits_url": "https://api.github.com/repos/csscomb/csscomb/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/csscomb/csscomb/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/csscomb/csscomb/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/csscomb/csscomb/contributors",
+  "created_at": "2010-03-05T14:46:36Z",
+  "default_branch": "master",
+  "description": "! DEPRECATED ! Please use csscomb.js instead",
+  "downloads_url": "https://api.github.com/repos/csscomb/csscomb/downloads",
+  "events_url": "https://api.github.com/repos/csscomb/csscomb/events",
+  "fork": false,
+  "forks": 57,
+  "forks_count": 57,
+  "forks_url": "https://api.github.com/repos/csscomb/csscomb/forks",
+  "full_name": "csscomb/csscomb",
+  "git_commits_url": "https://api.github.com/repos/csscomb/csscomb/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/csscomb/csscomb/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/csscomb/csscomb/git/tags{/sha}",
+  "git_url": "git://github.com/csscomb/csscomb.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "https://github.com/csscomb/csscomb.js",
+  "hooks_url": "https://api.github.com/repos/csscomb/csscomb/hooks",
+  "html_url": "https://github.com/csscomb/csscomb",
+  "id": 548537,
+  "issue_comment_url": "https://api.github.com/repos/csscomb/csscomb/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/csscomb/csscomb/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/csscomb/csscomb/issues{/number}",
+  "keys_url": "https://api.github.com/repos/csscomb/csscomb/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/csscomb/csscomb/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/csscomb/csscomb/languages",
+  "merges_url": "https://api.github.com/repos/csscomb/csscomb/merges",
+  "milestones_url": "https://api.github.com/repos/csscomb/csscomb/milestones{/number}",
+  "mirror_url": null,
+  "name": "csscomb",
+  "notifications_url": "https://api.github.com/repos/csscomb/csscomb/notifications{?since,all,participating}",
+  "open_issues": 11,
+  "open_issues_count": 11,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1645795?v=3",
+    "events_url": "https://api.github.com/users/csscomb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/csscomb/followers",
+    "following_url": "https://api.github.com/users/csscomb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/csscomb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/csscomb",
+    "id": 1645795,
+    "login": "csscomb",
+    "organizations_url": "https://api.github.com/users/csscomb/orgs",
+    "received_events_url": "https://api.github.com/users/csscomb/received_events",
+    "repos_url": "https://api.github.com/users/csscomb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/csscomb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/csscomb/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/csscomb"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/csscomb/csscomb/pulls{/number}",
+  "pushed_at": "2013-12-16T10:40:17Z",
+  "releases_url": "https://api.github.com/repos/csscomb/csscomb/releases{/id}",
+  "size": 3435,
+  "ssh_url": "git@github.com:csscomb/csscomb.git",
+  "stargazers_count": 676,
+  "stargazers_url": "https://api.github.com/repos/csscomb/csscomb/stargazers",
+  "statuses_url": "https://api.github.com/repos/csscomb/csscomb/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/csscomb/csscomb/subscribers",
+  "subscription_url": "https://api.github.com/repos/csscomb/csscomb/subscription",
+  "svn_url": "https://github.com/csscomb/csscomb",
+  "tags_url": "https://api.github.com/repos/csscomb/csscomb/tags",
+  "teams_url": "https://api.github.com/repos/csscomb/csscomb/teams",
+  "trees_url": "https://api.github.com/repos/csscomb/csscomb/git/trees{/sha}",
+  "updated_at": "2014-12-10T22:28:40Z",
+  "url": "https://api.github.com/repos/csscomb/csscomb",
+  "watchers": 676,
+  "watchers_count": 676
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/ndfront/csscomb/pulls{/number}</pulls_url>
+  <pushed_at>12/16/2013 10:40:17 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/ndfront/csscomb/releases{/id}</releases_url>
+  <size>3435</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/csscomb/csscomb/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/csscomb/csscomb/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/csscomb/csscomb/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/csscomb/csscomb/branches{/branch}",
+  "clone_url": "https://github.com/csscomb/csscomb.git",
+  "collaborators_url": "https://api.github.com/repos/csscomb/csscomb/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/csscomb/csscomb/comments{/number}",
+  "commits_url": "https://api.github.com/repos/csscomb/csscomb/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/csscomb/csscomb/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/csscomb/csscomb/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/csscomb/csscomb/contributors",
+  "created_at": "2010-03-05T14:46:36Z",
+  "default_branch": "master",
+  "description": "! DEPRECATED ! Please use csscomb.js instead",
+  "downloads_url": "https://api.github.com/repos/csscomb/csscomb/downloads",
+  "events_url": "https://api.github.com/repos/csscomb/csscomb/events",
+  "fork": false,
+  "forks": 57,
+  "forks_count": 57,
+  "forks_url": "https://api.github.com/repos/csscomb/csscomb/forks",
+  "full_name": "csscomb/csscomb",
+  "git_commits_url": "https://api.github.com/repos/csscomb/csscomb/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/csscomb/csscomb/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/csscomb/csscomb/git/tags{/sha}",
+  "git_url": "git://github.com/csscomb/csscomb.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "https://github.com/csscomb/csscomb.js",
+  "hooks_url": "https://api.github.com/repos/csscomb/csscomb/hooks",
+  "html_url": "https://github.com/csscomb/csscomb",
+  "id": 548537,
+  "issue_comment_url": "https://api.github.com/repos/csscomb/csscomb/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/csscomb/csscomb/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/csscomb/csscomb/issues{/number}",
+  "keys_url": "https://api.github.com/repos/csscomb/csscomb/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/csscomb/csscomb/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/csscomb/csscomb/languages",
+  "merges_url": "https://api.github.com/repos/csscomb/csscomb/merges",
+  "milestones_url": "https://api.github.com/repos/csscomb/csscomb/milestones{/number}",
+  "mirror_url": null,
+  "name": "csscomb",
+  "notifications_url": "https://api.github.com/repos/csscomb/csscomb/notifications{?since,all,participating}",
+  "open_issues": 11,
+  "open_issues_count": 11,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1645795?v=3",
+    "events_url": "https://api.github.com/users/csscomb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/csscomb/followers",
+    "following_url": "https://api.github.com/users/csscomb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/csscomb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/csscomb",
+    "id": 1645795,
+    "login": "csscomb",
+    "organizations_url": "https://api.github.com/users/csscomb/orgs",
+    "received_events_url": "https://api.github.com/users/csscomb/received_events",
+    "repos_url": "https://api.github.com/users/csscomb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/csscomb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/csscomb/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/csscomb"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/csscomb/csscomb/pulls{/number}",
+  "pushed_at": "2013-12-16T10:40:17Z",
+  "releases_url": "https://api.github.com/repos/csscomb/csscomb/releases{/id}",
+  "size": 3435,
+  "ssh_url": "git@github.com:csscomb/csscomb.git",
+  "stargazers_count": 676,
+  "stargazers_url": "https://api.github.com/repos/csscomb/csscomb/stargazers",
+  "statuses_url": "https://api.github.com/repos/csscomb/csscomb/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/csscomb/csscomb/subscribers",
+  "subscription_url": "https://api.github.com/repos/csscomb/csscomb/subscription",
+  "svn_url": "https://github.com/csscomb/csscomb",
+  "tags_url": "https://api.github.com/repos/csscomb/csscomb/tags",
+  "teams_url": "https://api.github.com/repos/csscomb/csscomb/teams",
+  "trees_url": "https://api.github.com/repos/csscomb/csscomb/git/trees{/sha}",
+  "updated_at": "2014-12-10T22:28:40Z",
+  "url": "https://api.github.com/repos/csscomb/csscomb",
+  "watchers": 676,
+  "watchers_count": 676
+}</source>
+  <ssh_url>git@github.com:ndfront/csscomb.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/ndfront/csscomb/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/ndfront/csscomb/statuses/{sha}</statuses_url>
+  <subscribers_count>2</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/ndfront/csscomb/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/ndfront/csscomb/subscription</subscription_url>
+  <svn_url>https://github.com/ndfront/csscomb</svn_url>
+  <tags_url>https://api.github.com/repos/ndfront/csscomb/tags</tags_url>
+  <teams_url>https://api.github.com/repos/ndfront/csscomb/teams</teams_url>
+  <trees_url>https://api.github.com/repos/ndfront/csscomb/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 12:18:16 PM</updated_at>
+  <url>https://api.github.com/repos/ndfront/csscomb</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

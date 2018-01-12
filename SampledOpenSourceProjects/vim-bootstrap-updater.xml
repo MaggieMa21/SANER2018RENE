@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a9803bd35431f9000255a</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/branches{/branch}</branches_url>
+  <clone_url>https://github.com/lerrua/vim-bootstrap-updater.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/contributors</contributors_url>
+  <created_at>12/11/2014 2:07:09 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>
+  </description>
+  <downloads_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/forks</forks_url>
+  <full_name>lerrua/vim-bootstrap-updater</full_name>
+  <git_commits_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/lerrua/vim-bootstrap-updater.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/hooks</hooks_url>
+  <html_url>https://github.com/lerrua/vim-bootstrap-updater</html_url>
+  <id>27849656</id>
+  <issue_comment_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/languages</languages_url>
+  <merges_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>vim-bootstrap-updater</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/154603?v=3</avatar_url>
+    <events_url>https://api.github.com/users/lerrua/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/lerrua/followers</followers_url>
+    <following_url>https://api.github.com/users/lerrua/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/lerrua/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/lerrua</html_url>
+    <id>154603</id>
+    <login>lerrua</login>
+    <organizations_url>https://api.github.com/users/lerrua/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/lerrua/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/lerrua/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/lerrua/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/lerrua/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/lerrua</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/branches{/branch}",
+  "clone_url": "https://github.com/sherzberg/vim-bootstrap-updater.git",
+  "collaborators_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/comments{/number}",
+  "commits_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/contributors",
+  "created_at": "2014-09-02T01:54:41Z",
+  "default_branch": "master",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/downloads",
+  "events_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/forks",
+  "full_name": "sherzberg/vim-bootstrap-updater",
+  "git_commits_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/tags{/sha}",
+  "git_url": "git://github.com/sherzberg/vim-bootstrap-updater.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/hooks",
+  "html_url": "https://github.com/sherzberg/vim-bootstrap-updater",
+  "id": 23561401,
+  "issue_comment_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/issues{/number}",
+  "keys_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/languages",
+  "merges_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/merges",
+  "milestones_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/milestones{/number}",
+  "mirror_url": null,
+  "name": "vim-bootstrap-updater",
+  "notifications_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/447355?v=3",
+    "events_url": "https://api.github.com/users/sherzberg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/sherzberg/followers",
+    "following_url": "https://api.github.com/users/sherzberg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sherzberg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/sherzberg",
+    "id": 447355,
+    "login": "sherzberg",
+    "organizations_url": "https://api.github.com/users/sherzberg/orgs",
+    "received_events_url": "https://api.github.com/users/sherzberg/received_events",
+    "repos_url": "https://api.github.com/users/sherzberg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/sherzberg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sherzberg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/sherzberg"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/pulls{/number}",
+  "pushed_at": "2014-12-11T14:34:29Z",
+  "releases_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/releases{/id}",
+  "size": 176,
+  "ssh_url": "git@github.com:sherzberg/vim-bootstrap-updater.git",
+  "stargazers_count": 3,
+  "stargazers_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/stargazers",
+  "statuses_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/subscribers",
+  "subscription_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/subscription",
+  "svn_url": "https://github.com/sherzberg/vim-bootstrap-updater",
+  "tags_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/tags",
+  "teams_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/teams",
+  "trees_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/trees{/sha}",
+  "updated_at": "2014-12-11T14:34:29Z",
+  "url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater",
+  "watchers": 3,
+  "watchers_count": 3
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/pulls{/number}</pulls_url>
+  <pushed_at>12/11/2014 3:06:46 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/releases{/id}</releases_url>
+  <size>99</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/branches{/branch}",
+  "clone_url": "https://github.com/sherzberg/vim-bootstrap-updater.git",
+  "collaborators_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/comments{/number}",
+  "commits_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/contributors",
+  "created_at": "2014-09-02T01:54:41Z",
+  "default_branch": "master",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/downloads",
+  "events_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/forks",
+  "full_name": "sherzberg/vim-bootstrap-updater",
+  "git_commits_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/tags{/sha}",
+  "git_url": "git://github.com/sherzberg/vim-bootstrap-updater.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/hooks",
+  "html_url": "https://github.com/sherzberg/vim-bootstrap-updater",
+  "id": 23561401,
+  "issue_comment_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/issues{/number}",
+  "keys_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/languages",
+  "merges_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/merges",
+  "milestones_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/milestones{/number}",
+  "mirror_url": null,
+  "name": "vim-bootstrap-updater",
+  "notifications_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/447355?v=3",
+    "events_url": "https://api.github.com/users/sherzberg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/sherzberg/followers",
+    "following_url": "https://api.github.com/users/sherzberg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sherzberg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/sherzberg",
+    "id": 447355,
+    "login": "sherzberg",
+    "organizations_url": "https://api.github.com/users/sherzberg/orgs",
+    "received_events_url": "https://api.github.com/users/sherzberg/received_events",
+    "repos_url": "https://api.github.com/users/sherzberg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/sherzberg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sherzberg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/sherzberg"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/pulls{/number}",
+  "pushed_at": "2014-12-11T14:34:29Z",
+  "releases_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/releases{/id}",
+  "size": 176,
+  "ssh_url": "git@github.com:sherzberg/vim-bootstrap-updater.git",
+  "stargazers_count": 3,
+  "stargazers_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/stargazers",
+  "statuses_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/subscribers",
+  "subscription_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/subscription",
+  "svn_url": "https://github.com/sherzberg/vim-bootstrap-updater",
+  "tags_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/tags",
+  "teams_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/teams",
+  "trees_url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater/git/trees{/sha}",
+  "updated_at": "2014-12-11T14:34:29Z",
+  "url": "https://api.github.com/repos/sherzberg/vim-bootstrap-updater",
+  "watchers": 3,
+  "watchers_count": 3
+}</source>
+  <ssh_url>git@github.com:lerrua/vim-bootstrap-updater.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/subscription</subscription_url>
+  <svn_url>https://github.com/lerrua/vim-bootstrap-updater</svn_url>
+  <tags_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/tags</tags_url>
+  <teams_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/teams</teams_url>
+  <trees_url>https://api.github.com/repos/lerrua/vim-bootstrap-updater/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 2:07:11 AM</updated_at>
+  <url>https://api.github.com/repos/lerrua/vim-bootstrap-updater</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

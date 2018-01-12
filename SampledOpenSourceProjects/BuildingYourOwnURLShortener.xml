@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547f4a90bd35435d41000b9b</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/branches{/branch}</branches_url>
+  <clone_url>https://github.com/melavankimanjunath/BuildingYourOwnURLShortener.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/contributors</contributors_url>
+  <created_at>12/3/2014 11:57:30 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>code repository for Building Your Own URL Shortener by Alex Fraundorf</description>
+  <downloads_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/forks</forks_url>
+  <full_name>melavankimanjunath/BuildingYourOwnURLShortener</full_name>
+  <git_commits_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/melavankimanjunath/BuildingYourOwnURLShortener.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://sitepoint.com/building-your-own-url-shortener</homepage>
+  <hooks_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/hooks</hooks_url>
+  <html_url>https://github.com/melavankimanjunath/BuildingYourOwnURLShortener</html_url>
+  <id>27484933</id>
+  <issue_comment_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/languages</languages_url>
+  <merges_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>BuildingYourOwnURLShortener</name>
+  <network_count>26</network_count>
+  <notifications_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/7566085?v=3</avatar_url>
+    <events_url>https://api.github.com/users/melavankimanjunath/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/melavankimanjunath/followers</followers_url>
+    <following_url>https://api.github.com/users/melavankimanjunath/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/melavankimanjunath/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/melavankimanjunath</html_url>
+    <id>7566085</id>
+    <login>melavankimanjunath</login>
+    <organizations_url>https://api.github.com/users/melavankimanjunath/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/melavankimanjunath/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/melavankimanjunath/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/melavankimanjunath/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/melavankimanjunath/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/melavankimanjunath</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/branches{/branch}",
+  "clone_url": "https://github.com/phpmasterdotcom/BuildingYourOwnURLShortener.git",
+  "collaborators_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/comments{/number}",
+  "commits_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/contributors",
+  "created_at": "2012-09-20T03:56:07Z",
+  "default_branch": "master",
+  "description": "code repository for Building Your Own URL Shortener by Alex Fraundorf",
+  "downloads_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/downloads",
+  "events_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/events",
+  "fork": false,
+  "forks": 26,
+  "forks_count": 26,
+  "forks_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/forks",
+  "full_name": "phpmasterdotcom/BuildingYourOwnURLShortener",
+  "git_commits_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/tags{/sha}",
+  "git_url": "git://github.com/phpmasterdotcom/BuildingYourOwnURLShortener.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://sitepoint.com/building-your-own-url-shortener",
+  "hooks_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/hooks",
+  "html_url": "https://github.com/phpmasterdotcom/BuildingYourOwnURLShortener",
+  "id": 5881578,
+  "issue_comment_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/issues{/number}",
+  "keys_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/languages",
+  "merges_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/merges",
+  "milestones_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/milestones{/number}",
+  "mirror_url": null,
+  "name": "BuildingYourOwnURLShortener",
+  "notifications_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1063856?v=3",
+    "events_url": "https://api.github.com/users/phpmasterdotcom/events{/privacy}",
+    "followers_url": "https://api.github.com/users/phpmasterdotcom/followers",
+    "following_url": "https://api.github.com/users/phpmasterdotcom/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phpmasterdotcom/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/phpmasterdotcom",
+    "id": 1063856,
+    "login": "phpmasterdotcom",
+    "organizations_url": "https://api.github.com/users/phpmasterdotcom/orgs",
+    "received_events_url": "https://api.github.com/users/phpmasterdotcom/received_events",
+    "repos_url": "https://api.github.com/users/phpmasterdotcom/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/phpmasterdotcom/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phpmasterdotcom/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/phpmasterdotcom"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/pulls{/number}",
+  "pushed_at": "2013-08-22T07:51:36Z",
+  "releases_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/releases{/id}",
+  "size": 51,
+  "ssh_url": "git@github.com:phpmasterdotcom/BuildingYourOwnURLShortener.git",
+  "stargazers_count": 43,
+  "stargazers_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/stargazers",
+  "statuses_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/subscribers",
+  "subscription_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/subscription",
+  "svn_url": "https://github.com/phpmasterdotcom/BuildingYourOwnURLShortener",
+  "tags_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/tags",
+  "teams_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/teams",
+  "trees_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/trees{/sha}",
+  "updated_at": "2014-08-21T15:11:10Z",
+  "url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener",
+  "watchers": 43,
+  "watchers_count": 43
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/pulls{/number}</pulls_url>
+  <pushed_at>12/3/2014 11:59:43 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/releases{/id}</releases_url>
+  <size>97</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/branches{/branch}",
+  "clone_url": "https://github.com/phpmasterdotcom/BuildingYourOwnURLShortener.git",
+  "collaborators_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/comments{/number}",
+  "commits_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/contributors",
+  "created_at": "2012-09-20T03:56:07Z",
+  "default_branch": "master",
+  "description": "code repository for Building Your Own URL Shortener by Alex Fraundorf",
+  "downloads_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/downloads",
+  "events_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/events",
+  "fork": false,
+  "forks": 26,
+  "forks_count": 26,
+  "forks_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/forks",
+  "full_name": "phpmasterdotcom/BuildingYourOwnURLShortener",
+  "git_commits_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/tags{/sha}",
+  "git_url": "git://github.com/phpmasterdotcom/BuildingYourOwnURLShortener.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://sitepoint.com/building-your-own-url-shortener",
+  "hooks_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/hooks",
+  "html_url": "https://github.com/phpmasterdotcom/BuildingYourOwnURLShortener",
+  "id": 5881578,
+  "issue_comment_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/issues{/number}",
+  "keys_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/languages",
+  "merges_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/merges",
+  "milestones_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/milestones{/number}",
+  "mirror_url": null,
+  "name": "BuildingYourOwnURLShortener",
+  "notifications_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1063856?v=3",
+    "events_url": "https://api.github.com/users/phpmasterdotcom/events{/privacy}",
+    "followers_url": "https://api.github.com/users/phpmasterdotcom/followers",
+    "following_url": "https://api.github.com/users/phpmasterdotcom/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phpmasterdotcom/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/phpmasterdotcom",
+    "id": 1063856,
+    "login": "phpmasterdotcom",
+    "organizations_url": "https://api.github.com/users/phpmasterdotcom/orgs",
+    "received_events_url": "https://api.github.com/users/phpmasterdotcom/received_events",
+    "repos_url": "https://api.github.com/users/phpmasterdotcom/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/phpmasterdotcom/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phpmasterdotcom/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/phpmasterdotcom"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/pulls{/number}",
+  "pushed_at": "2013-08-22T07:51:36Z",
+  "releases_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/releases{/id}",
+  "size": 51,
+  "ssh_url": "git@github.com:phpmasterdotcom/BuildingYourOwnURLShortener.git",
+  "stargazers_count": 43,
+  "stargazers_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/stargazers",
+  "statuses_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/subscribers",
+  "subscription_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/subscription",
+  "svn_url": "https://github.com/phpmasterdotcom/BuildingYourOwnURLShortener",
+  "tags_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/tags",
+  "teams_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/teams",
+  "trees_url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener/git/trees{/sha}",
+  "updated_at": "2014-08-21T15:11:10Z",
+  "url": "https://api.github.com/repos/phpmasterdotcom/BuildingYourOwnURLShortener",
+  "watchers": 43,
+  "watchers_count": 43
+}</source>
+  <ssh_url>git@github.com:melavankimanjunath/BuildingYourOwnURLShortener.git</ssh_url>
+  <stargazers_count>1</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/subscription</subscription_url>
+  <svn_url>https://github.com/melavankimanjunath/BuildingYourOwnURLShortener</svn_url>
+  <tags_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/tags</tags_url>
+  <teams_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/teams</teams_url>
+  <trees_url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener/git/trees{/sha}</trees_url>
+  <updated_at>12/3/2014 12:51:44 PM</updated_at>
+  <url>https://api.github.com/repos/melavankimanjunath/BuildingYourOwnURLShortener</url>
+  <watchers>1</watchers>
+  <watchers_count>1</watchers_count>
+</Properties>

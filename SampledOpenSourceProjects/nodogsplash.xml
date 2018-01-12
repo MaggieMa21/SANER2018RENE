@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a9cbbbd35430ba500371c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/zhounanzhao/nodogsplash/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/zhounanzhao/nodogsplash/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/zhounanzhao/nodogsplash/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/zhounanzhao/nodogsplash/branches{/branch}</branches_url>
+  <clone_url>https://github.com/zhounanzhao/nodogsplash.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/zhounanzhao/nodogsplash/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/zhounanzhao/nodogsplash/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/zhounanzhao/nodogsplash/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/zhounanzhao/nodogsplash/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/zhounanzhao/nodogsplash/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/zhounanzhao/nodogsplash/contributors</contributors_url>
+  <created_at>12/11/2014 6:23:44 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!</description>
+  <downloads_url>https://api.github.com/repos/zhounanzhao/nodogsplash/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/zhounanzhao/nodogsplash/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/zhounanzhao/nodogsplash/forks</forks_url>
+  <full_name>zhounanzhao/nodogsplash</full_name>
+  <git_commits_url>https://api.github.com/repos/zhounanzhao/nodogsplash/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/zhounanzhao/nodogsplash/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/zhounanzhao/nodogsplash/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/zhounanzhao/nodogsplash.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/zhounanzhao/nodogsplash/hooks</hooks_url>
+  <html_url>https://github.com/zhounanzhao/nodogsplash</html_url>
+  <id>27857266</id>
+  <issue_comment_url>https://api.github.com/repos/zhounanzhao/nodogsplash/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/zhounanzhao/nodogsplash/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/zhounanzhao/nodogsplash/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/zhounanzhao/nodogsplash/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/zhounanzhao/nodogsplash/labels{/name}</labels_url>
+  <language>C</language>
+  <languages_url>https://api.github.com/repos/zhounanzhao/nodogsplash/languages</languages_url>
+  <merges_url>https://api.github.com/repos/zhounanzhao/nodogsplash/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/zhounanzhao/nodogsplash/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>nodogsplash</name>
+  <network_count>35</network_count>
+  <notifications_url>https://api.github.com/repos/zhounanzhao/nodogsplash/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/5186314?v=3</avatar_url>
+    <events_url>https://api.github.com/users/zhounanzhao/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/zhounanzhao/followers</followers_url>
+    <following_url>https://api.github.com/users/zhounanzhao/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/zhounanzhao/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/zhounanzhao</html_url>
+    <id>5186314</id>
+    <login>zhounanzhao</login>
+    <organizations_url>https://api.github.com/users/zhounanzhao/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/zhounanzhao/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/zhounanzhao/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/zhounanzhao/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/zhounanzhao/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/zhounanzhao</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/nodogsplash/nodogsplash/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/nodogsplash/nodogsplash/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/nodogsplash/nodogsplash/branches{/branch}",
+  "clone_url": "https://github.com/nodogsplash/nodogsplash.git",
+  "collaborators_url": "https://api.github.com/repos/nodogsplash/nodogsplash/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/nodogsplash/nodogsplash/comments{/number}",
+  "commits_url": "https://api.github.com/repos/nodogsplash/nodogsplash/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/nodogsplash/nodogsplash/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/nodogsplash/nodogsplash/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/nodogsplash/nodogsplash/contributors",
+  "created_at": "2013-05-11T12:29:13Z",
+  "default_branch": "master",
+  "description": "Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!",
+  "downloads_url": "https://api.github.com/repos/nodogsplash/nodogsplash/downloads",
+  "events_url": "https://api.github.com/repos/nodogsplash/nodogsplash/events",
+  "fork": false,
+  "forks": 35,
+  "forks_count": 35,
+  "forks_url": "https://api.github.com/repos/nodogsplash/nodogsplash/forks",
+  "full_name": "nodogsplash/nodogsplash",
+  "git_commits_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/tags{/sha}",
+  "git_url": "git://github.com/nodogsplash/nodogsplash.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/nodogsplash/nodogsplash/hooks",
+  "html_url": "https://github.com/nodogsplash/nodogsplash",
+  "id": 9999135,
+  "issue_comment_url": "https://api.github.com/repos/nodogsplash/nodogsplash/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/nodogsplash/nodogsplash/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/nodogsplash/nodogsplash/issues{/number}",
+  "keys_url": "https://api.github.com/repos/nodogsplash/nodogsplash/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/nodogsplash/nodogsplash/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/nodogsplash/nodogsplash/languages",
+  "merges_url": "https://api.github.com/repos/nodogsplash/nodogsplash/merges",
+  "milestones_url": "https://api.github.com/repos/nodogsplash/nodogsplash/milestones{/number}",
+  "mirror_url": null,
+  "name": "nodogsplash",
+  "notifications_url": "https://api.github.com/repos/nodogsplash/nodogsplash/notifications{?since,all,participating}",
+  "open_issues": 8,
+  "open_issues_count": 8,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4403602?v=3",
+    "events_url": "https://api.github.com/users/nodogsplash/events{/privacy}",
+    "followers_url": "https://api.github.com/users/nodogsplash/followers",
+    "following_url": "https://api.github.com/users/nodogsplash/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodogsplash/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/nodogsplash",
+    "id": 4403602,
+    "login": "nodogsplash",
+    "organizations_url": "https://api.github.com/users/nodogsplash/orgs",
+    "received_events_url": "https://api.github.com/users/nodogsplash/received_events",
+    "repos_url": "https://api.github.com/users/nodogsplash/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/nodogsplash/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodogsplash/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/nodogsplash"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/nodogsplash/nodogsplash/pulls{/number}",
+  "pushed_at": "2014-12-11T10:16:21Z",
+  "releases_url": "https://api.github.com/repos/nodogsplash/nodogsplash/releases{/id}",
+  "size": 1420,
+  "ssh_url": "git@github.com:nodogsplash/nodogsplash.git",
+  "stargazers_count": 63,
+  "stargazers_url": "https://api.github.com/repos/nodogsplash/nodogsplash/stargazers",
+  "statuses_url": "https://api.github.com/repos/nodogsplash/nodogsplash/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/nodogsplash/nodogsplash/subscribers",
+  "subscription_url": "https://api.github.com/repos/nodogsplash/nodogsplash/subscription",
+  "svn_url": "https://github.com/nodogsplash/nodogsplash",
+  "tags_url": "https://api.github.com/repos/nodogsplash/nodogsplash/tags",
+  "teams_url": "https://api.github.com/repos/nodogsplash/nodogsplash/teams",
+  "trees_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/trees{/sha}",
+  "updated_at": "2014-12-11T10:16:22Z",
+  "url": "https://api.github.com/repos/nodogsplash/nodogsplash",
+  "watchers": 63,
+  "watchers_count": 63
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/zhounanzhao/nodogsplash/pulls{/number}</pulls_url>
+  <pushed_at>12/11/2014 6:29:19 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/zhounanzhao/nodogsplash/releases{/id}</releases_url>
+  <size>992</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/nodogsplash/nodogsplash/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/nodogsplash/nodogsplash/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/nodogsplash/nodogsplash/branches{/branch}",
+  "clone_url": "https://github.com/nodogsplash/nodogsplash.git",
+  "collaborators_url": "https://api.github.com/repos/nodogsplash/nodogsplash/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/nodogsplash/nodogsplash/comments{/number}",
+  "commits_url": "https://api.github.com/repos/nodogsplash/nodogsplash/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/nodogsplash/nodogsplash/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/nodogsplash/nodogsplash/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/nodogsplash/nodogsplash/contributors",
+  "created_at": "2013-05-11T12:29:13Z",
+  "default_branch": "master",
+  "description": "Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!",
+  "downloads_url": "https://api.github.com/repos/nodogsplash/nodogsplash/downloads",
+  "events_url": "https://api.github.com/repos/nodogsplash/nodogsplash/events",
+  "fork": false,
+  "forks": 35,
+  "forks_count": 35,
+  "forks_url": "https://api.github.com/repos/nodogsplash/nodogsplash/forks",
+  "full_name": "nodogsplash/nodogsplash",
+  "git_commits_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/tags{/sha}",
+  "git_url": "git://github.com/nodogsplash/nodogsplash.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/nodogsplash/nodogsplash/hooks",
+  "html_url": "https://github.com/nodogsplash/nodogsplash",
+  "id": 9999135,
+  "issue_comment_url": "https://api.github.com/repos/nodogsplash/nodogsplash/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/nodogsplash/nodogsplash/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/nodogsplash/nodogsplash/issues{/number}",
+  "keys_url": "https://api.github.com/repos/nodogsplash/nodogsplash/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/nodogsplash/nodogsplash/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/nodogsplash/nodogsplash/languages",
+  "merges_url": "https://api.github.com/repos/nodogsplash/nodogsplash/merges",
+  "milestones_url": "https://api.github.com/repos/nodogsplash/nodogsplash/milestones{/number}",
+  "mirror_url": null,
+  "name": "nodogsplash",
+  "notifications_url": "https://api.github.com/repos/nodogsplash/nodogsplash/notifications{?since,all,participating}",
+  "open_issues": 8,
+  "open_issues_count": 8,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4403602?v=3",
+    "events_url": "https://api.github.com/users/nodogsplash/events{/privacy}",
+    "followers_url": "https://api.github.com/users/nodogsplash/followers",
+    "following_url": "https://api.github.com/users/nodogsplash/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodogsplash/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/nodogsplash",
+    "id": 4403602,
+    "login": "nodogsplash",
+    "organizations_url": "https://api.github.com/users/nodogsplash/orgs",
+    "received_events_url": "https://api.github.com/users/nodogsplash/received_events",
+    "repos_url": "https://api.github.com/users/nodogsplash/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/nodogsplash/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodogsplash/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/nodogsplash"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/nodogsplash/nodogsplash/pulls{/number}",
+  "pushed_at": "2014-12-11T10:16:21Z",
+  "releases_url": "https://api.github.com/repos/nodogsplash/nodogsplash/releases{/id}",
+  "size": 1420,
+  "ssh_url": "git@github.com:nodogsplash/nodogsplash.git",
+  "stargazers_count": 63,
+  "stargazers_url": "https://api.github.com/repos/nodogsplash/nodogsplash/stargazers",
+  "statuses_url": "https://api.github.com/repos/nodogsplash/nodogsplash/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/nodogsplash/nodogsplash/subscribers",
+  "subscription_url": "https://api.github.com/repos/nodogsplash/nodogsplash/subscription",
+  "svn_url": "https://github.com/nodogsplash/nodogsplash",
+  "tags_url": "https://api.github.com/repos/nodogsplash/nodogsplash/tags",
+  "teams_url": "https://api.github.com/repos/nodogsplash/nodogsplash/teams",
+  "trees_url": "https://api.github.com/repos/nodogsplash/nodogsplash/git/trees{/sha}",
+  "updated_at": "2014-12-11T10:16:22Z",
+  "url": "https://api.github.com/repos/nodogsplash/nodogsplash",
+  "watchers": 63,
+  "watchers_count": 63
+}</source>
+  <ssh_url>git@github.com:zhounanzhao/nodogsplash.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/zhounanzhao/nodogsplash/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/zhounanzhao/nodogsplash/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/zhounanzhao/nodogsplash/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/zhounanzhao/nodogsplash/subscription</subscription_url>
+  <svn_url>https://github.com/zhounanzhao/nodogsplash</svn_url>
+  <tags_url>https://api.github.com/repos/zhounanzhao/nodogsplash/tags</tags_url>
+  <teams_url>https://api.github.com/repos/zhounanzhao/nodogsplash/teams</teams_url>
+  <trees_url>https://api.github.com/repos/zhounanzhao/nodogsplash/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 6:29:19 AM</updated_at>
+  <url>https://api.github.com/repos/zhounanzhao/nodogsplash</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

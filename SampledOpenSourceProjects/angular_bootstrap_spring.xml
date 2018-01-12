@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d05d9bd3543090200ecb4</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/branches{/branch}</branches_url>
+  <clone_url>https://github.com/perfectspr/angular_bootstrap_spring.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/contributors</contributors_url>
+  <created_at>12/14/2014 3:36:45 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Angular JS with Bootstrap and Spring 4 and Spring Security 3</description>
+  <downloads_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/forks</forks_url>
+  <full_name>perfectspr/angular_bootstrap_spring</full_name>
+  <git_commits_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/perfectspr/angular_bootstrap_spring.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/hooks</hooks_url>
+  <html_url>https://github.com/perfectspr/angular_bootstrap_spring</html_url>
+  <id>27982201</id>
+  <issue_comment_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/languages</languages_url>
+  <merges_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>angular_bootstrap_spring</name>
+  <network_count>48</network_count>
+  <notifications_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/468261?v=3</avatar_url>
+    <events_url>https://api.github.com/users/perfectspr/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/perfectspr/followers</followers_url>
+    <following_url>https://api.github.com/users/perfectspr/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/perfectspr/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/perfectspr</html_url>
+    <id>468261</id>
+    <login>perfectspr</login>
+    <organizations_url>https://api.github.com/users/perfectspr/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/perfectspr/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/perfectspr/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/perfectspr/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/perfectspr/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/perfectspr</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/branches{/branch}",
+  "clone_url": "https://github.com/Robert-Leggett/angular_bootstrap_spring.git",
+  "collaborators_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/contributors",
+  "created_at": "2013-12-12T23:03:51Z",
+  "default_branch": "master",
+  "description": "Angular JS with Bootstrap and Spring 4 and Spring Security 3",
+  "downloads_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/downloads",
+  "events_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/events",
+  "fork": false,
+  "forks": 48,
+  "forks_count": 48,
+  "forks_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/forks",
+  "full_name": "Robert-Leggett/angular_bootstrap_spring",
+  "git_commits_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/tags{/sha}",
+  "git_url": "git://github.com/Robert-Leggett/angular_bootstrap_spring.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/hooks",
+  "html_url": "https://github.com/Robert-Leggett/angular_bootstrap_spring",
+  "id": 15149842,
+  "issue_comment_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/languages",
+  "merges_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/merges",
+  "milestones_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/milestones{/number}",
+  "mirror_url": null,
+  "name": "angular_bootstrap_spring",
+  "notifications_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/6155814?v=3",
+    "events_url": "https://api.github.com/users/Robert-Leggett/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Robert-Leggett/followers",
+    "following_url": "https://api.github.com/users/Robert-Leggett/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Robert-Leggett/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Robert-Leggett",
+    "id": 6155814,
+    "login": "Robert-Leggett",
+    "organizations_url": "https://api.github.com/users/Robert-Leggett/orgs",
+    "received_events_url": "https://api.github.com/users/Robert-Leggett/received_events",
+    "repos_url": "https://api.github.com/users/Robert-Leggett/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Robert-Leggett/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Robert-Leggett/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Robert-Leggett"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/pulls{/number}",
+  "pushed_at": "2014-08-15T10:09:37Z",
+  "releases_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/releases{/id}",
+  "size": 1035,
+  "ssh_url": "git@github.com:Robert-Leggett/angular_bootstrap_spring.git",
+  "stargazers_count": 54,
+  "stargazers_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/stargazers",
+  "statuses_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/subscribers",
+  "subscription_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/subscription",
+  "svn_url": "https://github.com/Robert-Leggett/angular_bootstrap_spring",
+  "tags_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/tags",
+  "teams_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/teams",
+  "trees_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/trees{/sha}",
+  "updated_at": "2014-12-10T07:28:49Z",
+  "url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring",
+  "watchers": 54,
+  "watchers_count": 54
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/pulls{/number}</pulls_url>
+  <pushed_at>8/15/2014 10:09:37 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/releases{/id}</releases_url>
+  <size>1035</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/branches{/branch}",
+  "clone_url": "https://github.com/Robert-Leggett/angular_bootstrap_spring.git",
+  "collaborators_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/contributors",
+  "created_at": "2013-12-12T23:03:51Z",
+  "default_branch": "master",
+  "description": "Angular JS with Bootstrap and Spring 4 and Spring Security 3",
+  "downloads_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/downloads",
+  "events_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/events",
+  "fork": false,
+  "forks": 48,
+  "forks_count": 48,
+  "forks_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/forks",
+  "full_name": "Robert-Leggett/angular_bootstrap_spring",
+  "git_commits_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/tags{/sha}",
+  "git_url": "git://github.com/Robert-Leggett/angular_bootstrap_spring.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/hooks",
+  "html_url": "https://github.com/Robert-Leggett/angular_bootstrap_spring",
+  "id": 15149842,
+  "issue_comment_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/languages",
+  "merges_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/merges",
+  "milestones_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/milestones{/number}",
+  "mirror_url": null,
+  "name": "angular_bootstrap_spring",
+  "notifications_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/6155814?v=3",
+    "events_url": "https://api.github.com/users/Robert-Leggett/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Robert-Leggett/followers",
+    "following_url": "https://api.github.com/users/Robert-Leggett/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Robert-Leggett/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Robert-Leggett",
+    "id": 6155814,
+    "login": "Robert-Leggett",
+    "organizations_url": "https://api.github.com/users/Robert-Leggett/orgs",
+    "received_events_url": "https://api.github.com/users/Robert-Leggett/received_events",
+    "repos_url": "https://api.github.com/users/Robert-Leggett/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Robert-Leggett/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Robert-Leggett/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Robert-Leggett"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/pulls{/number}",
+  "pushed_at": "2014-08-15T10:09:37Z",
+  "releases_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/releases{/id}",
+  "size": 1035,
+  "ssh_url": "git@github.com:Robert-Leggett/angular_bootstrap_spring.git",
+  "stargazers_count": 54,
+  "stargazers_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/stargazers",
+  "statuses_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/subscribers",
+  "subscription_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/subscription",
+  "svn_url": "https://github.com/Robert-Leggett/angular_bootstrap_spring",
+  "tags_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/tags",
+  "teams_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/teams",
+  "trees_url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring/git/trees{/sha}",
+  "updated_at": "2014-12-10T07:28:49Z",
+  "url": "https://api.github.com/repos/Robert-Leggett/angular_bootstrap_spring",
+  "watchers": 54,
+  "watchers_count": 54
+}</source>
+  <ssh_url>git@github.com:perfectspr/angular_bootstrap_spring.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/subscription</subscription_url>
+  <svn_url>https://github.com/perfectspr/angular_bootstrap_spring</svn_url>
+  <tags_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/tags</tags_url>
+  <teams_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/teams</teams_url>
+  <trees_url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 3:36:46 AM</updated_at>
+  <url>https://api.github.com/repos/perfectspr/angular_bootstrap_spring</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

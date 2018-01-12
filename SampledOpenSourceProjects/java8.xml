@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547d363bbd3543177100994c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/droboports/java8/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/droboports/java8/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/droboports/java8/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/droboports/java8/branches{/branch}</branches_url>
+  <clone_url>https://github.com/droboports/java8.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/droboports/java8/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/droboports/java8/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/droboports/java8/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/droboports/java8/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/droboports/java8/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/droboports/java8/contributors</contributors_url>
+  <created_at>11/20/2014 4:40:33 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Java SE 8 DroboApp build scripts</description>
+  <downloads_url>https://api.github.com/repos/droboports/java8/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/droboports/java8/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/droboports/java8/forks</forks_url>
+  <full_name>droboports/java8</full_name>
+  <git_commits_url>https://api.github.com/repos/droboports/java8/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/droboports/java8/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/droboports/java8/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/droboports/java8.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/droboports/java8/hooks</hooks_url>
+  <html_url>https://github.com/droboports/java8</html_url>
+  <id>26921666</id>
+  <issue_comment_url>https://api.github.com/repos/droboports/java8/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/droboports/java8/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/droboports/java8/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/droboports/java8/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/droboports/java8/labels{/name}</labels_url>
+  <language>Shell</language>
+  <languages_url>https://api.github.com/repos/droboports/java8/languages</languages_url>
+  <merges_url>https://api.github.com/repos/droboports/java8/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/droboports/java8/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>java8</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/droboports/java8/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/7600105?v=3",
+  "events_url": "https://api.github.com/users/droboports/events{/privacy}",
+  "followers_url": "https://api.github.com/users/droboports/followers",
+  "following_url": "https://api.github.com/users/droboports/following{/other_user}",
+  "gists_url": "https://api.github.com/users/droboports/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/droboports",
+  "id": 7600105,
+  "login": "droboports",
+  "organizations_url": "https://api.github.com/users/droboports/orgs",
+  "received_events_url": "https://api.github.com/users/droboports/received_events",
+  "repos_url": "https://api.github.com/users/droboports/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/droboports/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/droboports/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/droboports"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/7600105?v=3</avatar_url>
+    <events_url>https://api.github.com/users/droboports/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/droboports/followers</followers_url>
+    <following_url>https://api.github.com/users/droboports/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/droboports/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/droboports</html_url>
+    <id>7600105</id>
+    <login>droboports</login>
+    <organizations_url>https://api.github.com/users/droboports/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/droboports/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/droboports/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/droboports/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/droboports/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/droboports</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/droboports/java8/pulls{/number}</pulls_url>
+  <pushed_at>11/21/2014 9:02:18 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/droboports/java8/releases{/id}</releases_url>
+  <size>144</size>
+  <ssh_url>git@github.com:droboports/java8.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/droboports/java8/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/droboports/java8/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/droboports/java8/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/droboports/java8/subscription</subscription_url>
+  <svn_url>https://github.com/droboports/java8</svn_url>
+  <tags_url>https://api.github.com/repos/droboports/java8/tags</tags_url>
+  <teams_url>https://api.github.com/repos/droboports/java8/teams</teams_url>
+  <trees_url>https://api.github.com/repos/droboports/java8/git/trees{/sha}</trees_url>
+  <updated_at>11/20/2014 5:01:00 PM</updated_at>
+  <url>https://api.github.com/repos/droboports/java8</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

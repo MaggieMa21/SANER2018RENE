@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a25cfbd35430a5f001415</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/fioan89/mechanize/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/fioan89/mechanize/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/fioan89/mechanize/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/fioan89/mechanize/branches{/branch}</branches_url>
+  <clone_url>https://github.com/fioan89/mechanize.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/fioan89/mechanize/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/fioan89/mechanize/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/fioan89/mechanize/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/fioan89/mechanize/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/fioan89/mechanize/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/fioan89/mechanize/contributors</contributors_url>
+  <created_at>12/7/2014 11:30:43 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .</description>
+  <downloads_url>https://api.github.com/repos/fioan89/mechanize/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/fioan89/mechanize/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/fioan89/mechanize/forks</forks_url>
+  <full_name>fioan89/mechanize</full_name>
+  <git_commits_url>https://api.github.com/repos/fioan89/mechanize/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/fioan89/mechanize/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/fioan89/mechanize/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/fioan89/mechanize.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://wwwsearch.sourceforge.net/mechanize/</homepage>
+  <hooks_url>https://api.github.com/repos/fioan89/mechanize/hooks</hooks_url>
+  <html_url>https://github.com/fioan89/mechanize</html_url>
+  <id>27668019</id>
+  <issue_comment_url>https://api.github.com/repos/fioan89/mechanize/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/fioan89/mechanize/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/fioan89/mechanize/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/fioan89/mechanize/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/fioan89/mechanize/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/fioan89/mechanize/languages</languages_url>
+  <merges_url>https://api.github.com/repos/fioan89/mechanize/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/fioan89/mechanize/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>mechanize</name>
+  <network_count>103</network_count>
+  <notifications_url>https://api.github.com/repos/fioan89/mechanize/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1479167?v=3</avatar_url>
+    <events_url>https://api.github.com/users/fioan89/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/fioan89/followers</followers_url>
+    <following_url>https://api.github.com/users/fioan89/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/fioan89/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/fioan89</html_url>
+    <id>1479167</id>
+    <login>fioan89</login>
+    <organizations_url>https://api.github.com/users/fioan89/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/fioan89/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/fioan89/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/fioan89/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/fioan89/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/fioan89</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/jjlee/mechanize/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/jjlee/mechanize/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/jjlee/mechanize/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/jjlee/mechanize/branches{/branch}",
+  "clone_url": "https://github.com/jjlee/mechanize.git",
+  "collaborators_url": "https://api.github.com/repos/jjlee/mechanize/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/jjlee/mechanize/comments{/number}",
+  "commits_url": "https://api.github.com/repos/jjlee/mechanize/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/jjlee/mechanize/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/jjlee/mechanize/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/jjlee/mechanize/contributors",
+  "created_at": "2009-10-10T21:01:25Z",
+  "default_branch": "master",
+  "description": "Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .",
+  "downloads_url": "https://api.github.com/repos/jjlee/mechanize/downloads",
+  "events_url": "https://api.github.com/repos/jjlee/mechanize/events",
+  "fork": false,
+  "forks": 103,
+  "forks_count": 103,
+  "forks_url": "https://api.github.com/repos/jjlee/mechanize/forks",
+  "full_name": "jjlee/mechanize",
+  "git_commits_url": "https://api.github.com/repos/jjlee/mechanize/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jjlee/mechanize/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jjlee/mechanize/git/tags{/sha}",
+  "git_url": "git://github.com/jjlee/mechanize.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://wwwsearch.sourceforge.net/mechanize/",
+  "hooks_url": "https://api.github.com/repos/jjlee/mechanize/hooks",
+  "html_url": "https://github.com/jjlee/mechanize",
+  "id": 333450,
+  "issue_comment_url": "https://api.github.com/repos/jjlee/mechanize/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/jjlee/mechanize/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/jjlee/mechanize/issues{/number}",
+  "keys_url": "https://api.github.com/repos/jjlee/mechanize/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/jjlee/mechanize/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/jjlee/mechanize/languages",
+  "merges_url": "https://api.github.com/repos/jjlee/mechanize/merges",
+  "milestones_url": "https://api.github.com/repos/jjlee/mechanize/milestones{/number}",
+  "mirror_url": null,
+  "name": "mechanize",
+  "notifications_url": "https://api.github.com/repos/jjlee/mechanize/notifications{?since,all,participating}",
+  "open_issues": 70,
+  "open_issues_count": 70,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/138031?v=3",
+    "events_url": "https://api.github.com/users/jjlee/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jjlee/followers",
+    "following_url": "https://api.github.com/users/jjlee/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jjlee/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jjlee",
+    "id": 138031,
+    "login": "jjlee",
+    "organizations_url": "https://api.github.com/users/jjlee/orgs",
+    "received_events_url": "https://api.github.com/users/jjlee/received_events",
+    "repos_url": "https://api.github.com/users/jjlee/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jjlee/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jjlee/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jjlee"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/jjlee/mechanize/pulls{/number}",
+  "pushed_at": "2012-02-12T14:52:46Z",
+  "releases_url": "https://api.github.com/repos/jjlee/mechanize/releases{/id}",
+  "size": 2093,
+  "ssh_url": "git@github.com:jjlee/mechanize.git",
+  "stargazers_count": 437,
+  "stargazers_url": "https://api.github.com/repos/jjlee/mechanize/stargazers",
+  "statuses_url": "https://api.github.com/repos/jjlee/mechanize/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/jjlee/mechanize/subscribers",
+  "subscription_url": "https://api.github.com/repos/jjlee/mechanize/subscription",
+  "svn_url": "https://github.com/jjlee/mechanize",
+  "tags_url": "https://api.github.com/repos/jjlee/mechanize/tags",
+  "teams_url": "https://api.github.com/repos/jjlee/mechanize/teams",
+  "trees_url": "https://api.github.com/repos/jjlee/mechanize/git/trees{/sha}",
+  "updated_at": "2014-12-09T05:19:55Z",
+  "url": "https://api.github.com/repos/jjlee/mechanize",
+  "watchers": 437,
+  "watchers_count": 437
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/fioan89/mechanize/pulls{/number}</pulls_url>
+  <pushed_at>12/7/2014 12:25:17 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/fioan89/mechanize/releases{/id}</releases_url>
+  <size>2032</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/jjlee/mechanize/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/jjlee/mechanize/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/jjlee/mechanize/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/jjlee/mechanize/branches{/branch}",
+  "clone_url": "https://github.com/jjlee/mechanize.git",
+  "collaborators_url": "https://api.github.com/repos/jjlee/mechanize/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/jjlee/mechanize/comments{/number}",
+  "commits_url": "https://api.github.com/repos/jjlee/mechanize/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/jjlee/mechanize/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/jjlee/mechanize/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/jjlee/mechanize/contributors",
+  "created_at": "2009-10-10T21:01:25Z",
+  "default_branch": "master",
+  "description": "Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .",
+  "downloads_url": "https://api.github.com/repos/jjlee/mechanize/downloads",
+  "events_url": "https://api.github.com/repos/jjlee/mechanize/events",
+  "fork": false,
+  "forks": 103,
+  "forks_count": 103,
+  "forks_url": "https://api.github.com/repos/jjlee/mechanize/forks",
+  "full_name": "jjlee/mechanize",
+  "git_commits_url": "https://api.github.com/repos/jjlee/mechanize/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jjlee/mechanize/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jjlee/mechanize/git/tags{/sha}",
+  "git_url": "git://github.com/jjlee/mechanize.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://wwwsearch.sourceforge.net/mechanize/",
+  "hooks_url": "https://api.github.com/repos/jjlee/mechanize/hooks",
+  "html_url": "https://github.com/jjlee/mechanize",
+  "id": 333450,
+  "issue_comment_url": "https://api.github.com/repos/jjlee/mechanize/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/jjlee/mechanize/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/jjlee/mechanize/issues{/number}",
+  "keys_url": "https://api.github.com/repos/jjlee/mechanize/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/jjlee/mechanize/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/jjlee/mechanize/languages",
+  "merges_url": "https://api.github.com/repos/jjlee/mechanize/merges",
+  "milestones_url": "https://api.github.com/repos/jjlee/mechanize/milestones{/number}",
+  "mirror_url": null,
+  "name": "mechanize",
+  "notifications_url": "https://api.github.com/repos/jjlee/mechanize/notifications{?since,all,participating}",
+  "open_issues": 70,
+  "open_issues_count": 70,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/138031?v=3",
+    "events_url": "https://api.github.com/users/jjlee/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jjlee/followers",
+    "following_url": "https://api.github.com/users/jjlee/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jjlee/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jjlee",
+    "id": 138031,
+    "login": "jjlee",
+    "organizations_url": "https://api.github.com/users/jjlee/orgs",
+    "received_events_url": "https://api.github.com/users/jjlee/received_events",
+    "repos_url": "https://api.github.com/users/jjlee/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jjlee/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jjlee/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jjlee"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/jjlee/mechanize/pulls{/number}",
+  "pushed_at": "2012-02-12T14:52:46Z",
+  "releases_url": "https://api.github.com/repos/jjlee/mechanize/releases{/id}",
+  "size": 2093,
+  "ssh_url": "git@github.com:jjlee/mechanize.git",
+  "stargazers_count": 437,
+  "stargazers_url": "https://api.github.com/repos/jjlee/mechanize/stargazers",
+  "statuses_url": "https://api.github.com/repos/jjlee/mechanize/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/jjlee/mechanize/subscribers",
+  "subscription_url": "https://api.github.com/repos/jjlee/mechanize/subscription",
+  "svn_url": "https://github.com/jjlee/mechanize",
+  "tags_url": "https://api.github.com/repos/jjlee/mechanize/tags",
+  "teams_url": "https://api.github.com/repos/jjlee/mechanize/teams",
+  "trees_url": "https://api.github.com/repos/jjlee/mechanize/git/trees{/sha}",
+  "updated_at": "2014-12-09T05:19:55Z",
+  "url": "https://api.github.com/repos/jjlee/mechanize",
+  "watchers": 437,
+  "watchers_count": 437
+}</source>
+  <ssh_url>git@github.com:fioan89/mechanize.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/fioan89/mechanize/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/fioan89/mechanize/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/fioan89/mechanize/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/fioan89/mechanize/subscription</subscription_url>
+  <svn_url>https://github.com/fioan89/mechanize</svn_url>
+  <tags_url>https://api.github.com/repos/fioan89/mechanize/tags</tags_url>
+  <teams_url>https://api.github.com/repos/fioan89/mechanize/teams</teams_url>
+  <trees_url>https://api.github.com/repos/fioan89/mechanize/git/trees{/sha}</trees_url>
+  <updated_at>12/7/2014 12:25:17 PM</updated_at>
+  <url>https://api.github.com/repos/fioan89/mechanize</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

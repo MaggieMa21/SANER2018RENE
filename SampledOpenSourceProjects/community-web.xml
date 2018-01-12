@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a8197bd35430983002c94</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/florent-valeureux/community-web/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/florent-valeureux/community-web/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/florent-valeureux/community-web/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/florent-valeureux/community-web/branches{/branch}</branches_url>
+  <clone_url>https://github.com/florent-valeureux/community-web.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/florent-valeureux/community-web/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/florent-valeureux/community-web/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/florent-valeureux/community-web/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/florent-valeureux/community-web/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/florent-valeureux/community-web/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/florent-valeureux/community-web/contributors</contributors_url>
+  <created_at>12/10/2014 12:06:04 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Web part for Odoo community management modules https://github.com/YannickB/community-management/</description>
+  <downloads_url>https://api.github.com/repos/florent-valeureux/community-web/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/florent-valeureux/community-web/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/florent-valeureux/community-web/forks</forks_url>
+  <full_name>florent-valeureux/community-web</full_name>
+  <git_commits_url>https://api.github.com/repos/florent-valeureux/community-web/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/florent-valeureux/community-web/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/florent-valeureux/community-web/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/florent-valeureux/community-web.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/florent-valeureux/community-web/hooks</hooks_url>
+  <html_url>https://github.com/florent-valeureux/community-web</html_url>
+  <id>27817999</id>
+  <issue_comment_url>https://api.github.com/repos/florent-valeureux/community-web/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/florent-valeureux/community-web/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/florent-valeureux/community-web/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/florent-valeureux/community-web/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/florent-valeureux/community-web/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/florent-valeureux/community-web/languages</languages_url>
+  <merges_url>https://api.github.com/repos/florent-valeureux/community-web/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/florent-valeureux/community-web/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>community-web</name>
+  <network_count>4</network_count>
+  <notifications_url>https://api.github.com/repos/florent-valeureux/community-web/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9918969?v=3</avatar_url>
+    <events_url>https://api.github.com/users/florent-valeureux/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/florent-valeureux/followers</followers_url>
+    <following_url>https://api.github.com/users/florent-valeureux/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/florent-valeureux/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/florent-valeureux</html_url>
+    <id>9918969</id>
+    <login>florent-valeureux</login>
+    <organizations_url>https://api.github.com/users/florent-valeureux/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/florent-valeureux/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/florent-valeureux/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/florent-valeureux/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/florent-valeureux/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/florent-valeureux</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/YannickB/community-web/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/YannickB/community-web/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/YannickB/community-web/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/YannickB/community-web/branches{/branch}",
+  "clone_url": "https://github.com/YannickB/community-web.git",
+  "collaborators_url": "https://api.github.com/repos/YannickB/community-web/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/YannickB/community-web/comments{/number}",
+  "commits_url": "https://api.github.com/repos/YannickB/community-web/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/YannickB/community-web/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/YannickB/community-web/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/YannickB/community-web/contributors",
+  "created_at": "2014-10-30T12:51:05Z",
+  "default_branch": "master",
+  "description": "Web part for Odoo community management modules https://github.com/YannickB/community-management/",
+  "downloads_url": "https://api.github.com/repos/YannickB/community-web/downloads",
+  "events_url": "https://api.github.com/repos/YannickB/community-web/events",
+  "fork": true,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/YannickB/community-web/forks",
+  "full_name": "YannickB/community-web",
+  "git_commits_url": "https://api.github.com/repos/YannickB/community-web/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/YannickB/community-web/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/YannickB/community-web/git/tags{/sha}",
+  "git_url": "git://github.com/YannickB/community-web.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/YannickB/community-web/hooks",
+  "html_url": "https://github.com/YannickB/community-web",
+  "id": 25970516,
+  "issue_comment_url": "https://api.github.com/repos/YannickB/community-web/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/YannickB/community-web/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/YannickB/community-web/issues{/number}",
+  "keys_url": "https://api.github.com/repos/YannickB/community-web/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/YannickB/community-web/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/YannickB/community-web/languages",
+  "merges_url": "https://api.github.com/repos/YannickB/community-web/merges",
+  "milestones_url": "https://api.github.com/repos/YannickB/community-web/milestones{/number}",
+  "mirror_url": null,
+  "name": "community-web",
+  "notifications_url": "https://api.github.com/repos/YannickB/community-web/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/225578?v=3",
+    "events_url": "https://api.github.com/users/YannickB/events{/privacy}",
+    "followers_url": "https://api.github.com/users/YannickB/followers",
+    "following_url": "https://api.github.com/users/YannickB/following{/other_user}",
+    "gists_url": "https://api.github.com/users/YannickB/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/YannickB",
+    "id": 225578,
+    "login": "YannickB",
+    "organizations_url": "https://api.github.com/users/YannickB/orgs",
+    "received_events_url": "https://api.github.com/users/YannickB/received_events",
+    "repos_url": "https://api.github.com/users/YannickB/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/YannickB/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/YannickB/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/YannickB"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/YannickB/community-web/pulls{/number}",
+  "pushed_at": "2014-12-10T14:52:37Z",
+  "releases_url": "https://api.github.com/repos/YannickB/community-web/releases{/id}",
+  "size": 1194,
+  "ssh_url": "git@github.com:YannickB/community-web.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/YannickB/community-web/stargazers",
+  "statuses_url": "https://api.github.com/repos/YannickB/community-web/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/YannickB/community-web/subscribers",
+  "subscription_url": "https://api.github.com/repos/YannickB/community-web/subscription",
+  "svn_url": "https://github.com/YannickB/community-web",
+  "tags_url": "https://api.github.com/repos/YannickB/community-web/tags",
+  "teams_url": "https://api.github.com/repos/YannickB/community-web/teams",
+  "trees_url": "https://api.github.com/repos/YannickB/community-web/git/trees{/sha}",
+  "updated_at": "2014-12-10T14:52:37Z",
+  "url": "https://api.github.com/repos/YannickB/community-web",
+  "watchers": 1,
+  "watchers_count": 1
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/florent-valeureux/community-web/pulls{/number}</pulls_url>
+  <pushed_at>12/10/2014 5:12:15 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/florent-valeureux/community-web/releases{/id}</releases_url>
+  <size>1194</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/xpansa/community-web/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/xpansa/community-web/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/xpansa/community-web/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/xpansa/community-web/branches{/branch}",
+  "clone_url": "https://github.com/xpansa/community-web.git",
+  "collaborators_url": "https://api.github.com/repos/xpansa/community-web/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/xpansa/community-web/comments{/number}",
+  "commits_url": "https://api.github.com/repos/xpansa/community-web/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/xpansa/community-web/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/xpansa/community-web/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/xpansa/community-web/contributors",
+  "created_at": "2014-10-28T10:30:19Z",
+  "default_branch": "master",
+  "description": "Web part for Odoo community management modules https://github.com/YannickB/community-management/",
+  "downloads_url": "https://api.github.com/repos/xpansa/community-web/downloads",
+  "events_url": "https://api.github.com/repos/xpansa/community-web/events",
+  "fork": false,
+  "forks": 4,
+  "forks_count": 4,
+  "forks_url": "https://api.github.com/repos/xpansa/community-web/forks",
+  "full_name": "xpansa/community-web",
+  "git_commits_url": "https://api.github.com/repos/xpansa/community-web/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/xpansa/community-web/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/xpansa/community-web/git/tags{/sha}",
+  "git_url": "git://github.com/xpansa/community-web.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/xpansa/community-web/hooks",
+  "html_url": "https://github.com/xpansa/community-web",
+  "id": 25864155,
+  "issue_comment_url": "https://api.github.com/repos/xpansa/community-web/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/xpansa/community-web/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/xpansa/community-web/issues{/number}",
+  "keys_url": "https://api.github.com/repos/xpansa/community-web/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/xpansa/community-web/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/xpansa/community-web/languages",
+  "merges_url": "https://api.github.com/repos/xpansa/community-web/merges",
+  "milestones_url": "https://api.github.com/repos/xpansa/community-web/milestones{/number}",
+  "mirror_url": null,
+  "name": "community-web",
+  "notifications_url": "https://api.github.com/repos/xpansa/community-web/notifications{?since,all,participating}",
+  "open_issues": 7,
+  "open_issues_count": 7,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9366845?v=3",
+    "events_url": "https://api.github.com/users/xpansa/events{/privacy}",
+    "followers_url": "https://api.github.com/users/xpansa/followers",
+    "following_url": "https://api.github.com/users/xpansa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xpansa/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/xpansa",
+    "id": 9366845,
+    "login": "xpansa",
+    "organizations_url": "https://api.github.com/users/xpansa/orgs",
+    "received_events_url": "https://api.github.com/users/xpansa/received_events",
+    "repos_url": "https://api.github.com/users/xpansa/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/xpansa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xpansa/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/xpansa"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/xpansa/community-web/pulls{/number}",
+  "pushed_at": "2014-11-08T14:35:06Z",
+  "releases_url": "https://api.github.com/repos/xpansa/community-web/releases{/id}",
+  "size": 1363,
+  "ssh_url": "git@github.com:xpansa/community-web.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/xpansa/community-web/stargazers",
+  "statuses_url": "https://api.github.com/repos/xpansa/community-web/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/xpansa/community-web/subscribers",
+  "subscription_url": "https://api.github.com/repos/xpansa/community-web/subscription",
+  "svn_url": "https://github.com/xpansa/community-web",
+  "tags_url": "https://api.github.com/repos/xpansa/community-web/tags",
+  "teams_url": "https://api.github.com/repos/xpansa/community-web/teams",
+  "trees_url": "https://api.github.com/repos/xpansa/community-web/git/trees{/sha}",
+  "updated_at": "2014-11-02T18:24:47Z",
+  "url": "https://api.github.com/repos/xpansa/community-web",
+  "watchers": 2,
+  "watchers_count": 2
+}</source>
+  <ssh_url>git@github.com:florent-valeureux/community-web.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/florent-valeureux/community-web/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/florent-valeureux/community-web/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/florent-valeureux/community-web/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/florent-valeureux/community-web/subscription</subscription_url>
+  <svn_url>https://github.com/florent-valeureux/community-web</svn_url>
+  <tags_url>https://api.github.com/repos/florent-valeureux/community-web/tags</tags_url>
+  <teams_url>https://api.github.com/repos/florent-valeureux/community-web/teams</teams_url>
+  <trees_url>https://api.github.com/repos/florent-valeureux/community-web/git/trees{/sha}</trees_url>
+  <updated_at>12/10/2014 5:12:15 PM</updated_at>
+  <url>https://api.github.com/repos/florent-valeureux/community-web</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

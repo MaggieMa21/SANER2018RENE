@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cf29abd35430a6f00e227</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/GoIncremental/concurrency/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/GoIncremental/concurrency/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/GoIncremental/concurrency/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/GoIncremental/concurrency/branches{/branch}</branches_url>
+  <clone_url>https://github.com/GoIncremental/concurrency.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/GoIncremental/concurrency/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/GoIncremental/concurrency/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/GoIncremental/concurrency/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/GoIncremental/concurrency/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/GoIncremental/concurrency/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/GoIncremental/concurrency/contributors</contributors_url>
+  <created_at>11/24/2014 9:00:16 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Basic introduction to golang concurrency</description>
+  <downloads_url>https://api.github.com/repos/GoIncremental/concurrency/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/GoIncremental/concurrency/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/GoIncremental/concurrency/forks</forks_url>
+  <full_name>GoIncremental/concurrency</full_name>
+  <git_commits_url>https://api.github.com/repos/GoIncremental/concurrency/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/GoIncremental/concurrency/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/GoIncremental/concurrency/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/GoIncremental/concurrency.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/GoIncremental/concurrency/hooks</hooks_url>
+  <html_url>https://github.com/GoIncremental/concurrency</html_url>
+  <id>27068167</id>
+  <issue_comment_url>https://api.github.com/repos/GoIncremental/concurrency/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/GoIncremental/concurrency/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/GoIncremental/concurrency/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/GoIncremental/concurrency/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/GoIncremental/concurrency/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/GoIncremental/concurrency/languages</languages_url>
+  <merges_url>https://api.github.com/repos/GoIncremental/concurrency/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/GoIncremental/concurrency/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>concurrency</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/GoIncremental/concurrency/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/6714557?v=3",
+  "events_url": "https://api.github.com/users/GoIncremental/events{/privacy}",
+  "followers_url": "https://api.github.com/users/GoIncremental/followers",
+  "following_url": "https://api.github.com/users/GoIncremental/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GoIncremental/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/GoIncremental",
+  "id": 6714557,
+  "login": "GoIncremental",
+  "organizations_url": "https://api.github.com/users/GoIncremental/orgs",
+  "received_events_url": "https://api.github.com/users/GoIncremental/received_events",
+  "repos_url": "https://api.github.com/users/GoIncremental/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/GoIncremental/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GoIncremental/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/GoIncremental"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/6714557?v=3</avatar_url>
+    <events_url>https://api.github.com/users/GoIncremental/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/GoIncremental/followers</followers_url>
+    <following_url>https://api.github.com/users/GoIncremental/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/GoIncremental/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/GoIncremental</html_url>
+    <id>6714557</id>
+    <login>GoIncremental</login>
+    <organizations_url>https://api.github.com/users/GoIncremental/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/GoIncremental/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/GoIncremental/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/GoIncremental/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/GoIncremental/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/GoIncremental</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/GoIncremental/concurrency/pulls{/number}</pulls_url>
+  <pushed_at>11/24/2014 7:04:27 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/GoIncremental/concurrency/releases{/id}</releases_url>
+  <size>424</size>
+  <ssh_url>git@github.com:GoIncremental/concurrency.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/GoIncremental/concurrency/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/GoIncremental/concurrency/statuses/{sha}</statuses_url>
+  <subscribers_count>2</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/GoIncremental/concurrency/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/GoIncremental/concurrency/subscription</subscription_url>
+  <svn_url>https://github.com/GoIncremental/concurrency</svn_url>
+  <tags_url>https://api.github.com/repos/GoIncremental/concurrency/tags</tags_url>
+  <teams_url>https://api.github.com/repos/GoIncremental/concurrency/teams</teams_url>
+  <trees_url>https://api.github.com/repos/GoIncremental/concurrency/git/trees{/sha}</trees_url>
+  <updated_at>11/24/2014 7:04:27 PM</updated_at>
+  <url>https://api.github.com/repos/GoIncremental/concurrency</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

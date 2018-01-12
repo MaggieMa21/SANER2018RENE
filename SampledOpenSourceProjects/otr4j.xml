@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548ccc4cbd35430cad00df27</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/0xxon/otr4j/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/0xxon/otr4j/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/0xxon/otr4j/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/0xxon/otr4j/branches{/branch}</branches_url>
+  <clone_url>https://github.com/0xxon/otr4j.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/0xxon/otr4j/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/0xxon/otr4j/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/0xxon/otr4j/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/0xxon/otr4j/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/0xxon/otr4j/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/0xxon/otr4j/contributors</contributors_url>
+  <created_at>11/23/2014 4:06:37 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Off-the-Record messaging library for Java</description>
+  <downloads_url>https://api.github.com/repos/0xxon/otr4j/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/0xxon/otr4j/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/0xxon/otr4j/forks</forks_url>
+  <full_name>0xxon/otr4j</full_name>
+  <git_commits_url>https://api.github.com/repos/0xxon/otr4j/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/0xxon/otr4j/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/0xxon/otr4j/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/0xxon/otr4j.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/0xxon/otr4j/hooks</hooks_url>
+  <html_url>https://github.com/0xxon/otr4j</html_url>
+  <id>27021570</id>
+  <issue_comment_url>https://api.github.com/repos/0xxon/otr4j/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/0xxon/otr4j/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/0xxon/otr4j/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/0xxon/otr4j/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/0xxon/otr4j/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/0xxon/otr4j/languages</languages_url>
+  <merges_url>https://api.github.com/repos/0xxon/otr4j/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/0xxon/otr4j/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>otr4j</name>
+  <network_count>35</network_count>
+  <notifications_url>https://api.github.com/repos/0xxon/otr4j/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1538460?v=3</avatar_url>
+    <events_url>https://api.github.com/users/0xxon/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/0xxon/followers</followers_url>
+    <following_url>https://api.github.com/users/0xxon/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/0xxon/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/0xxon</html_url>
+    <id>1538460</id>
+    <login>0xxon</login>
+    <organizations_url>https://api.github.com/users/0xxon/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/0xxon/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/0xxon/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/0xxon/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/0xxon/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/0xxon</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/jitsi/otr4j/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/jitsi/otr4j/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/jitsi/otr4j/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/jitsi/otr4j/branches{/branch}",
+  "clone_url": "https://github.com/jitsi/otr4j.git",
+  "collaborators_url": "https://api.github.com/repos/jitsi/otr4j/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/jitsi/otr4j/comments{/number}",
+  "commits_url": "https://api.github.com/repos/jitsi/otr4j/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/jitsi/otr4j/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/jitsi/otr4j/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/jitsi/otr4j/contributors",
+  "created_at": "2012-07-22T13:35:48Z",
+  "default_branch": "master",
+  "description": "Off-the-Record messaging library for Java",
+  "downloads_url": "https://api.github.com/repos/jitsi/otr4j/downloads",
+  "events_url": "https://api.github.com/repos/jitsi/otr4j/events",
+  "fork": true,
+  "forks": 24,
+  "forks_count": 24,
+  "forks_url": "https://api.github.com/repos/jitsi/otr4j/forks",
+  "full_name": "jitsi/otr4j",
+  "git_commits_url": "https://api.github.com/repos/jitsi/otr4j/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jitsi/otr4j/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jitsi/otr4j/git/tags{/sha}",
+  "git_url": "git://github.com/jitsi/otr4j.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/jitsi/otr4j/hooks",
+  "html_url": "https://github.com/jitsi/otr4j",
+  "id": 5141769,
+  "issue_comment_url": "https://api.github.com/repos/jitsi/otr4j/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/jitsi/otr4j/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/jitsi/otr4j/issues{/number}",
+  "keys_url": "https://api.github.com/repos/jitsi/otr4j/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/jitsi/otr4j/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/jitsi/otr4j/languages",
+  "merges_url": "https://api.github.com/repos/jitsi/otr4j/merges",
+  "milestones_url": "https://api.github.com/repos/jitsi/otr4j/milestones{/number}",
+  "mirror_url": null,
+  "name": "otr4j",
+  "notifications_url": "https://api.github.com/repos/jitsi/otr4j/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3671647?v=3",
+    "events_url": "https://api.github.com/users/jitsi/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jitsi/followers",
+    "following_url": "https://api.github.com/users/jitsi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jitsi/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jitsi",
+    "id": 3671647,
+    "login": "jitsi",
+    "organizations_url": "https://api.github.com/users/jitsi/orgs",
+    "received_events_url": "https://api.github.com/users/jitsi/received_events",
+    "repos_url": "https://api.github.com/users/jitsi/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jitsi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jitsi/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/jitsi"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/jitsi/otr4j/pulls{/number}",
+  "pushed_at": "2014-09-29T19:16:21Z",
+  "releases_url": "https://api.github.com/repos/jitsi/otr4j/releases{/id}",
+  "size": 7652,
+  "ssh_url": "git@github.com:jitsi/otr4j.git",
+  "stargazers_count": 33,
+  "stargazers_url": "https://api.github.com/repos/jitsi/otr4j/stargazers",
+  "statuses_url": "https://api.github.com/repos/jitsi/otr4j/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/jitsi/otr4j/subscribers",
+  "subscription_url": "https://api.github.com/repos/jitsi/otr4j/subscription",
+  "svn_url": "https://github.com/jitsi/otr4j",
+  "tags_url": "https://api.github.com/repos/jitsi/otr4j/tags",
+  "teams_url": "https://api.github.com/repos/jitsi/otr4j/teams",
+  "trees_url": "https://api.github.com/repos/jitsi/otr4j/git/trees{/sha}",
+  "updated_at": "2014-12-10T10:24:54Z",
+  "url": "https://api.github.com/repos/jitsi/otr4j",
+  "watchers": 33,
+  "watchers_count": 33
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/0xxon/otr4j/pulls{/number}</pulls_url>
+  <pushed_at>11/23/2014 4:35:13 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/0xxon/otr4j/releases{/id}</releases_url>
+  <size>4951</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/redsolution/otr4j/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/redsolution/otr4j/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/redsolution/otr4j/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/redsolution/otr4j/branches{/branch}",
+  "clone_url": "https://github.com/redsolution/otr4j.git",
+  "collaborators_url": "https://api.github.com/repos/redsolution/otr4j/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/redsolution/otr4j/comments{/number}",
+  "commits_url": "https://api.github.com/repos/redsolution/otr4j/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/redsolution/otr4j/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/redsolution/otr4j/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/redsolution/otr4j/contributors",
+  "created_at": "2012-06-22T08:02:29Z",
+  "default_branch": "master",
+  "description": "OTR4J fork",
+  "downloads_url": "https://api.github.com/repos/redsolution/otr4j/downloads",
+  "events_url": "https://api.github.com/repos/redsolution/otr4j/events",
+  "fork": false,
+  "forks": 35,
+  "forks_count": 35,
+  "forks_url": "https://api.github.com/repos/redsolution/otr4j/forks",
+  "full_name": "redsolution/otr4j",
+  "git_commits_url": "https://api.github.com/repos/redsolution/otr4j/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/redsolution/otr4j/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/redsolution/otr4j/git/tags{/sha}",
+  "git_url": "git://github.com/redsolution/otr4j.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/redsolution/otr4j/hooks",
+  "html_url": "https://github.com/redsolution/otr4j",
+  "id": 4748859,
+  "issue_comment_url": "https://api.github.com/repos/redsolution/otr4j/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/redsolution/otr4j/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/redsolution/otr4j/issues{/number}",
+  "keys_url": "https://api.github.com/repos/redsolution/otr4j/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/redsolution/otr4j/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/redsolution/otr4j/languages",
+  "merges_url": "https://api.github.com/repos/redsolution/otr4j/merges",
+  "milestones_url": "https://api.github.com/repos/redsolution/otr4j/milestones{/number}",
+  "mirror_url": null,
+  "name": "otr4j",
+  "notifications_url": "https://api.github.com/repos/redsolution/otr4j/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/191361?v=3",
+    "events_url": "https://api.github.com/users/redsolution/events{/privacy}",
+    "followers_url": "https://api.github.com/users/redsolution/followers",
+    "following_url": "https://api.github.com/users/redsolution/following{/other_user}",
+    "gists_url": "https://api.github.com/users/redsolution/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/redsolution",
+    "id": 191361,
+    "login": "redsolution",
+    "organizations_url": "https://api.github.com/users/redsolution/orgs",
+    "received_events_url": "https://api.github.com/users/redsolution/received_events",
+    "repos_url": "https://api.github.com/users/redsolution/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/redsolution/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/redsolution/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/redsolution"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/redsolution/otr4j/pulls{/number}",
+  "pushed_at": "2014-08-03T11:28:40Z",
+  "releases_url": "https://api.github.com/repos/redsolution/otr4j/releases{/id}",
+  "size": 4001,
+  "ssh_url": "git@github.com:redsolution/otr4j.git",
+  "stargazers_count": 8,
+  "stargazers_url": "https://api.github.com/repos/redsolution/otr4j/stargazers",
+  "statuses_url": "https://api.github.com/repos/redsolution/otr4j/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/redsolution/otr4j/subscribers",
+  "subscription_url": "https://api.github.com/repos/redsolution/otr4j/subscription",
+  "svn_url": "https://github.com/redsolution/otr4j",
+  "tags_url": "https://api.github.com/repos/redsolution/otr4j/tags",
+  "teams_url": "https://api.github.com/repos/redsolution/otr4j/teams",
+  "trees_url": "https://api.github.com/repos/redsolution/otr4j/git/trees{/sha}",
+  "updated_at": "2014-11-16T01:13:43Z",
+  "url": "https://api.github.com/repos/redsolution/otr4j",
+  "watchers": 8,
+  "watchers_count": 8
+}</source>
+  <ssh_url>git@github.com:0xxon/otr4j.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/0xxon/otr4j/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/0xxon/otr4j/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/0xxon/otr4j/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/0xxon/otr4j/subscription</subscription_url>
+  <svn_url>https://github.com/0xxon/otr4j</svn_url>
+  <tags_url>https://api.github.com/repos/0xxon/otr4j/tags</tags_url>
+  <teams_url>https://api.github.com/repos/0xxon/otr4j/teams</teams_url>
+  <trees_url>https://api.github.com/repos/0xxon/otr4j/git/trees{/sha}</trees_url>
+  <updated_at>11/23/2014 4:35:14 AM</updated_at>
+  <url>https://api.github.com/repos/0xxon/otr4j</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

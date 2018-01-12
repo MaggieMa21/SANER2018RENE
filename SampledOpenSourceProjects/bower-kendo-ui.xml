@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548ccfd2bd3543189d00dce3</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/branches{/branch}</branches_url>
+  <clone_url>https://github.com/mjashanks/bower-kendo-ui.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/contributors</contributors_url>
+  <created_at>12/13/2014 11:46:21 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Bower package for Kendo UI Core</description>
+  <downloads_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/forks</forks_url>
+  <full_name>mjashanks/bower-kendo-ui</full_name>
+  <git_commits_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/mjashanks/bower-kendo-ui.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://kendoui.com</homepage>
+  <hooks_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/hooks</hooks_url>
+  <html_url>https://github.com/mjashanks/bower-kendo-ui</html_url>
+  <id>27977514</id>
+  <issue_comment_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/languages</languages_url>
+  <merges_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>bower-kendo-ui</name>
+  <network_count>19</network_count>
+  <notifications_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/3524181?v=3</avatar_url>
+    <events_url>https://api.github.com/users/mjashanks/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/mjashanks/followers</followers_url>
+    <following_url>https://api.github.com/users/mjashanks/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/mjashanks/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/mjashanks</html_url>
+    <id>3524181</id>
+    <login>mjashanks</login>
+    <organizations_url>https://api.github.com/users/mjashanks/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/mjashanks/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/mjashanks/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/mjashanks/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/mjashanks/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/mjashanks</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/branches{/branch}",
+  "clone_url": "https://github.com/kendo-labs/bower-kendo-ui.git",
+  "collaborators_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/comments{/number}",
+  "commits_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/contributors",
+  "created_at": "2013-04-04T13:03:11Z",
+  "default_branch": "master",
+  "description": "Bower package for Kendo UI Core",
+  "downloads_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/downloads",
+  "events_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/events",
+  "fork": false,
+  "forks": 19,
+  "forks_count": 19,
+  "forks_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/forks",
+  "full_name": "kendo-labs/bower-kendo-ui",
+  "git_commits_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/tags{/sha}",
+  "git_url": "git://github.com/kendo-labs/bower-kendo-ui.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://kendoui.com",
+  "hooks_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/hooks",
+  "html_url": "https://github.com/kendo-labs/bower-kendo-ui",
+  "id": 9218314,
+  "issue_comment_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/issues{/number}",
+  "keys_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/languages",
+  "merges_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/merges",
+  "milestones_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/milestones{/number}",
+  "mirror_url": null,
+  "name": "bower-kendo-ui",
+  "notifications_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/notifications{?since,all,participating}",
+  "open_issues": 3,
+  "open_issues_count": 3,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3042929?v=3",
+    "events_url": "https://api.github.com/users/kendo-labs/events{/privacy}",
+    "followers_url": "https://api.github.com/users/kendo-labs/followers",
+    "following_url": "https://api.github.com/users/kendo-labs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/kendo-labs/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/kendo-labs",
+    "id": 3042929,
+    "login": "kendo-labs",
+    "organizations_url": "https://api.github.com/users/kendo-labs/orgs",
+    "received_events_url": "https://api.github.com/users/kendo-labs/received_events",
+    "repos_url": "https://api.github.com/users/kendo-labs/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/kendo-labs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/kendo-labs/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/kendo-labs"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/pulls{/number}",
+  "pushed_at": "2014-12-04T09:32:26Z",
+  "releases_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/releases{/id}",
+  "size": 18369,
+  "ssh_url": "git@github.com:kendo-labs/bower-kendo-ui.git",
+  "stargazers_count": 24,
+  "stargazers_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/stargazers",
+  "statuses_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/subscribers",
+  "subscription_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/subscription",
+  "svn_url": "https://github.com/kendo-labs/bower-kendo-ui",
+  "tags_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/tags",
+  "teams_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/teams",
+  "trees_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/trees{/sha}",
+  "updated_at": "2014-12-02T05:31:19Z",
+  "url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui",
+  "watchers": 24,
+  "watchers_count": 24
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/pulls{/number}</pulls_url>
+  <pushed_at>12/4/2014 9:32:26 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/releases{/id}</releases_url>
+  <size>18369</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/branches{/branch}",
+  "clone_url": "https://github.com/kendo-labs/bower-kendo-ui.git",
+  "collaborators_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/comments{/number}",
+  "commits_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/contributors",
+  "created_at": "2013-04-04T13:03:11Z",
+  "default_branch": "master",
+  "description": "Bower package for Kendo UI Core",
+  "downloads_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/downloads",
+  "events_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/events",
+  "fork": false,
+  "forks": 19,
+  "forks_count": 19,
+  "forks_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/forks",
+  "full_name": "kendo-labs/bower-kendo-ui",
+  "git_commits_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/tags{/sha}",
+  "git_url": "git://github.com/kendo-labs/bower-kendo-ui.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://kendoui.com",
+  "hooks_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/hooks",
+  "html_url": "https://github.com/kendo-labs/bower-kendo-ui",
+  "id": 9218314,
+  "issue_comment_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/issues{/number}",
+  "keys_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/languages",
+  "merges_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/merges",
+  "milestones_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/milestones{/number}",
+  "mirror_url": null,
+  "name": "bower-kendo-ui",
+  "notifications_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/notifications{?since,all,participating}",
+  "open_issues": 3,
+  "open_issues_count": 3,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3042929?v=3",
+    "events_url": "https://api.github.com/users/kendo-labs/events{/privacy}",
+    "followers_url": "https://api.github.com/users/kendo-labs/followers",
+    "following_url": "https://api.github.com/users/kendo-labs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/kendo-labs/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/kendo-labs",
+    "id": 3042929,
+    "login": "kendo-labs",
+    "organizations_url": "https://api.github.com/users/kendo-labs/orgs",
+    "received_events_url": "https://api.github.com/users/kendo-labs/received_events",
+    "repos_url": "https://api.github.com/users/kendo-labs/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/kendo-labs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/kendo-labs/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/kendo-labs"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/pulls{/number}",
+  "pushed_at": "2014-12-04T09:32:26Z",
+  "releases_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/releases{/id}",
+  "size": 18369,
+  "ssh_url": "git@github.com:kendo-labs/bower-kendo-ui.git",
+  "stargazers_count": 24,
+  "stargazers_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/stargazers",
+  "statuses_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/subscribers",
+  "subscription_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/subscription",
+  "svn_url": "https://github.com/kendo-labs/bower-kendo-ui",
+  "tags_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/tags",
+  "teams_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/teams",
+  "trees_url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui/git/trees{/sha}",
+  "updated_at": "2014-12-02T05:31:19Z",
+  "url": "https://api.github.com/repos/kendo-labs/bower-kendo-ui",
+  "watchers": 24,
+  "watchers_count": 24
+}</source>
+  <ssh_url>git@github.com:mjashanks/bower-kendo-ui.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/subscription</subscription_url>
+  <svn_url>https://github.com/mjashanks/bower-kendo-ui</svn_url>
+  <tags_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/tags</tags_url>
+  <teams_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/teams</teams_url>
+  <trees_url>https://api.github.com/repos/mjashanks/bower-kendo-ui/git/trees{/sha}</trees_url>
+  <updated_at>12/13/2014 11:46:26 PM</updated_at>
+  <url>https://api.github.com/repos/mjashanks/bower-kendo-ui</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

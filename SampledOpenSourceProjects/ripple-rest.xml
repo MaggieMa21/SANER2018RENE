@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547f78a9bd354357af001030</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/clark800/ripple-rest/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/clark800/ripple-rest/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/clark800/ripple-rest/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/clark800/ripple-rest/branches{/branch}</branches_url>
+  <clone_url>https://github.com/clark800/ripple-rest.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/clark800/ripple-rest/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/clark800/ripple-rest/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/clark800/ripple-rest/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/clark800/ripple-rest/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/clark800/ripple-rest/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/clark800/ripple-rest/contributors</contributors_url>
+  <created_at>12/3/2014 7:28:02 PM</created_at>
+  <default_branch>develop</default_branch>
+  <description>A RESTful API for submitting payments and monitoring accounts on the Ripple Network</description>
+  <downloads_url>https://api.github.com/repos/clark800/ripple-rest/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/clark800/ripple-rest/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/clark800/ripple-rest/forks</forks_url>
+  <full_name>clark800/ripple-rest</full_name>
+  <git_commits_url>https://api.github.com/repos/clark800/ripple-rest/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/clark800/ripple-rest/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/clark800/ripple-rest/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/clark800/ripple-rest.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/clark800/ripple-rest/hooks</hooks_url>
+  <html_url>https://github.com/clark800/ripple-rest</html_url>
+  <id>27503734</id>
+  <issue_comment_url>https://api.github.com/repos/clark800/ripple-rest/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/clark800/ripple-rest/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/clark800/ripple-rest/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/clark800/ripple-rest/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/clark800/ripple-rest/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/clark800/ripple-rest/languages</languages_url>
+  <merges_url>https://api.github.com/repos/clark800/ripple-rest/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/clark800/ripple-rest/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>ripple-rest</name>
+  <network_count>52</network_count>
+  <notifications_url>https://api.github.com/repos/clark800/ripple-rest/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1238722?v=3</avatar_url>
+    <events_url>https://api.github.com/users/clark800/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/clark800/followers</followers_url>
+    <following_url>https://api.github.com/users/clark800/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/clark800/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/clark800</html_url>
+    <id>1238722</id>
+    <login>clark800</login>
+    <organizations_url>https://api.github.com/users/clark800/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/clark800/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/clark800/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/clark800/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/clark800/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/clark800</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/ripple/ripple-rest/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ripple/ripple-rest/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ripple/ripple-rest/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ripple/ripple-rest/branches{/branch}",
+  "clone_url": "https://github.com/ripple/ripple-rest.git",
+  "collaborators_url": "https://api.github.com/repos/ripple/ripple-rest/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ripple/ripple-rest/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ripple/ripple-rest/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ripple/ripple-rest/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ripple/ripple-rest/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ripple/ripple-rest/contributors",
+  "created_at": "2014-02-05T22:52:44Z",
+  "default_branch": "develop",
+  "description": "A RESTful API for submitting payments and monitoring accounts on the Ripple Network",
+  "downloads_url": "https://api.github.com/repos/ripple/ripple-rest/downloads",
+  "events_url": "https://api.github.com/repos/ripple/ripple-rest/events",
+  "fork": false,
+  "forks": 52,
+  "forks_count": 52,
+  "forks_url": "https://api.github.com/repos/ripple/ripple-rest/forks",
+  "full_name": "ripple/ripple-rest",
+  "git_commits_url": "https://api.github.com/repos/ripple/ripple-rest/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ripple/ripple-rest/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ripple/ripple-rest/git/tags{/sha}",
+  "git_url": "git://github.com/ripple/ripple-rest.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/ripple/ripple-rest/hooks",
+  "html_url": "https://github.com/ripple/ripple-rest",
+  "id": 16561603,
+  "issue_comment_url": "https://api.github.com/repos/ripple/ripple-rest/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ripple/ripple-rest/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ripple/ripple-rest/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ripple/ripple-rest/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ripple/ripple-rest/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/ripple/ripple-rest/languages",
+  "merges_url": "https://api.github.com/repos/ripple/ripple-rest/merges",
+  "milestones_url": "https://api.github.com/repos/ripple/ripple-rest/milestones{/number}",
+  "mirror_url": null,
+  "name": "ripple-rest",
+  "notifications_url": "https://api.github.com/repos/ripple/ripple-rest/notifications{?since,all,participating}",
+  "open_issues": 16,
+  "open_issues_count": 16,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3165523?v=3",
+    "events_url": "https://api.github.com/users/ripple/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ripple/followers",
+    "following_url": "https://api.github.com/users/ripple/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ripple/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ripple",
+    "id": 3165523,
+    "login": "ripple",
+    "organizations_url": "https://api.github.com/users/ripple/orgs",
+    "received_events_url": "https://api.github.com/users/ripple/received_events",
+    "repos_url": "https://api.github.com/users/ripple/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ripple/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ripple/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/ripple"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ripple/ripple-rest/pulls{/number}",
+  "pushed_at": "2014-12-03T19:00:17Z",
+  "releases_url": "https://api.github.com/repos/ripple/ripple-rest/releases{/id}",
+  "size": 3893,
+  "ssh_url": "git@github.com:ripple/ripple-rest.git",
+  "stargazers_count": 42,
+  "stargazers_url": "https://api.github.com/repos/ripple/ripple-rest/stargazers",
+  "statuses_url": "https://api.github.com/repos/ripple/ripple-rest/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ripple/ripple-rest/subscribers",
+  "subscription_url": "https://api.github.com/repos/ripple/ripple-rest/subscription",
+  "svn_url": "https://github.com/ripple/ripple-rest",
+  "tags_url": "https://api.github.com/repos/ripple/ripple-rest/tags",
+  "teams_url": "https://api.github.com/repos/ripple/ripple-rest/teams",
+  "trees_url": "https://api.github.com/repos/ripple/ripple-rest/git/trees{/sha}",
+  "updated_at": "2014-12-03T19:00:17Z",
+  "url": "https://api.github.com/repos/ripple/ripple-rest",
+  "watchers": 42,
+  "watchers_count": 42
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/clark800/ripple-rest/pulls{/number}</pulls_url>
+  <pushed_at>12/3/2014 8:47:11 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/clark800/ripple-rest/releases{/id}</releases_url>
+  <size>3893</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/ripple/ripple-rest/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ripple/ripple-rest/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ripple/ripple-rest/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ripple/ripple-rest/branches{/branch}",
+  "clone_url": "https://github.com/ripple/ripple-rest.git",
+  "collaborators_url": "https://api.github.com/repos/ripple/ripple-rest/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ripple/ripple-rest/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ripple/ripple-rest/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ripple/ripple-rest/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ripple/ripple-rest/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ripple/ripple-rest/contributors",
+  "created_at": "2014-02-05T22:52:44Z",
+  "default_branch": "develop",
+  "description": "A RESTful API for submitting payments and monitoring accounts on the Ripple Network",
+  "downloads_url": "https://api.github.com/repos/ripple/ripple-rest/downloads",
+  "events_url": "https://api.github.com/repos/ripple/ripple-rest/events",
+  "fork": false,
+  "forks": 52,
+  "forks_count": 52,
+  "forks_url": "https://api.github.com/repos/ripple/ripple-rest/forks",
+  "full_name": "ripple/ripple-rest",
+  "git_commits_url": "https://api.github.com/repos/ripple/ripple-rest/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ripple/ripple-rest/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ripple/ripple-rest/git/tags{/sha}",
+  "git_url": "git://github.com/ripple/ripple-rest.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/ripple/ripple-rest/hooks",
+  "html_url": "https://github.com/ripple/ripple-rest",
+  "id": 16561603,
+  "issue_comment_url": "https://api.github.com/repos/ripple/ripple-rest/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ripple/ripple-rest/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ripple/ripple-rest/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ripple/ripple-rest/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ripple/ripple-rest/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/ripple/ripple-rest/languages",
+  "merges_url": "https://api.github.com/repos/ripple/ripple-rest/merges",
+  "milestones_url": "https://api.github.com/repos/ripple/ripple-rest/milestones{/number}",
+  "mirror_url": null,
+  "name": "ripple-rest",
+  "notifications_url": "https://api.github.com/repos/ripple/ripple-rest/notifications{?since,all,participating}",
+  "open_issues": 16,
+  "open_issues_count": 16,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3165523?v=3",
+    "events_url": "https://api.github.com/users/ripple/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ripple/followers",
+    "following_url": "https://api.github.com/users/ripple/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ripple/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ripple",
+    "id": 3165523,
+    "login": "ripple",
+    "organizations_url": "https://api.github.com/users/ripple/orgs",
+    "received_events_url": "https://api.github.com/users/ripple/received_events",
+    "repos_url": "https://api.github.com/users/ripple/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ripple/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ripple/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/ripple"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ripple/ripple-rest/pulls{/number}",
+  "pushed_at": "2014-12-03T19:00:17Z",
+  "releases_url": "https://api.github.com/repos/ripple/ripple-rest/releases{/id}",
+  "size": 3893,
+  "ssh_url": "git@github.com:ripple/ripple-rest.git",
+  "stargazers_count": 42,
+  "stargazers_url": "https://api.github.com/repos/ripple/ripple-rest/stargazers",
+  "statuses_url": "https://api.github.com/repos/ripple/ripple-rest/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ripple/ripple-rest/subscribers",
+  "subscription_url": "https://api.github.com/repos/ripple/ripple-rest/subscription",
+  "svn_url": "https://github.com/ripple/ripple-rest",
+  "tags_url": "https://api.github.com/repos/ripple/ripple-rest/tags",
+  "teams_url": "https://api.github.com/repos/ripple/ripple-rest/teams",
+  "trees_url": "https://api.github.com/repos/ripple/ripple-rest/git/trees{/sha}",
+  "updated_at": "2014-12-03T19:00:17Z",
+  "url": "https://api.github.com/repos/ripple/ripple-rest",
+  "watchers": 42,
+  "watchers_count": 42
+}</source>
+  <ssh_url>git@github.com:clark800/ripple-rest.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/clark800/ripple-rest/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/clark800/ripple-rest/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/clark800/ripple-rest/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/clark800/ripple-rest/subscription</subscription_url>
+  <svn_url>https://github.com/clark800/ripple-rest</svn_url>
+  <tags_url>https://api.github.com/repos/clark800/ripple-rest/tags</tags_url>
+  <teams_url>https://api.github.com/repos/clark800/ripple-rest/teams</teams_url>
+  <trees_url>https://api.github.com/repos/clark800/ripple-rest/git/trees{/sha}</trees_url>
+  <updated_at>12/3/2014 8:43:58 PM</updated_at>
+  <url>https://api.github.com/repos/clark800/ripple-rest</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

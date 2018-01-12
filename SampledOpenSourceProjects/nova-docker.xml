@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a21cbbd35430e3300153c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/jay-lau/nova-docker/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/jay-lau/nova-docker/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/jay-lau/nova-docker/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/jay-lau/nova-docker/branches{/branch}</branches_url>
+  <clone_url>https://github.com/jay-lau/nova-docker.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/jay-lau/nova-docker/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/jay-lau/nova-docker/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/jay-lau/nova-docker/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/jay-lau/nova-docker/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/jay-lau/nova-docker/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/jay-lau/nova-docker/contributors</contributors_url>
+  <created_at>9/8/2014 12:03:56 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Docker driver for OpenStack Nova</description>
+  <downloads_url>https://api.github.com/repos/jay-lau/nova-docker/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/jay-lau/nova-docker/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/jay-lau/nova-docker/forks</forks_url>
+  <full_name>jay-lau/nova-docker</full_name>
+  <git_commits_url>https://api.github.com/repos/jay-lau/nova-docker/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/jay-lau/nova-docker/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/jay-lau/nova-docker/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/jay-lau/nova-docker.git</git_url>
+  <has_downloads>False</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://openstack.org</homepage>
+  <hooks_url>https://api.github.com/repos/jay-lau/nova-docker/hooks</hooks_url>
+  <html_url>https://github.com/jay-lau/nova-docker</html_url>
+  <id>23789268</id>
+  <issue_comment_url>https://api.github.com/repos/jay-lau/nova-docker/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/jay-lau/nova-docker/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/jay-lau/nova-docker/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/jay-lau/nova-docker/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/jay-lau/nova-docker/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/jay-lau/nova-docker/languages</languages_url>
+  <merges_url>https://api.github.com/repos/jay-lau/nova-docker/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/jay-lau/nova-docker/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>nova-docker</name>
+  <network_count>35</network_count>
+  <notifications_url>https://api.github.com/repos/jay-lau/nova-docker/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/4461983?v=3</avatar_url>
+    <events_url>https://api.github.com/users/jay-lau/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/jay-lau/followers</followers_url>
+    <following_url>https://api.github.com/users/jay-lau/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/jay-lau/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/jay-lau</html_url>
+    <id>4461983</id>
+    <login>jay-lau</login>
+    <organizations_url>https://api.github.com/users/jay-lau/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/jay-lau/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/jay-lau/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/jay-lau/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/jay-lau/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/jay-lau</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/stackforge/nova-docker/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/stackforge/nova-docker/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/stackforge/nova-docker/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/stackforge/nova-docker/branches{/branch}",
+  "clone_url": "https://github.com/stackforge/nova-docker.git",
+  "collaborators_url": "https://api.github.com/repos/stackforge/nova-docker/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/stackforge/nova-docker/comments{/number}",
+  "commits_url": "https://api.github.com/repos/stackforge/nova-docker/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/stackforge/nova-docker/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/stackforge/nova-docker/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/stackforge/nova-docker/contributors",
+  "created_at": "2014-03-14T23:10:46Z",
+  "default_branch": "master",
+  "description": "Docker driver for OpenStack Nova",
+  "downloads_url": "https://api.github.com/repos/stackforge/nova-docker/downloads",
+  "events_url": "https://api.github.com/repos/stackforge/nova-docker/events",
+  "fork": false,
+  "forks": 35,
+  "forks_count": 35,
+  "forks_url": "https://api.github.com/repos/stackforge/nova-docker/forks",
+  "full_name": "stackforge/nova-docker",
+  "git_commits_url": "https://api.github.com/repos/stackforge/nova-docker/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/stackforge/nova-docker/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/stackforge/nova-docker/git/tags{/sha}",
+  "git_url": "git://github.com/stackforge/nova-docker.git",
+  "has_downloads": false,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://openstack.org",
+  "hooks_url": "https://api.github.com/repos/stackforge/nova-docker/hooks",
+  "html_url": "https://github.com/stackforge/nova-docker",
+  "id": 17763344,
+  "issue_comment_url": "https://api.github.com/repos/stackforge/nova-docker/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/stackforge/nova-docker/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/stackforge/nova-docker/issues{/number}",
+  "keys_url": "https://api.github.com/repos/stackforge/nova-docker/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/stackforge/nova-docker/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/stackforge/nova-docker/languages",
+  "merges_url": "https://api.github.com/repos/stackforge/nova-docker/merges",
+  "milestones_url": "https://api.github.com/repos/stackforge/nova-docker/milestones{/number}",
+  "mirror_url": null,
+  "name": "nova-docker",
+  "notifications_url": "https://api.github.com/repos/stackforge/nova-docker/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1441604?v=3",
+    "events_url": "https://api.github.com/users/stackforge/events{/privacy}",
+    "followers_url": "https://api.github.com/users/stackforge/followers",
+    "following_url": "https://api.github.com/users/stackforge/following{/other_user}",
+    "gists_url": "https://api.github.com/users/stackforge/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/stackforge",
+    "id": 1441604,
+    "login": "stackforge",
+    "organizations_url": "https://api.github.com/users/stackforge/orgs",
+    "received_events_url": "https://api.github.com/users/stackforge/received_events",
+    "repos_url": "https://api.github.com/users/stackforge/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/stackforge/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/stackforge/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/stackforge"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/stackforge/nova-docker/pulls{/number}",
+  "pushed_at": "2014-12-11T17:59:28Z",
+  "releases_url": "https://api.github.com/repos/stackforge/nova-docker/releases{/id}",
+  "size": 1920,
+  "ssh_url": "git@github.com:stackforge/nova-docker.git",
+  "stargazers_count": 75,
+  "stargazers_url": "https://api.github.com/repos/stackforge/nova-docker/stargazers",
+  "statuses_url": "https://api.github.com/repos/stackforge/nova-docker/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/stackforge/nova-docker/subscribers",
+  "subscription_url": "https://api.github.com/repos/stackforge/nova-docker/subscription",
+  "svn_url": "https://github.com/stackforge/nova-docker",
+  "tags_url": "https://api.github.com/repos/stackforge/nova-docker/tags",
+  "teams_url": "https://api.github.com/repos/stackforge/nova-docker/teams",
+  "trees_url": "https://api.github.com/repos/stackforge/nova-docker/git/trees{/sha}",
+  "updated_at": "2014-12-09T18:53:40Z",
+  "url": "https://api.github.com/repos/stackforge/nova-docker",
+  "watchers": 75,
+  "watchers_count": 75
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/jay-lau/nova-docker/pulls{/number}</pulls_url>
+  <pushed_at>12/7/2014 4:22:56 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/jay-lau/nova-docker/releases{/id}</releases_url>
+  <size>367</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/stackforge/nova-docker/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/stackforge/nova-docker/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/stackforge/nova-docker/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/stackforge/nova-docker/branches{/branch}",
+  "clone_url": "https://github.com/stackforge/nova-docker.git",
+  "collaborators_url": "https://api.github.com/repos/stackforge/nova-docker/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/stackforge/nova-docker/comments{/number}",
+  "commits_url": "https://api.github.com/repos/stackforge/nova-docker/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/stackforge/nova-docker/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/stackforge/nova-docker/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/stackforge/nova-docker/contributors",
+  "created_at": "2014-03-14T23:10:46Z",
+  "default_branch": "master",
+  "description": "Docker driver for OpenStack Nova",
+  "downloads_url": "https://api.github.com/repos/stackforge/nova-docker/downloads",
+  "events_url": "https://api.github.com/repos/stackforge/nova-docker/events",
+  "fork": false,
+  "forks": 35,
+  "forks_count": 35,
+  "forks_url": "https://api.github.com/repos/stackforge/nova-docker/forks",
+  "full_name": "stackforge/nova-docker",
+  "git_commits_url": "https://api.github.com/repos/stackforge/nova-docker/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/stackforge/nova-docker/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/stackforge/nova-docker/git/tags{/sha}",
+  "git_url": "git://github.com/stackforge/nova-docker.git",
+  "has_downloads": false,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://openstack.org",
+  "hooks_url": "https://api.github.com/repos/stackforge/nova-docker/hooks",
+  "html_url": "https://github.com/stackforge/nova-docker",
+  "id": 17763344,
+  "issue_comment_url": "https://api.github.com/repos/stackforge/nova-docker/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/stackforge/nova-docker/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/stackforge/nova-docker/issues{/number}",
+  "keys_url": "https://api.github.com/repos/stackforge/nova-docker/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/stackforge/nova-docker/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/stackforge/nova-docker/languages",
+  "merges_url": "https://api.github.com/repos/stackforge/nova-docker/merges",
+  "milestones_url": "https://api.github.com/repos/stackforge/nova-docker/milestones{/number}",
+  "mirror_url": null,
+  "name": "nova-docker",
+  "notifications_url": "https://api.github.com/repos/stackforge/nova-docker/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1441604?v=3",
+    "events_url": "https://api.github.com/users/stackforge/events{/privacy}",
+    "followers_url": "https://api.github.com/users/stackforge/followers",
+    "following_url": "https://api.github.com/users/stackforge/following{/other_user}",
+    "gists_url": "https://api.github.com/users/stackforge/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/stackforge",
+    "id": 1441604,
+    "login": "stackforge",
+    "organizations_url": "https://api.github.com/users/stackforge/orgs",
+    "received_events_url": "https://api.github.com/users/stackforge/received_events",
+    "repos_url": "https://api.github.com/users/stackforge/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/stackforge/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/stackforge/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/stackforge"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/stackforge/nova-docker/pulls{/number}",
+  "pushed_at": "2014-12-11T17:59:28Z",
+  "releases_url": "https://api.github.com/repos/stackforge/nova-docker/releases{/id}",
+  "size": 1920,
+  "ssh_url": "git@github.com:stackforge/nova-docker.git",
+  "stargazers_count": 75,
+  "stargazers_url": "https://api.github.com/repos/stackforge/nova-docker/stargazers",
+  "statuses_url": "https://api.github.com/repos/stackforge/nova-docker/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/stackforge/nova-docker/subscribers",
+  "subscription_url": "https://api.github.com/repos/stackforge/nova-docker/subscription",
+  "svn_url": "https://github.com/stackforge/nova-docker",
+  "tags_url": "https://api.github.com/repos/stackforge/nova-docker/tags",
+  "teams_url": "https://api.github.com/repos/stackforge/nova-docker/teams",
+  "trees_url": "https://api.github.com/repos/stackforge/nova-docker/git/trees{/sha}",
+  "updated_at": "2014-12-09T18:53:40Z",
+  "url": "https://api.github.com/repos/stackforge/nova-docker",
+  "watchers": 75,
+  "watchers_count": 75
+}</source>
+  <ssh_url>git@github.com:jay-lau/nova-docker.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/jay-lau/nova-docker/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/jay-lau/nova-docker/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/jay-lau/nova-docker/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/jay-lau/nova-docker/subscription</subscription_url>
+  <svn_url>https://github.com/jay-lau/nova-docker</svn_url>
+  <tags_url>https://api.github.com/repos/jay-lau/nova-docker/tags</tags_url>
+  <teams_url>https://api.github.com/repos/jay-lau/nova-docker/teams</teams_url>
+  <trees_url>https://api.github.com/repos/jay-lau/nova-docker/git/trees{/sha}</trees_url>
+  <updated_at>12/7/2014 4:22:57 AM</updated_at>
+  <url>https://api.github.com/repos/jay-lau/nova-docker</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

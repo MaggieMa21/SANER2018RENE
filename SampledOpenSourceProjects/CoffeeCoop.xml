@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d0f70bd354309bb00fe78</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/jennybc/CoffeeCoop/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/jennybc/CoffeeCoop/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/jennybc/CoffeeCoop/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/jennybc/CoffeeCoop/branches{/branch}</branches_url>
+  <clone_url>https://github.com/jennybc/CoffeeCoop.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/jennybc/CoffeeCoop/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/jennybc/CoffeeCoop/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/jennybc/CoffeeCoop/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/jennybc/CoffeeCoop/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/jennybc/CoffeeCoop/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/jennybc/CoffeeCoop/contributors</contributors_url>
+  <created_at>11/25/2014 6:43:58 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>the coffee coop at UBC biodiv building</description>
+  <downloads_url>https://api.github.com/repos/jennybc/CoffeeCoop/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/jennybc/CoffeeCoop/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/jennybc/CoffeeCoop/forks</forks_url>
+  <full_name>jennybc/CoffeeCoop</full_name>
+  <git_commits_url>https://api.github.com/repos/jennybc/CoffeeCoop/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/jennybc/CoffeeCoop/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/jennybc/CoffeeCoop/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/jennybc/CoffeeCoop.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/jennybc/CoffeeCoop/hooks</hooks_url>
+  <html_url>https://github.com/jennybc/CoffeeCoop</html_url>
+  <id>27112806</id>
+  <issue_comment_url>https://api.github.com/repos/jennybc/CoffeeCoop/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/jennybc/CoffeeCoop/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/jennybc/CoffeeCoop/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/jennybc/CoffeeCoop/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/jennybc/CoffeeCoop/labels{/name}</labels_url>
+  <language>R</language>
+  <languages_url>https://api.github.com/repos/jennybc/CoffeeCoop/languages</languages_url>
+  <merges_url>https://api.github.com/repos/jennybc/CoffeeCoop/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/jennybc/CoffeeCoop/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>CoffeeCoop</name>
+  <network_count>3</network_count>
+  <notifications_url>https://api.github.com/repos/jennybc/CoffeeCoop/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/599454?v=3</avatar_url>
+    <events_url>https://api.github.com/users/jennybc/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/jennybc/followers</followers_url>
+    <following_url>https://api.github.com/users/jennybc/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/jennybc/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/jennybc</html_url>
+    <id>599454</id>
+    <login>jennybc</login>
+    <organizations_url>https://api.github.com/users/jennybc/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/jennybc/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/jennybc/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/jennybc/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/jennybc/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/jennybc</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/aammd/CoffeeCoop/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/aammd/CoffeeCoop/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/aammd/CoffeeCoop/branches{/branch}",
+  "clone_url": "https://github.com/aammd/CoffeeCoop.git",
+  "collaborators_url": "https://api.github.com/repos/aammd/CoffeeCoop/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/aammd/CoffeeCoop/comments{/number}",
+  "commits_url": "https://api.github.com/repos/aammd/CoffeeCoop/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/aammd/CoffeeCoop/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/aammd/CoffeeCoop/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/aammd/CoffeeCoop/contributors",
+  "created_at": "2013-06-05T22:17:37Z",
+  "default_branch": "master",
+  "description": "the coffee coop at UBC biodiv building",
+  "downloads_url": "https://api.github.com/repos/aammd/CoffeeCoop/downloads",
+  "events_url": "https://api.github.com/repos/aammd/CoffeeCoop/events",
+  "fork": false,
+  "forks": 3,
+  "forks_count": 3,
+  "forks_url": "https://api.github.com/repos/aammd/CoffeeCoop/forks",
+  "full_name": "aammd/CoffeeCoop",
+  "git_commits_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/tags{/sha}",
+  "git_url": "git://github.com/aammd/CoffeeCoop.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/aammd/CoffeeCoop/hooks",
+  "html_url": "https://github.com/aammd/CoffeeCoop",
+  "id": 10513970,
+  "issue_comment_url": "https://api.github.com/repos/aammd/CoffeeCoop/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/aammd/CoffeeCoop/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/aammd/CoffeeCoop/issues{/number}",
+  "keys_url": "https://api.github.com/repos/aammd/CoffeeCoop/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/aammd/CoffeeCoop/labels{/name}",
+  "language": "R",
+  "languages_url": "https://api.github.com/repos/aammd/CoffeeCoop/languages",
+  "merges_url": "https://api.github.com/repos/aammd/CoffeeCoop/merges",
+  "milestones_url": "https://api.github.com/repos/aammd/CoffeeCoop/milestones{/number}",
+  "mirror_url": null,
+  "name": "CoffeeCoop",
+  "notifications_url": "https://api.github.com/repos/aammd/CoffeeCoop/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1198242?v=3",
+    "events_url": "https://api.github.com/users/aammd/events{/privacy}",
+    "followers_url": "https://api.github.com/users/aammd/followers",
+    "following_url": "https://api.github.com/users/aammd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aammd/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/aammd",
+    "id": 1198242,
+    "login": "aammd",
+    "organizations_url": "https://api.github.com/users/aammd/orgs",
+    "received_events_url": "https://api.github.com/users/aammd/received_events",
+    "repos_url": "https://api.github.com/users/aammd/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/aammd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aammd/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/aammd"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/aammd/CoffeeCoop/pulls{/number}",
+  "pushed_at": "2014-11-16T09:08:04Z",
+  "releases_url": "https://api.github.com/repos/aammd/CoffeeCoop/releases{/id}",
+  "size": 5308,
+  "ssh_url": "git@github.com:aammd/CoffeeCoop.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/aammd/CoffeeCoop/stargazers",
+  "statuses_url": "https://api.github.com/repos/aammd/CoffeeCoop/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/aammd/CoffeeCoop/subscribers",
+  "subscription_url": "https://api.github.com/repos/aammd/CoffeeCoop/subscription",
+  "svn_url": "https://github.com/aammd/CoffeeCoop",
+  "tags_url": "https://api.github.com/repos/aammd/CoffeeCoop/tags",
+  "teams_url": "https://api.github.com/repos/aammd/CoffeeCoop/teams",
+  "trees_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/trees{/sha}",
+  "updated_at": "2014-12-10T20:22:11Z",
+  "url": "https://api.github.com/repos/aammd/CoffeeCoop",
+  "watchers": 1,
+  "watchers_count": 1
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/jennybc/CoffeeCoop/pulls{/number}</pulls_url>
+  <pushed_at>11/25/2014 6:44:18 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/jennybc/CoffeeCoop/releases{/id}</releases_url>
+  <size>4617</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/aammd/CoffeeCoop/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/aammd/CoffeeCoop/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/aammd/CoffeeCoop/branches{/branch}",
+  "clone_url": "https://github.com/aammd/CoffeeCoop.git",
+  "collaborators_url": "https://api.github.com/repos/aammd/CoffeeCoop/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/aammd/CoffeeCoop/comments{/number}",
+  "commits_url": "https://api.github.com/repos/aammd/CoffeeCoop/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/aammd/CoffeeCoop/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/aammd/CoffeeCoop/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/aammd/CoffeeCoop/contributors",
+  "created_at": "2013-06-05T22:17:37Z",
+  "default_branch": "master",
+  "description": "the coffee coop at UBC biodiv building",
+  "downloads_url": "https://api.github.com/repos/aammd/CoffeeCoop/downloads",
+  "events_url": "https://api.github.com/repos/aammd/CoffeeCoop/events",
+  "fork": false,
+  "forks": 3,
+  "forks_count": 3,
+  "forks_url": "https://api.github.com/repos/aammd/CoffeeCoop/forks",
+  "full_name": "aammd/CoffeeCoop",
+  "git_commits_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/tags{/sha}",
+  "git_url": "git://github.com/aammd/CoffeeCoop.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/aammd/CoffeeCoop/hooks",
+  "html_url": "https://github.com/aammd/CoffeeCoop",
+  "id": 10513970,
+  "issue_comment_url": "https://api.github.com/repos/aammd/CoffeeCoop/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/aammd/CoffeeCoop/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/aammd/CoffeeCoop/issues{/number}",
+  "keys_url": "https://api.github.com/repos/aammd/CoffeeCoop/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/aammd/CoffeeCoop/labels{/name}",
+  "language": "R",
+  "languages_url": "https://api.github.com/repos/aammd/CoffeeCoop/languages",
+  "merges_url": "https://api.github.com/repos/aammd/CoffeeCoop/merges",
+  "milestones_url": "https://api.github.com/repos/aammd/CoffeeCoop/milestones{/number}",
+  "mirror_url": null,
+  "name": "CoffeeCoop",
+  "notifications_url": "https://api.github.com/repos/aammd/CoffeeCoop/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1198242?v=3",
+    "events_url": "https://api.github.com/users/aammd/events{/privacy}",
+    "followers_url": "https://api.github.com/users/aammd/followers",
+    "following_url": "https://api.github.com/users/aammd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aammd/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/aammd",
+    "id": 1198242,
+    "login": "aammd",
+    "organizations_url": "https://api.github.com/users/aammd/orgs",
+    "received_events_url": "https://api.github.com/users/aammd/received_events",
+    "repos_url": "https://api.github.com/users/aammd/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/aammd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aammd/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/aammd"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/aammd/CoffeeCoop/pulls{/number}",
+  "pushed_at": "2014-11-16T09:08:04Z",
+  "releases_url": "https://api.github.com/repos/aammd/CoffeeCoop/releases{/id}",
+  "size": 5308,
+  "ssh_url": "git@github.com:aammd/CoffeeCoop.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/aammd/CoffeeCoop/stargazers",
+  "statuses_url": "https://api.github.com/repos/aammd/CoffeeCoop/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/aammd/CoffeeCoop/subscribers",
+  "subscription_url": "https://api.github.com/repos/aammd/CoffeeCoop/subscription",
+  "svn_url": "https://github.com/aammd/CoffeeCoop",
+  "tags_url": "https://api.github.com/repos/aammd/CoffeeCoop/tags",
+  "teams_url": "https://api.github.com/repos/aammd/CoffeeCoop/teams",
+  "trees_url": "https://api.github.com/repos/aammd/CoffeeCoop/git/trees{/sha}",
+  "updated_at": "2014-12-10T20:22:11Z",
+  "url": "https://api.github.com/repos/aammd/CoffeeCoop",
+  "watchers": 1,
+  "watchers_count": 1
+}</source>
+  <ssh_url>git@github.com:jennybc/CoffeeCoop.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/jennybc/CoffeeCoop/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/jennybc/CoffeeCoop/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/jennybc/CoffeeCoop/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/jennybc/CoffeeCoop/subscription</subscription_url>
+  <svn_url>https://github.com/jennybc/CoffeeCoop</svn_url>
+  <tags_url>https://api.github.com/repos/jennybc/CoffeeCoop/tags</tags_url>
+  <teams_url>https://api.github.com/repos/jennybc/CoffeeCoop/teams</teams_url>
+  <trees_url>https://api.github.com/repos/jennybc/CoffeeCoop/git/trees{/sha}</trees_url>
+  <updated_at>11/25/2014 6:43:59 AM</updated_at>
+  <url>https://api.github.com/repos/jennybc/CoffeeCoop</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

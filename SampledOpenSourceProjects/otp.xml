@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547cde7bbd35431771008dca</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/haguenau/otp/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/haguenau/otp/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/haguenau/otp/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/haguenau/otp/branches{/branch}</branches_url>
+  <clone_url>https://github.com/haguenau/otp.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/haguenau/otp/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/haguenau/otp/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/haguenau/otp/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/haguenau/otp/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/haguenau/otp/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/haguenau/otp/contributors</contributors_url>
+  <created_at>12/1/2014 7:26:23 PM</created_at>
+  <default_branch>maint</default_branch>
+  <description>Erlang/OTP</description>
+  <downloads_url>https://api.github.com/repos/haguenau/otp/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/haguenau/otp/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/haguenau/otp/forks</forks_url>
+  <full_name>haguenau/otp</full_name>
+  <git_commits_url>https://api.github.com/repos/haguenau/otp/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/haguenau/otp/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/haguenau/otp/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/haguenau/otp.git</git_url>
+  <has_downloads>False</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://erlang.org</homepage>
+  <hooks_url>https://api.github.com/repos/haguenau/otp/hooks</hooks_url>
+  <html_url>https://github.com/haguenau/otp</html_url>
+  <id>27395688</id>
+  <issue_comment_url>https://api.github.com/repos/haguenau/otp/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/haguenau/otp/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/haguenau/otp/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/haguenau/otp/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/haguenau/otp/labels{/name}</labels_url>
+  <language>Erlang</language>
+  <languages_url>https://api.github.com/repos/haguenau/otp/languages</languages_url>
+  <merges_url>https://api.github.com/repos/haguenau/otp/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/haguenau/otp/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>otp</name>
+  <network_count>927</network_count>
+  <notifications_url>https://api.github.com/repos/haguenau/otp/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/3029165?v=3</avatar_url>
+    <events_url>https://api.github.com/users/haguenau/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/haguenau/followers</followers_url>
+    <following_url>https://api.github.com/users/haguenau/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/haguenau/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/haguenau</html_url>
+    <id>3029165</id>
+    <login>haguenau</login>
+    <organizations_url>https://api.github.com/users/haguenau/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/haguenau/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/haguenau/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/haguenau/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/haguenau/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/haguenau</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/erlang/otp/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/erlang/otp/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/erlang/otp/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/erlang/otp/branches{/branch}",
+  "clone_url": "https://github.com/erlang/otp.git",
+  "collaborators_url": "https://api.github.com/repos/erlang/otp/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/erlang/otp/comments{/number}",
+  "commits_url": "https://api.github.com/repos/erlang/otp/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/erlang/otp/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/erlang/otp/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/erlang/otp/contributors",
+  "created_at": "2009-11-16T17:17:57Z",
+  "default_branch": "maint",
+  "description": "Erlang/OTP",
+  "downloads_url": "https://api.github.com/repos/erlang/otp/downloads",
+  "events_url": "https://api.github.com/repos/erlang/otp/events",
+  "fork": false,
+  "forks": 927,
+  "forks_count": 927,
+  "forks_url": "https://api.github.com/repos/erlang/otp/forks",
+  "full_name": "erlang/otp",
+  "git_commits_url": "https://api.github.com/repos/erlang/otp/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/erlang/otp/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/erlang/otp/git/tags{/sha}",
+  "git_url": "git://github.com/erlang/otp.git",
+  "has_downloads": false,
+  "has_issues": false,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://erlang.org",
+  "hooks_url": "https://api.github.com/repos/erlang/otp/hooks",
+  "html_url": "https://github.com/erlang/otp",
+  "id": 374927,
+  "issue_comment_url": "https://api.github.com/repos/erlang/otp/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/erlang/otp/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/erlang/otp/issues{/number}",
+  "keys_url": "https://api.github.com/repos/erlang/otp/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/erlang/otp/labels{/name}",
+  "language": "Erlang",
+  "languages_url": "https://api.github.com/repos/erlang/otp/languages",
+  "merges_url": "https://api.github.com/repos/erlang/otp/merges",
+  "milestones_url": "https://api.github.com/repos/erlang/otp/milestones{/number}",
+  "mirror_url": null,
+  "name": "otp",
+  "notifications_url": "https://api.github.com/repos/erlang/otp/notifications{?since,all,participating}",
+  "open_issues": 56,
+  "open_issues_count": 56,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/153393?v=3",
+    "events_url": "https://api.github.com/users/erlang/events{/privacy}",
+    "followers_url": "https://api.github.com/users/erlang/followers",
+    "following_url": "https://api.github.com/users/erlang/following{/other_user}",
+    "gists_url": "https://api.github.com/users/erlang/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/erlang",
+    "id": 153393,
+    "login": "erlang",
+    "organizations_url": "https://api.github.com/users/erlang/orgs",
+    "received_events_url": "https://api.github.com/users/erlang/received_events",
+    "repos_url": "https://api.github.com/users/erlang/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/erlang/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/erlang/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/erlang"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/erlang/otp/pulls{/number}",
+  "pushed_at": "2014-12-01T12:48:34Z",
+  "releases_url": "https://api.github.com/repos/erlang/otp/releases{/id}",
+  "size": 194958,
+  "ssh_url": "git@github.com:erlang/otp.git",
+  "stargazers_count": 2943,
+  "stargazers_url": "https://api.github.com/repos/erlang/otp/stargazers",
+  "statuses_url": "https://api.github.com/repos/erlang/otp/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/erlang/otp/subscribers",
+  "subscription_url": "https://api.github.com/repos/erlang/otp/subscription",
+  "svn_url": "https://github.com/erlang/otp",
+  "tags_url": "https://api.github.com/repos/erlang/otp/tags",
+  "teams_url": "https://api.github.com/repos/erlang/otp/teams",
+  "trees_url": "https://api.github.com/repos/erlang/otp/git/trees{/sha}",
+  "updated_at": "2014-12-01T16:12:58Z",
+  "url": "https://api.github.com/repos/erlang/otp",
+  "watchers": 2943,
+  "watchers_count": 2943
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/haguenau/otp/pulls{/number}</pulls_url>
+  <pushed_at>12/1/2014 8:36:12 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/haguenau/otp/releases{/id}</releases_url>
+  <size>194958</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/erlang/otp/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/erlang/otp/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/erlang/otp/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/erlang/otp/branches{/branch}",
+  "clone_url": "https://github.com/erlang/otp.git",
+  "collaborators_url": "https://api.github.com/repos/erlang/otp/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/erlang/otp/comments{/number}",
+  "commits_url": "https://api.github.com/repos/erlang/otp/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/erlang/otp/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/erlang/otp/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/erlang/otp/contributors",
+  "created_at": "2009-11-16T17:17:57Z",
+  "default_branch": "maint",
+  "description": "Erlang/OTP",
+  "downloads_url": "https://api.github.com/repos/erlang/otp/downloads",
+  "events_url": "https://api.github.com/repos/erlang/otp/events",
+  "fork": false,
+  "forks": 927,
+  "forks_count": 927,
+  "forks_url": "https://api.github.com/repos/erlang/otp/forks",
+  "full_name": "erlang/otp",
+  "git_commits_url": "https://api.github.com/repos/erlang/otp/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/erlang/otp/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/erlang/otp/git/tags{/sha}",
+  "git_url": "git://github.com/erlang/otp.git",
+  "has_downloads": false,
+  "has_issues": false,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://erlang.org",
+  "hooks_url": "https://api.github.com/repos/erlang/otp/hooks",
+  "html_url": "https://github.com/erlang/otp",
+  "id": 374927,
+  "issue_comment_url": "https://api.github.com/repos/erlang/otp/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/erlang/otp/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/erlang/otp/issues{/number}",
+  "keys_url": "https://api.github.com/repos/erlang/otp/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/erlang/otp/labels{/name}",
+  "language": "Erlang",
+  "languages_url": "https://api.github.com/repos/erlang/otp/languages",
+  "merges_url": "https://api.github.com/repos/erlang/otp/merges",
+  "milestones_url": "https://api.github.com/repos/erlang/otp/milestones{/number}",
+  "mirror_url": null,
+  "name": "otp",
+  "notifications_url": "https://api.github.com/repos/erlang/otp/notifications{?since,all,participating}",
+  "open_issues": 56,
+  "open_issues_count": 56,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/153393?v=3",
+    "events_url": "https://api.github.com/users/erlang/events{/privacy}",
+    "followers_url": "https://api.github.com/users/erlang/followers",
+    "following_url": "https://api.github.com/users/erlang/following{/other_user}",
+    "gists_url": "https://api.github.com/users/erlang/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/erlang",
+    "id": 153393,
+    "login": "erlang",
+    "organizations_url": "https://api.github.com/users/erlang/orgs",
+    "received_events_url": "https://api.github.com/users/erlang/received_events",
+    "repos_url": "https://api.github.com/users/erlang/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/erlang/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/erlang/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/erlang"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/erlang/otp/pulls{/number}",
+  "pushed_at": "2014-12-01T12:48:34Z",
+  "releases_url": "https://api.github.com/repos/erlang/otp/releases{/id}",
+  "size": 194958,
+  "ssh_url": "git@github.com:erlang/otp.git",
+  "stargazers_count": 2943,
+  "stargazers_url": "https://api.github.com/repos/erlang/otp/stargazers",
+  "statuses_url": "https://api.github.com/repos/erlang/otp/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/erlang/otp/subscribers",
+  "subscription_url": "https://api.github.com/repos/erlang/otp/subscription",
+  "svn_url": "https://github.com/erlang/otp",
+  "tags_url": "https://api.github.com/repos/erlang/otp/tags",
+  "teams_url": "https://api.github.com/repos/erlang/otp/teams",
+  "trees_url": "https://api.github.com/repos/erlang/otp/git/trees{/sha}",
+  "updated_at": "2014-12-01T16:12:58Z",
+  "url": "https://api.github.com/repos/erlang/otp",
+  "watchers": 2943,
+  "watchers_count": 2943
+}</source>
+  <ssh_url>git@github.com:haguenau/otp.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/haguenau/otp/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/haguenau/otp/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/haguenau/otp/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/haguenau/otp/subscription</subscription_url>
+  <svn_url>https://github.com/haguenau/otp</svn_url>
+  <tags_url>https://api.github.com/repos/haguenau/otp/tags</tags_url>
+  <teams_url>https://api.github.com/repos/haguenau/otp/teams</teams_url>
+  <trees_url>https://api.github.com/repos/haguenau/otp/git/trees{/sha}</trees_url>
+  <updated_at>12/1/2014 7:26:49 PM</updated_at>
+  <url>https://api.github.com/repos/haguenau/otp</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

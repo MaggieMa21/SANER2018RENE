@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547f698abd3543609c000f7b</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/mparramont/savon/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/mparramont/savon/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/mparramont/savon/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/mparramont/savon/branches{/branch}</branches_url>
+  <clone_url>https://github.com/mparramont/savon.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/mparramont/savon/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/mparramont/savon/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/mparramont/savon/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/mparramont/savon/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/mparramont/savon/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/mparramont/savon/contributors</contributors_url>
+  <created_at>12/3/2014 5:56:29 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Heavy metal SOAP client</description>
+  <downloads_url>https://api.github.com/repos/mparramont/savon/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/mparramont/savon/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/mparramont/savon/forks</forks_url>
+  <full_name>mparramont/savon</full_name>
+  <git_commits_url>https://api.github.com/repos/mparramont/savon/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/mparramont/savon/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/mparramont/savon/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/mparramont/savon.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://savonrb.com</homepage>
+  <hooks_url>https://api.github.com/repos/mparramont/savon/hooks</hooks_url>
+  <html_url>https://github.com/mparramont/savon</html_url>
+  <id>27499980</id>
+  <issue_comment_url>https://api.github.com/repos/mparramont/savon/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/mparramont/savon/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/mparramont/savon/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/mparramont/savon/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/mparramont/savon/labels{/name}</labels_url>
+  <language>Ruby</language>
+  <languages_url>https://api.github.com/repos/mparramont/savon/languages</languages_url>
+  <merges_url>https://api.github.com/repos/mparramont/savon/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/mparramont/savon/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>savon</name>
+  <network_count>358</network_count>
+  <notifications_url>https://api.github.com/repos/mparramont/savon/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/636075?v=3</avatar_url>
+    <events_url>https://api.github.com/users/mparramont/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/mparramont/followers</followers_url>
+    <following_url>https://api.github.com/users/mparramont/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/mparramont/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/mparramont</html_url>
+    <id>636075</id>
+    <login>mparramont</login>
+    <organizations_url>https://api.github.com/users/mparramont/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/mparramont/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/mparramont/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/mparramont/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/mparramont/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/mparramont</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/savonrb/savon/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/savonrb/savon/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/savonrb/savon/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/savonrb/savon/branches{/branch}",
+  "clone_url": "https://github.com/savonrb/savon.git",
+  "collaborators_url": "https://api.github.com/repos/savonrb/savon/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/savonrb/savon/comments{/number}",
+  "commits_url": "https://api.github.com/repos/savonrb/savon/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/savonrb/savon/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/savonrb/savon/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/savonrb/savon/contributors",
+  "created_at": "2009-07-02T13:19:34Z",
+  "default_branch": "master",
+  "description": "Heavy metal SOAP client",
+  "downloads_url": "https://api.github.com/repos/savonrb/savon/downloads",
+  "events_url": "https://api.github.com/repos/savonrb/savon/events",
+  "fork": false,
+  "forks": 358,
+  "forks_count": 358,
+  "forks_url": "https://api.github.com/repos/savonrb/savon/forks",
+  "full_name": "savonrb/savon",
+  "git_commits_url": "https://api.github.com/repos/savonrb/savon/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/savonrb/savon/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/savonrb/savon/git/tags{/sha}",
+  "git_url": "git://github.com/savonrb/savon.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://savonrb.com",
+  "hooks_url": "https://api.github.com/repos/savonrb/savon/hooks",
+  "html_url": "https://github.com/savonrb/savon",
+  "id": 241560,
+  "issue_comment_url": "https://api.github.com/repos/savonrb/savon/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/savonrb/savon/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/savonrb/savon/issues{/number}",
+  "keys_url": "https://api.github.com/repos/savonrb/savon/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/savonrb/savon/labels{/name}",
+  "language": "Ruby",
+  "languages_url": "https://api.github.com/repos/savonrb/savon/languages",
+  "merges_url": "https://api.github.com/repos/savonrb/savon/merges",
+  "milestones_url": "https://api.github.com/repos/savonrb/savon/milestones{/number}",
+  "mirror_url": null,
+  "name": "savon",
+  "notifications_url": "https://api.github.com/repos/savonrb/savon/notifications{?since,all,participating}",
+  "open_issues": 70,
+  "open_issues_count": 70,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2353495?v=3",
+    "events_url": "https://api.github.com/users/savonrb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/savonrb/followers",
+    "following_url": "https://api.github.com/users/savonrb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/savonrb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/savonrb",
+    "id": 2353495,
+    "login": "savonrb",
+    "organizations_url": "https://api.github.com/users/savonrb/orgs",
+    "received_events_url": "https://api.github.com/users/savonrb/received_events",
+    "repos_url": "https://api.github.com/users/savonrb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/savonrb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/savonrb/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/savonrb"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/savonrb/savon/pulls{/number}",
+  "pushed_at": "2014-11-12T08:30:24Z",
+  "releases_url": "https://api.github.com/repos/savonrb/savon/releases{/id}",
+  "size": 8765,
+  "ssh_url": "git@github.com:savonrb/savon.git",
+  "stargazers_count": 1276,
+  "stargazers_url": "https://api.github.com/repos/savonrb/savon/stargazers",
+  "statuses_url": "https://api.github.com/repos/savonrb/savon/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/savonrb/savon/subscribers",
+  "subscription_url": "https://api.github.com/repos/savonrb/savon/subscription",
+  "svn_url": "https://github.com/savonrb/savon",
+  "tags_url": "https://api.github.com/repos/savonrb/savon/tags",
+  "teams_url": "https://api.github.com/repos/savonrb/savon/teams",
+  "trees_url": "https://api.github.com/repos/savonrb/savon/git/trees{/sha}",
+  "updated_at": "2014-12-03T10:53:21Z",
+  "url": "https://api.github.com/repos/savonrb/savon",
+  "watchers": 1276,
+  "watchers_count": 1276
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/mparramont/savon/pulls{/number}</pulls_url>
+  <pushed_at>12/3/2014 5:56:46 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/mparramont/savon/releases{/id}</releases_url>
+  <size>8765</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/savonrb/savon/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/savonrb/savon/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/savonrb/savon/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/savonrb/savon/branches{/branch}",
+  "clone_url": "https://github.com/savonrb/savon.git",
+  "collaborators_url": "https://api.github.com/repos/savonrb/savon/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/savonrb/savon/comments{/number}",
+  "commits_url": "https://api.github.com/repos/savonrb/savon/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/savonrb/savon/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/savonrb/savon/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/savonrb/savon/contributors",
+  "created_at": "2009-07-02T13:19:34Z",
+  "default_branch": "master",
+  "description": "Heavy metal SOAP client",
+  "downloads_url": "https://api.github.com/repos/savonrb/savon/downloads",
+  "events_url": "https://api.github.com/repos/savonrb/savon/events",
+  "fork": false,
+  "forks": 358,
+  "forks_count": 358,
+  "forks_url": "https://api.github.com/repos/savonrb/savon/forks",
+  "full_name": "savonrb/savon",
+  "git_commits_url": "https://api.github.com/repos/savonrb/savon/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/savonrb/savon/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/savonrb/savon/git/tags{/sha}",
+  "git_url": "git://github.com/savonrb/savon.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://savonrb.com",
+  "hooks_url": "https://api.github.com/repos/savonrb/savon/hooks",
+  "html_url": "https://github.com/savonrb/savon",
+  "id": 241560,
+  "issue_comment_url": "https://api.github.com/repos/savonrb/savon/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/savonrb/savon/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/savonrb/savon/issues{/number}",
+  "keys_url": "https://api.github.com/repos/savonrb/savon/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/savonrb/savon/labels{/name}",
+  "language": "Ruby",
+  "languages_url": "https://api.github.com/repos/savonrb/savon/languages",
+  "merges_url": "https://api.github.com/repos/savonrb/savon/merges",
+  "milestones_url": "https://api.github.com/repos/savonrb/savon/milestones{/number}",
+  "mirror_url": null,
+  "name": "savon",
+  "notifications_url": "https://api.github.com/repos/savonrb/savon/notifications{?since,all,participating}",
+  "open_issues": 70,
+  "open_issues_count": 70,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2353495?v=3",
+    "events_url": "https://api.github.com/users/savonrb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/savonrb/followers",
+    "following_url": "https://api.github.com/users/savonrb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/savonrb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/savonrb",
+    "id": 2353495,
+    "login": "savonrb",
+    "organizations_url": "https://api.github.com/users/savonrb/orgs",
+    "received_events_url": "https://api.github.com/users/savonrb/received_events",
+    "repos_url": "https://api.github.com/users/savonrb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/savonrb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/savonrb/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/savonrb"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/savonrb/savon/pulls{/number}",
+  "pushed_at": "2014-11-12T08:30:24Z",
+  "releases_url": "https://api.github.com/repos/savonrb/savon/releases{/id}",
+  "size": 8765,
+  "ssh_url": "git@github.com:savonrb/savon.git",
+  "stargazers_count": 1276,
+  "stargazers_url": "https://api.github.com/repos/savonrb/savon/stargazers",
+  "statuses_url": "https://api.github.com/repos/savonrb/savon/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/savonrb/savon/subscribers",
+  "subscription_url": "https://api.github.com/repos/savonrb/savon/subscription",
+  "svn_url": "https://github.com/savonrb/savon",
+  "tags_url": "https://api.github.com/repos/savonrb/savon/tags",
+  "teams_url": "https://api.github.com/repos/savonrb/savon/teams",
+  "trees_url": "https://api.github.com/repos/savonrb/savon/git/trees{/sha}",
+  "updated_at": "2014-12-03T10:53:21Z",
+  "url": "https://api.github.com/repos/savonrb/savon",
+  "watchers": 1276,
+  "watchers_count": 1276
+}</source>
+  <ssh_url>git@github.com:mparramont/savon.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/mparramont/savon/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/mparramont/savon/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/mparramont/savon/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/mparramont/savon/subscription</subscription_url>
+  <svn_url>https://github.com/mparramont/savon</svn_url>
+  <tags_url>https://api.github.com/repos/mparramont/savon/tags</tags_url>
+  <teams_url>https://api.github.com/repos/mparramont/savon/teams</teams_url>
+  <trees_url>https://api.github.com/repos/mparramont/savon/git/trees{/sha}</trees_url>
+  <updated_at>12/3/2014 5:56:30 PM</updated_at>
+  <url>https://api.github.com/repos/mparramont/savon</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

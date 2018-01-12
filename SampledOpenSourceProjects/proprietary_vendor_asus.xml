@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cdeeebd35430a6f00d528</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/branches{/branch}</branches_url>
+  <clone_url>https://github.com/Quarx2k/proprietary_vendor_asus.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/contributors</contributors_url>
+  <created_at>11/23/2014 7:45:02 PM</created_at>
+  <default_branch>cm-12.0</default_branch>
+  <description>
+  </description>
+  <downloads_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/forks</forks_url>
+  <full_name>Quarx2k/proprietary_vendor_asus</full_name>
+  <git_commits_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/Quarx2k/proprietary_vendor_asus.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/hooks</hooks_url>
+  <html_url>https://github.com/Quarx2k/proprietary_vendor_asus</html_url>
+  <id>27044973</id>
+  <issue_comment_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/labels{/name}</labels_url>
+  <language>Makefile</language>
+  <languages_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/languages</languages_url>
+  <merges_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>proprietary_vendor_asus</name>
+  <network_count>81</network_count>
+  <notifications_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/508314?v=3</avatar_url>
+    <events_url>https://api.github.com/users/Quarx2k/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/Quarx2k/followers</followers_url>
+    <following_url>https://api.github.com/users/Quarx2k/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/Quarx2k/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/Quarx2k</html_url>
+    <id>508314</id>
+    <login>Quarx2k</login>
+    <organizations_url>https://api.github.com/users/Quarx2k/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/Quarx2k/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/Quarx2k/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/Quarx2k/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/Quarx2k/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/Quarx2k</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/branches{/branch}",
+  "clone_url": "https://github.com/TheMuppets/proprietary_vendor_asus.git",
+  "collaborators_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/comments{/number}",
+  "commits_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/contributors",
+  "created_at": "2012-07-11T00:59:34Z",
+  "default_branch": "cm-12.0",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/downloads",
+  "events_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/events",
+  "fork": true,
+  "forks": 66,
+  "forks_count": 66,
+  "forks_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/forks",
+  "full_name": "TheMuppets/proprietary_vendor_asus",
+  "git_commits_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/git/tags{/sha}",
+  "git_url": "git://github.com/TheMuppets/proprietary_vendor_asus.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/hooks",
+  "html_url": "https://github.com/TheMuppets/proprietary_vendor_asus",
+  "id": 4982757,
+  "issue_comment_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/issues{/number}",
+  "keys_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/labels{/name}",
+  "language": "Shell",
+  "languages_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/languages",
+  "merges_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/merges",
+  "milestones_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/milestones{/number}",
+  "mirror_url": null,
+  "name": "proprietary_vendor_asus",
+  "notifications_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1953336?v=3",
+    "events_url": "https://api.github.com/users/TheMuppets/events{/privacy}",
+    "followers_url": "https://api.github.com/users/TheMuppets/followers",
+    "following_url": "https://api.github.com/users/TheMuppets/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TheMuppets/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/TheMuppets",
+    "id": 1953336,
+    "login": "TheMuppets",
+    "organizations_url": "https://api.github.com/users/TheMuppets/orgs",
+    "received_events_url": "https://api.github.com/users/TheMuppets/received_events",
+    "repos_url": "https://api.github.com/users/TheMuppets/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/TheMuppets/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TheMuppets/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/TheMuppets"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/pulls{/number}",
+  "pushed_at": "2014-11-19T17:50:30Z",
+  "releases_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/releases{/id}",
+  "size": 164840,
+  "ssh_url": "git@github.com:TheMuppets/proprietary_vendor_asus.git",
+  "stargazers_count": 16,
+  "stargazers_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/stargazers",
+  "statuses_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/subscribers",
+  "subscription_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/subscription",
+  "svn_url": "https://github.com/TheMuppets/proprietary_vendor_asus",
+  "tags_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/tags",
+  "teams_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/teams",
+  "trees_url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus/git/trees{/sha}",
+  "updated_at": "2014-08-01T08:33:37Z",
+  "url": "https://api.github.com/repos/TheMuppets/proprietary_vendor_asus",
+  "watchers": 16,
+  "watchers_count": 16
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/pulls{/number}</pulls_url>
+  <pushed_at>12/6/2014 5:28:55 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/releases{/id}</releases_url>
+  <size>206288</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/branches{/branch}",
+  "clone_url": "https://github.com/Kaik541/proprietary_vendor_asus.git",
+  "collaborators_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/contributors",
+  "created_at": "2012-07-11T00:34:25Z",
+  "default_branch": "jellybean",
+  "description": "",
+  "downloads_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/downloads",
+  "events_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/events",
+  "fork": false,
+  "forks": 81,
+  "forks_count": 81,
+  "forks_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/forks",
+  "full_name": "Kaik541/proprietary_vendor_asus",
+  "git_commits_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/git/tags{/sha}",
+  "git_url": "git://github.com/Kaik541/proprietary_vendor_asus.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/hooks",
+  "html_url": "https://github.com/Kaik541/proprietary_vendor_asus",
+  "id": 4982577,
+  "issue_comment_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/labels{/name}",
+  "language": null,
+  "languages_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/languages",
+  "merges_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/merges",
+  "milestones_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/milestones{/number}",
+  "mirror_url": null,
+  "name": "proprietary_vendor_asus",
+  "notifications_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/notifications{?since,all,participating}",
+  "open_issues": 2,
+  "open_issues_count": 2,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/466724?v=3",
+    "events_url": "https://api.github.com/users/Kaik541/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Kaik541/followers",
+    "following_url": "https://api.github.com/users/Kaik541/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Kaik541/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Kaik541",
+    "id": 466724,
+    "login": "Kaik541",
+    "organizations_url": "https://api.github.com/users/Kaik541/orgs",
+    "received_events_url": "https://api.github.com/users/Kaik541/received_events",
+    "repos_url": "https://api.github.com/users/Kaik541/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Kaik541/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Kaik541/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Kaik541"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/pulls{/number}",
+  "pushed_at": "2013-08-05T10:28:35Z",
+  "releases_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/releases{/id}",
+  "size": 83156,
+  "ssh_url": "git@github.com:Kaik541/proprietary_vendor_asus.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/stargazers",
+  "statuses_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/subscribers",
+  "subscription_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/subscription",
+  "svn_url": "https://github.com/Kaik541/proprietary_vendor_asus",
+  "tags_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/tags",
+  "teams_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/teams",
+  "trees_url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus/git/trees{/sha}",
+  "updated_at": "2014-01-07T17:50:27Z",
+  "url": "https://api.github.com/repos/Kaik541/proprietary_vendor_asus",
+  "watchers": 1,
+  "watchers_count": 1
+}</source>
+  <ssh_url>git@github.com:Quarx2k/proprietary_vendor_asus.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/subscription</subscription_url>
+  <svn_url>https://github.com/Quarx2k/proprietary_vendor_asus</svn_url>
+  <tags_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/tags</tags_url>
+  <teams_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/teams</teams_url>
+  <trees_url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus/git/trees{/sha}</trees_url>
+  <updated_at>12/6/2014 5:28:57 PM</updated_at>
+  <url>https://api.github.com/repos/Quarx2k/proprietary_vendor_asus</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547b1a59bd3543171000563c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/bigwolfys/LEWAv6/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/bigwolfys/LEWAv6/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/bigwolfys/LEWAv6/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/bigwolfys/LEWAv6/branches{/branch}</branches_url>
+  <clone_url>https://github.com/bigwolfys/LEWAv6.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/bigwolfys/LEWAv6/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/bigwolfys/LEWAv6/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/bigwolfys/LEWAv6/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/bigwolfys/LEWAv6/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/bigwolfys/LEWAv6/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/bigwolfys/LEWAv6/contributors</contributors_url>
+  <created_at>11/30/2014 1:23:03 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>New LEWAv6</description>
+  <downloads_url>https://api.github.com/repos/bigwolfys/LEWAv6/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/bigwolfys/LEWAv6/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/bigwolfys/LEWAv6/forks</forks_url>
+  <full_name>bigwolfys/LEWAv6</full_name>
+  <git_commits_url>https://api.github.com/repos/bigwolfys/LEWAv6/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/bigwolfys/LEWAv6/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/bigwolfys/LEWAv6/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/bigwolfys/LEWAv6.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/bigwolfys/LEWAv6/hooks</hooks_url>
+  <html_url>https://github.com/bigwolfys/LEWAv6</html_url>
+  <id>27336408</id>
+  <issue_comment_url>https://api.github.com/repos/bigwolfys/LEWAv6/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/bigwolfys/LEWAv6/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/bigwolfys/LEWAv6/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/bigwolfys/LEWAv6/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/bigwolfys/LEWAv6/labels{/name}</labels_url>
+  <language>
+  </language>
+  <languages_url>https://api.github.com/repos/bigwolfys/LEWAv6/languages</languages_url>
+  <merges_url>https://api.github.com/repos/bigwolfys/LEWAv6/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/bigwolfys/LEWAv6/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>LEWAv6</name>
+  <network_count>4</network_count>
+  <notifications_url>https://api.github.com/repos/bigwolfys/LEWAv6/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/5666635?v=3</avatar_url>
+    <events_url>https://api.github.com/users/bigwolfys/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/bigwolfys/followers</followers_url>
+    <following_url>https://api.github.com/users/bigwolfys/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/bigwolfys/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/bigwolfys</html_url>
+    <id>5666635</id>
+    <login>bigwolfys</login>
+    <organizations_url>https://api.github.com/users/bigwolfys/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/bigwolfys/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/bigwolfys/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/bigwolfys/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/bigwolfys/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/bigwolfys</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/branches{/branch}",
+  "clone_url": "https://github.com/ViNNNtalik/LEWAv6.git",
+  "collaborators_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/contributors",
+  "created_at": "2014-10-25T19:20:43Z",
+  "default_branch": "master",
+  "description": "New LEWAv6",
+  "downloads_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/downloads",
+  "events_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/events",
+  "fork": false,
+  "forks": 4,
+  "forks_count": 4,
+  "forks_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/forks",
+  "full_name": "ViNNNtalik/LEWAv6",
+  "git_commits_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/tags{/sha}",
+  "git_url": "git://github.com/ViNNNtalik/LEWAv6.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/hooks",
+  "html_url": "https://github.com/ViNNNtalik/LEWAv6",
+  "id": 25743462,
+  "issue_comment_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/labels{/name}",
+  "language": null,
+  "languages_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/languages",
+  "merges_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/merges",
+  "milestones_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/milestones{/number}",
+  "mirror_url": null,
+  "name": "LEWAv6",
+  "notifications_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5294026?v=3",
+    "events_url": "https://api.github.com/users/ViNNNtalik/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ViNNNtalik/followers",
+    "following_url": "https://api.github.com/users/ViNNNtalik/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ViNNNtalik/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ViNNNtalik",
+    "id": 5294026,
+    "login": "ViNNNtalik",
+    "organizations_url": "https://api.github.com/users/ViNNNtalik/orgs",
+    "received_events_url": "https://api.github.com/users/ViNNNtalik/received_events",
+    "repos_url": "https://api.github.com/users/ViNNNtalik/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ViNNNtalik/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ViNNNtalik/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ViNNNtalik"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/pulls{/number}",
+  "pushed_at": "2014-11-29T18:48:38Z",
+  "releases_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/releases{/id}",
+  "size": 2094,
+  "ssh_url": "git@github.com:ViNNNtalik/LEWAv6.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/stargazers",
+  "statuses_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/subscribers",
+  "subscription_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/subscription",
+  "svn_url": "https://github.com/ViNNNtalik/LEWAv6",
+  "tags_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/tags",
+  "teams_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/teams",
+  "trees_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/trees{/sha}",
+  "updated_at": "2014-11-09T20:17:41Z",
+  "url": "https://api.github.com/repos/ViNNNtalik/LEWAv6",
+  "watchers": 1,
+  "watchers_count": 1
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/bigwolfys/LEWAv6/pulls{/number}</pulls_url>
+  <pushed_at>11/30/2014 1:23:28 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/bigwolfys/LEWAv6/releases{/id}</releases_url>
+  <size>2094</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/branches{/branch}",
+  "clone_url": "https://github.com/ViNNNtalik/LEWAv6.git",
+  "collaborators_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/contributors",
+  "created_at": "2014-10-25T19:20:43Z",
+  "default_branch": "master",
+  "description": "New LEWAv6",
+  "downloads_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/downloads",
+  "events_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/events",
+  "fork": false,
+  "forks": 4,
+  "forks_count": 4,
+  "forks_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/forks",
+  "full_name": "ViNNNtalik/LEWAv6",
+  "git_commits_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/tags{/sha}",
+  "git_url": "git://github.com/ViNNNtalik/LEWAv6.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/hooks",
+  "html_url": "https://github.com/ViNNNtalik/LEWAv6",
+  "id": 25743462,
+  "issue_comment_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/labels{/name}",
+  "language": null,
+  "languages_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/languages",
+  "merges_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/merges",
+  "milestones_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/milestones{/number}",
+  "mirror_url": null,
+  "name": "LEWAv6",
+  "notifications_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5294026?v=3",
+    "events_url": "https://api.github.com/users/ViNNNtalik/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ViNNNtalik/followers",
+    "following_url": "https://api.github.com/users/ViNNNtalik/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ViNNNtalik/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ViNNNtalik",
+    "id": 5294026,
+    "login": "ViNNNtalik",
+    "organizations_url": "https://api.github.com/users/ViNNNtalik/orgs",
+    "received_events_url": "https://api.github.com/users/ViNNNtalik/received_events",
+    "repos_url": "https://api.github.com/users/ViNNNtalik/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ViNNNtalik/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ViNNNtalik/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ViNNNtalik"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/pulls{/number}",
+  "pushed_at": "2014-11-29T18:48:38Z",
+  "releases_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/releases{/id}",
+  "size": 2094,
+  "ssh_url": "git@github.com:ViNNNtalik/LEWAv6.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/stargazers",
+  "statuses_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/subscribers",
+  "subscription_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/subscription",
+  "svn_url": "https://github.com/ViNNNtalik/LEWAv6",
+  "tags_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/tags",
+  "teams_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/teams",
+  "trees_url": "https://api.github.com/repos/ViNNNtalik/LEWAv6/git/trees{/sha}",
+  "updated_at": "2014-11-09T20:17:41Z",
+  "url": "https://api.github.com/repos/ViNNNtalik/LEWAv6",
+  "watchers": 1,
+  "watchers_count": 1
+}</source>
+  <ssh_url>git@github.com:bigwolfys/LEWAv6.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/bigwolfys/LEWAv6/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/bigwolfys/LEWAv6/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/bigwolfys/LEWAv6/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/bigwolfys/LEWAv6/subscription</subscription_url>
+  <svn_url>https://github.com/bigwolfys/LEWAv6</svn_url>
+  <tags_url>https://api.github.com/repos/bigwolfys/LEWAv6/tags</tags_url>
+  <teams_url>https://api.github.com/repos/bigwolfys/LEWAv6/teams</teams_url>
+  <trees_url>https://api.github.com/repos/bigwolfys/LEWAv6/git/trees{/sha}</trees_url>
+  <updated_at>11/9/2014 8:17:41 PM</updated_at>
+  <url>https://api.github.com/repos/bigwolfys/LEWAv6</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

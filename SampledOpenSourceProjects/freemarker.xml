@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a3da6bd3543174b001772</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/sbeimin/freemarker/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/sbeimin/freemarker/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/sbeimin/freemarker/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/sbeimin/freemarker/branches{/branch}</branches_url>
+  <clone_url>https://github.com/sbeimin/freemarker.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/sbeimin/freemarker/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/sbeimin/freemarker/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/sbeimin/freemarker/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/sbeimin/freemarker/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/sbeimin/freemarker/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/sbeimin/freemarker/contributors</contributors_url>
+  <created_at>12/8/2014 12:25:50 PM</created_at>
+  <default_branch>2.3-gae</default_branch>
+  <description>FreeMarker Java template engine</description>
+  <downloads_url>https://api.github.com/repos/sbeimin/freemarker/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/sbeimin/freemarker/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/sbeimin/freemarker/forks</forks_url>
+  <full_name>sbeimin/freemarker</full_name>
+  <git_commits_url>https://api.github.com/repos/sbeimin/freemarker/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/sbeimin/freemarker/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/sbeimin/freemarker/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/sbeimin/freemarker.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://freemarker.org</homepage>
+  <hooks_url>https://api.github.com/repos/sbeimin/freemarker/hooks</hooks_url>
+  <html_url>https://github.com/sbeimin/freemarker</html_url>
+  <id>27713625</id>
+  <issue_comment_url>https://api.github.com/repos/sbeimin/freemarker/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/sbeimin/freemarker/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/sbeimin/freemarker/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/sbeimin/freemarker/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/sbeimin/freemarker/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/sbeimin/freemarker/languages</languages_url>
+  <merges_url>https://api.github.com/repos/sbeimin/freemarker/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/sbeimin/freemarker/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>freemarker</name>
+  <network_count>89</network_count>
+  <notifications_url>https://api.github.com/repos/sbeimin/freemarker/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9352562?v=3</avatar_url>
+    <events_url>https://api.github.com/users/sbeimin/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/sbeimin/followers</followers_url>
+    <following_url>https://api.github.com/users/sbeimin/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/sbeimin/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/sbeimin</html_url>
+    <id>9352562</id>
+    <login>sbeimin</login>
+    <organizations_url>https://api.github.com/users/sbeimin/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/sbeimin/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/sbeimin/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/sbeimin/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/sbeimin/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/sbeimin</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/freemarker/freemarker/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/freemarker/freemarker/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/freemarker/freemarker/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/freemarker/freemarker/branches{/branch}",
+  "clone_url": "https://github.com/freemarker/freemarker.git",
+  "collaborators_url": "https://api.github.com/repos/freemarker/freemarker/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/freemarker/freemarker/comments{/number}",
+  "commits_url": "https://api.github.com/repos/freemarker/freemarker/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/freemarker/freemarker/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/freemarker/freemarker/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/freemarker/freemarker/contributors",
+  "created_at": "2011-05-27T01:06:21Z",
+  "default_branch": "2.3-gae",
+  "description": "FreeMarker Java template engine",
+  "downloads_url": "https://api.github.com/repos/freemarker/freemarker/downloads",
+  "events_url": "https://api.github.com/repos/freemarker/freemarker/events",
+  "fork": false,
+  "forks": 89,
+  "forks_count": 89,
+  "forks_url": "https://api.github.com/repos/freemarker/freemarker/forks",
+  "full_name": "freemarker/freemarker",
+  "git_commits_url": "https://api.github.com/repos/freemarker/freemarker/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/freemarker/freemarker/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/freemarker/freemarker/git/tags{/sha}",
+  "git_url": "git://github.com/freemarker/freemarker.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://freemarker.org",
+  "hooks_url": "https://api.github.com/repos/freemarker/freemarker/hooks",
+  "html_url": "https://github.com/freemarker/freemarker",
+  "id": 1807581,
+  "issue_comment_url": "https://api.github.com/repos/freemarker/freemarker/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/freemarker/freemarker/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/freemarker/freemarker/issues{/number}",
+  "keys_url": "https://api.github.com/repos/freemarker/freemarker/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/freemarker/freemarker/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/freemarker/freemarker/languages",
+  "merges_url": "https://api.github.com/repos/freemarker/freemarker/merges",
+  "milestones_url": "https://api.github.com/repos/freemarker/freemarker/milestones{/number}",
+  "mirror_url": null,
+  "name": "freemarker",
+  "notifications_url": "https://api.github.com/repos/freemarker/freemarker/notifications{?since,all,participating}",
+  "open_issues": 2,
+  "open_issues_count": 2,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/813341?v=3",
+    "events_url": "https://api.github.com/users/freemarker/events{/privacy}",
+    "followers_url": "https://api.github.com/users/freemarker/followers",
+    "following_url": "https://api.github.com/users/freemarker/following{/other_user}",
+    "gists_url": "https://api.github.com/users/freemarker/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/freemarker",
+    "id": 813341,
+    "login": "freemarker",
+    "organizations_url": "https://api.github.com/users/freemarker/orgs",
+    "received_events_url": "https://api.github.com/users/freemarker/received_events",
+    "repos_url": "https://api.github.com/users/freemarker/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/freemarker/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/freemarker/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/freemarker"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/freemarker/freemarker/pulls{/number}",
+  "pushed_at": "2014-12-09T18:55:52Z",
+  "releases_url": "https://api.github.com/repos/freemarker/freemarker/releases{/id}",
+  "size": 11425,
+  "ssh_url": "git@github.com:freemarker/freemarker.git",
+  "stargazers_count": 213,
+  "stargazers_url": "https://api.github.com/repos/freemarker/freemarker/stargazers",
+  "statuses_url": "https://api.github.com/repos/freemarker/freemarker/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/freemarker/freemarker/subscribers",
+  "subscription_url": "https://api.github.com/repos/freemarker/freemarker/subscription",
+  "svn_url": "https://github.com/freemarker/freemarker",
+  "tags_url": "https://api.github.com/repos/freemarker/freemarker/tags",
+  "teams_url": "https://api.github.com/repos/freemarker/freemarker/teams",
+  "trees_url": "https://api.github.com/repos/freemarker/freemarker/git/trees{/sha}",
+  "updated_at": "2014-12-10T15:46:59Z",
+  "url": "https://api.github.com/repos/freemarker/freemarker",
+  "watchers": 213,
+  "watchers_count": 213
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/sbeimin/freemarker/pulls{/number}</pulls_url>
+  <pushed_at>12/8/2014 12:44:32 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/sbeimin/freemarker/releases{/id}</releases_url>
+  <size>8096</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/freemarker/freemarker/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/freemarker/freemarker/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/freemarker/freemarker/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/freemarker/freemarker/branches{/branch}",
+  "clone_url": "https://github.com/freemarker/freemarker.git",
+  "collaborators_url": "https://api.github.com/repos/freemarker/freemarker/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/freemarker/freemarker/comments{/number}",
+  "commits_url": "https://api.github.com/repos/freemarker/freemarker/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/freemarker/freemarker/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/freemarker/freemarker/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/freemarker/freemarker/contributors",
+  "created_at": "2011-05-27T01:06:21Z",
+  "default_branch": "2.3-gae",
+  "description": "FreeMarker Java template engine",
+  "downloads_url": "https://api.github.com/repos/freemarker/freemarker/downloads",
+  "events_url": "https://api.github.com/repos/freemarker/freemarker/events",
+  "fork": false,
+  "forks": 89,
+  "forks_count": 89,
+  "forks_url": "https://api.github.com/repos/freemarker/freemarker/forks",
+  "full_name": "freemarker/freemarker",
+  "git_commits_url": "https://api.github.com/repos/freemarker/freemarker/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/freemarker/freemarker/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/freemarker/freemarker/git/tags{/sha}",
+  "git_url": "git://github.com/freemarker/freemarker.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://freemarker.org",
+  "hooks_url": "https://api.github.com/repos/freemarker/freemarker/hooks",
+  "html_url": "https://github.com/freemarker/freemarker",
+  "id": 1807581,
+  "issue_comment_url": "https://api.github.com/repos/freemarker/freemarker/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/freemarker/freemarker/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/freemarker/freemarker/issues{/number}",
+  "keys_url": "https://api.github.com/repos/freemarker/freemarker/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/freemarker/freemarker/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/freemarker/freemarker/languages",
+  "merges_url": "https://api.github.com/repos/freemarker/freemarker/merges",
+  "milestones_url": "https://api.github.com/repos/freemarker/freemarker/milestones{/number}",
+  "mirror_url": null,
+  "name": "freemarker",
+  "notifications_url": "https://api.github.com/repos/freemarker/freemarker/notifications{?since,all,participating}",
+  "open_issues": 2,
+  "open_issues_count": 2,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/813341?v=3",
+    "events_url": "https://api.github.com/users/freemarker/events{/privacy}",
+    "followers_url": "https://api.github.com/users/freemarker/followers",
+    "following_url": "https://api.github.com/users/freemarker/following{/other_user}",
+    "gists_url": "https://api.github.com/users/freemarker/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/freemarker",
+    "id": 813341,
+    "login": "freemarker",
+    "organizations_url": "https://api.github.com/users/freemarker/orgs",
+    "received_events_url": "https://api.github.com/users/freemarker/received_events",
+    "repos_url": "https://api.github.com/users/freemarker/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/freemarker/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/freemarker/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/freemarker"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/freemarker/freemarker/pulls{/number}",
+  "pushed_at": "2014-12-09T18:55:52Z",
+  "releases_url": "https://api.github.com/repos/freemarker/freemarker/releases{/id}",
+  "size": 11425,
+  "ssh_url": "git@github.com:freemarker/freemarker.git",
+  "stargazers_count": 213,
+  "stargazers_url": "https://api.github.com/repos/freemarker/freemarker/stargazers",
+  "statuses_url": "https://api.github.com/repos/freemarker/freemarker/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/freemarker/freemarker/subscribers",
+  "subscription_url": "https://api.github.com/repos/freemarker/freemarker/subscription",
+  "svn_url": "https://github.com/freemarker/freemarker",
+  "tags_url": "https://api.github.com/repos/freemarker/freemarker/tags",
+  "teams_url": "https://api.github.com/repos/freemarker/freemarker/teams",
+  "trees_url": "https://api.github.com/repos/freemarker/freemarker/git/trees{/sha}",
+  "updated_at": "2014-12-10T15:46:59Z",
+  "url": "https://api.github.com/repos/freemarker/freemarker",
+  "watchers": 213,
+  "watchers_count": 213
+}</source>
+  <ssh_url>git@github.com:sbeimin/freemarker.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/sbeimin/freemarker/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/sbeimin/freemarker/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/sbeimin/freemarker/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/sbeimin/freemarker/subscription</subscription_url>
+  <svn_url>https://github.com/sbeimin/freemarker</svn_url>
+  <tags_url>https://api.github.com/repos/sbeimin/freemarker/tags</tags_url>
+  <teams_url>https://api.github.com/repos/sbeimin/freemarker/teams</teams_url>
+  <trees_url>https://api.github.com/repos/sbeimin/freemarker/git/trees{/sha}</trees_url>
+  <updated_at>12/8/2014 12:25:52 PM</updated_at>
+  <url>https://api.github.com/repos/sbeimin/freemarker</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

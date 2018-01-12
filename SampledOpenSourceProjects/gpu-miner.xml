@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547f4529bd354356cd000f5e</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/branches{/branch}</branches_url>
+  <clone_url>https://github.com/spreadcoin-project/gpu-miner.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/contributors</contributors_url>
+  <created_at>11/20/2014 9:32:39 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Miner for SpreadCoin (OpenCL)</description>
+  <downloads_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/forks</forks_url>
+  <full_name>spreadcoin-project/gpu-miner</full_name>
+  <git_commits_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/spreadcoin-project/gpu-miner.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/hooks</hooks_url>
+  <html_url>https://github.com/spreadcoin-project/gpu-miner</html_url>
+  <id>26932875</id>
+  <issue_comment_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/labels{/name}</labels_url>
+  <language>C</language>
+  <languages_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/languages</languages_url>
+  <merges_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>gpu-miner</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/8285864?v=3",
+  "events_url": "https://api.github.com/users/spreadcoin-project/events{/privacy}",
+  "followers_url": "https://api.github.com/users/spreadcoin-project/followers",
+  "following_url": "https://api.github.com/users/spreadcoin-project/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spreadcoin-project/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/spreadcoin-project",
+  "id": 8285864,
+  "login": "spreadcoin-project",
+  "organizations_url": "https://api.github.com/users/spreadcoin-project/orgs",
+  "received_events_url": "https://api.github.com/users/spreadcoin-project/received_events",
+  "repos_url": "https://api.github.com/users/spreadcoin-project/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/spreadcoin-project/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spreadcoin-project/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/spreadcoin-project"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/8285864?v=3</avatar_url>
+    <events_url>https://api.github.com/users/spreadcoin-project/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/spreadcoin-project/followers</followers_url>
+    <following_url>https://api.github.com/users/spreadcoin-project/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/spreadcoin-project/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/spreadcoin-project</html_url>
+    <id>8285864</id>
+    <login>spreadcoin-project</login>
+    <organizations_url>https://api.github.com/users/spreadcoin-project/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/spreadcoin-project/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/spreadcoin-project/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/spreadcoin-project/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/spreadcoin-project/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/spreadcoin-project</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/pulls{/number}</pulls_url>
+  <pushed_at>11/22/2014 1:46:41 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/releases{/id}</releases_url>
+  <size>2104</size>
+  <ssh_url>git@github.com:spreadcoin-project/gpu-miner.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/subscription</subscription_url>
+  <svn_url>https://github.com/spreadcoin-project/gpu-miner</svn_url>
+  <tags_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/tags</tags_url>
+  <teams_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/teams</teams_url>
+  <trees_url>https://api.github.com/repos/spreadcoin-project/gpu-miner/git/trees{/sha}</trees_url>
+  <updated_at>11/22/2014 1:46:41 PM</updated_at>
+  <url>https://api.github.com/repos/spreadcoin-project/gpu-miner</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

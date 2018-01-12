@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cca2fbd35431bee00d697</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/ymv/WarcMITMProxy/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/ymv/WarcMITMProxy/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/ymv/WarcMITMProxy/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/ymv/WarcMITMProxy/branches{/branch}</branches_url>
+  <clone_url>https://github.com/ymv/WarcMITMProxy.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/ymv/WarcMITMProxy/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/ymv/WarcMITMProxy/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/ymv/WarcMITMProxy/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/ymv/WarcMITMProxy/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/ymv/WarcMITMProxy/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/ymv/WarcMITMProxy/contributors</contributors_url>
+  <created_at>12/13/2014 11:22:11 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>HTTP(S) proxy that saves traffic to a WARC file, using libmitmproxy.</description>
+  <downloads_url>https://api.github.com/repos/ymv/WarcMITMProxy/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/ymv/WarcMITMProxy/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/ymv/WarcMITMProxy/forks</forks_url>
+  <full_name>ymv/WarcMITMProxy</full_name>
+  <git_commits_url>https://api.github.com/repos/ymv/WarcMITMProxy/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/ymv/WarcMITMProxy/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/ymv/WarcMITMProxy/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/ymv/WarcMITMProxy.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/ymv/WarcMITMProxy/hooks</hooks_url>
+  <html_url>https://github.com/ymv/WarcMITMProxy</html_url>
+  <id>27977029</id>
+  <issue_comment_url>https://api.github.com/repos/ymv/WarcMITMProxy/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/ymv/WarcMITMProxy/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/ymv/WarcMITMProxy/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/ymv/WarcMITMProxy/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/ymv/WarcMITMProxy/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/ymv/WarcMITMProxy/languages</languages_url>
+  <merges_url>https://api.github.com/repos/ymv/WarcMITMProxy/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/ymv/WarcMITMProxy/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>WarcMITMProxy</name>
+  <network_count>2</network_count>
+  <notifications_url>https://api.github.com/repos/ymv/WarcMITMProxy/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1425293?v=3</avatar_url>
+    <events_url>https://api.github.com/users/ymv/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/ymv/followers</followers_url>
+    <following_url>https://api.github.com/users/ymv/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/ymv/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/ymv</html_url>
+    <id>1425293</id>
+    <login>ymv</login>
+    <organizations_url>https://api.github.com/users/ymv/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/ymv/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/ymv/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/ymv/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/ymv/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/ymv</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/branches{/branch}",
+  "clone_url": "https://github.com/odie5533/WarcMITMProxy.git",
+  "collaborators_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/comments{/number}",
+  "commits_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/contributors",
+  "created_at": "2013-10-22T09:02:09Z",
+  "default_branch": "master",
+  "description": "HTTP(S) proxy that saves traffic to a WARC file, using libmitmproxy.",
+  "downloads_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/downloads",
+  "events_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/forks",
+  "full_name": "odie5533/WarcMITMProxy",
+  "git_commits_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/tags{/sha}",
+  "git_url": "git://github.com/odie5533/WarcMITMProxy.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/hooks",
+  "html_url": "https://github.com/odie5533/WarcMITMProxy",
+  "id": 13767908,
+  "issue_comment_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/issues{/number}",
+  "keys_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/languages",
+  "merges_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/merges",
+  "milestones_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/milestones{/number}",
+  "mirror_url": null,
+  "name": "WarcMITMProxy",
+  "notifications_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/371066?v=3",
+    "events_url": "https://api.github.com/users/odie5533/events{/privacy}",
+    "followers_url": "https://api.github.com/users/odie5533/followers",
+    "following_url": "https://api.github.com/users/odie5533/following{/other_user}",
+    "gists_url": "https://api.github.com/users/odie5533/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/odie5533",
+    "id": 371066,
+    "login": "odie5533",
+    "organizations_url": "https://api.github.com/users/odie5533/orgs",
+    "received_events_url": "https://api.github.com/users/odie5533/received_events",
+    "repos_url": "https://api.github.com/users/odie5533/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/odie5533/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/odie5533/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/odie5533"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/pulls{/number}",
+  "pushed_at": "2013-10-25T03:22:10Z",
+  "releases_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/releases{/id}",
+  "size": 152,
+  "ssh_url": "git@github.com:odie5533/WarcMITMProxy.git",
+  "stargazers_count": 4,
+  "stargazers_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/stargazers",
+  "statuses_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/subscribers",
+  "subscription_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/subscription",
+  "svn_url": "https://github.com/odie5533/WarcMITMProxy",
+  "tags_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/tags",
+  "teams_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/teams",
+  "trees_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/trees{/sha}",
+  "updated_at": "2014-09-20T10:53:33Z",
+  "url": "https://api.github.com/repos/odie5533/WarcMITMProxy",
+  "watchers": 4,
+  "watchers_count": 4
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/ymv/WarcMITMProxy/pulls{/number}</pulls_url>
+  <pushed_at>10/25/2013 3:22:10 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/ymv/WarcMITMProxy/releases{/id}</releases_url>
+  <size>152</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/branches{/branch}",
+  "clone_url": "https://github.com/odie5533/WarcMITMProxy.git",
+  "collaborators_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/comments{/number}",
+  "commits_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/contributors",
+  "created_at": "2013-10-22T09:02:09Z",
+  "default_branch": "master",
+  "description": "HTTP(S) proxy that saves traffic to a WARC file, using libmitmproxy.",
+  "downloads_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/downloads",
+  "events_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/forks",
+  "full_name": "odie5533/WarcMITMProxy",
+  "git_commits_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/tags{/sha}",
+  "git_url": "git://github.com/odie5533/WarcMITMProxy.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/hooks",
+  "html_url": "https://github.com/odie5533/WarcMITMProxy",
+  "id": 13767908,
+  "issue_comment_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/issues{/number}",
+  "keys_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/languages",
+  "merges_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/merges",
+  "milestones_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/milestones{/number}",
+  "mirror_url": null,
+  "name": "WarcMITMProxy",
+  "notifications_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/371066?v=3",
+    "events_url": "https://api.github.com/users/odie5533/events{/privacy}",
+    "followers_url": "https://api.github.com/users/odie5533/followers",
+    "following_url": "https://api.github.com/users/odie5533/following{/other_user}",
+    "gists_url": "https://api.github.com/users/odie5533/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/odie5533",
+    "id": 371066,
+    "login": "odie5533",
+    "organizations_url": "https://api.github.com/users/odie5533/orgs",
+    "received_events_url": "https://api.github.com/users/odie5533/received_events",
+    "repos_url": "https://api.github.com/users/odie5533/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/odie5533/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/odie5533/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/odie5533"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/pulls{/number}",
+  "pushed_at": "2013-10-25T03:22:10Z",
+  "releases_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/releases{/id}",
+  "size": 152,
+  "ssh_url": "git@github.com:odie5533/WarcMITMProxy.git",
+  "stargazers_count": 4,
+  "stargazers_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/stargazers",
+  "statuses_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/subscribers",
+  "subscription_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/subscription",
+  "svn_url": "https://github.com/odie5533/WarcMITMProxy",
+  "tags_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/tags",
+  "teams_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/teams",
+  "trees_url": "https://api.github.com/repos/odie5533/WarcMITMProxy/git/trees{/sha}",
+  "updated_at": "2014-09-20T10:53:33Z",
+  "url": "https://api.github.com/repos/odie5533/WarcMITMProxy",
+  "watchers": 4,
+  "watchers_count": 4
+}</source>
+  <ssh_url>git@github.com:ymv/WarcMITMProxy.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/ymv/WarcMITMProxy/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/ymv/WarcMITMProxy/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/ymv/WarcMITMProxy/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/ymv/WarcMITMProxy/subscription</subscription_url>
+  <svn_url>https://github.com/ymv/WarcMITMProxy</svn_url>
+  <tags_url>https://api.github.com/repos/ymv/WarcMITMProxy/tags</tags_url>
+  <teams_url>https://api.github.com/repos/ymv/WarcMITMProxy/teams</teams_url>
+  <trees_url>https://api.github.com/repos/ymv/WarcMITMProxy/git/trees{/sha}</trees_url>
+  <updated_at>12/13/2014 11:22:11 PM</updated_at>
+  <url>https://api.github.com/repos/ymv/WarcMITMProxy</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

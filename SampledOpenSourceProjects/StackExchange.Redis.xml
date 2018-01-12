@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d1d40bd354309b00100e1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/branches{/branch}</branches_url>
+  <clone_url>https://github.com/ppanyukov/StackExchange.Redis.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/contributors</contributors_url>
+  <created_at>9/22/2014 10:36:36 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>General purpose redis client</description>
+  <downloads_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/forks</forks_url>
+  <full_name>ppanyukov/StackExchange.Redis</full_name>
+  <git_commits_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/ppanyukov/StackExchange.Redis.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/hooks</hooks_url>
+  <html_url>https://github.com/ppanyukov/StackExchange.Redis</html_url>
+  <id>24348160</id>
+  <issue_comment_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/labels{/name}</labels_url>
+  <language>C#</language>
+  <languages_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/languages</languages_url>
+  <merges_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>StackExchange.Redis</name>
+  <network_count>109</network_count>
+  <notifications_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/300031?v=3</avatar_url>
+    <events_url>https://api.github.com/users/ppanyukov/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/ppanyukov/followers</followers_url>
+    <following_url>https://api.github.com/users/ppanyukov/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/ppanyukov/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/ppanyukov</html_url>
+    <id>300031</id>
+    <login>ppanyukov</login>
+    <organizations_url>https://api.github.com/users/ppanyukov/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/ppanyukov/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/ppanyukov/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/ppanyukov/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/ppanyukov/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/ppanyukov</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/branches{/branch}",
+  "clone_url": "https://github.com/StackExchange/StackExchange.Redis.git",
+  "collaborators_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/comments{/number}",
+  "commits_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/contributors",
+  "created_at": "2014-03-14T14:09:26Z",
+  "default_branch": "master",
+  "description": "General purpose redis client",
+  "downloads_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/downloads",
+  "events_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/events",
+  "fork": false,
+  "forks": 109,
+  "forks_count": 109,
+  "forks_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/forks",
+  "full_name": "StackExchange/StackExchange.Redis",
+  "git_commits_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/tags{/sha}",
+  "git_url": "git://github.com/StackExchange/StackExchange.Redis.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/hooks",
+  "html_url": "https://github.com/StackExchange/StackExchange.Redis",
+  "id": 17748183,
+  "issue_comment_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/issues{/number}",
+  "keys_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/labels{/name}",
+  "language": "C#",
+  "languages_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/languages",
+  "merges_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/merges",
+  "milestones_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/milestones{/number}",
+  "mirror_url": null,
+  "name": "StackExchange.Redis",
+  "notifications_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/notifications{?since,all,participating}",
+  "open_issues": 65,
+  "open_issues_count": 65,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1393171?v=3",
+    "events_url": "https://api.github.com/users/StackExchange/events{/privacy}",
+    "followers_url": "https://api.github.com/users/StackExchange/followers",
+    "following_url": "https://api.github.com/users/StackExchange/following{/other_user}",
+    "gists_url": "https://api.github.com/users/StackExchange/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/StackExchange",
+    "id": 1393171,
+    "login": "StackExchange",
+    "organizations_url": "https://api.github.com/users/StackExchange/orgs",
+    "received_events_url": "https://api.github.com/users/StackExchange/received_events",
+    "repos_url": "https://api.github.com/users/StackExchange/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/StackExchange/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/StackExchange/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/StackExchange"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/pulls{/number}",
+  "pushed_at": "2014-11-14T16:49:53Z",
+  "releases_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/releases{/id}",
+  "size": 7647,
+  "ssh_url": "git@github.com:StackExchange/StackExchange.Redis.git",
+  "stargazers_count": 409,
+  "stargazers_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/stargazers",
+  "statuses_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/subscribers",
+  "subscription_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/subscription",
+  "svn_url": "https://github.com/StackExchange/StackExchange.Redis",
+  "tags_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/tags",
+  "teams_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/teams",
+  "trees_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/trees{/sha}",
+  "updated_at": "2014-12-11T12:42:25Z",
+  "url": "https://api.github.com/repos/StackExchange/StackExchange.Redis",
+  "watchers": 409,
+  "watchers_count": 409
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/pulls{/number}</pulls_url>
+  <pushed_at>11/25/2014 3:53:42 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/releases{/id}</releases_url>
+  <size>5573</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/branches{/branch}",
+  "clone_url": "https://github.com/StackExchange/StackExchange.Redis.git",
+  "collaborators_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/comments{/number}",
+  "commits_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/contributors",
+  "created_at": "2014-03-14T14:09:26Z",
+  "default_branch": "master",
+  "description": "General purpose redis client",
+  "downloads_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/downloads",
+  "events_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/events",
+  "fork": false,
+  "forks": 109,
+  "forks_count": 109,
+  "forks_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/forks",
+  "full_name": "StackExchange/StackExchange.Redis",
+  "git_commits_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/tags{/sha}",
+  "git_url": "git://github.com/StackExchange/StackExchange.Redis.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/hooks",
+  "html_url": "https://github.com/StackExchange/StackExchange.Redis",
+  "id": 17748183,
+  "issue_comment_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/issues{/number}",
+  "keys_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/labels{/name}",
+  "language": "C#",
+  "languages_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/languages",
+  "merges_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/merges",
+  "milestones_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/milestones{/number}",
+  "mirror_url": null,
+  "name": "StackExchange.Redis",
+  "notifications_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/notifications{?since,all,participating}",
+  "open_issues": 65,
+  "open_issues_count": 65,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1393171?v=3",
+    "events_url": "https://api.github.com/users/StackExchange/events{/privacy}",
+    "followers_url": "https://api.github.com/users/StackExchange/followers",
+    "following_url": "https://api.github.com/users/StackExchange/following{/other_user}",
+    "gists_url": "https://api.github.com/users/StackExchange/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/StackExchange",
+    "id": 1393171,
+    "login": "StackExchange",
+    "organizations_url": "https://api.github.com/users/StackExchange/orgs",
+    "received_events_url": "https://api.github.com/users/StackExchange/received_events",
+    "repos_url": "https://api.github.com/users/StackExchange/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/StackExchange/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/StackExchange/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/StackExchange"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/pulls{/number}",
+  "pushed_at": "2014-11-14T16:49:53Z",
+  "releases_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/releases{/id}",
+  "size": 7647,
+  "ssh_url": "git@github.com:StackExchange/StackExchange.Redis.git",
+  "stargazers_count": 409,
+  "stargazers_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/stargazers",
+  "statuses_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/subscribers",
+  "subscription_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/subscription",
+  "svn_url": "https://github.com/StackExchange/StackExchange.Redis",
+  "tags_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/tags",
+  "teams_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/teams",
+  "trees_url": "https://api.github.com/repos/StackExchange/StackExchange.Redis/git/trees{/sha}",
+  "updated_at": "2014-12-11T12:42:25Z",
+  "url": "https://api.github.com/repos/StackExchange/StackExchange.Redis",
+  "watchers": 409,
+  "watchers_count": 409
+}</source>
+  <ssh_url>git@github.com:ppanyukov/StackExchange.Redis.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/subscription</subscription_url>
+  <svn_url>https://github.com/ppanyukov/StackExchange.Redis</svn_url>
+  <tags_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/tags</tags_url>
+  <teams_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/teams</teams_url>
+  <trees_url>https://api.github.com/repos/ppanyukov/StackExchange.Redis/git/trees{/sha}</trees_url>
+  <updated_at>11/25/2014 3:53:43 PM</updated_at>
+  <url>https://api.github.com/repos/ppanyukov/StackExchange.Redis</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

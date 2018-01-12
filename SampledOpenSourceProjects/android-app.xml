@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cd4d3bd354309ed00c8bb</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/branches{/branch}</branches_url>
+  <clone_url>https://github.com/Hackaton-AgileHub-GeoEco/android-app.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/contributors</contributors_url>
+  <created_at>11/23/2014 10:31:44 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Android application for Hackaton-AgileHub-GeoEco</description>
+  <downloads_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/forks</forks_url>
+  <full_name>Hackaton-AgileHub-GeoEco/android-app</full_name>
+  <git_commits_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/Hackaton-AgileHub-GeoEco/android-app.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/hooks</hooks_url>
+  <html_url>https://github.com/Hackaton-AgileHub-GeoEco/android-app</html_url>
+  <id>27029030</id>
+  <issue_comment_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/labels{/name}</labels_url>
+  <language>Kotlin</language>
+  <languages_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/languages</languages_url>
+  <merges_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>android-app</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/9912915?v=3",
+  "events_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/events{/privacy}",
+  "followers_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/followers",
+  "following_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/Hackaton-AgileHub-GeoEco",
+  "id": 9912915,
+  "login": "Hackaton-AgileHub-GeoEco",
+  "organizations_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/orgs",
+  "received_events_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/received_events",
+  "repos_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/Hackaton-AgileHub-GeoEco"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9912915?v=3</avatar_url>
+    <events_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/followers</followers_url>
+    <following_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/Hackaton-AgileHub-GeoEco</html_url>
+    <id>9912915</id>
+    <login>Hackaton-AgileHub-GeoEco</login>
+    <organizations_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/Hackaton-AgileHub-GeoEco/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/Hackaton-AgileHub-GeoEco</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/pulls{/number}</pulls_url>
+  <pushed_at>11/23/2014 7:28:16 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/releases{/id}</releases_url>
+  <size>264</size>
+  <ssh_url>git@github.com:Hackaton-AgileHub-GeoEco/android-app.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/subscription</subscription_url>
+  <svn_url>https://github.com/Hackaton-AgileHub-GeoEco/android-app</svn_url>
+  <tags_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/tags</tags_url>
+  <teams_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/teams</teams_url>
+  <trees_url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app/git/trees{/sha}</trees_url>
+  <updated_at>11/23/2014 3:35:38 PM</updated_at>
+  <url>https://api.github.com/repos/Hackaton-AgileHub-GeoEco/android-app</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

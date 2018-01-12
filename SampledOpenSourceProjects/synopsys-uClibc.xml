@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547dde42bd354317bf00d539</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/branches{/branch}</branches_url>
+  <clone_url>https://github.com/T-J-Teru/synopsys-uClibc.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/contributors</contributors_url>
+  <created_at>10/14/2014 11:59:19 AM</created_at>
+  <default_branch>arc-mainline-dev</default_branch>
+  <description>The development tree for uClibc for the Synopsys DesignWare ARC processor family</description>
+  <downloads_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/forks</forks_url>
+  <full_name>T-J-Teru/synopsys-uClibc</full_name>
+  <git_commits_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/T-J-Teru/synopsys-uClibc.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://www.synopsys.com/IP/ProcessorIP/ARCProcessors/Pages/default.aspx</homepage>
+  <hooks_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/hooks</hooks_url>
+  <html_url>https://github.com/T-J-Teru/synopsys-uClibc</html_url>
+  <id>25204273</id>
+  <issue_comment_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/labels{/name}</labels_url>
+  <language>C</language>
+  <languages_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/languages</languages_url>
+  <merges_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>synopsys-uClibc</name>
+  <network_count>2</network_count>
+  <notifications_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/475372?v=3</avatar_url>
+    <events_url>https://api.github.com/users/T-J-Teru/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/T-J-Teru/followers</followers_url>
+    <following_url>https://api.github.com/users/T-J-Teru/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/T-J-Teru/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/T-J-Teru</html_url>
+    <id>475372</id>
+    <login>T-J-Teru</login>
+    <organizations_url>https://api.github.com/users/T-J-Teru/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/T-J-Teru/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/T-J-Teru/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/T-J-Teru/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/T-J-Teru/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/T-J-Teru</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/branches{/branch}",
+  "clone_url": "https://github.com/foss-for-synopsys-dwc-arc-processors/uClibc.git",
+  "collaborators_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/comments{/number}",
+  "commits_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/contributors",
+  "created_at": "2012-05-09T15:07:31Z",
+  "default_branch": "arc-mainline-dev",
+  "description": "The development tree for uClibc for the Synopsys DesignWare ARC processor family",
+  "downloads_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/downloads",
+  "events_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/forks",
+  "full_name": "foss-for-synopsys-dwc-arc-processors/uClibc",
+  "git_commits_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/tags{/sha}",
+  "git_url": "git://github.com/foss-for-synopsys-dwc-arc-processors/uClibc.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://www.synopsys.com/IP/ProcessorIP/ARCProcessors/Pages/default.aspx",
+  "hooks_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/hooks",
+  "html_url": "https://github.com/foss-for-synopsys-dwc-arc-processors/uClibc",
+  "id": 4272913,
+  "issue_comment_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/issues{/number}",
+  "keys_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/languages",
+  "merges_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/merges",
+  "milestones_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/milestones{/number}",
+  "mirror_url": null,
+  "name": "uClibc",
+  "notifications_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1612814?v=3",
+    "events_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/events{/privacy}",
+    "followers_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/followers",
+    "following_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/following{/other_user}",
+    "gists_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/foss-for-synopsys-dwc-arc-processors",
+    "id": 1612814,
+    "login": "foss-for-synopsys-dwc-arc-processors",
+    "organizations_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/orgs",
+    "received_events_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/received_events",
+    "repos_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/pulls{/number}",
+  "pushed_at": "2014-11-21T10:10:19Z",
+  "releases_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/releases{/id}",
+  "size": 24825,
+  "ssh_url": "git@github.com:foss-for-synopsys-dwc-arc-processors/uClibc.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/stargazers",
+  "statuses_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/subscribers",
+  "subscription_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/subscription",
+  "svn_url": "https://github.com/foss-for-synopsys-dwc-arc-processors/uClibc",
+  "tags_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/tags",
+  "teams_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/teams",
+  "trees_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/trees{/sha}",
+  "updated_at": "2014-11-21T10:09:13Z",
+  "url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc",
+  "watchers": 2,
+  "watchers_count": 2
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 8:55:36 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/releases{/id}</releases_url>
+  <size>23971</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/branches{/branch}",
+  "clone_url": "https://github.com/foss-for-synopsys-dwc-arc-processors/uClibc.git",
+  "collaborators_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/comments{/number}",
+  "commits_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/contributors",
+  "created_at": "2012-05-09T15:07:31Z",
+  "default_branch": "arc-mainline-dev",
+  "description": "The development tree for uClibc for the Synopsys DesignWare ARC processor family",
+  "downloads_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/downloads",
+  "events_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/forks",
+  "full_name": "foss-for-synopsys-dwc-arc-processors/uClibc",
+  "git_commits_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/tags{/sha}",
+  "git_url": "git://github.com/foss-for-synopsys-dwc-arc-processors/uClibc.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://www.synopsys.com/IP/ProcessorIP/ARCProcessors/Pages/default.aspx",
+  "hooks_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/hooks",
+  "html_url": "https://github.com/foss-for-synopsys-dwc-arc-processors/uClibc",
+  "id": 4272913,
+  "issue_comment_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/issues{/number}",
+  "keys_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/languages",
+  "merges_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/merges",
+  "milestones_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/milestones{/number}",
+  "mirror_url": null,
+  "name": "uClibc",
+  "notifications_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1612814?v=3",
+    "events_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/events{/privacy}",
+    "followers_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/followers",
+    "following_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/following{/other_user}",
+    "gists_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/foss-for-synopsys-dwc-arc-processors",
+    "id": 1612814,
+    "login": "foss-for-synopsys-dwc-arc-processors",
+    "organizations_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/orgs",
+    "received_events_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/received_events",
+    "repos_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/foss-for-synopsys-dwc-arc-processors"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/pulls{/number}",
+  "pushed_at": "2014-11-21T10:10:19Z",
+  "releases_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/releases{/id}",
+  "size": 24825,
+  "ssh_url": "git@github.com:foss-for-synopsys-dwc-arc-processors/uClibc.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/stargazers",
+  "statuses_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/subscribers",
+  "subscription_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/subscription",
+  "svn_url": "https://github.com/foss-for-synopsys-dwc-arc-processors/uClibc",
+  "tags_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/tags",
+  "teams_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/teams",
+  "trees_url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc/git/trees{/sha}",
+  "updated_at": "2014-11-21T10:09:13Z",
+  "url": "https://api.github.com/repos/foss-for-synopsys-dwc-arc-processors/uClibc",
+  "watchers": 2,
+  "watchers_count": 2
+}</source>
+  <ssh_url>git@github.com:T-J-Teru/synopsys-uClibc.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/subscription</subscription_url>
+  <svn_url>https://github.com/T-J-Teru/synopsys-uClibc</svn_url>
+  <tags_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/tags</tags_url>
+  <teams_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/teams</teams_url>
+  <trees_url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 8:51:33 AM</updated_at>
+  <url>https://api.github.com/repos/T-J-Teru/synopsys-uClibc</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

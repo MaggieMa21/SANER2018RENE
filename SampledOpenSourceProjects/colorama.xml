@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a95d8bd35430f2b003007</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/merriam/colorama/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/merriam/colorama/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/merriam/colorama/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/merriam/colorama/branches{/branch}</branches_url>
+  <clone_url>https://github.com/merriam/colorama.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/merriam/colorama/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/merriam/colorama/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/merriam/colorama/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/merriam/colorama/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/merriam/colorama/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/merriam/colorama/contributors</contributors_url>
+  <created_at>12/11/2014 12:04:58 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Simple cross-platform colored terminal text in Python</description>
+  <downloads_url>https://api.github.com/repos/merriam/colorama/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/merriam/colorama/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/merriam/colorama/forks</forks_url>
+  <full_name>merriam/colorama</full_name>
+  <git_commits_url>https://api.github.com/repos/merriam/colorama/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/merriam/colorama/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/merriam/colorama/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/merriam/colorama.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/merriam/colorama/hooks</hooks_url>
+  <html_url>https://github.com/merriam/colorama</html_url>
+  <id>27845887</id>
+  <issue_comment_url>https://api.github.com/repos/merriam/colorama/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/merriam/colorama/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/merriam/colorama/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/merriam/colorama/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/merriam/colorama/labels{/name}</labels_url>
+  <language>Python</language>
+  <languages_url>https://api.github.com/repos/merriam/colorama/languages</languages_url>
+  <merges_url>https://api.github.com/repos/merriam/colorama/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/merriam/colorama/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>colorama</name>
+  <network_count>16</network_count>
+  <notifications_url>https://api.github.com/repos/merriam/colorama/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/159998?v=3</avatar_url>
+    <events_url>https://api.github.com/users/merriam/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/merriam/followers</followers_url>
+    <following_url>https://api.github.com/users/merriam/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/merriam/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/merriam</html_url>
+    <id>159998</id>
+    <login>merriam</login>
+    <organizations_url>https://api.github.com/users/merriam/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/merriam/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/merriam/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/merriam/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/merriam/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/merriam</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/tartley/colorama/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/tartley/colorama/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/tartley/colorama/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/tartley/colorama/branches{/branch}",
+  "clone_url": "https://github.com/tartley/colorama.git",
+  "collaborators_url": "https://api.github.com/repos/tartley/colorama/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/tartley/colorama/comments{/number}",
+  "commits_url": "https://api.github.com/repos/tartley/colorama/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/tartley/colorama/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/tartley/colorama/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/tartley/colorama/contributors",
+  "created_at": "2014-04-17T20:18:25Z",
+  "default_branch": "master",
+  "description": "Simple cross-platform colored terminal text in Python",
+  "downloads_url": "https://api.github.com/repos/tartley/colorama/downloads",
+  "events_url": "https://api.github.com/repos/tartley/colorama/events",
+  "fork": false,
+  "forks": 16,
+  "forks_count": 16,
+  "forks_url": "https://api.github.com/repos/tartley/colorama/forks",
+  "full_name": "tartley/colorama",
+  "git_commits_url": "https://api.github.com/repos/tartley/colorama/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/tartley/colorama/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/tartley/colorama/git/tags{/sha}",
+  "git_url": "git://github.com/tartley/colorama.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/tartley/colorama/hooks",
+  "html_url": "https://github.com/tartley/colorama",
+  "id": 18892209,
+  "issue_comment_url": "https://api.github.com/repos/tartley/colorama/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/tartley/colorama/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/tartley/colorama/issues{/number}",
+  "keys_url": "https://api.github.com/repos/tartley/colorama/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/tartley/colorama/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/tartley/colorama/languages",
+  "merges_url": "https://api.github.com/repos/tartley/colorama/merges",
+  "milestones_url": "https://api.github.com/repos/tartley/colorama/milestones{/number}",
+  "mirror_url": null,
+  "name": "colorama",
+  "notifications_url": "https://api.github.com/repos/tartley/colorama/notifications{?since,all,participating}",
+  "open_issues": 7,
+  "open_issues_count": 7,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/137979?v=3",
+    "events_url": "https://api.github.com/users/tartley/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tartley/followers",
+    "following_url": "https://api.github.com/users/tartley/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tartley/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tartley",
+    "id": 137979,
+    "login": "tartley",
+    "organizations_url": "https://api.github.com/users/tartley/orgs",
+    "received_events_url": "https://api.github.com/users/tartley/received_events",
+    "repos_url": "https://api.github.com/users/tartley/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tartley/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tartley/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tartley"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/tartley/colorama/pulls{/number}",
+  "pushed_at": "2014-12-11T18:01:47Z",
+  "releases_url": "https://api.github.com/repos/tartley/colorama/releases{/id}",
+  "size": 650,
+  "ssh_url": "git@github.com:tartley/colorama.git",
+  "stargazers_count": 88,
+  "stargazers_url": "https://api.github.com/repos/tartley/colorama/stargazers",
+  "statuses_url": "https://api.github.com/repos/tartley/colorama/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/tartley/colorama/subscribers",
+  "subscription_url": "https://api.github.com/repos/tartley/colorama/subscription",
+  "svn_url": "https://github.com/tartley/colorama",
+  "tags_url": "https://api.github.com/repos/tartley/colorama/tags",
+  "teams_url": "https://api.github.com/repos/tartley/colorama/teams",
+  "trees_url": "https://api.github.com/repos/tartley/colorama/git/trees{/sha}",
+  "updated_at": "2014-12-11T18:01:47Z",
+  "url": "https://api.github.com/repos/tartley/colorama",
+  "watchers": 88,
+  "watchers_count": 88
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/merriam/colorama/pulls{/number}</pulls_url>
+  <pushed_at>12/11/2014 12:31:36 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/merriam/colorama/releases{/id}</releases_url>
+  <size>258</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/tartley/colorama/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/tartley/colorama/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/tartley/colorama/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/tartley/colorama/branches{/branch}",
+  "clone_url": "https://github.com/tartley/colorama.git",
+  "collaborators_url": "https://api.github.com/repos/tartley/colorama/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/tartley/colorama/comments{/number}",
+  "commits_url": "https://api.github.com/repos/tartley/colorama/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/tartley/colorama/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/tartley/colorama/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/tartley/colorama/contributors",
+  "created_at": "2014-04-17T20:18:25Z",
+  "default_branch": "master",
+  "description": "Simple cross-platform colored terminal text in Python",
+  "downloads_url": "https://api.github.com/repos/tartley/colorama/downloads",
+  "events_url": "https://api.github.com/repos/tartley/colorama/events",
+  "fork": false,
+  "forks": 16,
+  "forks_count": 16,
+  "forks_url": "https://api.github.com/repos/tartley/colorama/forks",
+  "full_name": "tartley/colorama",
+  "git_commits_url": "https://api.github.com/repos/tartley/colorama/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/tartley/colorama/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/tartley/colorama/git/tags{/sha}",
+  "git_url": "git://github.com/tartley/colorama.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/tartley/colorama/hooks",
+  "html_url": "https://github.com/tartley/colorama",
+  "id": 18892209,
+  "issue_comment_url": "https://api.github.com/repos/tartley/colorama/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/tartley/colorama/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/tartley/colorama/issues{/number}",
+  "keys_url": "https://api.github.com/repos/tartley/colorama/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/tartley/colorama/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/tartley/colorama/languages",
+  "merges_url": "https://api.github.com/repos/tartley/colorama/merges",
+  "milestones_url": "https://api.github.com/repos/tartley/colorama/milestones{/number}",
+  "mirror_url": null,
+  "name": "colorama",
+  "notifications_url": "https://api.github.com/repos/tartley/colorama/notifications{?since,all,participating}",
+  "open_issues": 7,
+  "open_issues_count": 7,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/137979?v=3",
+    "events_url": "https://api.github.com/users/tartley/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tartley/followers",
+    "following_url": "https://api.github.com/users/tartley/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tartley/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tartley",
+    "id": 137979,
+    "login": "tartley",
+    "organizations_url": "https://api.github.com/users/tartley/orgs",
+    "received_events_url": "https://api.github.com/users/tartley/received_events",
+    "repos_url": "https://api.github.com/users/tartley/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tartley/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tartley/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tartley"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/tartley/colorama/pulls{/number}",
+  "pushed_at": "2014-12-11T18:01:47Z",
+  "releases_url": "https://api.github.com/repos/tartley/colorama/releases{/id}",
+  "size": 650,
+  "ssh_url": "git@github.com:tartley/colorama.git",
+  "stargazers_count": 88,
+  "stargazers_url": "https://api.github.com/repos/tartley/colorama/stargazers",
+  "statuses_url": "https://api.github.com/repos/tartley/colorama/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/tartley/colorama/subscribers",
+  "subscription_url": "https://api.github.com/repos/tartley/colorama/subscription",
+  "svn_url": "https://github.com/tartley/colorama",
+  "tags_url": "https://api.github.com/repos/tartley/colorama/tags",
+  "teams_url": "https://api.github.com/repos/tartley/colorama/teams",
+  "trees_url": "https://api.github.com/repos/tartley/colorama/git/trees{/sha}",
+  "updated_at": "2014-12-11T18:01:47Z",
+  "url": "https://api.github.com/repos/tartley/colorama",
+  "watchers": 88,
+  "watchers_count": 88
+}</source>
+  <ssh_url>git@github.com:merriam/colorama.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/merriam/colorama/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/merriam/colorama/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/merriam/colorama/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/merriam/colorama/subscription</subscription_url>
+  <svn_url>https://github.com/merriam/colorama</svn_url>
+  <tags_url>https://api.github.com/repos/merriam/colorama/tags</tags_url>
+  <teams_url>https://api.github.com/repos/merriam/colorama/teams</teams_url>
+  <trees_url>https://api.github.com/repos/merriam/colorama/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 12:31:37 AM</updated_at>
+  <url>https://api.github.com/repos/merriam/colorama</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

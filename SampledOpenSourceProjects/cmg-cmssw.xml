@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547c967cbd35431678006919</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/branches{/branch}</branches_url>
+  <clone_url>https://github.com/CMSRA1/cmg-cmssw.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/contributors</contributors_url>
+  <created_at>10/2/2014 8:41:35 AM</created_at>
+  <default_branch>CMG_MiniAOD_Lite_V6_0_from-CMSSW_7_0_6</default_branch>
+  <description>CERN CMG Tools repository. Installation instructions available on the twiki: </description>
+  <downloads_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/events</events_url>
+  <fork>True</fork>
+  <forks>2</forks>
+  <forks_count>2</forks_count>
+  <forks_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/forks</forks_url>
+  <full_name>CMSRA1/cmg-cmssw</full_name>
+  <git_commits_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/CMSRA1/cmg-cmssw.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>https://twiki.cern.ch/twiki/bin/viewauth/CMS/CMGToolsReleasesExperimental</homepage>
+  <hooks_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/hooks</hooks_url>
+  <html_url>https://github.com/CMSRA1/cmg-cmssw</html_url>
+  <id>24712262</id>
+  <issue_comment_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/labels{/name}</labels_url>
+  <language>C++</language>
+  <languages_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/languages</languages_url>
+  <merges_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>cmg-cmssw</name>
+  <network_count>54</network_count>
+  <notifications_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/notifications{?since,all,participating}</notifications_url>
+  <open_issues>2</open_issues>
+  <open_issues_count>2</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/7921119?v=3",
+  "events_url": "https://api.github.com/users/CMSRA1/events{/privacy}",
+  "followers_url": "https://api.github.com/users/CMSRA1/followers",
+  "following_url": "https://api.github.com/users/CMSRA1/following{/other_user}",
+  "gists_url": "https://api.github.com/users/CMSRA1/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/CMSRA1",
+  "id": 7921119,
+  "login": "CMSRA1",
+  "organizations_url": "https://api.github.com/users/CMSRA1/orgs",
+  "received_events_url": "https://api.github.com/users/CMSRA1/received_events",
+  "repos_url": "https://api.github.com/users/CMSRA1/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/CMSRA1/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/CMSRA1/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/CMSRA1"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/7921119?v=3</avatar_url>
+    <events_url>https://api.github.com/users/CMSRA1/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/CMSRA1/followers</followers_url>
+    <following_url>https://api.github.com/users/CMSRA1/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/CMSRA1/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/CMSRA1</html_url>
+    <id>7921119</id>
+    <login>CMSRA1</login>
+    <organizations_url>https://api.github.com/users/CMSRA1/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/CMSRA1/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/CMSRA1/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/CMSRA1/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/CMSRA1/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/CMSRA1</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/branches{/branch}",
+  "clone_url": "https://github.com/CERN-PH-CMG/cmg-cmssw.git",
+  "collaborators_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/comments{/number}",
+  "commits_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/contributors",
+  "created_at": "2013-09-25T08:23:20Z",
+  "default_branch": "CMG_PAT_V5_18_from-CMSSW_5_3_14",
+  "description": "CERN CMG Tools repository. Installation instructions available on the twiki: ",
+  "downloads_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/downloads",
+  "events_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/events",
+  "fork": false,
+  "forks": 54,
+  "forks_count": 54,
+  "forks_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/forks",
+  "full_name": "CERN-PH-CMG/cmg-cmssw",
+  "git_commits_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/tags{/sha}",
+  "git_url": "git://github.com/CERN-PH-CMG/cmg-cmssw.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "https://twiki.cern.ch/twiki/bin/viewauth/CMS/CMGToolsReleasesExperimental",
+  "hooks_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/hooks",
+  "html_url": "https://github.com/CERN-PH-CMG/cmg-cmssw",
+  "id": 13088143,
+  "issue_comment_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/issues{/number}",
+  "keys_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/labels{/name}",
+  "language": "C++",
+  "languages_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/languages",
+  "merges_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/merges",
+  "milestones_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/milestones{/number}",
+  "mirror_url": null,
+  "name": "cmg-cmssw",
+  "notifications_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/notifications{?since,all,participating}",
+  "open_issues": 17,
+  "open_issues_count": 17,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5182689?v=3",
+    "events_url": "https://api.github.com/users/CERN-PH-CMG/events{/privacy}",
+    "followers_url": "https://api.github.com/users/CERN-PH-CMG/followers",
+    "following_url": "https://api.github.com/users/CERN-PH-CMG/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CERN-PH-CMG/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/CERN-PH-CMG",
+    "id": 5182689,
+    "login": "CERN-PH-CMG",
+    "organizations_url": "https://api.github.com/users/CERN-PH-CMG/orgs",
+    "received_events_url": "https://api.github.com/users/CERN-PH-CMG/received_events",
+    "repos_url": "https://api.github.com/users/CERN-PH-CMG/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/CERN-PH-CMG/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CERN-PH-CMG/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/CERN-PH-CMG"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/pulls{/number}",
+  "pushed_at": "2014-11-26T11:53:44Z",
+  "releases_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/releases{/id}",
+  "size": 749265,
+  "ssh_url": "git@github.com:CERN-PH-CMG/cmg-cmssw.git",
+  "stargazers_count": 7,
+  "stargazers_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/stargazers",
+  "statuses_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/subscribers",
+  "subscription_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/subscription",
+  "svn_url": "https://github.com/CERN-PH-CMG/cmg-cmssw",
+  "tags_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/tags",
+  "teams_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/teams",
+  "trees_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/trees{/sha}",
+  "updated_at": "2014-12-01T13:46:32Z",
+  "url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw",
+  "watchers": 7,
+  "watchers_count": 7
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/pulls{/number}</pulls_url>
+  <pushed_at>12/1/2014 12:07:04 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/releases{/id}</releases_url>
+  <size>527910</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/branches{/branch}",
+  "clone_url": "https://github.com/CERN-PH-CMG/cmg-cmssw.git",
+  "collaborators_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/comments{/number}",
+  "commits_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/contributors",
+  "created_at": "2013-09-25T08:23:20Z",
+  "default_branch": "CMG_PAT_V5_18_from-CMSSW_5_3_14",
+  "description": "CERN CMG Tools repository. Installation instructions available on the twiki: ",
+  "downloads_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/downloads",
+  "events_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/events",
+  "fork": false,
+  "forks": 54,
+  "forks_count": 54,
+  "forks_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/forks",
+  "full_name": "CERN-PH-CMG/cmg-cmssw",
+  "git_commits_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/tags{/sha}",
+  "git_url": "git://github.com/CERN-PH-CMG/cmg-cmssw.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "https://twiki.cern.ch/twiki/bin/viewauth/CMS/CMGToolsReleasesExperimental",
+  "hooks_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/hooks",
+  "html_url": "https://github.com/CERN-PH-CMG/cmg-cmssw",
+  "id": 13088143,
+  "issue_comment_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/issues{/number}",
+  "keys_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/labels{/name}",
+  "language": "C++",
+  "languages_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/languages",
+  "merges_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/merges",
+  "milestones_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/milestones{/number}",
+  "mirror_url": null,
+  "name": "cmg-cmssw",
+  "notifications_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/notifications{?since,all,participating}",
+  "open_issues": 17,
+  "open_issues_count": 17,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5182689?v=3",
+    "events_url": "https://api.github.com/users/CERN-PH-CMG/events{/privacy}",
+    "followers_url": "https://api.github.com/users/CERN-PH-CMG/followers",
+    "following_url": "https://api.github.com/users/CERN-PH-CMG/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CERN-PH-CMG/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/CERN-PH-CMG",
+    "id": 5182689,
+    "login": "CERN-PH-CMG",
+    "organizations_url": "https://api.github.com/users/CERN-PH-CMG/orgs",
+    "received_events_url": "https://api.github.com/users/CERN-PH-CMG/received_events",
+    "repos_url": "https://api.github.com/users/CERN-PH-CMG/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/CERN-PH-CMG/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CERN-PH-CMG/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/CERN-PH-CMG"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/pulls{/number}",
+  "pushed_at": "2014-11-26T11:53:44Z",
+  "releases_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/releases{/id}",
+  "size": 749265,
+  "ssh_url": "git@github.com:CERN-PH-CMG/cmg-cmssw.git",
+  "stargazers_count": 7,
+  "stargazers_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/stargazers",
+  "statuses_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/subscribers",
+  "subscription_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/subscription",
+  "svn_url": "https://github.com/CERN-PH-CMG/cmg-cmssw",
+  "tags_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/tags",
+  "teams_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/teams",
+  "trees_url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw/git/trees{/sha}",
+  "updated_at": "2014-12-01T13:46:32Z",
+  "url": "https://api.github.com/repos/CERN-PH-CMG/cmg-cmssw",
+  "watchers": 7,
+  "watchers_count": 7
+}</source>
+  <ssh_url>git@github.com:CMSRA1/cmg-cmssw.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/statuses/{sha}</statuses_url>
+  <subscribers_count>6</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/subscription</subscription_url>
+  <svn_url>https://github.com/CMSRA1/cmg-cmssw</svn_url>
+  <tags_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/tags</tags_url>
+  <teams_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/teams</teams_url>
+  <trees_url>https://api.github.com/repos/CMSRA1/cmg-cmssw/git/trees{/sha}</trees_url>
+  <updated_at>12/1/2014 1:57:35 PM</updated_at>
+  <url>https://api.github.com/repos/CMSRA1/cmg-cmssw</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

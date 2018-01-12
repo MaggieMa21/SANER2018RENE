@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a4fcdbd354317b9001e39</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/Debenson/MWFeedParser/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/Debenson/MWFeedParser/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/Debenson/MWFeedParser/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/Debenson/MWFeedParser/branches{/branch}</branches_url>
+  <clone_url>https://github.com/Debenson/MWFeedParser.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/Debenson/MWFeedParser/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/Debenson/MWFeedParser/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/Debenson/MWFeedParser/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/Debenson/MWFeedParser/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/Debenson/MWFeedParser/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/Debenson/MWFeedParser/contributors</contributors_url>
+  <created_at>12/12/2014 2:15:29 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>An Objective-C RSS / Atom Feed Parser for iOS</description>
+  <downloads_url>https://api.github.com/repos/Debenson/MWFeedParser/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/Debenson/MWFeedParser/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/Debenson/MWFeedParser/forks</forks_url>
+  <full_name>Debenson/MWFeedParser</full_name>
+  <git_commits_url>https://api.github.com/repos/Debenson/MWFeedParser/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/Debenson/MWFeedParser/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/Debenson/MWFeedParser/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/Debenson/MWFeedParser.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://michael.typify.io</homepage>
+  <hooks_url>https://api.github.com/repos/Debenson/MWFeedParser/hooks</hooks_url>
+  <html_url>https://github.com/Debenson/MWFeedParser</html_url>
+  <id>27901446</id>
+  <issue_comment_url>https://api.github.com/repos/Debenson/MWFeedParser/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/Debenson/MWFeedParser/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/Debenson/MWFeedParser/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/Debenson/MWFeedParser/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/Debenson/MWFeedParser/labels{/name}</labels_url>
+  <language>Objective-C</language>
+  <languages_url>https://api.github.com/repos/Debenson/MWFeedParser/languages</languages_url>
+  <merges_url>https://api.github.com/repos/Debenson/MWFeedParser/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/Debenson/MWFeedParser/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>MWFeedParser</name>
+  <network_count>580</network_count>
+  <notifications_url>https://api.github.com/repos/Debenson/MWFeedParser/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1003057?v=3</avatar_url>
+    <events_url>https://api.github.com/users/Debenson/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/Debenson/followers</followers_url>
+    <following_url>https://api.github.com/users/Debenson/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/Debenson/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/Debenson</html_url>
+    <id>1003057</id>
+    <login>Debenson</login>
+    <organizations_url>https://api.github.com/users/Debenson/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/Debenson/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/Debenson/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/Debenson/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/Debenson/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/Debenson</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/branches{/branch}",
+  "clone_url": "https://github.com/mwaterfall/MWFeedParser.git",
+  "collaborators_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/comments{/number}",
+  "commits_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/contributors",
+  "created_at": "2010-05-16T09:49:20Z",
+  "default_branch": "master",
+  "description": "An Objective-C RSS / Atom Feed Parser for iOS",
+  "downloads_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/downloads",
+  "events_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/events",
+  "fork": false,
+  "forks": 580,
+  "forks_count": 580,
+  "forks_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/forks",
+  "full_name": "mwaterfall/MWFeedParser",
+  "git_commits_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/tags{/sha}",
+  "git_url": "git://github.com/mwaterfall/MWFeedParser.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://michael.typify.io",
+  "hooks_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/hooks",
+  "html_url": "https://github.com/mwaterfall/MWFeedParser",
+  "id": 669304,
+  "issue_comment_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/issues{/number}",
+  "keys_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/labels{/name}",
+  "language": "Objective-C",
+  "languages_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/languages",
+  "merges_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/merges",
+  "milestones_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/milestones{/number}",
+  "mirror_url": null,
+  "name": "MWFeedParser",
+  "notifications_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/notifications{?since,all,participating}",
+  "open_issues": 25,
+  "open_issues_count": 25,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/132291?v=3",
+    "events_url": "https://api.github.com/users/mwaterfall/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mwaterfall/followers",
+    "following_url": "https://api.github.com/users/mwaterfall/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mwaterfall/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mwaterfall",
+    "id": 132291,
+    "login": "mwaterfall",
+    "organizations_url": "https://api.github.com/users/mwaterfall/orgs",
+    "received_events_url": "https://api.github.com/users/mwaterfall/received_events",
+    "repos_url": "https://api.github.com/users/mwaterfall/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mwaterfall/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mwaterfall/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mwaterfall"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/pulls{/number}",
+  "pushed_at": "2014-04-10T07:49:17Z",
+  "releases_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/releases{/id}",
+  "size": 611,
+  "ssh_url": "git@github.com:mwaterfall/MWFeedParser.git",
+  "stargazers_count": 1696,
+  "stargazers_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/stargazers",
+  "statuses_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/subscribers",
+  "subscription_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/subscription",
+  "svn_url": "https://github.com/mwaterfall/MWFeedParser",
+  "tags_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/tags",
+  "teams_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/teams",
+  "trees_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/trees{/sha}",
+  "updated_at": "2014-12-11T21:40:03Z",
+  "url": "https://api.github.com/repos/mwaterfall/MWFeedParser",
+  "watchers": 1696,
+  "watchers_count": 1696
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/Debenson/MWFeedParser/pulls{/number}</pulls_url>
+  <pushed_at>4/10/2014 7:49:17 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/Debenson/MWFeedParser/releases{/id}</releases_url>
+  <size>611</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/branches{/branch}",
+  "clone_url": "https://github.com/mwaterfall/MWFeedParser.git",
+  "collaborators_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/comments{/number}",
+  "commits_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/contributors",
+  "created_at": "2010-05-16T09:49:20Z",
+  "default_branch": "master",
+  "description": "An Objective-C RSS / Atom Feed Parser for iOS",
+  "downloads_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/downloads",
+  "events_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/events",
+  "fork": false,
+  "forks": 580,
+  "forks_count": 580,
+  "forks_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/forks",
+  "full_name": "mwaterfall/MWFeedParser",
+  "git_commits_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/tags{/sha}",
+  "git_url": "git://github.com/mwaterfall/MWFeedParser.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "http://michael.typify.io",
+  "hooks_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/hooks",
+  "html_url": "https://github.com/mwaterfall/MWFeedParser",
+  "id": 669304,
+  "issue_comment_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/issues{/number}",
+  "keys_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/labels{/name}",
+  "language": "Objective-C",
+  "languages_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/languages",
+  "merges_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/merges",
+  "milestones_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/milestones{/number}",
+  "mirror_url": null,
+  "name": "MWFeedParser",
+  "notifications_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/notifications{?since,all,participating}",
+  "open_issues": 25,
+  "open_issues_count": 25,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/132291?v=3",
+    "events_url": "https://api.github.com/users/mwaterfall/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mwaterfall/followers",
+    "following_url": "https://api.github.com/users/mwaterfall/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mwaterfall/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mwaterfall",
+    "id": 132291,
+    "login": "mwaterfall",
+    "organizations_url": "https://api.github.com/users/mwaterfall/orgs",
+    "received_events_url": "https://api.github.com/users/mwaterfall/received_events",
+    "repos_url": "https://api.github.com/users/mwaterfall/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mwaterfall/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mwaterfall/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mwaterfall"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/pulls{/number}",
+  "pushed_at": "2014-04-10T07:49:17Z",
+  "releases_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/releases{/id}",
+  "size": 611,
+  "ssh_url": "git@github.com:mwaterfall/MWFeedParser.git",
+  "stargazers_count": 1696,
+  "stargazers_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/stargazers",
+  "statuses_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/subscribers",
+  "subscription_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/subscription",
+  "svn_url": "https://github.com/mwaterfall/MWFeedParser",
+  "tags_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/tags",
+  "teams_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/teams",
+  "trees_url": "https://api.github.com/repos/mwaterfall/MWFeedParser/git/trees{/sha}",
+  "updated_at": "2014-12-11T21:40:03Z",
+  "url": "https://api.github.com/repos/mwaterfall/MWFeedParser",
+  "watchers": 1696,
+  "watchers_count": 1696
+}</source>
+  <ssh_url>git@github.com:Debenson/MWFeedParser.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/Debenson/MWFeedParser/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/Debenson/MWFeedParser/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/Debenson/MWFeedParser/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/Debenson/MWFeedParser/subscription</subscription_url>
+  <svn_url>https://github.com/Debenson/MWFeedParser</svn_url>
+  <tags_url>https://api.github.com/repos/Debenson/MWFeedParser/tags</tags_url>
+  <teams_url>https://api.github.com/repos/Debenson/MWFeedParser/teams</teams_url>
+  <trees_url>https://api.github.com/repos/Debenson/MWFeedParser/git/trees{/sha}</trees_url>
+  <updated_at>12/12/2014 2:15:29 AM</updated_at>
+  <url>https://api.github.com/repos/Debenson/MWFeedParser</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

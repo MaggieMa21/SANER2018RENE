@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548cc25cbd3543153c00ccb1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/vidma/rbhive/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/vidma/rbhive/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/vidma/rbhive/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/vidma/rbhive/branches{/branch}</branches_url>
+  <clone_url>https://github.com/vidma/rbhive.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/vidma/rbhive/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/vidma/rbhive/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/vidma/rbhive/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/vidma/rbhive/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/vidma/rbhive/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/vidma/rbhive/contributors</contributors_url>
+  <created_at>12/13/2014 10:26:31 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Ruby gem for querying Apache Hive</description>
+  <downloads_url>https://api.github.com/repos/vidma/rbhive/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/vidma/rbhive/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/vidma/rbhive/forks</forks_url>
+  <full_name>vidma/rbhive</full_name>
+  <git_commits_url>https://api.github.com/repos/vidma/rbhive/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/vidma/rbhive/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/vidma/rbhive/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/vidma/rbhive.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://www.forward3d.com</homepage>
+  <hooks_url>https://api.github.com/repos/vidma/rbhive/hooks</hooks_url>
+  <html_url>https://github.com/vidma/rbhive</html_url>
+  <id>27975759</id>
+  <issue_comment_url>https://api.github.com/repos/vidma/rbhive/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/vidma/rbhive/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/vidma/rbhive/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/vidma/rbhive/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/vidma/rbhive/labels{/name}</labels_url>
+  <language>Ruby</language>
+  <languages_url>https://api.github.com/repos/vidma/rbhive/languages</languages_url>
+  <merges_url>https://api.github.com/repos/vidma/rbhive/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/vidma/rbhive/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>rbhive</name>
+  <network_count>36</network_count>
+  <notifications_url>https://api.github.com/repos/vidma/rbhive/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/213426?v=3</avatar_url>
+    <events_url>https://api.github.com/users/vidma/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/vidma/followers</followers_url>
+    <following_url>https://api.github.com/users/vidma/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/vidma/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/vidma</html_url>
+    <id>213426</id>
+    <login>vidma</login>
+    <organizations_url>https://api.github.com/users/vidma/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/vidma/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/vidma/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/vidma/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/vidma/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/vidma</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/forward3d/rbhive/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/forward3d/rbhive/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/forward3d/rbhive/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/forward3d/rbhive/branches{/branch}",
+  "clone_url": "https://github.com/forward3d/rbhive.git",
+  "collaborators_url": "https://api.github.com/repos/forward3d/rbhive/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/forward3d/rbhive/comments{/number}",
+  "commits_url": "https://api.github.com/repos/forward3d/rbhive/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/forward3d/rbhive/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/forward3d/rbhive/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/forward3d/rbhive/contributors",
+  "created_at": "2010-10-04T11:44:15Z",
+  "default_branch": "master",
+  "description": "Ruby gem for querying Apache Hive",
+  "downloads_url": "https://api.github.com/repos/forward3d/rbhive/downloads",
+  "events_url": "https://api.github.com/repos/forward3d/rbhive/events",
+  "fork": false,
+  "forks": 36,
+  "forks_count": 36,
+  "forks_url": "https://api.github.com/repos/forward3d/rbhive/forks",
+  "full_name": "forward3d/rbhive",
+  "git_commits_url": "https://api.github.com/repos/forward3d/rbhive/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/forward3d/rbhive/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/forward3d/rbhive/git/tags{/sha}",
+  "git_url": "git://github.com/forward3d/rbhive.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://www.forward3d.com",
+  "hooks_url": "https://api.github.com/repos/forward3d/rbhive/hooks",
+  "html_url": "https://github.com/forward3d/rbhive",
+  "id": 960326,
+  "issue_comment_url": "https://api.github.com/repos/forward3d/rbhive/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/forward3d/rbhive/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/forward3d/rbhive/issues{/number}",
+  "keys_url": "https://api.github.com/repos/forward3d/rbhive/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/forward3d/rbhive/labels{/name}",
+  "language": "Ruby",
+  "languages_url": "https://api.github.com/repos/forward3d/rbhive/languages",
+  "merges_url": "https://api.github.com/repos/forward3d/rbhive/merges",
+  "milestones_url": "https://api.github.com/repos/forward3d/rbhive/milestones{/number}",
+  "mirror_url": null,
+  "name": "rbhive",
+  "notifications_url": "https://api.github.com/repos/forward3d/rbhive/notifications{?since,all,participating}",
+  "open_issues": 6,
+  "open_issues_count": 6,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3997310?v=3",
+    "events_url": "https://api.github.com/users/forward3d/events{/privacy}",
+    "followers_url": "https://api.github.com/users/forward3d/followers",
+    "following_url": "https://api.github.com/users/forward3d/following{/other_user}",
+    "gists_url": "https://api.github.com/users/forward3d/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/forward3d",
+    "id": 3997310,
+    "login": "forward3d",
+    "organizations_url": "https://api.github.com/users/forward3d/orgs",
+    "received_events_url": "https://api.github.com/users/forward3d/received_events",
+    "repos_url": "https://api.github.com/users/forward3d/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/forward3d/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/forward3d/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/forward3d"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/forward3d/rbhive/pulls{/number}",
+  "pushed_at": "2014-09-18T11:10:15Z",
+  "releases_url": "https://api.github.com/repos/forward3d/rbhive/releases{/id}",
+  "size": 658,
+  "ssh_url": "git@github.com:forward3d/rbhive.git",
+  "stargazers_count": 61,
+  "stargazers_url": "https://api.github.com/repos/forward3d/rbhive/stargazers",
+  "statuses_url": "https://api.github.com/repos/forward3d/rbhive/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/forward3d/rbhive/subscribers",
+  "subscription_url": "https://api.github.com/repos/forward3d/rbhive/subscription",
+  "svn_url": "https://github.com/forward3d/rbhive",
+  "tags_url": "https://api.github.com/repos/forward3d/rbhive/tags",
+  "teams_url": "https://api.github.com/repos/forward3d/rbhive/teams",
+  "trees_url": "https://api.github.com/repos/forward3d/rbhive/git/trees{/sha}",
+  "updated_at": "2014-12-11T18:23:17Z",
+  "url": "https://api.github.com/repos/forward3d/rbhive",
+  "watchers": 61,
+  "watchers_count": 61
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/vidma/rbhive/pulls{/number}</pulls_url>
+  <pushed_at>9/18/2014 11:10:15 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/vidma/rbhive/releases{/id}</releases_url>
+  <size>658</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/forward3d/rbhive/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/forward3d/rbhive/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/forward3d/rbhive/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/forward3d/rbhive/branches{/branch}",
+  "clone_url": "https://github.com/forward3d/rbhive.git",
+  "collaborators_url": "https://api.github.com/repos/forward3d/rbhive/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/forward3d/rbhive/comments{/number}",
+  "commits_url": "https://api.github.com/repos/forward3d/rbhive/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/forward3d/rbhive/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/forward3d/rbhive/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/forward3d/rbhive/contributors",
+  "created_at": "2010-10-04T11:44:15Z",
+  "default_branch": "master",
+  "description": "Ruby gem for querying Apache Hive",
+  "downloads_url": "https://api.github.com/repos/forward3d/rbhive/downloads",
+  "events_url": "https://api.github.com/repos/forward3d/rbhive/events",
+  "fork": false,
+  "forks": 36,
+  "forks_count": 36,
+  "forks_url": "https://api.github.com/repos/forward3d/rbhive/forks",
+  "full_name": "forward3d/rbhive",
+  "git_commits_url": "https://api.github.com/repos/forward3d/rbhive/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/forward3d/rbhive/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/forward3d/rbhive/git/tags{/sha}",
+  "git_url": "git://github.com/forward3d/rbhive.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://www.forward3d.com",
+  "hooks_url": "https://api.github.com/repos/forward3d/rbhive/hooks",
+  "html_url": "https://github.com/forward3d/rbhive",
+  "id": 960326,
+  "issue_comment_url": "https://api.github.com/repos/forward3d/rbhive/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/forward3d/rbhive/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/forward3d/rbhive/issues{/number}",
+  "keys_url": "https://api.github.com/repos/forward3d/rbhive/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/forward3d/rbhive/labels{/name}",
+  "language": "Ruby",
+  "languages_url": "https://api.github.com/repos/forward3d/rbhive/languages",
+  "merges_url": "https://api.github.com/repos/forward3d/rbhive/merges",
+  "milestones_url": "https://api.github.com/repos/forward3d/rbhive/milestones{/number}",
+  "mirror_url": null,
+  "name": "rbhive",
+  "notifications_url": "https://api.github.com/repos/forward3d/rbhive/notifications{?since,all,participating}",
+  "open_issues": 6,
+  "open_issues_count": 6,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3997310?v=3",
+    "events_url": "https://api.github.com/users/forward3d/events{/privacy}",
+    "followers_url": "https://api.github.com/users/forward3d/followers",
+    "following_url": "https://api.github.com/users/forward3d/following{/other_user}",
+    "gists_url": "https://api.github.com/users/forward3d/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/forward3d",
+    "id": 3997310,
+    "login": "forward3d",
+    "organizations_url": "https://api.github.com/users/forward3d/orgs",
+    "received_events_url": "https://api.github.com/users/forward3d/received_events",
+    "repos_url": "https://api.github.com/users/forward3d/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/forward3d/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/forward3d/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/forward3d"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/forward3d/rbhive/pulls{/number}",
+  "pushed_at": "2014-09-18T11:10:15Z",
+  "releases_url": "https://api.github.com/repos/forward3d/rbhive/releases{/id}",
+  "size": 658,
+  "ssh_url": "git@github.com:forward3d/rbhive.git",
+  "stargazers_count": 61,
+  "stargazers_url": "https://api.github.com/repos/forward3d/rbhive/stargazers",
+  "statuses_url": "https://api.github.com/repos/forward3d/rbhive/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/forward3d/rbhive/subscribers",
+  "subscription_url": "https://api.github.com/repos/forward3d/rbhive/subscription",
+  "svn_url": "https://github.com/forward3d/rbhive",
+  "tags_url": "https://api.github.com/repos/forward3d/rbhive/tags",
+  "teams_url": "https://api.github.com/repos/forward3d/rbhive/teams",
+  "trees_url": "https://api.github.com/repos/forward3d/rbhive/git/trees{/sha}",
+  "updated_at": "2014-12-11T18:23:17Z",
+  "url": "https://api.github.com/repos/forward3d/rbhive",
+  "watchers": 61,
+  "watchers_count": 61
+}</source>
+  <ssh_url>git@github.com:vidma/rbhive.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/vidma/rbhive/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/vidma/rbhive/statuses/{sha}</statuses_url>
+  <subscribers_count>0</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/vidma/rbhive/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/vidma/rbhive/subscription</subscription_url>
+  <svn_url>https://github.com/vidma/rbhive</svn_url>
+  <tags_url>https://api.github.com/repos/vidma/rbhive/tags</tags_url>
+  <teams_url>https://api.github.com/repos/vidma/rbhive/teams</teams_url>
+  <trees_url>https://api.github.com/repos/vidma/rbhive/git/trees{/sha}</trees_url>
+  <updated_at>12/13/2014 10:26:33 PM</updated_at>
+  <url>https://api.github.com/repos/vidma/rbhive</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

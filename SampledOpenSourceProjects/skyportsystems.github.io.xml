@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547a57d7bd35431736002bb6</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/rexk/skyportsystems.github.io/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/rexk/skyportsystems.github.io/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/rexk/skyportsystems.github.io/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/rexk/skyportsystems.github.io/branches{/branch}</branches_url>
+  <clone_url>https://github.com/rexk/skyportsystems.github.io.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/rexk/skyportsystems.github.io/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/rexk/skyportsystems.github.io/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/rexk/skyportsystems.github.io/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/rexk/skyportsystems.github.io/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/rexk/skyportsystems.github.io/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/rexk/skyportsystems.github.io/contributors</contributors_url>
+  <created_at>11/29/2014 10:17:30 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Skyport Systems Home Page</description>
+  <downloads_url>https://api.github.com/repos/rexk/skyportsystems.github.io/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/rexk/skyportsystems.github.io/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/rexk/skyportsystems.github.io/forks</forks_url>
+  <full_name>rexk/skyportsystems.github.io</full_name>
+  <git_commits_url>https://api.github.com/repos/rexk/skyportsystems.github.io/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/rexk/skyportsystems.github.io/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/rexk/skyportsystems.github.io/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/rexk/skyportsystems.github.io.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/rexk/skyportsystems.github.io/hooks</hooks_url>
+  <html_url>https://github.com/rexk/skyportsystems.github.io</html_url>
+  <id>27316768</id>
+  <issue_comment_url>https://api.github.com/repos/rexk/skyportsystems.github.io/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/rexk/skyportsystems.github.io/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/rexk/skyportsystems.github.io/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/rexk/skyportsystems.github.io/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/rexk/skyportsystems.github.io/labels{/name}</labels_url>
+  <language>CSS</language>
+  <languages_url>https://api.github.com/repos/rexk/skyportsystems.github.io/languages</languages_url>
+  <merges_url>https://api.github.com/repos/rexk/skyportsystems.github.io/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/rexk/skyportsystems.github.io/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>skyportsystems.github.io</name>
+  <network_count>3</network_count>
+  <notifications_url>https://api.github.com/repos/rexk/skyportsystems.github.io/notifications{?since,all,participating}</notifications_url>
+  <open_issues>1</open_issues>
+  <open_issues_count>1</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/2611273?v=3</avatar_url>
+    <events_url>https://api.github.com/users/rexk/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/rexk/followers</followers_url>
+    <following_url>https://api.github.com/users/rexk/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/rexk/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/rexk</html_url>
+    <id>2611273</id>
+    <login>rexk</login>
+    <organizations_url>https://api.github.com/users/rexk/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/rexk/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/rexk/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/rexk/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/rexk/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/rexk</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/branches{/branch}",
+  "clone_url": "https://github.com/skyportsystems/skyportsystems.github.io.git",
+  "collaborators_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/comments{/number}",
+  "commits_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/contributors",
+  "created_at": "2014-01-29T03:18:13Z",
+  "default_branch": "master",
+  "description": "Skyport Systems Home Page",
+  "downloads_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/downloads",
+  "events_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/events",
+  "fork": false,
+  "forks": 3,
+  "forks_count": 3,
+  "forks_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/forks",
+  "full_name": "skyportsystems/skyportsystems.github.io",
+  "git_commits_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/tags{/sha}",
+  "git_url": "git://github.com/skyportsystems/skyportsystems.github.io.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": true,
+  "has_wiki": false,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/hooks",
+  "html_url": "https://github.com/skyportsystems/skyportsystems.github.io",
+  "id": 16334185,
+  "issue_comment_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/issues{/number}",
+  "keys_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/labels{/name}",
+  "language": "CSS",
+  "languages_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/languages",
+  "merges_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/merges",
+  "milestones_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/milestones{/number}",
+  "mirror_url": null,
+  "name": "skyportsystems.github.io",
+  "notifications_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5316810?v=3",
+    "events_url": "https://api.github.com/users/skyportsystems/events{/privacy}",
+    "followers_url": "https://api.github.com/users/skyportsystems/followers",
+    "following_url": "https://api.github.com/users/skyportsystems/following{/other_user}",
+    "gists_url": "https://api.github.com/users/skyportsystems/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/skyportsystems",
+    "id": 5316810,
+    "login": "skyportsystems",
+    "organizations_url": "https://api.github.com/users/skyportsystems/orgs",
+    "received_events_url": "https://api.github.com/users/skyportsystems/received_events",
+    "repos_url": "https://api.github.com/users/skyportsystems/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/skyportsystems/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/skyportsystems/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/skyportsystems"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/pulls{/number}",
+  "pushed_at": "2014-02-23T23:49:22Z",
+  "releases_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/releases{/id}",
+  "size": 852,
+  "ssh_url": "git@github.com:skyportsystems/skyportsystems.github.io.git",
+  "stargazers_count": 0,
+  "stargazers_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/stargazers",
+  "statuses_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/subscribers",
+  "subscription_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/subscription",
+  "svn_url": "https://github.com/skyportsystems/skyportsystems.github.io",
+  "tags_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/tags",
+  "teams_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/teams",
+  "trees_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/trees{/sha}",
+  "updated_at": "2014-02-23T23:49:22Z",
+  "url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io",
+  "watchers": 0,
+  "watchers_count": 0
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/rexk/skyportsystems.github.io/pulls{/number}</pulls_url>
+  <pushed_at>11/29/2014 11:25:22 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/rexk/skyportsystems.github.io/releases{/id}</releases_url>
+  <size>660</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/branches{/branch}",
+  "clone_url": "https://github.com/skyportsystems/skyportsystems.github.io.git",
+  "collaborators_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/comments{/number}",
+  "commits_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/contributors",
+  "created_at": "2014-01-29T03:18:13Z",
+  "default_branch": "master",
+  "description": "Skyport Systems Home Page",
+  "downloads_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/downloads",
+  "events_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/events",
+  "fork": false,
+  "forks": 3,
+  "forks_count": 3,
+  "forks_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/forks",
+  "full_name": "skyportsystems/skyportsystems.github.io",
+  "git_commits_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/tags{/sha}",
+  "git_url": "git://github.com/skyportsystems/skyportsystems.github.io.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": true,
+  "has_wiki": false,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/hooks",
+  "html_url": "https://github.com/skyportsystems/skyportsystems.github.io",
+  "id": 16334185,
+  "issue_comment_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/issues{/number}",
+  "keys_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/labels{/name}",
+  "language": "CSS",
+  "languages_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/languages",
+  "merges_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/merges",
+  "milestones_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/milestones{/number}",
+  "mirror_url": null,
+  "name": "skyportsystems.github.io",
+  "notifications_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5316810?v=3",
+    "events_url": "https://api.github.com/users/skyportsystems/events{/privacy}",
+    "followers_url": "https://api.github.com/users/skyportsystems/followers",
+    "following_url": "https://api.github.com/users/skyportsystems/following{/other_user}",
+    "gists_url": "https://api.github.com/users/skyportsystems/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/skyportsystems",
+    "id": 5316810,
+    "login": "skyportsystems",
+    "organizations_url": "https://api.github.com/users/skyportsystems/orgs",
+    "received_events_url": "https://api.github.com/users/skyportsystems/received_events",
+    "repos_url": "https://api.github.com/users/skyportsystems/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/skyportsystems/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/skyportsystems/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/skyportsystems"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/pulls{/number}",
+  "pushed_at": "2014-02-23T23:49:22Z",
+  "releases_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/releases{/id}",
+  "size": 852,
+  "ssh_url": "git@github.com:skyportsystems/skyportsystems.github.io.git",
+  "stargazers_count": 0,
+  "stargazers_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/stargazers",
+  "statuses_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/subscribers",
+  "subscription_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/subscription",
+  "svn_url": "https://github.com/skyportsystems/skyportsystems.github.io",
+  "tags_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/tags",
+  "teams_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/teams",
+  "trees_url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io/git/trees{/sha}",
+  "updated_at": "2014-02-23T23:49:22Z",
+  "url": "https://api.github.com/repos/skyportsystems/skyportsystems.github.io",
+  "watchers": 0,
+  "watchers_count": 0
+}</source>
+  <ssh_url>git@github.com:rexk/skyportsystems.github.io.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/rexk/skyportsystems.github.io/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/rexk/skyportsystems.github.io/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/rexk/skyportsystems.github.io/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/rexk/skyportsystems.github.io/subscription</subscription_url>
+  <svn_url>https://github.com/rexk/skyportsystems.github.io</svn_url>
+  <tags_url>https://api.github.com/repos/rexk/skyportsystems.github.io/tags</tags_url>
+  <teams_url>https://api.github.com/repos/rexk/skyportsystems.github.io/teams</teams_url>
+  <trees_url>https://api.github.com/repos/rexk/skyportsystems.github.io/git/trees{/sha}</trees_url>
+  <updated_at>11/29/2014 11:25:23 PM</updated_at>
+  <url>https://api.github.com/repos/rexk/skyportsystems.github.io</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

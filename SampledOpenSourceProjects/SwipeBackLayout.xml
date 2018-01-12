@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a5da6bd35430a6f0024c8</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/extralam/SwipeBackLayout/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/extralam/SwipeBackLayout/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/extralam/SwipeBackLayout/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/extralam/SwipeBackLayout/branches{/branch}</branches_url>
+  <clone_url>https://github.com/extralam/SwipeBackLayout.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/extralam/SwipeBackLayout/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/extralam/SwipeBackLayout/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/extralam/SwipeBackLayout/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/extralam/SwipeBackLayout/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/extralam/SwipeBackLayout/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/extralam/SwipeBackLayout/contributors</contributors_url>
+  <created_at>12/12/2014 3:14:24 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>An Android library that help you to build app with swipe back gesture.</description>
+  <downloads_url>https://api.github.com/repos/extralam/SwipeBackLayout/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/extralam/SwipeBackLayout/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/extralam/SwipeBackLayout/forks</forks_url>
+  <full_name>extralam/SwipeBackLayout</full_name>
+  <git_commits_url>https://api.github.com/repos/extralam/SwipeBackLayout/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/extralam/SwipeBackLayout/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/extralam/SwipeBackLayout/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/extralam/SwipeBackLayout.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/extralam/SwipeBackLayout/hooks</hooks_url>
+  <html_url>https://github.com/extralam/SwipeBackLayout</html_url>
+  <id>27903203</id>
+  <issue_comment_url>https://api.github.com/repos/extralam/SwipeBackLayout/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/extralam/SwipeBackLayout/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/extralam/SwipeBackLayout/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/extralam/SwipeBackLayout/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/extralam/SwipeBackLayout/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/extralam/SwipeBackLayout/languages</languages_url>
+  <merges_url>https://api.github.com/repos/extralam/SwipeBackLayout/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/extralam/SwipeBackLayout/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>SwipeBackLayout</name>
+  <network_count>411</network_count>
+  <notifications_url>https://api.github.com/repos/extralam/SwipeBackLayout/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1421610?v=3</avatar_url>
+    <events_url>https://api.github.com/users/extralam/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/extralam/followers</followers_url>
+    <following_url>https://api.github.com/users/extralam/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/extralam/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/extralam</html_url>
+    <id>1421610</id>
+    <login>extralam</login>
+    <organizations_url>https://api.github.com/users/extralam/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/extralam/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/extralam/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/extralam/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/extralam/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/extralam</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/branches{/branch}",
+  "clone_url": "https://github.com/Issacw0ng/SwipeBackLayout.git",
+  "collaborators_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/contributors",
+  "created_at": "2013-08-25T03:36:12Z",
+  "default_branch": "master",
+  "description": "An Android library that help you to build app with swipe back gesture.",
+  "downloads_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/downloads",
+  "events_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/events",
+  "fork": false,
+  "forks": 411,
+  "forks_count": 411,
+  "forks_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/forks",
+  "full_name": "Issacw0ng/SwipeBackLayout",
+  "git_commits_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/tags{/sha}",
+  "git_url": "git://github.com/Issacw0ng/SwipeBackLayout.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/hooks",
+  "html_url": "https://github.com/Issacw0ng/SwipeBackLayout",
+  "id": 12353678,
+  "issue_comment_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/languages",
+  "merges_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/merges",
+  "milestones_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/milestones{/number}",
+  "mirror_url": null,
+  "name": "SwipeBackLayout",
+  "notifications_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/notifications{?since,all,participating}",
+  "open_issues": 6,
+  "open_issues_count": 6,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1014961?v=3",
+    "events_url": "https://api.github.com/users/Issacw0ng/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Issacw0ng/followers",
+    "following_url": "https://api.github.com/users/Issacw0ng/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Issacw0ng/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Issacw0ng",
+    "id": 1014961,
+    "login": "Issacw0ng",
+    "organizations_url": "https://api.github.com/users/Issacw0ng/orgs",
+    "received_events_url": "https://api.github.com/users/Issacw0ng/received_events",
+    "repos_url": "https://api.github.com/users/Issacw0ng/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Issacw0ng/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Issacw0ng/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Issacw0ng"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/pulls{/number}",
+  "pushed_at": "2014-09-13T14:33:48Z",
+  "releases_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/releases{/id}",
+  "size": 3126,
+  "ssh_url": "git@github.com:Issacw0ng/SwipeBackLayout.git",
+  "stargazers_count": 932,
+  "stargazers_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/stargazers",
+  "statuses_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/subscribers",
+  "subscription_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/subscription",
+  "svn_url": "https://github.com/Issacw0ng/SwipeBackLayout",
+  "tags_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/tags",
+  "teams_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/teams",
+  "trees_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/trees{/sha}",
+  "updated_at": "2014-12-12T03:14:20Z",
+  "url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout",
+  "watchers": 932,
+  "watchers_count": 932
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/extralam/SwipeBackLayout/pulls{/number}</pulls_url>
+  <pushed_at>9/13/2014 2:33:48 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/extralam/SwipeBackLayout/releases{/id}</releases_url>
+  <size>3126</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/branches{/branch}",
+  "clone_url": "https://github.com/Issacw0ng/SwipeBackLayout.git",
+  "collaborators_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/contributors",
+  "created_at": "2013-08-25T03:36:12Z",
+  "default_branch": "master",
+  "description": "An Android library that help you to build app with swipe back gesture.",
+  "downloads_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/downloads",
+  "events_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/events",
+  "fork": false,
+  "forks": 411,
+  "forks_count": 411,
+  "forks_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/forks",
+  "full_name": "Issacw0ng/SwipeBackLayout",
+  "git_commits_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/tags{/sha}",
+  "git_url": "git://github.com/Issacw0ng/SwipeBackLayout.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/hooks",
+  "html_url": "https://github.com/Issacw0ng/SwipeBackLayout",
+  "id": 12353678,
+  "issue_comment_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/languages",
+  "merges_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/merges",
+  "milestones_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/milestones{/number}",
+  "mirror_url": null,
+  "name": "SwipeBackLayout",
+  "notifications_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/notifications{?since,all,participating}",
+  "open_issues": 6,
+  "open_issues_count": 6,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1014961?v=3",
+    "events_url": "https://api.github.com/users/Issacw0ng/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Issacw0ng/followers",
+    "following_url": "https://api.github.com/users/Issacw0ng/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Issacw0ng/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Issacw0ng",
+    "id": 1014961,
+    "login": "Issacw0ng",
+    "organizations_url": "https://api.github.com/users/Issacw0ng/orgs",
+    "received_events_url": "https://api.github.com/users/Issacw0ng/received_events",
+    "repos_url": "https://api.github.com/users/Issacw0ng/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Issacw0ng/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Issacw0ng/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Issacw0ng"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/pulls{/number}",
+  "pushed_at": "2014-09-13T14:33:48Z",
+  "releases_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/releases{/id}",
+  "size": 3126,
+  "ssh_url": "git@github.com:Issacw0ng/SwipeBackLayout.git",
+  "stargazers_count": 932,
+  "stargazers_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/stargazers",
+  "statuses_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/subscribers",
+  "subscription_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/subscription",
+  "svn_url": "https://github.com/Issacw0ng/SwipeBackLayout",
+  "tags_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/tags",
+  "teams_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/teams",
+  "trees_url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout/git/trees{/sha}",
+  "updated_at": "2014-12-12T03:14:20Z",
+  "url": "https://api.github.com/repos/Issacw0ng/SwipeBackLayout",
+  "watchers": 932,
+  "watchers_count": 932
+}</source>
+  <ssh_url>git@github.com:extralam/SwipeBackLayout.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/extralam/SwipeBackLayout/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/extralam/SwipeBackLayout/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/extralam/SwipeBackLayout/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/extralam/SwipeBackLayout/subscription</subscription_url>
+  <svn_url>https://github.com/extralam/SwipeBackLayout</svn_url>
+  <tags_url>https://api.github.com/repos/extralam/SwipeBackLayout/tags</tags_url>
+  <teams_url>https://api.github.com/repos/extralam/SwipeBackLayout/teams</teams_url>
+  <trees_url>https://api.github.com/repos/extralam/SwipeBackLayout/git/trees{/sha}</trees_url>
+  <updated_at>12/12/2014 3:14:25 AM</updated_at>
+  <url>https://api.github.com/repos/extralam/SwipeBackLayout</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

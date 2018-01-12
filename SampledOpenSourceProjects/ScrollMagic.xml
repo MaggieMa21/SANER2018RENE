@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547f6719bd35436073000b83</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/reggi/ScrollMagic/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/reggi/ScrollMagic/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/reggi/ScrollMagic/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/reggi/ScrollMagic/branches{/branch}</branches_url>
+  <clone_url>https://github.com/reggi/ScrollMagic.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/reggi/ScrollMagic/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/reggi/ScrollMagic/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/reggi/ScrollMagic/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/reggi/ScrollMagic/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/reggi/ScrollMagic/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/reggi/ScrollMagic/contributors</contributors_url>
+  <created_at>12/3/2014 5:52:28 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>The jQuery plugin for magical scroll interactions.</description>
+  <downloads_url>https://api.github.com/repos/reggi/ScrollMagic/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/reggi/ScrollMagic/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/reggi/ScrollMagic/forks</forks_url>
+  <full_name>reggi/ScrollMagic</full_name>
+  <git_commits_url>https://api.github.com/repos/reggi/ScrollMagic/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/reggi/ScrollMagic/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/reggi/ScrollMagic/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/reggi/ScrollMagic.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://janpaepke.github.io/ScrollMagic</homepage>
+  <hooks_url>https://api.github.com/repos/reggi/ScrollMagic/hooks</hooks_url>
+  <html_url>https://github.com/reggi/ScrollMagic</html_url>
+  <id>27499816</id>
+  <issue_comment_url>https://api.github.com/repos/reggi/ScrollMagic/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/reggi/ScrollMagic/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/reggi/ScrollMagic/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/reggi/ScrollMagic/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/reggi/ScrollMagic/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/reggi/ScrollMagic/languages</languages_url>
+  <merges_url>https://api.github.com/repos/reggi/ScrollMagic/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/reggi/ScrollMagic/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>ScrollMagic</name>
+  <network_count>606</network_count>
+  <notifications_url>https://api.github.com/repos/reggi/ScrollMagic/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/296798?v=3</avatar_url>
+    <events_url>https://api.github.com/users/reggi/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/reggi/followers</followers_url>
+    <following_url>https://api.github.com/users/reggi/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/reggi/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/reggi</html_url>
+    <id>296798</id>
+    <login>reggi</login>
+    <organizations_url>https://api.github.com/users/reggi/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/reggi/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/reggi/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/reggi/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/reggi/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/reggi</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/janpaepke/ScrollMagic/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/janpaepke/ScrollMagic/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/janpaepke/ScrollMagic/branches{/branch}",
+  "clone_url": "https://github.com/janpaepke/ScrollMagic.git",
+  "collaborators_url": "https://api.github.com/repos/janpaepke/ScrollMagic/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/janpaepke/ScrollMagic/comments{/number}",
+  "commits_url": "https://api.github.com/repos/janpaepke/ScrollMagic/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/janpaepke/ScrollMagic/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/janpaepke/ScrollMagic/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/janpaepke/ScrollMagic/contributors",
+  "created_at": "2013-09-23T08:08:53Z",
+  "default_branch": "master",
+  "description": "The jQuery plugin for magical scroll interactions.",
+  "downloads_url": "https://api.github.com/repos/janpaepke/ScrollMagic/downloads",
+  "events_url": "https://api.github.com/repos/janpaepke/ScrollMagic/events",
+  "fork": false,
+  "forks": 606,
+  "forks_count": 606,
+  "forks_url": "https://api.github.com/repos/janpaepke/ScrollMagic/forks",
+  "full_name": "janpaepke/ScrollMagic",
+  "git_commits_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/tags{/sha}",
+  "git_url": "git://github.com/janpaepke/ScrollMagic.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://janpaepke.github.io/ScrollMagic",
+  "hooks_url": "https://api.github.com/repos/janpaepke/ScrollMagic/hooks",
+  "html_url": "https://github.com/janpaepke/ScrollMagic",
+  "id": 13030144,
+  "issue_comment_url": "https://api.github.com/repos/janpaepke/ScrollMagic/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/janpaepke/ScrollMagic/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/janpaepke/ScrollMagic/issues{/number}",
+  "keys_url": "https://api.github.com/repos/janpaepke/ScrollMagic/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/janpaepke/ScrollMagic/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/janpaepke/ScrollMagic/languages",
+  "merges_url": "https://api.github.com/repos/janpaepke/ScrollMagic/merges",
+  "milestones_url": "https://api.github.com/repos/janpaepke/ScrollMagic/milestones{/number}",
+  "mirror_url": null,
+  "name": "ScrollMagic",
+  "notifications_url": "https://api.github.com/repos/janpaepke/ScrollMagic/notifications{?since,all,participating}",
+  "open_issues": 3,
+  "open_issues_count": 3,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3076177?v=3",
+    "events_url": "https://api.github.com/users/janpaepke/events{/privacy}",
+    "followers_url": "https://api.github.com/users/janpaepke/followers",
+    "following_url": "https://api.github.com/users/janpaepke/following{/other_user}",
+    "gists_url": "https://api.github.com/users/janpaepke/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/janpaepke",
+    "id": 3076177,
+    "login": "janpaepke",
+    "organizations_url": "https://api.github.com/users/janpaepke/orgs",
+    "received_events_url": "https://api.github.com/users/janpaepke/received_events",
+    "repos_url": "https://api.github.com/users/janpaepke/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/janpaepke/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/janpaepke/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/janpaepke"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/janpaepke/ScrollMagic/pulls{/number}",
+  "pushed_at": "2014-12-03T10:29:45Z",
+  "releases_url": "https://api.github.com/repos/janpaepke/ScrollMagic/releases{/id}",
+  "size": 8616,
+  "ssh_url": "git@github.com:janpaepke/ScrollMagic.git",
+  "stargazers_count": 3853,
+  "stargazers_url": "https://api.github.com/repos/janpaepke/ScrollMagic/stargazers",
+  "statuses_url": "https://api.github.com/repos/janpaepke/ScrollMagic/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/janpaepke/ScrollMagic/subscribers",
+  "subscription_url": "https://api.github.com/repos/janpaepke/ScrollMagic/subscription",
+  "svn_url": "https://github.com/janpaepke/ScrollMagic",
+  "tags_url": "https://api.github.com/repos/janpaepke/ScrollMagic/tags",
+  "teams_url": "https://api.github.com/repos/janpaepke/ScrollMagic/teams",
+  "trees_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/trees{/sha}",
+  "updated_at": "2014-12-03T19:37:33Z",
+  "url": "https://api.github.com/repos/janpaepke/ScrollMagic",
+  "watchers": 3853,
+  "watchers_count": 3853
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/reggi/ScrollMagic/pulls{/number}</pulls_url>
+  <pushed_at>12/3/2014 5:53:32 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/reggi/ScrollMagic/releases{/id}</releases_url>
+  <size>8616</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/janpaepke/ScrollMagic/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/janpaepke/ScrollMagic/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/janpaepke/ScrollMagic/branches{/branch}",
+  "clone_url": "https://github.com/janpaepke/ScrollMagic.git",
+  "collaborators_url": "https://api.github.com/repos/janpaepke/ScrollMagic/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/janpaepke/ScrollMagic/comments{/number}",
+  "commits_url": "https://api.github.com/repos/janpaepke/ScrollMagic/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/janpaepke/ScrollMagic/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/janpaepke/ScrollMagic/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/janpaepke/ScrollMagic/contributors",
+  "created_at": "2013-09-23T08:08:53Z",
+  "default_branch": "master",
+  "description": "The jQuery plugin for magical scroll interactions.",
+  "downloads_url": "https://api.github.com/repos/janpaepke/ScrollMagic/downloads",
+  "events_url": "https://api.github.com/repos/janpaepke/ScrollMagic/events",
+  "fork": false,
+  "forks": 606,
+  "forks_count": 606,
+  "forks_url": "https://api.github.com/repos/janpaepke/ScrollMagic/forks",
+  "full_name": "janpaepke/ScrollMagic",
+  "git_commits_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/tags{/sha}",
+  "git_url": "git://github.com/janpaepke/ScrollMagic.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://janpaepke.github.io/ScrollMagic",
+  "hooks_url": "https://api.github.com/repos/janpaepke/ScrollMagic/hooks",
+  "html_url": "https://github.com/janpaepke/ScrollMagic",
+  "id": 13030144,
+  "issue_comment_url": "https://api.github.com/repos/janpaepke/ScrollMagic/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/janpaepke/ScrollMagic/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/janpaepke/ScrollMagic/issues{/number}",
+  "keys_url": "https://api.github.com/repos/janpaepke/ScrollMagic/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/janpaepke/ScrollMagic/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/janpaepke/ScrollMagic/languages",
+  "merges_url": "https://api.github.com/repos/janpaepke/ScrollMagic/merges",
+  "milestones_url": "https://api.github.com/repos/janpaepke/ScrollMagic/milestones{/number}",
+  "mirror_url": null,
+  "name": "ScrollMagic",
+  "notifications_url": "https://api.github.com/repos/janpaepke/ScrollMagic/notifications{?since,all,participating}",
+  "open_issues": 3,
+  "open_issues_count": 3,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3076177?v=3",
+    "events_url": "https://api.github.com/users/janpaepke/events{/privacy}",
+    "followers_url": "https://api.github.com/users/janpaepke/followers",
+    "following_url": "https://api.github.com/users/janpaepke/following{/other_user}",
+    "gists_url": "https://api.github.com/users/janpaepke/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/janpaepke",
+    "id": 3076177,
+    "login": "janpaepke",
+    "organizations_url": "https://api.github.com/users/janpaepke/orgs",
+    "received_events_url": "https://api.github.com/users/janpaepke/received_events",
+    "repos_url": "https://api.github.com/users/janpaepke/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/janpaepke/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/janpaepke/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/janpaepke"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/janpaepke/ScrollMagic/pulls{/number}",
+  "pushed_at": "2014-12-03T10:29:45Z",
+  "releases_url": "https://api.github.com/repos/janpaepke/ScrollMagic/releases{/id}",
+  "size": 8616,
+  "ssh_url": "git@github.com:janpaepke/ScrollMagic.git",
+  "stargazers_count": 3853,
+  "stargazers_url": "https://api.github.com/repos/janpaepke/ScrollMagic/stargazers",
+  "statuses_url": "https://api.github.com/repos/janpaepke/ScrollMagic/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/janpaepke/ScrollMagic/subscribers",
+  "subscription_url": "https://api.github.com/repos/janpaepke/ScrollMagic/subscription",
+  "svn_url": "https://github.com/janpaepke/ScrollMagic",
+  "tags_url": "https://api.github.com/repos/janpaepke/ScrollMagic/tags",
+  "teams_url": "https://api.github.com/repos/janpaepke/ScrollMagic/teams",
+  "trees_url": "https://api.github.com/repos/janpaepke/ScrollMagic/git/trees{/sha}",
+  "updated_at": "2014-12-03T19:37:33Z",
+  "url": "https://api.github.com/repos/janpaepke/ScrollMagic",
+  "watchers": 3853,
+  "watchers_count": 3853
+}</source>
+  <ssh_url>git@github.com:reggi/ScrollMagic.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/reggi/ScrollMagic/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/reggi/ScrollMagic/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/reggi/ScrollMagic/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/reggi/ScrollMagic/subscription</subscription_url>
+  <svn_url>https://github.com/reggi/ScrollMagic</svn_url>
+  <tags_url>https://api.github.com/repos/reggi/ScrollMagic/tags</tags_url>
+  <teams_url>https://api.github.com/repos/reggi/ScrollMagic/teams</teams_url>
+  <trees_url>https://api.github.com/repos/reggi/ScrollMagic/git/trees{/sha}</trees_url>
+  <updated_at>12/3/2014 5:52:29 PM</updated_at>
+  <url>https://api.github.com/repos/reggi/ScrollMagic</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

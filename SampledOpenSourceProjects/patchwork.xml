@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547d042fbd354317d4009295</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/stevekiss/patchwork/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/stevekiss/patchwork/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/stevekiss/patchwork/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/stevekiss/patchwork/branches{/branch}</branches_url>
+  <clone_url>https://github.com/stevekiss/patchwork.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/stevekiss/patchwork/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/stevekiss/patchwork/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/stevekiss/patchwork/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/stevekiss/patchwork/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/stevekiss/patchwork/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/stevekiss/patchwork/contributors</contributors_url>
+  <created_at>12/1/2014 12:51:44 AM</created_at>
+  <default_branch>gh-pages</default_branch>
+  <description>All the Git-it Workshop completers! </description>
+  <downloads_url>https://api.github.com/repos/stevekiss/patchwork/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/stevekiss/patchwork/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/stevekiss/patchwork/forks</forks_url>
+  <full_name>stevekiss/patchwork</full_name>
+  <git_commits_url>https://api.github.com/repos/stevekiss/patchwork/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/stevekiss/patchwork/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/stevekiss/patchwork/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/stevekiss/patchwork.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://jlord.github.io/patchwork</homepage>
+  <hooks_url>https://api.github.com/repos/stevekiss/patchwork/hooks</hooks_url>
+  <html_url>https://github.com/stevekiss/patchwork</html_url>
+  <id>27356177</id>
+  <issue_comment_url>https://api.github.com/repos/stevekiss/patchwork/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/stevekiss/patchwork/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/stevekiss/patchwork/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/stevekiss/patchwork/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/stevekiss/patchwork/labels{/name}</labels_url>
+  <language>CSS</language>
+  <languages_url>https://api.github.com/repos/stevekiss/patchwork/languages</languages_url>
+  <merges_url>https://api.github.com/repos/stevekiss/patchwork/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/stevekiss/patchwork/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>patchwork</name>
+  <network_count>1361</network_count>
+  <notifications_url>https://api.github.com/repos/stevekiss/patchwork/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/9097146?v=3</avatar_url>
+    <events_url>https://api.github.com/users/stevekiss/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/stevekiss/followers</followers_url>
+    <following_url>https://api.github.com/users/stevekiss/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/stevekiss/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/stevekiss</html_url>
+    <id>9097146</id>
+    <login>stevekiss</login>
+    <organizations_url>https://api.github.com/users/stevekiss/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/stevekiss/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/stevekiss/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/stevekiss/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/stevekiss/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/stevekiss</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/jlord/patchwork/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/jlord/patchwork/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/jlord/patchwork/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/jlord/patchwork/branches{/branch}",
+  "clone_url": "https://github.com/jlord/patchwork.git",
+  "collaborators_url": "https://api.github.com/repos/jlord/patchwork/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/jlord/patchwork/comments{/number}",
+  "commits_url": "https://api.github.com/repos/jlord/patchwork/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/jlord/patchwork/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/jlord/patchwork/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/jlord/patchwork/contributors",
+  "created_at": "2014-01-10T00:00:11Z",
+  "default_branch": "gh-pages",
+  "description": "All the Git-it Workshop completers! ",
+  "downloads_url": "https://api.github.com/repos/jlord/patchwork/downloads",
+  "events_url": "https://api.github.com/repos/jlord/patchwork/events",
+  "fork": false,
+  "forks": 1361,
+  "forks_count": 1361,
+  "forks_url": "https://api.github.com/repos/jlord/patchwork/forks",
+  "full_name": "jlord/patchwork",
+  "git_commits_url": "https://api.github.com/repos/jlord/patchwork/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jlord/patchwork/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jlord/patchwork/git/tags{/sha}",
+  "git_url": "git://github.com/jlord/patchwork.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://jlord.github.io/patchwork",
+  "hooks_url": "https://api.github.com/repos/jlord/patchwork/hooks",
+  "html_url": "https://github.com/jlord/patchwork",
+  "id": 15783450,
+  "issue_comment_url": "https://api.github.com/repos/jlord/patchwork/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/jlord/patchwork/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/jlord/patchwork/issues{/number}",
+  "keys_url": "https://api.github.com/repos/jlord/patchwork/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/jlord/patchwork/labels{/name}",
+  "language": "CSS",
+  "languages_url": "https://api.github.com/repos/jlord/patchwork/languages",
+  "merges_url": "https://api.github.com/repos/jlord/patchwork/merges",
+  "milestones_url": "https://api.github.com/repos/jlord/patchwork/milestones{/number}",
+  "mirror_url": null,
+  "name": "patchwork",
+  "notifications_url": "https://api.github.com/repos/jlord/patchwork/notifications{?since,all,participating}",
+  "open_issues": 28,
+  "open_issues_count": 28,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1305617?v=3",
+    "events_url": "https://api.github.com/users/jlord/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jlord/followers",
+    "following_url": "https://api.github.com/users/jlord/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jlord/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jlord",
+    "id": 1305617,
+    "login": "jlord",
+    "organizations_url": "https://api.github.com/users/jlord/orgs",
+    "received_events_url": "https://api.github.com/users/jlord/received_events",
+    "repos_url": "https://api.github.com/users/jlord/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/jlord/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jlord/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jlord"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/jlord/patchwork/pulls{/number}",
+  "pushed_at": "2014-12-01T23:50:45Z",
+  "releases_url": "https://api.github.com/repos/jlord/patchwork/releases{/id}",
+  "size": 35567,
+  "ssh_url": "git@github.com:jlord/patchwork.git",
+  "stargazers_count": 38,
+  "stargazers_url": "https://api.github.com/repos/jlord/patchwork/stargazers",
+  "statuses_url": "https://api.github.com/repos/jlord/patchwork/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/jlord/patchwork/subscribers",
+  "subscription_url": "https://api.github.com/repos/jlord/patchwork/subscription",
+  "svn_url": "https://github.com/jlord/patchwork",
+  "tags_url": "https://api.github.com/repos/jlord/patchwork/tags",
+  "teams_url": "https://api.github.com/repos/jlord/patchwork/teams",
+  "trees_url": "https://api.github.com/repos/jlord/patchwork/git/trees{/sha}",
+  "updated_at": "2014-12-01T23:50:45Z",
+  "url": "https://api.github.com/repos/jlord/patchwork",
+  "watchers": 38,
+  "watchers_count": 38
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/stevekiss/patchwork/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 12:12:14 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/stevekiss/patchwork/releases{/id}</releases_url>
+  <size>10982</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/jlord/patchwork/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/jlord/patchwork/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/jlord/patchwork/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/jlord/patchwork/branches{/branch}",
+  "clone_url": "https://github.com/jlord/patchwork.git",
+  "collaborators_url": "https://api.github.com/repos/jlord/patchwork/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/jlord/patchwork/comments{/number}",
+  "commits_url": "https://api.github.com/repos/jlord/patchwork/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/jlord/patchwork/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/jlord/patchwork/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/jlord/patchwork/contributors",
+  "created_at": "2014-01-10T00:00:11Z",
+  "default_branch": "gh-pages",
+  "description": "All the Git-it Workshop completers! ",
+  "downloads_url": "https://api.github.com/repos/jlord/patchwork/downloads",
+  "events_url": "https://api.github.com/repos/jlord/patchwork/events",
+  "fork": false,
+  "forks": 1361,
+  "forks_count": 1361,
+  "forks_url": "https://api.github.com/repos/jlord/patchwork/forks",
+  "full_name": "jlord/patchwork",
+  "git_commits_url": "https://api.github.com/repos/jlord/patchwork/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/jlord/patchwork/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/jlord/patchwork/git/tags{/sha}",
+  "git_url": "git://github.com/jlord/patchwork.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://jlord.github.io/patchwork",
+  "hooks_url": "https://api.github.com/repos/jlord/patchwork/hooks",
+  "html_url": "https://github.com/jlord/patchwork",
+  "id": 15783450,
+  "issue_comment_url": "https://api.github.com/repos/jlord/patchwork/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/jlord/patchwork/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/jlord/patchwork/issues{/number}",
+  "keys_url": "https://api.github.com/repos/jlord/patchwork/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/jlord/patchwork/labels{/name}",
+  "language": "CSS",
+  "languages_url": "https://api.github.com/repos/jlord/patchwork/languages",
+  "merges_url": "https://api.github.com/repos/jlord/patchwork/merges",
+  "milestones_url": "https://api.github.com/repos/jlord/patchwork/milestones{/number}",
+  "mirror_url": null,
+  "name": "patchwork",
+  "notifications_url": "https://api.github.com/repos/jlord/patchwork/notifications{?since,all,participating}",
+  "open_issues": 28,
+  "open_issues_count": 28,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1305617?v=3",
+    "events_url": "https://api.github.com/users/jlord/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jlord/followers",
+    "following_url": "https://api.github.com/users/jlord/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jlord/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jlord",
+    "id": 1305617,
+    "login": "jlord",
+    "organizations_url": "https://api.github.com/users/jlord/orgs",
+    "received_events_url": "https://api.github.com/users/jlord/received_events",
+    "repos_url": "https://api.github.com/users/jlord/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/jlord/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jlord/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jlord"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/jlord/patchwork/pulls{/number}",
+  "pushed_at": "2014-12-01T23:50:45Z",
+  "releases_url": "https://api.github.com/repos/jlord/patchwork/releases{/id}",
+  "size": 35567,
+  "ssh_url": "git@github.com:jlord/patchwork.git",
+  "stargazers_count": 38,
+  "stargazers_url": "https://api.github.com/repos/jlord/patchwork/stargazers",
+  "statuses_url": "https://api.github.com/repos/jlord/patchwork/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/jlord/patchwork/subscribers",
+  "subscription_url": "https://api.github.com/repos/jlord/patchwork/subscription",
+  "svn_url": "https://github.com/jlord/patchwork",
+  "tags_url": "https://api.github.com/repos/jlord/patchwork/tags",
+  "teams_url": "https://api.github.com/repos/jlord/patchwork/teams",
+  "trees_url": "https://api.github.com/repos/jlord/patchwork/git/trees{/sha}",
+  "updated_at": "2014-12-01T23:50:45Z",
+  "url": "https://api.github.com/repos/jlord/patchwork",
+  "watchers": 38,
+  "watchers_count": 38
+}</source>
+  <ssh_url>git@github.com:stevekiss/patchwork.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/stevekiss/patchwork/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/stevekiss/patchwork/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/stevekiss/patchwork/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/stevekiss/patchwork/subscription</subscription_url>
+  <svn_url>https://github.com/stevekiss/patchwork</svn_url>
+  <tags_url>https://api.github.com/repos/stevekiss/patchwork/tags</tags_url>
+  <teams_url>https://api.github.com/repos/stevekiss/patchwork/teams</teams_url>
+  <trees_url>https://api.github.com/repos/stevekiss/patchwork/git/trees{/sha}</trees_url>
+  <updated_at>12/1/2014 12:51:46 AM</updated_at>
+  <url>https://api.github.com/repos/stevekiss/patchwork</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

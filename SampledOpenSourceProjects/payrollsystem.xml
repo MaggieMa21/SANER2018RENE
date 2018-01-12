@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548dc2c5bd35431927016491</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/TeamFF0000/payrollsystem/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/TeamFF0000/payrollsystem/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/TeamFF0000/payrollsystem/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/TeamFF0000/payrollsystem/branches{/branch}</branches_url>
+  <clone_url>https://github.com/TeamFF0000/payrollsystem.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/TeamFF0000/payrollsystem/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/TeamFF0000/payrollsystem/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/TeamFF0000/payrollsystem/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/TeamFF0000/payrollsystem/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/TeamFF0000/payrollsystem/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/TeamFF0000/payrollsystem/contributors</contributors_url>
+  <created_at>11/30/2014 2:41:50 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Term Project</description>
+  <downloads_url>https://api.github.com/repos/TeamFF0000/payrollsystem/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/TeamFF0000/payrollsystem/events</events_url>
+  <fork>False</fork>
+  <forks>1</forks>
+  <forks_count>1</forks_count>
+  <forks_url>https://api.github.com/repos/TeamFF0000/payrollsystem/forks</forks_url>
+  <full_name>TeamFF0000/payrollsystem</full_name>
+  <git_commits_url>https://api.github.com/repos/TeamFF0000/payrollsystem/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/TeamFF0000/payrollsystem/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/TeamFF0000/payrollsystem/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/TeamFF0000/payrollsystem.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://teamff0000.github.io/payrollsystem/</homepage>
+  <hooks_url>https://api.github.com/repos/TeamFF0000/payrollsystem/hooks</hooks_url>
+  <html_url>https://github.com/TeamFF0000/payrollsystem</html_url>
+  <id>27338832</id>
+  <issue_comment_url>https://api.github.com/repos/TeamFF0000/payrollsystem/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/TeamFF0000/payrollsystem/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/TeamFF0000/payrollsystem/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/TeamFF0000/payrollsystem/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/TeamFF0000/payrollsystem/labels{/name}</labels_url>
+  <language>Visual Basic</language>
+  <languages_url>https://api.github.com/repos/TeamFF0000/payrollsystem/languages</languages_url>
+  <merges_url>https://api.github.com/repos/TeamFF0000/payrollsystem/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/TeamFF0000/payrollsystem/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>payrollsystem</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/TeamFF0000/payrollsystem/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/10014611?v=3",
+  "events_url": "https://api.github.com/users/TeamFF0000/events{/privacy}",
+  "followers_url": "https://api.github.com/users/TeamFF0000/followers",
+  "following_url": "https://api.github.com/users/TeamFF0000/following{/other_user}",
+  "gists_url": "https://api.github.com/users/TeamFF0000/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/TeamFF0000",
+  "id": 10014611,
+  "login": "TeamFF0000",
+  "organizations_url": "https://api.github.com/users/TeamFF0000/orgs",
+  "received_events_url": "https://api.github.com/users/TeamFF0000/received_events",
+  "repos_url": "https://api.github.com/users/TeamFF0000/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/TeamFF0000/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/TeamFF0000/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/TeamFF0000"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/10014611?v=3</avatar_url>
+    <events_url>https://api.github.com/users/TeamFF0000/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/TeamFF0000/followers</followers_url>
+    <following_url>https://api.github.com/users/TeamFF0000/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/TeamFF0000/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/TeamFF0000</html_url>
+    <id>10014611</id>
+    <login>TeamFF0000</login>
+    <organizations_url>https://api.github.com/users/TeamFF0000/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/TeamFF0000/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/TeamFF0000/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/TeamFF0000/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/TeamFF0000/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/TeamFF0000</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/TeamFF0000/payrollsystem/pulls{/number}</pulls_url>
+  <pushed_at>12/12/2014 2:30:53 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/TeamFF0000/payrollsystem/releases{/id}</releases_url>
+  <size>2053</size>
+  <ssh_url>git@github.com:TeamFF0000/payrollsystem.git</ssh_url>
+  <stargazers_count>1</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/TeamFF0000/payrollsystem/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/TeamFF0000/payrollsystem/statuses/{sha}</statuses_url>
+  <subscribers_count>3</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/TeamFF0000/payrollsystem/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/TeamFF0000/payrollsystem/subscription</subscription_url>
+  <svn_url>https://github.com/TeamFF0000/payrollsystem</svn_url>
+  <tags_url>https://api.github.com/repos/TeamFF0000/payrollsystem/tags</tags_url>
+  <teams_url>https://api.github.com/repos/TeamFF0000/payrollsystem/teams</teams_url>
+  <trees_url>https://api.github.com/repos/TeamFF0000/payrollsystem/git/trees{/sha}</trees_url>
+  <updated_at>12/12/2014 2:30:53 PM</updated_at>
+  <url>https://api.github.com/repos/TeamFF0000/payrollsystem</url>
+  <watchers>1</watchers>
+  <watchers_count>1</watchers_count>
+</Properties>

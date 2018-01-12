@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547c5445bd35431767006137</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/thelia-modules/Be2Bill/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/thelia-modules/Be2Bill/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/thelia-modules/Be2Bill/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/thelia-modules/Be2Bill/branches{/branch}</branches_url>
+  <clone_url>https://github.com/thelia-modules/Be2Bill.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/thelia-modules/Be2Bill/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/thelia-modules/Be2Bill/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/thelia-modules/Be2Bill/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/thelia-modules/Be2Bill/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/thelia-modules/Be2Bill/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/thelia-modules/Be2Bill/contributors</contributors_url>
+  <created_at>11/5/2014 3:22:26 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Be2bill payment gateway for Thelia</description>
+  <downloads_url>https://api.github.com/repos/thelia-modules/Be2Bill/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/thelia-modules/Be2Bill/events</events_url>
+  <fork>False</fork>
+  <forks>2</forks>
+  <forks_count>2</forks_count>
+  <forks_url>https://api.github.com/repos/thelia-modules/Be2Bill/forks</forks_url>
+  <full_name>thelia-modules/Be2Bill</full_name>
+  <git_commits_url>https://api.github.com/repos/thelia-modules/Be2Bill/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/thelia-modules/Be2Bill/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/thelia-modules/Be2Bill/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/thelia-modules/Be2Bill.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/thelia-modules/Be2Bill/hooks</hooks_url>
+  <html_url>https://github.com/thelia-modules/Be2Bill</html_url>
+  <id>26225487</id>
+  <issue_comment_url>https://api.github.com/repos/thelia-modules/Be2Bill/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/thelia-modules/Be2Bill/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/thelia-modules/Be2Bill/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/thelia-modules/Be2Bill/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/thelia-modules/Be2Bill/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/thelia-modules/Be2Bill/languages</languages_url>
+  <merges_url>https://api.github.com/repos/thelia-modules/Be2Bill/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/thelia-modules/Be2Bill/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>Be2Bill</name>
+  <network_count>2</network_count>
+  <notifications_url>https://api.github.com/repos/thelia-modules/Be2Bill/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/6458845?v=3",
+  "events_url": "https://api.github.com/users/thelia-modules/events{/privacy}",
+  "followers_url": "https://api.github.com/users/thelia-modules/followers",
+  "following_url": "https://api.github.com/users/thelia-modules/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thelia-modules/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/thelia-modules",
+  "id": 6458845,
+  "login": "thelia-modules",
+  "organizations_url": "https://api.github.com/users/thelia-modules/orgs",
+  "received_events_url": "https://api.github.com/users/thelia-modules/received_events",
+  "repos_url": "https://api.github.com/users/thelia-modules/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/thelia-modules/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thelia-modules/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/thelia-modules"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/6458845?v=3</avatar_url>
+    <events_url>https://api.github.com/users/thelia-modules/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/thelia-modules/followers</followers_url>
+    <following_url>https://api.github.com/users/thelia-modules/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/thelia-modules/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/thelia-modules</html_url>
+    <id>6458845</id>
+    <login>thelia-modules</login>
+    <organizations_url>https://api.github.com/users/thelia-modules/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/thelia-modules/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/thelia-modules/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/thelia-modules/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/thelia-modules/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/thelia-modules</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/thelia-modules/Be2Bill/pulls{/number}</pulls_url>
+  <pushed_at>11/5/2014 3:24:39 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/thelia-modules/Be2Bill/releases{/id}</releases_url>
+  <size>174</size>
+  <ssh_url>git@github.com:thelia-modules/Be2Bill.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/thelia-modules/Be2Bill/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/thelia-modules/Be2Bill/statuses/{sha}</statuses_url>
+  <subscribers_count>2</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/thelia-modules/Be2Bill/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/thelia-modules/Be2Bill/subscription</subscription_url>
+  <svn_url>https://github.com/thelia-modules/Be2Bill</svn_url>
+  <tags_url>https://api.github.com/repos/thelia-modules/Be2Bill/tags</tags_url>
+  <teams_url>https://api.github.com/repos/thelia-modules/Be2Bill/teams</teams_url>
+  <trees_url>https://api.github.com/repos/thelia-modules/Be2Bill/git/trees{/sha}</trees_url>
+  <updated_at>11/5/2014 3:25:18 PM</updated_at>
+  <url>https://api.github.com/repos/thelia-modules/Be2Bill</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

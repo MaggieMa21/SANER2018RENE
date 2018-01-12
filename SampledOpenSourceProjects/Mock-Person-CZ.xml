@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547de1ccbd35431644008c81</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/branches{/branch}</branches_url>
+  <clone_url>https://github.com/Manwar/Mock-Person-CZ.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/contributors</contributors_url>
+  <created_at>12/2/2014 2:28:12 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Generate random sets of Czech names.</description>
+  <downloads_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/forks</forks_url>
+  <full_name>Manwar/Mock-Person-CZ</full_name>
+  <git_commits_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/Manwar/Mock-Person-CZ.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/hooks</hooks_url>
+  <html_url>https://github.com/Manwar/Mock-Person-CZ</html_url>
+  <id>27436066</id>
+  <issue_comment_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/labels{/name}</labels_url>
+  <language>Perl</language>
+  <languages_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/languages</languages_url>
+  <merges_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>Mock-Person-CZ</name>
+  <network_count>1</network_count>
+  <notifications_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/681195?v=3</avatar_url>
+    <events_url>https://api.github.com/users/Manwar/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/Manwar/followers</followers_url>
+    <following_url>https://api.github.com/users/Manwar/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/Manwar/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/Manwar</html_url>
+    <id>681195</id>
+    <login>Manwar</login>
+    <organizations_url>https://api.github.com/users/Manwar/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/Manwar/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/Manwar/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/Manwar/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/Manwar/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/Manwar</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/branches{/branch}",
+  "clone_url": "https://github.com/tupinek/Mock-Person-CZ.git",
+  "collaborators_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/comments{/number}",
+  "commits_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/contributors",
+  "created_at": "2013-07-26T07:03:52Z",
+  "default_branch": "master",
+  "description": "Generate random sets of Czech names.",
+  "downloads_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/downloads",
+  "events_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/forks",
+  "full_name": "tupinek/Mock-Person-CZ",
+  "git_commits_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/tags{/sha}",
+  "git_url": "git://github.com/tupinek/Mock-Person-CZ.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/hooks",
+  "html_url": "https://github.com/tupinek/Mock-Person-CZ",
+  "id": 11679784,
+  "issue_comment_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/issues{/number}",
+  "keys_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/labels{/name}",
+  "language": "Perl",
+  "languages_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/languages",
+  "merges_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/merges",
+  "milestones_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/milestones{/number}",
+  "mirror_url": null,
+  "name": "Mock-Person-CZ",
+  "notifications_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/746282?v=3",
+    "events_url": "https://api.github.com/users/tupinek/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tupinek/followers",
+    "following_url": "https://api.github.com/users/tupinek/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tupinek/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tupinek",
+    "id": 746282,
+    "login": "tupinek",
+    "organizations_url": "https://api.github.com/users/tupinek/orgs",
+    "received_events_url": "https://api.github.com/users/tupinek/received_events",
+    "repos_url": "https://api.github.com/users/tupinek/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tupinek/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tupinek/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tupinek"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/pulls{/number}",
+  "pushed_at": "2014-08-28T23:49:06Z",
+  "releases_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/releases{/id}",
+  "size": 248,
+  "ssh_url": "git@github.com:tupinek/Mock-Person-CZ.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/stargazers",
+  "statuses_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/subscribers",
+  "subscription_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/subscription",
+  "svn_url": "https://github.com/tupinek/Mock-Person-CZ",
+  "tags_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/tags",
+  "teams_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/teams",
+  "trees_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/trees{/sha}",
+  "updated_at": "2014-09-09T12:58:31Z",
+  "url": "https://api.github.com/repos/tupinek/Mock-Person-CZ",
+  "watchers": 1,
+  "watchers_count": 1
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 3:23:50 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/releases{/id}</releases_url>
+  <size>124</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/branches{/branch}",
+  "clone_url": "https://github.com/tupinek/Mock-Person-CZ.git",
+  "collaborators_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/comments{/number}",
+  "commits_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/contributors",
+  "created_at": "2013-07-26T07:03:52Z",
+  "default_branch": "master",
+  "description": "Generate random sets of Czech names.",
+  "downloads_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/downloads",
+  "events_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/events",
+  "fork": false,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/forks",
+  "full_name": "tupinek/Mock-Person-CZ",
+  "git_commits_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/tags{/sha}",
+  "git_url": "git://github.com/tupinek/Mock-Person-CZ.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/hooks",
+  "html_url": "https://github.com/tupinek/Mock-Person-CZ",
+  "id": 11679784,
+  "issue_comment_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/issues{/number}",
+  "keys_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/labels{/name}",
+  "language": "Perl",
+  "languages_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/languages",
+  "merges_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/merges",
+  "milestones_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/milestones{/number}",
+  "mirror_url": null,
+  "name": "Mock-Person-CZ",
+  "notifications_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/746282?v=3",
+    "events_url": "https://api.github.com/users/tupinek/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tupinek/followers",
+    "following_url": "https://api.github.com/users/tupinek/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tupinek/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tupinek",
+    "id": 746282,
+    "login": "tupinek",
+    "organizations_url": "https://api.github.com/users/tupinek/orgs",
+    "received_events_url": "https://api.github.com/users/tupinek/received_events",
+    "repos_url": "https://api.github.com/users/tupinek/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tupinek/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tupinek/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tupinek"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/pulls{/number}",
+  "pushed_at": "2014-08-28T23:49:06Z",
+  "releases_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/releases{/id}",
+  "size": 248,
+  "ssh_url": "git@github.com:tupinek/Mock-Person-CZ.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/stargazers",
+  "statuses_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/subscribers",
+  "subscription_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/subscription",
+  "svn_url": "https://github.com/tupinek/Mock-Person-CZ",
+  "tags_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/tags",
+  "teams_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/teams",
+  "trees_url": "https://api.github.com/repos/tupinek/Mock-Person-CZ/git/trees{/sha}",
+  "updated_at": "2014-09-09T12:58:31Z",
+  "url": "https://api.github.com/repos/tupinek/Mock-Person-CZ",
+  "watchers": 1,
+  "watchers_count": 1
+}</source>
+  <ssh_url>git@github.com:Manwar/Mock-Person-CZ.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/subscription</subscription_url>
+  <svn_url>https://github.com/Manwar/Mock-Person-CZ</svn_url>
+  <tags_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/tags</tags_url>
+  <teams_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/teams</teams_url>
+  <trees_url>https://api.github.com/repos/Manwar/Mock-Person-CZ/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 2:28:13 PM</updated_at>
+  <url>https://api.github.com/repos/Manwar/Mock-Person-CZ</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d80d8bd35430a19013382</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/gardym/ansible-piwik/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/gardym/ansible-piwik/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/gardym/ansible-piwik/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/gardym/ansible-piwik/branches{/branch}</branches_url>
+  <clone_url>https://github.com/gardym/ansible-piwik.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/gardym/ansible-piwik/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/gardym/ansible-piwik/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/gardym/ansible-piwik/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/gardym/ansible-piwik/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/gardym/ansible-piwik/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/gardym/ansible-piwik/contributors</contributors_url>
+  <created_at>11/28/2014 1:31:44 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Ansible role: Piwik</description>
+  <downloads_url>https://api.github.com/repos/gardym/ansible-piwik/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/gardym/ansible-piwik/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/gardym/ansible-piwik/forks</forks_url>
+  <full_name>gardym/ansible-piwik</full_name>
+  <git_commits_url>https://api.github.com/repos/gardym/ansible-piwik/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/gardym/ansible-piwik/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/gardym/ansible-piwik/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/gardym/ansible-piwik.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/gardym/ansible-piwik/hooks</hooks_url>
+  <html_url>https://github.com/gardym/ansible-piwik</html_url>
+  <id>27268226</id>
+  <issue_comment_url>https://api.github.com/repos/gardym/ansible-piwik/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/gardym/ansible-piwik/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/gardym/ansible-piwik/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/gardym/ansible-piwik/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/gardym/ansible-piwik/labels{/name}</labels_url>
+  <language>
+  </language>
+  <languages_url>https://api.github.com/repos/gardym/ansible-piwik/languages</languages_url>
+  <merges_url>https://api.github.com/repos/gardym/ansible-piwik/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/gardym/ansible-piwik/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>ansible-piwik</name>
+  <network_count>7</network_count>
+  <notifications_url>https://api.github.com/repos/gardym/ansible-piwik/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/129358?v=3</avatar_url>
+    <events_url>https://api.github.com/users/gardym/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/gardym/followers</followers_url>
+    <following_url>https://api.github.com/users/gardym/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/gardym/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/gardym</html_url>
+    <id>129358</id>
+    <login>gardym</login>
+    <organizations_url>https://api.github.com/users/gardym/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/gardym/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/gardym/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/gardym/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/gardym/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/gardym</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/ICTO/ansible-piwik/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ICTO/ansible-piwik/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ICTO/ansible-piwik/branches{/branch}",
+  "clone_url": "https://github.com/ICTO/ansible-piwik.git",
+  "collaborators_url": "https://api.github.com/repos/ICTO/ansible-piwik/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ICTO/ansible-piwik/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ICTO/ansible-piwik/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ICTO/ansible-piwik/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ICTO/ansible-piwik/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ICTO/ansible-piwik/contributors",
+  "created_at": "2014-01-16T12:10:17Z",
+  "default_branch": "master",
+  "description": "Ansible role: Piwik",
+  "downloads_url": "https://api.github.com/repos/ICTO/ansible-piwik/downloads",
+  "events_url": "https://api.github.com/repos/ICTO/ansible-piwik/events",
+  "fork": false,
+  "forks": 7,
+  "forks_count": 7,
+  "forks_url": "https://api.github.com/repos/ICTO/ansible-piwik/forks",
+  "full_name": "ICTO/ansible-piwik",
+  "git_commits_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/tags{/sha}",
+  "git_url": "git://github.com/ICTO/ansible-piwik.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/ICTO/ansible-piwik/hooks",
+  "html_url": "https://github.com/ICTO/ansible-piwik",
+  "id": 15966805,
+  "issue_comment_url": "https://api.github.com/repos/ICTO/ansible-piwik/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ICTO/ansible-piwik/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ICTO/ansible-piwik/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ICTO/ansible-piwik/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ICTO/ansible-piwik/labels{/name}",
+  "language": null,
+  "languages_url": "https://api.github.com/repos/ICTO/ansible-piwik/languages",
+  "merges_url": "https://api.github.com/repos/ICTO/ansible-piwik/merges",
+  "milestones_url": "https://api.github.com/repos/ICTO/ansible-piwik/milestones{/number}",
+  "mirror_url": null,
+  "name": "ansible-piwik",
+  "notifications_url": "https://api.github.com/repos/ICTO/ansible-piwik/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2631750?v=3",
+    "events_url": "https://api.github.com/users/ICTO/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ICTO/followers",
+    "following_url": "https://api.github.com/users/ICTO/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ICTO/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ICTO",
+    "id": 2631750,
+    "login": "ICTO",
+    "organizations_url": "https://api.github.com/users/ICTO/orgs",
+    "received_events_url": "https://api.github.com/users/ICTO/received_events",
+    "repos_url": "https://api.github.com/users/ICTO/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ICTO/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ICTO/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/ICTO"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ICTO/ansible-piwik/pulls{/number}",
+  "pushed_at": "2014-12-03T09:02:31Z",
+  "releases_url": "https://api.github.com/repos/ICTO/ansible-piwik/releases{/id}",
+  "size": 159,
+  "ssh_url": "git@github.com:ICTO/ansible-piwik.git",
+  "stargazers_count": 5,
+  "stargazers_url": "https://api.github.com/repos/ICTO/ansible-piwik/stargazers",
+  "statuses_url": "https://api.github.com/repos/ICTO/ansible-piwik/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ICTO/ansible-piwik/subscribers",
+  "subscription_url": "https://api.github.com/repos/ICTO/ansible-piwik/subscription",
+  "svn_url": "https://github.com/ICTO/ansible-piwik",
+  "tags_url": "https://api.github.com/repos/ICTO/ansible-piwik/tags",
+  "teams_url": "https://api.github.com/repos/ICTO/ansible-piwik/teams",
+  "trees_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/trees{/sha}",
+  "updated_at": "2014-12-08T17:09:43Z",
+  "url": "https://api.github.com/repos/ICTO/ansible-piwik",
+  "watchers": 5,
+  "watchers_count": 5
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/gardym/ansible-piwik/pulls{/number}</pulls_url>
+  <pushed_at>11/28/2014 3:04:39 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/gardym/ansible-piwik/releases{/id}</releases_url>
+  <size>112</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/ICTO/ansible-piwik/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ICTO/ansible-piwik/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ICTO/ansible-piwik/branches{/branch}",
+  "clone_url": "https://github.com/ICTO/ansible-piwik.git",
+  "collaborators_url": "https://api.github.com/repos/ICTO/ansible-piwik/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ICTO/ansible-piwik/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ICTO/ansible-piwik/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ICTO/ansible-piwik/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ICTO/ansible-piwik/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ICTO/ansible-piwik/contributors",
+  "created_at": "2014-01-16T12:10:17Z",
+  "default_branch": "master",
+  "description": "Ansible role: Piwik",
+  "downloads_url": "https://api.github.com/repos/ICTO/ansible-piwik/downloads",
+  "events_url": "https://api.github.com/repos/ICTO/ansible-piwik/events",
+  "fork": false,
+  "forks": 7,
+  "forks_count": 7,
+  "forks_url": "https://api.github.com/repos/ICTO/ansible-piwik/forks",
+  "full_name": "ICTO/ansible-piwik",
+  "git_commits_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/tags{/sha}",
+  "git_url": "git://github.com/ICTO/ansible-piwik.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/ICTO/ansible-piwik/hooks",
+  "html_url": "https://github.com/ICTO/ansible-piwik",
+  "id": 15966805,
+  "issue_comment_url": "https://api.github.com/repos/ICTO/ansible-piwik/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ICTO/ansible-piwik/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ICTO/ansible-piwik/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ICTO/ansible-piwik/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ICTO/ansible-piwik/labels{/name}",
+  "language": null,
+  "languages_url": "https://api.github.com/repos/ICTO/ansible-piwik/languages",
+  "merges_url": "https://api.github.com/repos/ICTO/ansible-piwik/merges",
+  "milestones_url": "https://api.github.com/repos/ICTO/ansible-piwik/milestones{/number}",
+  "mirror_url": null,
+  "name": "ansible-piwik",
+  "notifications_url": "https://api.github.com/repos/ICTO/ansible-piwik/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2631750?v=3",
+    "events_url": "https://api.github.com/users/ICTO/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ICTO/followers",
+    "following_url": "https://api.github.com/users/ICTO/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ICTO/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ICTO",
+    "id": 2631750,
+    "login": "ICTO",
+    "organizations_url": "https://api.github.com/users/ICTO/orgs",
+    "received_events_url": "https://api.github.com/users/ICTO/received_events",
+    "repos_url": "https://api.github.com/users/ICTO/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ICTO/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ICTO/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/ICTO"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ICTO/ansible-piwik/pulls{/number}",
+  "pushed_at": "2014-12-03T09:02:31Z",
+  "releases_url": "https://api.github.com/repos/ICTO/ansible-piwik/releases{/id}",
+  "size": 159,
+  "ssh_url": "git@github.com:ICTO/ansible-piwik.git",
+  "stargazers_count": 5,
+  "stargazers_url": "https://api.github.com/repos/ICTO/ansible-piwik/stargazers",
+  "statuses_url": "https://api.github.com/repos/ICTO/ansible-piwik/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ICTO/ansible-piwik/subscribers",
+  "subscription_url": "https://api.github.com/repos/ICTO/ansible-piwik/subscription",
+  "svn_url": "https://github.com/ICTO/ansible-piwik",
+  "tags_url": "https://api.github.com/repos/ICTO/ansible-piwik/tags",
+  "teams_url": "https://api.github.com/repos/ICTO/ansible-piwik/teams",
+  "trees_url": "https://api.github.com/repos/ICTO/ansible-piwik/git/trees{/sha}",
+  "updated_at": "2014-12-08T17:09:43Z",
+  "url": "https://api.github.com/repos/ICTO/ansible-piwik",
+  "watchers": 5,
+  "watchers_count": 5
+}</source>
+  <ssh_url>git@github.com:gardym/ansible-piwik.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/gardym/ansible-piwik/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/gardym/ansible-piwik/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/gardym/ansible-piwik/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/gardym/ansible-piwik/subscription</subscription_url>
+  <svn_url>https://github.com/gardym/ansible-piwik</svn_url>
+  <tags_url>https://api.github.com/repos/gardym/ansible-piwik/tags</tags_url>
+  <teams_url>https://api.github.com/repos/gardym/ansible-piwik/teams</teams_url>
+  <trees_url>https://api.github.com/repos/gardym/ansible-piwik/git/trees{/sha}</trees_url>
+  <updated_at>11/15/2014 7:21:42 PM</updated_at>
+  <url>https://api.github.com/repos/gardym/ansible-piwik</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

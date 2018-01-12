@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d8eeabd3543169a0145df</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/levishi/backbone-fundamentals/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/levishi/backbone-fundamentals/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/levishi/backbone-fundamentals/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/levishi/backbone-fundamentals/branches{/branch}</branches_url>
+  <clone_url>https://github.com/levishi/backbone-fundamentals.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/levishi/backbone-fundamentals/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/levishi/backbone-fundamentals/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/levishi/backbone-fundamentals/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/levishi/backbone-fundamentals/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/levishi/backbone-fundamentals/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/levishi/backbone-fundamentals/contributors</contributors_url>
+  <created_at>12/14/2014 1:21:41 PM</created_at>
+  <default_branch>gh-pages</default_branch>
+  <description>A creative-commons book on Backbone.js for beginners and advanced users alike</description>
+  <downloads_url>https://api.github.com/repos/levishi/backbone-fundamentals/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/levishi/backbone-fundamentals/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/levishi/backbone-fundamentals/forks</forks_url>
+  <full_name>levishi/backbone-fundamentals</full_name>
+  <git_commits_url>https://api.github.com/repos/levishi/backbone-fundamentals/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/levishi/backbone-fundamentals/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/levishi/backbone-fundamentals/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/levishi/backbone-fundamentals.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://addyosmani.github.io/backbone-fundamentals/</homepage>
+  <hooks_url>https://api.github.com/repos/levishi/backbone-fundamentals/hooks</hooks_url>
+  <html_url>https://github.com/levishi/backbone-fundamentals</html_url>
+  <id>27994915</id>
+  <issue_comment_url>https://api.github.com/repos/levishi/backbone-fundamentals/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/levishi/backbone-fundamentals/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/levishi/backbone-fundamentals/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/levishi/backbone-fundamentals/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/levishi/backbone-fundamentals/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/levishi/backbone-fundamentals/languages</languages_url>
+  <merges_url>https://api.github.com/repos/levishi/backbone-fundamentals/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/levishi/backbone-fundamentals/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>backbone-fundamentals</name>
+  <network_count>1364</network_count>
+  <notifications_url>https://api.github.com/repos/levishi/backbone-fundamentals/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/2521170?v=3</avatar_url>
+    <events_url>https://api.github.com/users/levishi/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/levishi/followers</followers_url>
+    <following_url>https://api.github.com/users/levishi/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/levishi/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/levishi</html_url>
+    <id>2521170</id>
+    <login>levishi</login>
+    <organizations_url>https://api.github.com/users/levishi/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/levishi/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/levishi/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/levishi/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/levishi/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/levishi</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/branches{/branch}",
+  "clone_url": "https://github.com/addyosmani/backbone-fundamentals.git",
+  "collaborators_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/comments{/number}",
+  "commits_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/contributors",
+  "created_at": "2011-12-20T20:49:44Z",
+  "default_branch": "gh-pages",
+  "description": "A creative-commons book on Backbone.js for beginners and advanced users alike",
+  "downloads_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/downloads",
+  "events_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/events",
+  "fork": false,
+  "forks": 1364,
+  "forks_count": 1364,
+  "forks_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/forks",
+  "full_name": "addyosmani/backbone-fundamentals",
+  "git_commits_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/tags{/sha}",
+  "git_url": "git://github.com/addyosmani/backbone-fundamentals.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://addyosmani.github.io/backbone-fundamentals/",
+  "hooks_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/hooks",
+  "html_url": "https://github.com/addyosmani/backbone-fundamentals",
+  "id": 3022431,
+  "issue_comment_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/issues{/number}",
+  "keys_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/languages",
+  "merges_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/merges",
+  "milestones_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/milestones{/number}",
+  "mirror_url": null,
+  "name": "backbone-fundamentals",
+  "notifications_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/notifications{?since,all,participating}",
+  "open_issues": 38,
+  "open_issues_count": 38,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/110953?v=3",
+    "events_url": "https://api.github.com/users/addyosmani/events{/privacy}",
+    "followers_url": "https://api.github.com/users/addyosmani/followers",
+    "following_url": "https://api.github.com/users/addyosmani/following{/other_user}",
+    "gists_url": "https://api.github.com/users/addyosmani/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/addyosmani",
+    "id": 110953,
+    "login": "addyosmani",
+    "organizations_url": "https://api.github.com/users/addyosmani/orgs",
+    "received_events_url": "https://api.github.com/users/addyosmani/received_events",
+    "repos_url": "https://api.github.com/users/addyosmani/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/addyosmani/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/addyosmani/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/addyosmani"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/pulls{/number}",
+  "pushed_at": "2014-11-28T17:37:42Z",
+  "releases_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/releases{/id}",
+  "size": 144643,
+  "ssh_url": "git@github.com:addyosmani/backbone-fundamentals.git",
+  "stargazers_count": 8573,
+  "stargazers_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/stargazers",
+  "statuses_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/subscribers",
+  "subscription_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/subscription",
+  "svn_url": "https://github.com/addyosmani/backbone-fundamentals",
+  "tags_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/tags",
+  "teams_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/teams",
+  "trees_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/trees{/sha}",
+  "updated_at": "2014-12-14T09:08:49Z",
+  "url": "https://api.github.com/repos/addyosmani/backbone-fundamentals",
+  "watchers": 8573,
+  "watchers_count": 8573
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/levishi/backbone-fundamentals/pulls{/number}</pulls_url>
+  <pushed_at>11/28/2014 5:37:42 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/levishi/backbone-fundamentals/releases{/id}</releases_url>
+  <size>144643</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/branches{/branch}",
+  "clone_url": "https://github.com/addyosmani/backbone-fundamentals.git",
+  "collaborators_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/comments{/number}",
+  "commits_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/contributors",
+  "created_at": "2011-12-20T20:49:44Z",
+  "default_branch": "gh-pages",
+  "description": "A creative-commons book on Backbone.js for beginners and advanced users alike",
+  "downloads_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/downloads",
+  "events_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/events",
+  "fork": false,
+  "forks": 1364,
+  "forks_count": 1364,
+  "forks_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/forks",
+  "full_name": "addyosmani/backbone-fundamentals",
+  "git_commits_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/tags{/sha}",
+  "git_url": "git://github.com/addyosmani/backbone-fundamentals.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://addyosmani.github.io/backbone-fundamentals/",
+  "hooks_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/hooks",
+  "html_url": "https://github.com/addyosmani/backbone-fundamentals",
+  "id": 3022431,
+  "issue_comment_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/issues{/number}",
+  "keys_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/languages",
+  "merges_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/merges",
+  "milestones_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/milestones{/number}",
+  "mirror_url": null,
+  "name": "backbone-fundamentals",
+  "notifications_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/notifications{?since,all,participating}",
+  "open_issues": 38,
+  "open_issues_count": 38,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/110953?v=3",
+    "events_url": "https://api.github.com/users/addyosmani/events{/privacy}",
+    "followers_url": "https://api.github.com/users/addyosmani/followers",
+    "following_url": "https://api.github.com/users/addyosmani/following{/other_user}",
+    "gists_url": "https://api.github.com/users/addyosmani/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/addyosmani",
+    "id": 110953,
+    "login": "addyosmani",
+    "organizations_url": "https://api.github.com/users/addyosmani/orgs",
+    "received_events_url": "https://api.github.com/users/addyosmani/received_events",
+    "repos_url": "https://api.github.com/users/addyosmani/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/addyosmani/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/addyosmani/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/addyosmani"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/pulls{/number}",
+  "pushed_at": "2014-11-28T17:37:42Z",
+  "releases_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/releases{/id}",
+  "size": 144643,
+  "ssh_url": "git@github.com:addyosmani/backbone-fundamentals.git",
+  "stargazers_count": 8573,
+  "stargazers_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/stargazers",
+  "statuses_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/subscribers",
+  "subscription_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/subscription",
+  "svn_url": "https://github.com/addyosmani/backbone-fundamentals",
+  "tags_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/tags",
+  "teams_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/teams",
+  "trees_url": "https://api.github.com/repos/addyosmani/backbone-fundamentals/git/trees{/sha}",
+  "updated_at": "2014-12-14T09:08:49Z",
+  "url": "https://api.github.com/repos/addyosmani/backbone-fundamentals",
+  "watchers": 8573,
+  "watchers_count": 8573
+}</source>
+  <ssh_url>git@github.com:levishi/backbone-fundamentals.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/levishi/backbone-fundamentals/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/levishi/backbone-fundamentals/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/levishi/backbone-fundamentals/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/levishi/backbone-fundamentals/subscription</subscription_url>
+  <svn_url>https://github.com/levishi/backbone-fundamentals</svn_url>
+  <tags_url>https://api.github.com/repos/levishi/backbone-fundamentals/tags</tags_url>
+  <teams_url>https://api.github.com/repos/levishi/backbone-fundamentals/teams</teams_url>
+  <trees_url>https://api.github.com/repos/levishi/backbone-fundamentals/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 1:21:42 PM</updated_at>
+  <url>https://api.github.com/repos/levishi/backbone-fundamentals</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

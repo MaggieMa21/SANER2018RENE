@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547e7c69bd35431736011745</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/kbinani/gitx/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/kbinani/gitx/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/kbinani/gitx/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/kbinani/gitx/branches{/branch}</branches_url>
+  <clone_url>https://github.com/kbinani/gitx.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/kbinani/gitx/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/kbinani/gitx/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/kbinani/gitx/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/kbinani/gitx/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/kbinani/gitx/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/kbinani/gitx/contributors</contributors_url>
+  <created_at>12/3/2014 1:43:45 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.</description>
+  <downloads_url>https://api.github.com/repos/kbinani/gitx/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/kbinani/gitx/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/kbinani/gitx/forks</forks_url>
+  <full_name>kbinani/gitx</full_name>
+  <git_commits_url>https://api.github.com/repos/kbinani/gitx/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/kbinani/gitx/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/kbinani/gitx/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/kbinani/gitx.git</git_url>
+  <has_downloads>False</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://rowanj.github.com/gitx</homepage>
+  <hooks_url>https://api.github.com/repos/kbinani/gitx/hooks</hooks_url>
+  <html_url>https://github.com/kbinani/gitx</html_url>
+  <id>27463428</id>
+  <issue_comment_url>https://api.github.com/repos/kbinani/gitx/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/kbinani/gitx/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/kbinani/gitx/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/kbinani/gitx/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/kbinani/gitx/labels{/name}</labels_url>
+  <language>Objective-C</language>
+  <languages_url>https://api.github.com/repos/kbinani/gitx/languages</languages_url>
+  <merges_url>https://api.github.com/repos/kbinani/gitx/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/kbinani/gitx/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>gitx</name>
+  <network_count>459</network_count>
+  <notifications_url>https://api.github.com/repos/kbinani/gitx/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1030301?v=3</avatar_url>
+    <events_url>https://api.github.com/users/kbinani/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/kbinani/followers</followers_url>
+    <following_url>https://api.github.com/users/kbinani/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/kbinani/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/kbinani</html_url>
+    <id>1030301</id>
+    <login>kbinani</login>
+    <organizations_url>https://api.github.com/users/kbinani/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/kbinani/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/kbinani/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/kbinani/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/kbinani/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/kbinani</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/rowanj/gitx/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/rowanj/gitx/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/rowanj/gitx/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/rowanj/gitx/branches{/branch}",
+  "clone_url": "https://github.com/rowanj/gitx.git",
+  "collaborators_url": "https://api.github.com/repos/rowanj/gitx/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/rowanj/gitx/comments{/number}",
+  "commits_url": "https://api.github.com/repos/rowanj/gitx/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/rowanj/gitx/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/rowanj/gitx/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/rowanj/gitx/contributors",
+  "created_at": "2010-09-06T04:45:15Z",
+  "default_branch": "master",
+  "description": "Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.",
+  "downloads_url": "https://api.github.com/repos/rowanj/gitx/downloads",
+  "events_url": "https://api.github.com/repos/rowanj/gitx/events",
+  "fork": true,
+  "forks": 107,
+  "forks_count": 107,
+  "forks_url": "https://api.github.com/repos/rowanj/gitx/forks",
+  "full_name": "rowanj/gitx",
+  "git_commits_url": "https://api.github.com/repos/rowanj/gitx/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/rowanj/gitx/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/rowanj/gitx/git/tags{/sha}",
+  "git_url": "git://github.com/rowanj/gitx.git",
+  "has_downloads": false,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "http://rowanj.github.com/gitx",
+  "hooks_url": "https://api.github.com/repos/rowanj/gitx/hooks",
+  "html_url": "https://github.com/rowanj/gitx",
+  "id": 890597,
+  "issue_comment_url": "https://api.github.com/repos/rowanj/gitx/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/rowanj/gitx/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/rowanj/gitx/issues{/number}",
+  "keys_url": "https://api.github.com/repos/rowanj/gitx/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/rowanj/gitx/labels{/name}",
+  "language": "Objective-C",
+  "languages_url": "https://api.github.com/repos/rowanj/gitx/languages",
+  "merges_url": "https://api.github.com/repos/rowanj/gitx/merges",
+  "milestones_url": "https://api.github.com/repos/rowanj/gitx/milestones{/number}",
+  "mirror_url": null,
+  "name": "gitx",
+  "notifications_url": "https://api.github.com/repos/rowanj/gitx/notifications{?since,all,participating}",
+  "open_issues": 229,
+  "open_issues_count": 229,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/47049?v=3",
+    "events_url": "https://api.github.com/users/rowanj/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rowanj/followers",
+    "following_url": "https://api.github.com/users/rowanj/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rowanj/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rowanj",
+    "id": 47049,
+    "login": "rowanj",
+    "organizations_url": "https://api.github.com/users/rowanj/orgs",
+    "received_events_url": "https://api.github.com/users/rowanj/received_events",
+    "repos_url": "https://api.github.com/users/rowanj/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rowanj/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rowanj/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rowanj"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/rowanj/gitx/pulls{/number}",
+  "pushed_at": "2014-11-10T22:40:55Z",
+  "releases_url": "https://api.github.com/repos/rowanj/gitx/releases{/id}",
+  "size": 20143,
+  "ssh_url": "git@github.com:rowanj/gitx.git",
+  "stargazers_count": 1292,
+  "stargazers_url": "https://api.github.com/repos/rowanj/gitx/stargazers",
+  "statuses_url": "https://api.github.com/repos/rowanj/gitx/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/rowanj/gitx/subscribers",
+  "subscription_url": "https://api.github.com/repos/rowanj/gitx/subscription",
+  "svn_url": "https://github.com/rowanj/gitx",
+  "tags_url": "https://api.github.com/repos/rowanj/gitx/tags",
+  "teams_url": "https://api.github.com/repos/rowanj/gitx/teams",
+  "trees_url": "https://api.github.com/repos/rowanj/gitx/git/trees{/sha}",
+  "updated_at": "2014-12-02T18:33:56Z",
+  "url": "https://api.github.com/repos/rowanj/gitx",
+  "watchers": 1292,
+  "watchers_count": 1292
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/kbinani/gitx/pulls{/number}</pulls_url>
+  <pushed_at>12/3/2014 1:59:09 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/kbinani/gitx/releases{/id}</releases_url>
+  <size>20143</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/pieter/gitx/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/pieter/gitx/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/pieter/gitx/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/pieter/gitx/branches{/branch}",
+  "clone_url": "https://github.com/pieter/gitx.git",
+  "collaborators_url": "https://api.github.com/repos/pieter/gitx/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/pieter/gitx/comments{/number}",
+  "commits_url": "https://api.github.com/repos/pieter/gitx/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/pieter/gitx/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/pieter/gitx/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/pieter/gitx/contributors",
+  "created_at": "2008-06-14T17:57:35Z",
+  "default_branch": "master",
+  "description": "A gitk clone for OS X",
+  "downloads_url": "https://api.github.com/repos/pieter/gitx/downloads",
+  "events_url": "https://api.github.com/repos/pieter/gitx/events",
+  "fork": false,
+  "forks": 459,
+  "forks_count": 459,
+  "forks_url": "https://api.github.com/repos/pieter/gitx/forks",
+  "full_name": "pieter/gitx",
+  "git_commits_url": "https://api.github.com/repos/pieter/gitx/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/pieter/gitx/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/pieter/gitx/git/tags{/sha}",
+  "git_url": "git://github.com/pieter/gitx.git",
+  "has_downloads": false,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://gitx.frim.nl",
+  "hooks_url": "https://api.github.com/repos/pieter/gitx/hooks",
+  "html_url": "https://github.com/pieter/gitx",
+  "id": 25306,
+  "issue_comment_url": "https://api.github.com/repos/pieter/gitx/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/pieter/gitx/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/pieter/gitx/issues{/number}",
+  "keys_url": "https://api.github.com/repos/pieter/gitx/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/pieter/gitx/labels{/name}",
+  "language": "Objective-C",
+  "languages_url": "https://api.github.com/repos/pieter/gitx/languages",
+  "merges_url": "https://api.github.com/repos/pieter/gitx/merges",
+  "milestones_url": "https://api.github.com/repos/pieter/gitx/milestones{/number}",
+  "mirror_url": null,
+  "name": "gitx",
+  "notifications_url": "https://api.github.com/repos/pieter/gitx/notifications{?since,all,participating}",
+  "open_issues": 7,
+  "open_issues_count": 7,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2958?v=3",
+    "events_url": "https://api.github.com/users/pieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pieter/followers",
+    "following_url": "https://api.github.com/users/pieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/pieter",
+    "id": 2958,
+    "login": "pieter",
+    "organizations_url": "https://api.github.com/users/pieter/orgs",
+    "received_events_url": "https://api.github.com/users/pieter/received_events",
+    "repos_url": "https://api.github.com/users/pieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/pieter"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/pieter/gitx/pulls{/number}",
+  "pushed_at": "2011-09-26T17:01:37Z",
+  "releases_url": "https://api.github.com/repos/pieter/gitx/releases{/id}",
+  "size": 10616,
+  "ssh_url": "git@github.com:pieter/gitx.git",
+  "stargazers_count": 1693,
+  "stargazers_url": "https://api.github.com/repos/pieter/gitx/stargazers",
+  "statuses_url": "https://api.github.com/repos/pieter/gitx/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/pieter/gitx/subscribers",
+  "subscription_url": "https://api.github.com/repos/pieter/gitx/subscription",
+  "svn_url": "https://github.com/pieter/gitx",
+  "tags_url": "https://api.github.com/repos/pieter/gitx/tags",
+  "teams_url": "https://api.github.com/repos/pieter/gitx/teams",
+  "trees_url": "https://api.github.com/repos/pieter/gitx/git/trees{/sha}",
+  "updated_at": "2014-12-02T18:44:42Z",
+  "url": "https://api.github.com/repos/pieter/gitx",
+  "watchers": 1693,
+  "watchers_count": 1693
+}</source>
+  <ssh_url>git@github.com:kbinani/gitx.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/kbinani/gitx/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/kbinani/gitx/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/kbinani/gitx/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/kbinani/gitx/subscription</subscription_url>
+  <svn_url>https://github.com/kbinani/gitx</svn_url>
+  <tags_url>https://api.github.com/repos/kbinani/gitx/tags</tags_url>
+  <teams_url>https://api.github.com/repos/kbinani/gitx/teams</teams_url>
+  <trees_url>https://api.github.com/repos/kbinani/gitx/git/trees{/sha}</trees_url>
+  <updated_at>12/3/2014 1:43:48 AM</updated_at>
+  <url>https://api.github.com/repos/kbinani/gitx</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

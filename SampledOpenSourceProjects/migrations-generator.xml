@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547d9f61bd354317b3009a81</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/spescina/migrations-generator/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/spescina/migrations-generator/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/spescina/migrations-generator/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/spescina/migrations-generator/branches{/branch}</branches_url>
+  <clone_url>https://github.com/spescina/migrations-generator.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/spescina/migrations-generator/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/spescina/migrations-generator/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/spescina/migrations-generator/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/spescina/migrations-generator/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/spescina/migrations-generator/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/spescina/migrations-generator/contributors</contributors_url>
+  <created_at>12/2/2014 11:13:07 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>Laravel 4 Migrations Generator: Automatically generate your migrations from an existing database schema.</description>
+  <downloads_url>https://api.github.com/repos/spescina/migrations-generator/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/spescina/migrations-generator/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/spescina/migrations-generator/forks</forks_url>
+  <full_name>spescina/migrations-generator</full_name>
+  <git_commits_url>https://api.github.com/repos/spescina/migrations-generator/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/spescina/migrations-generator/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/spescina/migrations-generator/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/spescina/migrations-generator.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/spescina/migrations-generator/hooks</hooks_url>
+  <html_url>https://github.com/spescina/migrations-generator</html_url>
+  <id>27428967</id>
+  <issue_comment_url>https://api.github.com/repos/spescina/migrations-generator/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/spescina/migrations-generator/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/spescina/migrations-generator/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/spescina/migrations-generator/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/spescina/migrations-generator/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/spescina/migrations-generator/languages</languages_url>
+  <merges_url>https://api.github.com/repos/spescina/migrations-generator/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/spescina/migrations-generator/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>migrations-generator</name>
+  <network_count>34</network_count>
+  <notifications_url>https://api.github.com/repos/spescina/migrations-generator/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1956604?v=3</avatar_url>
+    <events_url>https://api.github.com/users/spescina/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/spescina/followers</followers_url>
+    <following_url>https://api.github.com/users/spescina/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/spescina/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/spescina</html_url>
+    <id>1956604</id>
+    <login>spescina</login>
+    <organizations_url>https://api.github.com/users/spescina/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/spescina/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/spescina/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/spescina/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/spescina/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/spescina</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/Xethron/migrations-generator/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Xethron/migrations-generator/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Xethron/migrations-generator/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Xethron/migrations-generator/branches{/branch}",
+  "clone_url": "https://github.com/Xethron/migrations-generator.git",
+  "collaborators_url": "https://api.github.com/repos/Xethron/migrations-generator/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Xethron/migrations-generator/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Xethron/migrations-generator/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Xethron/migrations-generator/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Xethron/migrations-generator/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Xethron/migrations-generator/contributors",
+  "created_at": "2014-03-17T16:45:14Z",
+  "default_branch": "master",
+  "description": "Laravel 4 Migrations Generator: Automatically generate your migrations from an existing database schema.",
+  "downloads_url": "https://api.github.com/repos/Xethron/migrations-generator/downloads",
+  "events_url": "https://api.github.com/repos/Xethron/migrations-generator/events",
+  "fork": false,
+  "forks": 34,
+  "forks_count": 34,
+  "forks_url": "https://api.github.com/repos/Xethron/migrations-generator/forks",
+  "full_name": "Xethron/migrations-generator",
+  "git_commits_url": "https://api.github.com/repos/Xethron/migrations-generator/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Xethron/migrations-generator/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Xethron/migrations-generator/git/tags{/sha}",
+  "git_url": "git://github.com/Xethron/migrations-generator.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/Xethron/migrations-generator/hooks",
+  "html_url": "https://github.com/Xethron/migrations-generator",
+  "id": 17835453,
+  "issue_comment_url": "https://api.github.com/repos/Xethron/migrations-generator/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Xethron/migrations-generator/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Xethron/migrations-generator/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Xethron/migrations-generator/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Xethron/migrations-generator/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/Xethron/migrations-generator/languages",
+  "merges_url": "https://api.github.com/repos/Xethron/migrations-generator/merges",
+  "milestones_url": "https://api.github.com/repos/Xethron/migrations-generator/milestones{/number}",
+  "mirror_url": null,
+  "name": "migrations-generator",
+  "notifications_url": "https://api.github.com/repos/Xethron/migrations-generator/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1497338?v=3",
+    "events_url": "https://api.github.com/users/Xethron/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xethron/followers",
+    "following_url": "https://api.github.com/users/Xethron/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xethron/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xethron",
+    "id": 1497338,
+    "login": "Xethron",
+    "organizations_url": "https://api.github.com/users/Xethron/orgs",
+    "received_events_url": "https://api.github.com/users/Xethron/received_events",
+    "repos_url": "https://api.github.com/users/Xethron/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xethron/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xethron/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xethron"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Xethron/migrations-generator/pulls{/number}",
+  "pushed_at": "2014-11-18T06:55:15Z",
+  "releases_url": "https://api.github.com/repos/Xethron/migrations-generator/releases{/id}",
+  "size": 652,
+  "ssh_url": "git@github.com:Xethron/migrations-generator.git",
+  "stargazers_count": 301,
+  "stargazers_url": "https://api.github.com/repos/Xethron/migrations-generator/stargazers",
+  "statuses_url": "https://api.github.com/repos/Xethron/migrations-generator/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Xethron/migrations-generator/subscribers",
+  "subscription_url": "https://api.github.com/repos/Xethron/migrations-generator/subscription",
+  "svn_url": "https://github.com/Xethron/migrations-generator",
+  "tags_url": "https://api.github.com/repos/Xethron/migrations-generator/tags",
+  "teams_url": "https://api.github.com/repos/Xethron/migrations-generator/teams",
+  "trees_url": "https://api.github.com/repos/Xethron/migrations-generator/git/trees{/sha}",
+  "updated_at": "2014-12-01T18:21:01Z",
+  "url": "https://api.github.com/repos/Xethron/migrations-generator",
+  "watchers": 301,
+  "watchers_count": 301
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/spescina/migrations-generator/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 11:14:17 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/spescina/migrations-generator/releases{/id}</releases_url>
+  <size>652</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/Xethron/migrations-generator/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/Xethron/migrations-generator/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/Xethron/migrations-generator/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/Xethron/migrations-generator/branches{/branch}",
+  "clone_url": "https://github.com/Xethron/migrations-generator.git",
+  "collaborators_url": "https://api.github.com/repos/Xethron/migrations-generator/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/Xethron/migrations-generator/comments{/number}",
+  "commits_url": "https://api.github.com/repos/Xethron/migrations-generator/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/Xethron/migrations-generator/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/Xethron/migrations-generator/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/Xethron/migrations-generator/contributors",
+  "created_at": "2014-03-17T16:45:14Z",
+  "default_branch": "master",
+  "description": "Laravel 4 Migrations Generator: Automatically generate your migrations from an existing database schema.",
+  "downloads_url": "https://api.github.com/repos/Xethron/migrations-generator/downloads",
+  "events_url": "https://api.github.com/repos/Xethron/migrations-generator/events",
+  "fork": false,
+  "forks": 34,
+  "forks_count": 34,
+  "forks_url": "https://api.github.com/repos/Xethron/migrations-generator/forks",
+  "full_name": "Xethron/migrations-generator",
+  "git_commits_url": "https://api.github.com/repos/Xethron/migrations-generator/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/Xethron/migrations-generator/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/Xethron/migrations-generator/git/tags{/sha}",
+  "git_url": "git://github.com/Xethron/migrations-generator.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/Xethron/migrations-generator/hooks",
+  "html_url": "https://github.com/Xethron/migrations-generator",
+  "id": 17835453,
+  "issue_comment_url": "https://api.github.com/repos/Xethron/migrations-generator/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/Xethron/migrations-generator/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/Xethron/migrations-generator/issues{/number}",
+  "keys_url": "https://api.github.com/repos/Xethron/migrations-generator/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/Xethron/migrations-generator/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/Xethron/migrations-generator/languages",
+  "merges_url": "https://api.github.com/repos/Xethron/migrations-generator/merges",
+  "milestones_url": "https://api.github.com/repos/Xethron/migrations-generator/milestones{/number}",
+  "mirror_url": null,
+  "name": "migrations-generator",
+  "notifications_url": "https://api.github.com/repos/Xethron/migrations-generator/notifications{?since,all,participating}",
+  "open_issues": 13,
+  "open_issues_count": 13,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1497338?v=3",
+    "events_url": "https://api.github.com/users/Xethron/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xethron/followers",
+    "following_url": "https://api.github.com/users/Xethron/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xethron/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xethron",
+    "id": 1497338,
+    "login": "Xethron",
+    "organizations_url": "https://api.github.com/users/Xethron/orgs",
+    "received_events_url": "https://api.github.com/users/Xethron/received_events",
+    "repos_url": "https://api.github.com/users/Xethron/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xethron/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xethron/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xethron"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/Xethron/migrations-generator/pulls{/number}",
+  "pushed_at": "2014-11-18T06:55:15Z",
+  "releases_url": "https://api.github.com/repos/Xethron/migrations-generator/releases{/id}",
+  "size": 652,
+  "ssh_url": "git@github.com:Xethron/migrations-generator.git",
+  "stargazers_count": 301,
+  "stargazers_url": "https://api.github.com/repos/Xethron/migrations-generator/stargazers",
+  "statuses_url": "https://api.github.com/repos/Xethron/migrations-generator/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/Xethron/migrations-generator/subscribers",
+  "subscription_url": "https://api.github.com/repos/Xethron/migrations-generator/subscription",
+  "svn_url": "https://github.com/Xethron/migrations-generator",
+  "tags_url": "https://api.github.com/repos/Xethron/migrations-generator/tags",
+  "teams_url": "https://api.github.com/repos/Xethron/migrations-generator/teams",
+  "trees_url": "https://api.github.com/repos/Xethron/migrations-generator/git/trees{/sha}",
+  "updated_at": "2014-12-01T18:21:01Z",
+  "url": "https://api.github.com/repos/Xethron/migrations-generator",
+  "watchers": 301,
+  "watchers_count": 301
+}</source>
+  <ssh_url>git@github.com:spescina/migrations-generator.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/spescina/migrations-generator/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/spescina/migrations-generator/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/spescina/migrations-generator/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/spescina/migrations-generator/subscription</subscription_url>
+  <svn_url>https://github.com/spescina/migrations-generator</svn_url>
+  <tags_url>https://api.github.com/repos/spescina/migrations-generator/tags</tags_url>
+  <teams_url>https://api.github.com/repos/spescina/migrations-generator/teams</teams_url>
+  <trees_url>https://api.github.com/repos/spescina/migrations-generator/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 11:14:18 AM</updated_at>
+  <url>https://api.github.com/repos/spescina/migrations-generator</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

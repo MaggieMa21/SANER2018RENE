@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a2bddbd3543090200153c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/neopineo/pollexor/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/neopineo/pollexor/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/neopineo/pollexor/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/neopineo/pollexor/branches{/branch}</branches_url>
+  <clone_url>https://github.com/neopineo/pollexor.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/neopineo/pollexor/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/neopineo/pollexor/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/neopineo/pollexor/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/neopineo/pollexor/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/neopineo/pollexor/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/neopineo/pollexor/contributors</contributors_url>
+  <created_at>12/11/2014 11:42:10 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.</description>
+  <downloads_url>https://api.github.com/repos/neopineo/pollexor/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/neopineo/pollexor/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/neopineo/pollexor/forks</forks_url>
+  <full_name>neopineo/pollexor</full_name>
+  <git_commits_url>https://api.github.com/repos/neopineo/pollexor/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/neopineo/pollexor/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/neopineo/pollexor/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/neopineo/pollexor.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>http://square.github.io/pollexor/</homepage>
+  <hooks_url>https://api.github.com/repos/neopineo/pollexor/hooks</hooks_url>
+  <html_url>https://github.com/neopineo/pollexor</html_url>
+  <id>27897270</id>
+  <issue_comment_url>https://api.github.com/repos/neopineo/pollexor/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/neopineo/pollexor/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/neopineo/pollexor/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/neopineo/pollexor/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/neopineo/pollexor/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/neopineo/pollexor/languages</languages_url>
+  <merges_url>https://api.github.com/repos/neopineo/pollexor/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/neopineo/pollexor/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>pollexor</name>
+  <network_count>31</network_count>
+  <notifications_url>https://api.github.com/repos/neopineo/pollexor/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/2680080?v=3</avatar_url>
+    <events_url>https://api.github.com/users/neopineo/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/neopineo/followers</followers_url>
+    <following_url>https://api.github.com/users/neopineo/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/neopineo/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/neopineo</html_url>
+    <id>2680080</id>
+    <login>neopineo</login>
+    <organizations_url>https://api.github.com/users/neopineo/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/neopineo/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/neopineo/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/neopineo/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/neopineo/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/neopineo</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/square/pollexor/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/square/pollexor/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/square/pollexor/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/square/pollexor/branches{/branch}",
+  "clone_url": "https://github.com/square/pollexor.git",
+  "collaborators_url": "https://api.github.com/repos/square/pollexor/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/square/pollexor/comments{/number}",
+  "commits_url": "https://api.github.com/repos/square/pollexor/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/square/pollexor/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/square/pollexor/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/square/pollexor/contributors",
+  "created_at": "2012-07-17T18:06:03Z",
+  "default_branch": "master",
+  "description": "Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.",
+  "downloads_url": "https://api.github.com/repos/square/pollexor/downloads",
+  "events_url": "https://api.github.com/repos/square/pollexor/events",
+  "fork": false,
+  "forks": 31,
+  "forks_count": 31,
+  "forks_url": "https://api.github.com/repos/square/pollexor/forks",
+  "full_name": "square/pollexor",
+  "git_commits_url": "https://api.github.com/repos/square/pollexor/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/square/pollexor/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/square/pollexor/git/tags{/sha}",
+  "git_url": "git://github.com/square/pollexor.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": false,
+  "homepage": "http://square.github.io/pollexor/",
+  "hooks_url": "https://api.github.com/repos/square/pollexor/hooks",
+  "html_url": "https://github.com/square/pollexor",
+  "id": 5085837,
+  "issue_comment_url": "https://api.github.com/repos/square/pollexor/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/square/pollexor/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/square/pollexor/issues{/number}",
+  "keys_url": "https://api.github.com/repos/square/pollexor/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/square/pollexor/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/square/pollexor/languages",
+  "merges_url": "https://api.github.com/repos/square/pollexor/merges",
+  "milestones_url": "https://api.github.com/repos/square/pollexor/milestones{/number}",
+  "mirror_url": null,
+  "name": "pollexor",
+  "notifications_url": "https://api.github.com/repos/square/pollexor/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=3",
+    "events_url": "https://api.github.com/users/square/events{/privacy}",
+    "followers_url": "https://api.github.com/users/square/followers",
+    "following_url": "https://api.github.com/users/square/following{/other_user}",
+    "gists_url": "https://api.github.com/users/square/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/square",
+    "id": 82592,
+    "login": "square",
+    "organizations_url": "https://api.github.com/users/square/orgs",
+    "received_events_url": "https://api.github.com/users/square/received_events",
+    "repos_url": "https://api.github.com/users/square/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/square/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/square/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/square"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/square/pollexor/pulls{/number}",
+  "pushed_at": "2014-11-21T19:09:17Z",
+  "releases_url": "https://api.github.com/repos/square/pollexor/releases{/id}",
+  "size": 874,
+  "ssh_url": "git@github.com:square/pollexor.git",
+  "stargazers_count": 245,
+  "stargazers_url": "https://api.github.com/repos/square/pollexor/stargazers",
+  "statuses_url": "https://api.github.com/repos/square/pollexor/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/square/pollexor/subscribers",
+  "subscription_url": "https://api.github.com/repos/square/pollexor/subscription",
+  "svn_url": "https://github.com/square/pollexor",
+  "tags_url": "https://api.github.com/repos/square/pollexor/tags",
+  "teams_url": "https://api.github.com/repos/square/pollexor/teams",
+  "trees_url": "https://api.github.com/repos/square/pollexor/git/trees{/sha}",
+  "updated_at": "2014-12-10T15:17:56Z",
+  "url": "https://api.github.com/repos/square/pollexor",
+  "watchers": 245,
+  "watchers_count": 245
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/neopineo/pollexor/pulls{/number}</pulls_url>
+  <pushed_at>11/21/2014 7:09:17 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/neopineo/pollexor/releases{/id}</releases_url>
+  <size>874</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/square/pollexor/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/square/pollexor/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/square/pollexor/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/square/pollexor/branches{/branch}",
+  "clone_url": "https://github.com/square/pollexor.git",
+  "collaborators_url": "https://api.github.com/repos/square/pollexor/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/square/pollexor/comments{/number}",
+  "commits_url": "https://api.github.com/repos/square/pollexor/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/square/pollexor/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/square/pollexor/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/square/pollexor/contributors",
+  "created_at": "2012-07-17T18:06:03Z",
+  "default_branch": "master",
+  "description": "Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.",
+  "downloads_url": "https://api.github.com/repos/square/pollexor/downloads",
+  "events_url": "https://api.github.com/repos/square/pollexor/events",
+  "fork": false,
+  "forks": 31,
+  "forks_count": 31,
+  "forks_url": "https://api.github.com/repos/square/pollexor/forks",
+  "full_name": "square/pollexor",
+  "git_commits_url": "https://api.github.com/repos/square/pollexor/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/square/pollexor/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/square/pollexor/git/tags{/sha}",
+  "git_url": "git://github.com/square/pollexor.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": false,
+  "homepage": "http://square.github.io/pollexor/",
+  "hooks_url": "https://api.github.com/repos/square/pollexor/hooks",
+  "html_url": "https://github.com/square/pollexor",
+  "id": 5085837,
+  "issue_comment_url": "https://api.github.com/repos/square/pollexor/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/square/pollexor/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/square/pollexor/issues{/number}",
+  "keys_url": "https://api.github.com/repos/square/pollexor/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/square/pollexor/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/square/pollexor/languages",
+  "merges_url": "https://api.github.com/repos/square/pollexor/merges",
+  "milestones_url": "https://api.github.com/repos/square/pollexor/milestones{/number}",
+  "mirror_url": null,
+  "name": "pollexor",
+  "notifications_url": "https://api.github.com/repos/square/pollexor/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=3",
+    "events_url": "https://api.github.com/users/square/events{/privacy}",
+    "followers_url": "https://api.github.com/users/square/followers",
+    "following_url": "https://api.github.com/users/square/following{/other_user}",
+    "gists_url": "https://api.github.com/users/square/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/square",
+    "id": 82592,
+    "login": "square",
+    "organizations_url": "https://api.github.com/users/square/orgs",
+    "received_events_url": "https://api.github.com/users/square/received_events",
+    "repos_url": "https://api.github.com/users/square/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/square/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/square/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/square"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/square/pollexor/pulls{/number}",
+  "pushed_at": "2014-11-21T19:09:17Z",
+  "releases_url": "https://api.github.com/repos/square/pollexor/releases{/id}",
+  "size": 874,
+  "ssh_url": "git@github.com:square/pollexor.git",
+  "stargazers_count": 245,
+  "stargazers_url": "https://api.github.com/repos/square/pollexor/stargazers",
+  "statuses_url": "https://api.github.com/repos/square/pollexor/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/square/pollexor/subscribers",
+  "subscription_url": "https://api.github.com/repos/square/pollexor/subscription",
+  "svn_url": "https://github.com/square/pollexor",
+  "tags_url": "https://api.github.com/repos/square/pollexor/tags",
+  "teams_url": "https://api.github.com/repos/square/pollexor/teams",
+  "trees_url": "https://api.github.com/repos/square/pollexor/git/trees{/sha}",
+  "updated_at": "2014-12-10T15:17:56Z",
+  "url": "https://api.github.com/repos/square/pollexor",
+  "watchers": 245,
+  "watchers_count": 245
+}</source>
+  <ssh_url>git@github.com:neopineo/pollexor.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/neopineo/pollexor/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/neopineo/pollexor/statuses/{sha}</statuses_url>
+  <subscribers_count>0</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/neopineo/pollexor/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/neopineo/pollexor/subscription</subscription_url>
+  <svn_url>https://github.com/neopineo/pollexor</svn_url>
+  <tags_url>https://api.github.com/repos/neopineo/pollexor/tags</tags_url>
+  <teams_url>https://api.github.com/repos/neopineo/pollexor/teams</teams_url>
+  <trees_url>https://api.github.com/repos/neopineo/pollexor/git/trees{/sha}</trees_url>
+  <updated_at>12/11/2014 11:42:10 PM</updated_at>
+  <url>https://api.github.com/repos/neopineo/pollexor</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

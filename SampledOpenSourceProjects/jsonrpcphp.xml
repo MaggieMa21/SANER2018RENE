@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a24a3bd354317d600158b</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/branches{/branch}</branches_url>
+  <clone_url>https://github.com/Cyrille37/jsonrpcphp.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/contributors</contributors_url>
+  <created_at>12/7/2014 10:35:22 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>JSON-RPC PHP is a couple of classes written in PHP implementing respectively client and server functionalities of the JSON-RPC protocol.</description>
+  <downloads_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/forks</forks_url>
+  <full_name>Cyrille37/jsonrpcphp</full_name>
+  <git_commits_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/Cyrille37/jsonrpcphp.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/hooks</hooks_url>
+  <html_url>https://github.com/Cyrille37/jsonrpcphp</html_url>
+  <id>27666731</id>
+  <issue_comment_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/labels{/name}</labels_url>
+  <language>PHP</language>
+  <languages_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/languages</languages_url>
+  <merges_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>jsonrpcphp</name>
+  <network_count>2</network_count>
+  <notifications_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/368965?v=3</avatar_url>
+    <events_url>https://api.github.com/users/Cyrille37/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/Cyrille37/followers</followers_url>
+    <following_url>https://api.github.com/users/Cyrille37/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/Cyrille37/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/Cyrille37</html_url>
+    <id>368965</id>
+    <login>Cyrille37</login>
+    <organizations_url>https://api.github.com/users/Cyrille37/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/Cyrille37/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/Cyrille37/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/Cyrille37/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/Cyrille37/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/Cyrille37</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/branches{/branch}",
+  "clone_url": "https://github.com/weberhofer/jsonrpcphp.git",
+  "collaborators_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/comments{/number}",
+  "commits_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/contributors",
+  "created_at": "2014-07-24T16:37:24Z",
+  "default_branch": "master",
+  "description": "JSON-RPC PHP is a couple of classes written in PHP implementing respectively client and server functionalities of the JSON-RPC protocol.",
+  "downloads_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/downloads",
+  "events_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/forks",
+  "full_name": "weberhofer/jsonrpcphp",
+  "git_commits_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/tags{/sha}",
+  "git_url": "git://github.com/weberhofer/jsonrpcphp.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/hooks",
+  "html_url": "https://github.com/weberhofer/jsonrpcphp",
+  "id": 22220886,
+  "issue_comment_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/issues{/number}",
+  "keys_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/languages",
+  "merges_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/merges",
+  "milestones_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/milestones{/number}",
+  "mirror_url": null,
+  "name": "jsonrpcphp",
+  "notifications_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/793251?v=3",
+    "events_url": "https://api.github.com/users/weberhofer/events{/privacy}",
+    "followers_url": "https://api.github.com/users/weberhofer/followers",
+    "following_url": "https://api.github.com/users/weberhofer/following{/other_user}",
+    "gists_url": "https://api.github.com/users/weberhofer/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/weberhofer",
+    "id": 793251,
+    "login": "weberhofer",
+    "organizations_url": "https://api.github.com/users/weberhofer/orgs",
+    "received_events_url": "https://api.github.com/users/weberhofer/received_events",
+    "repos_url": "https://api.github.com/users/weberhofer/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/weberhofer/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/weberhofer/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/weberhofer"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/pulls{/number}",
+  "pushed_at": "2014-12-09T09:04:51Z",
+  "releases_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/releases{/id}",
+  "size": 164,
+  "ssh_url": "git@github.com:weberhofer/jsonrpcphp.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/stargazers",
+  "statuses_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/subscribers",
+  "subscription_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/subscription",
+  "svn_url": "https://github.com/weberhofer/jsonrpcphp",
+  "tags_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/tags",
+  "teams_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/teams",
+  "trees_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/trees{/sha}",
+  "updated_at": "2014-12-09T09:04:53Z",
+  "url": "https://api.github.com/repos/weberhofer/jsonrpcphp",
+  "watchers": 1,
+  "watchers_count": 1
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/pulls{/number}</pulls_url>
+  <pushed_at>12/7/2014 10:39:05 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/releases{/id}</releases_url>
+  <size>105</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/branches{/branch}",
+  "clone_url": "https://github.com/weberhofer/jsonrpcphp.git",
+  "collaborators_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/comments{/number}",
+  "commits_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/contributors",
+  "created_at": "2014-07-24T16:37:24Z",
+  "default_branch": "master",
+  "description": "JSON-RPC PHP is a couple of classes written in PHP implementing respectively client and server functionalities of the JSON-RPC protocol.",
+  "downloads_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/downloads",
+  "events_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/forks",
+  "full_name": "weberhofer/jsonrpcphp",
+  "git_commits_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/tags{/sha}",
+  "git_url": "git://github.com/weberhofer/jsonrpcphp.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/hooks",
+  "html_url": "https://github.com/weberhofer/jsonrpcphp",
+  "id": 22220886,
+  "issue_comment_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/issues{/number}",
+  "keys_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/labels{/name}",
+  "language": "PHP",
+  "languages_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/languages",
+  "merges_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/merges",
+  "milestones_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/milestones{/number}",
+  "mirror_url": null,
+  "name": "jsonrpcphp",
+  "notifications_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/notifications{?since,all,participating}",
+  "open_issues": 0,
+  "open_issues_count": 0,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/793251?v=3",
+    "events_url": "https://api.github.com/users/weberhofer/events{/privacy}",
+    "followers_url": "https://api.github.com/users/weberhofer/followers",
+    "following_url": "https://api.github.com/users/weberhofer/following{/other_user}",
+    "gists_url": "https://api.github.com/users/weberhofer/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/weberhofer",
+    "id": 793251,
+    "login": "weberhofer",
+    "organizations_url": "https://api.github.com/users/weberhofer/orgs",
+    "received_events_url": "https://api.github.com/users/weberhofer/received_events",
+    "repos_url": "https://api.github.com/users/weberhofer/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/weberhofer/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/weberhofer/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/weberhofer"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/pulls{/number}",
+  "pushed_at": "2014-12-09T09:04:51Z",
+  "releases_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/releases{/id}",
+  "size": 164,
+  "ssh_url": "git@github.com:weberhofer/jsonrpcphp.git",
+  "stargazers_count": 1,
+  "stargazers_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/stargazers",
+  "statuses_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/subscribers",
+  "subscription_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/subscription",
+  "svn_url": "https://github.com/weberhofer/jsonrpcphp",
+  "tags_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/tags",
+  "teams_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/teams",
+  "trees_url": "https://api.github.com/repos/weberhofer/jsonrpcphp/git/trees{/sha}",
+  "updated_at": "2014-12-09T09:04:53Z",
+  "url": "https://api.github.com/repos/weberhofer/jsonrpcphp",
+  "watchers": 1,
+  "watchers_count": 1
+}</source>
+  <ssh_url>git@github.com:Cyrille37/jsonrpcphp.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/subscription</subscription_url>
+  <svn_url>https://github.com/Cyrille37/jsonrpcphp</svn_url>
+  <tags_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/tags</tags_url>
+  <teams_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/teams</teams_url>
+  <trees_url>https://api.github.com/repos/Cyrille37/jsonrpcphp/git/trees{/sha}</trees_url>
+  <updated_at>12/7/2014 10:39:05 AM</updated_at>
+  <url>https://api.github.com/repos/Cyrille37/jsonrpcphp</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

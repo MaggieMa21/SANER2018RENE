@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547c903bbd35431710008042</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/pylerSM/autoinstaller/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/pylerSM/autoinstaller/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/pylerSM/autoinstaller/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/pylerSM/autoinstaller/branches{/branch}</branches_url>
+  <clone_url>https://github.com/pylerSM/autoinstaller.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/pylerSM/autoinstaller/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/pylerSM/autoinstaller/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/pylerSM/autoinstaller/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/pylerSM/autoinstaller/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/pylerSM/autoinstaller/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/pylerSM/autoinstaller/contributors</contributors_url>
+  <created_at>12/1/2014 3:21:00 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Xposed Module allowing you to skip confirmation in PackageInstaller and just automatically install</description>
+  <downloads_url>https://api.github.com/repos/pylerSM/autoinstaller/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/pylerSM/autoinstaller/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/pylerSM/autoinstaller/forks</forks_url>
+  <full_name>pylerSM/autoinstaller</full_name>
+  <git_commits_url>https://api.github.com/repos/pylerSM/autoinstaller/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/pylerSM/autoinstaller/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/pylerSM/autoinstaller/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/pylerSM/autoinstaller.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/pylerSM/autoinstaller/hooks</hooks_url>
+  <html_url>https://github.com/pylerSM/autoinstaller</html_url>
+  <id>27385214</id>
+  <issue_comment_url>https://api.github.com/repos/pylerSM/autoinstaller/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/pylerSM/autoinstaller/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/pylerSM/autoinstaller/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/pylerSM/autoinstaller/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/pylerSM/autoinstaller/labels{/name}</labels_url>
+  <language>Java</language>
+  <languages_url>https://api.github.com/repos/pylerSM/autoinstaller/languages</languages_url>
+  <merges_url>https://api.github.com/repos/pylerSM/autoinstaller/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/pylerSM/autoinstaller/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>autoinstaller</name>
+  <network_count>2</network_count>
+  <notifications_url>https://api.github.com/repos/pylerSM/autoinstaller/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/3438489?v=3</avatar_url>
+    <events_url>https://api.github.com/users/pylerSM/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/pylerSM/followers</followers_url>
+    <following_url>https://api.github.com/users/pylerSM/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/pylerSM/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/pylerSM</html_url>
+    <id>3438489</id>
+    <login>pylerSM</login>
+    <organizations_url>https://api.github.com/users/pylerSM/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/pylerSM/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/pylerSM/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/pylerSM/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/pylerSM/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/pylerSM</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/branches{/branch}",
+  "clone_url": "https://github.com/hamzahrmalik/autoinstaller.git",
+  "collaborators_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/comments{/number}",
+  "commits_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/contributors",
+  "created_at": "2014-08-23T15:47:43Z",
+  "default_branch": "master",
+  "description": "Xposed Module allowing you to skip confirmation in PackageInstaller and just automatically install",
+  "downloads_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/downloads",
+  "events_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/forks",
+  "full_name": "hamzahrmalik/autoinstaller",
+  "git_commits_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/tags{/sha}",
+  "git_url": "git://github.com/hamzahrmalik/autoinstaller.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/hooks",
+  "html_url": "https://github.com/hamzahrmalik/autoinstaller",
+  "id": 23259610,
+  "issue_comment_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/issues{/number}",
+  "keys_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/languages",
+  "merges_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/merges",
+  "milestones_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/milestones{/number}",
+  "mirror_url": null,
+  "name": "autoinstaller",
+  "notifications_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/6820175?v=3",
+    "events_url": "https://api.github.com/users/hamzahrmalik/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hamzahrmalik/followers",
+    "following_url": "https://api.github.com/users/hamzahrmalik/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hamzahrmalik/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hamzahrmalik",
+    "id": 6820175,
+    "login": "hamzahrmalik",
+    "organizations_url": "https://api.github.com/users/hamzahrmalik/orgs",
+    "received_events_url": "https://api.github.com/users/hamzahrmalik/received_events",
+    "repos_url": "https://api.github.com/users/hamzahrmalik/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hamzahrmalik/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hamzahrmalik/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hamzahrmalik"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/pulls{/number}",
+  "pushed_at": "2014-08-23T15:49:26Z",
+  "releases_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/releases{/id}",
+  "size": 800,
+  "ssh_url": "git@github.com:hamzahrmalik/autoinstaller.git",
+  "stargazers_count": 3,
+  "stargazers_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/stargazers",
+  "statuses_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/subscribers",
+  "subscription_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/subscription",
+  "svn_url": "https://github.com/hamzahrmalik/autoinstaller",
+  "tags_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/tags",
+  "teams_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/teams",
+  "trees_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/trees{/sha}",
+  "updated_at": "2014-10-24T14:55:26Z",
+  "url": "https://api.github.com/repos/hamzahrmalik/autoinstaller",
+  "watchers": 3,
+  "watchers_count": 3
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/pylerSM/autoinstaller/pulls{/number}</pulls_url>
+  <pushed_at>12/1/2014 3:22:02 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/pylerSM/autoinstaller/releases{/id}</releases_url>
+  <size>768</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/branches{/branch}",
+  "clone_url": "https://github.com/hamzahrmalik/autoinstaller.git",
+  "collaborators_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/comments{/number}",
+  "commits_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/contributors",
+  "created_at": "2014-08-23T15:47:43Z",
+  "default_branch": "master",
+  "description": "Xposed Module allowing you to skip confirmation in PackageInstaller and just automatically install",
+  "downloads_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/downloads",
+  "events_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/events",
+  "fork": false,
+  "forks": 2,
+  "forks_count": 2,
+  "forks_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/forks",
+  "full_name": "hamzahrmalik/autoinstaller",
+  "git_commits_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/tags{/sha}",
+  "git_url": "git://github.com/hamzahrmalik/autoinstaller.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": null,
+  "hooks_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/hooks",
+  "html_url": "https://github.com/hamzahrmalik/autoinstaller",
+  "id": 23259610,
+  "issue_comment_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/issues{/number}",
+  "keys_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/labels{/name}",
+  "language": "Java",
+  "languages_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/languages",
+  "merges_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/merges",
+  "milestones_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/milestones{/number}",
+  "mirror_url": null,
+  "name": "autoinstaller",
+  "notifications_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/6820175?v=3",
+    "events_url": "https://api.github.com/users/hamzahrmalik/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hamzahrmalik/followers",
+    "following_url": "https://api.github.com/users/hamzahrmalik/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hamzahrmalik/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hamzahrmalik",
+    "id": 6820175,
+    "login": "hamzahrmalik",
+    "organizations_url": "https://api.github.com/users/hamzahrmalik/orgs",
+    "received_events_url": "https://api.github.com/users/hamzahrmalik/received_events",
+    "repos_url": "https://api.github.com/users/hamzahrmalik/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hamzahrmalik/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hamzahrmalik/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hamzahrmalik"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/pulls{/number}",
+  "pushed_at": "2014-08-23T15:49:26Z",
+  "releases_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/releases{/id}",
+  "size": 800,
+  "ssh_url": "git@github.com:hamzahrmalik/autoinstaller.git",
+  "stargazers_count": 3,
+  "stargazers_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/stargazers",
+  "statuses_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/subscribers",
+  "subscription_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/subscription",
+  "svn_url": "https://github.com/hamzahrmalik/autoinstaller",
+  "tags_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/tags",
+  "teams_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/teams",
+  "trees_url": "https://api.github.com/repos/hamzahrmalik/autoinstaller/git/trees{/sha}",
+  "updated_at": "2014-10-24T14:55:26Z",
+  "url": "https://api.github.com/repos/hamzahrmalik/autoinstaller",
+  "watchers": 3,
+  "watchers_count": 3
+}</source>
+  <ssh_url>git@github.com:pylerSM/autoinstaller.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/pylerSM/autoinstaller/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/pylerSM/autoinstaller/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/pylerSM/autoinstaller/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/pylerSM/autoinstaller/subscription</subscription_url>
+  <svn_url>https://github.com/pylerSM/autoinstaller</svn_url>
+  <tags_url>https://api.github.com/repos/pylerSM/autoinstaller/tags</tags_url>
+  <teams_url>https://api.github.com/repos/pylerSM/autoinstaller/teams</teams_url>
+  <trees_url>https://api.github.com/repos/pylerSM/autoinstaller/git/trees{/sha}</trees_url>
+  <updated_at>12/1/2014 3:21:00 PM</updated_at>
+  <url>https://api.github.com/repos/pylerSM/autoinstaller</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

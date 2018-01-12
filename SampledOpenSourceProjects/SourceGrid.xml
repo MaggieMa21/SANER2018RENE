@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d6979bd35430963012e9a</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/branches{/branch}</branches_url>
+  <clone_url>https://github.com/GibraltarSoftware/SourceGrid.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/contributors</contributors_url>
+  <created_at>11/27/2014 5:22:44 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Modified version of SourceGrid 4.11 used by Loupe</description>
+  <downloads_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/events</events_url>
+  <fork>False</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/forks</forks_url>
+  <full_name>GibraltarSoftware/SourceGrid</full_name>
+  <git_commits_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/GibraltarSoftware/SourceGrid.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>True</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/hooks</hooks_url>
+  <html_url>https://github.com/GibraltarSoftware/SourceGrid</html_url>
+  <id>27235179</id>
+  <issue_comment_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/labels{/name}</labels_url>
+  <language>C#</language>
+  <languages_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/languages</languages_url>
+  <merges_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>SourceGrid</name>
+  <network_count>0</network_count>
+  <notifications_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <organization>{
+  "avatar_url": "https://avatars.githubusercontent.com/u/4406519?v=3",
+  "events_url": "https://api.github.com/users/GibraltarSoftware/events{/privacy}",
+  "followers_url": "https://api.github.com/users/GibraltarSoftware/followers",
+  "following_url": "https://api.github.com/users/GibraltarSoftware/following{/other_user}",
+  "gists_url": "https://api.github.com/users/GibraltarSoftware/gists{/gist_id}",
+  "gravatar_id": "",
+  "html_url": "https://github.com/GibraltarSoftware",
+  "id": 4406519,
+  "login": "GibraltarSoftware",
+  "organizations_url": "https://api.github.com/users/GibraltarSoftware/orgs",
+  "received_events_url": "https://api.github.com/users/GibraltarSoftware/received_events",
+  "repos_url": "https://api.github.com/users/GibraltarSoftware/repos",
+  "site_admin": false,
+  "starred_url": "https://api.github.com/users/GibraltarSoftware/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/GibraltarSoftware/subscriptions",
+  "type": "Organization",
+  "url": "https://api.github.com/users/GibraltarSoftware"
+}</organization>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/4406519?v=3</avatar_url>
+    <events_url>https://api.github.com/users/GibraltarSoftware/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/GibraltarSoftware/followers</followers_url>
+    <following_url>https://api.github.com/users/GibraltarSoftware/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/GibraltarSoftware/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/GibraltarSoftware</html_url>
+    <id>4406519</id>
+    <login>GibraltarSoftware</login>
+    <organizations_url>https://api.github.com/users/GibraltarSoftware/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/GibraltarSoftware/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/GibraltarSoftware/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/GibraltarSoftware/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/GibraltarSoftware/subscriptions</subscriptions_url>
+    <type>Organization</type>
+    <url>https://api.github.com/users/GibraltarSoftware</url>
+  </owner>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/pulls{/number}</pulls_url>
+  <pushed_at>11/27/2014 5:38:13 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/releases{/id}</releases_url>
+  <size>436</size>
+  <ssh_url>git@github.com:GibraltarSoftware/SourceGrid.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/statuses/{sha}</statuses_url>
+  <subscribers_count>3</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/subscription</subscription_url>
+  <svn_url>https://github.com/GibraltarSoftware/SourceGrid</svn_url>
+  <tags_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/tags</tags_url>
+  <teams_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/teams</teams_url>
+  <trees_url>https://api.github.com/repos/GibraltarSoftware/SourceGrid/git/trees{/sha}</trees_url>
+  <updated_at>11/27/2014 5:38:14 PM</updated_at>
+  <url>https://api.github.com/repos/GibraltarSoftware/SourceGrid</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

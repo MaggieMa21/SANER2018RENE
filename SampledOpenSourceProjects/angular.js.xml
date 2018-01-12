@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547e45b5bd3543179e00ac4c</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/whayler1/angular.js/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/whayler1/angular.js/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/whayler1/angular.js/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/whayler1/angular.js/branches{/branch}</branches_url>
+  <clone_url>https://github.com/whayler1/angular.js.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/whayler1/angular.js/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/whayler1/angular.js/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/whayler1/angular.js/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/whayler1/angular.js/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/whayler1/angular.js/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/whayler1/angular.js/contributors</contributors_url>
+  <created_at>12/2/2014 8:57:26 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>HTML enhanced for web apps</description>
+  <downloads_url>https://api.github.com/repos/whayler1/angular.js/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/whayler1/angular.js/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/whayler1/angular.js/forks</forks_url>
+  <full_name>whayler1/angular.js</full_name>
+  <git_commits_url>https://api.github.com/repos/whayler1/angular.js/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/whayler1/angular.js/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/whayler1/angular.js/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/whayler1/angular.js.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>http://angularjs.org</homepage>
+  <hooks_url>https://api.github.com/repos/whayler1/angular.js/hooks</hooks_url>
+  <html_url>https://github.com/whayler1/angular.js</html_url>
+  <id>27453066</id>
+  <issue_comment_url>https://api.github.com/repos/whayler1/angular.js/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/whayler1/angular.js/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/whayler1/angular.js/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/whayler1/angular.js/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/whayler1/angular.js/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/whayler1/angular.js/languages</languages_url>
+  <merges_url>https://api.github.com/repos/whayler1/angular.js/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/whayler1/angular.js/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>angular.js</name>
+  <network_count>12661</network_count>
+  <notifications_url>https://api.github.com/repos/whayler1/angular.js/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1051064?v=3</avatar_url>
+    <events_url>https://api.github.com/users/whayler1/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/whayler1/followers</followers_url>
+    <following_url>https://api.github.com/users/whayler1/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/whayler1/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/whayler1</html_url>
+    <id>1051064</id>
+    <login>whayler1</login>
+    <organizations_url>https://api.github.com/users/whayler1/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/whayler1/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/whayler1/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/whayler1/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/whayler1/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/whayler1</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/angular/angular.js/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/angular/angular.js/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/angular/angular.js/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/angular/angular.js/branches{/branch}",
+  "clone_url": "https://github.com/angular/angular.js.git",
+  "collaborators_url": "https://api.github.com/repos/angular/angular.js/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/angular/angular.js/comments{/number}",
+  "commits_url": "https://api.github.com/repos/angular/angular.js/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/angular/angular.js/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/angular/angular.js/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/angular/angular.js/contributors",
+  "created_at": "2010-01-06T00:34:37Z",
+  "default_branch": "master",
+  "description": "HTML enhanced for web apps",
+  "downloads_url": "https://api.github.com/repos/angular/angular.js/downloads",
+  "events_url": "https://api.github.com/repos/angular/angular.js/events",
+  "fork": false,
+  "forks": 12661,
+  "forks_count": 12661,
+  "forks_url": "https://api.github.com/repos/angular/angular.js/forks",
+  "full_name": "angular/angular.js",
+  "git_commits_url": "https://api.github.com/repos/angular/angular.js/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/angular/angular.js/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/angular/angular.js/git/tags{/sha}",
+  "git_url": "git://github.com/angular/angular.js.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://angularjs.org",
+  "hooks_url": "https://api.github.com/repos/angular/angular.js/hooks",
+  "html_url": "https://github.com/angular/angular.js",
+  "id": 460078,
+  "issue_comment_url": "https://api.github.com/repos/angular/angular.js/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/angular/angular.js/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/angular/angular.js/issues{/number}",
+  "keys_url": "https://api.github.com/repos/angular/angular.js/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/angular/angular.js/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/angular/angular.js/languages",
+  "merges_url": "https://api.github.com/repos/angular/angular.js/merges",
+  "milestones_url": "https://api.github.com/repos/angular/angular.js/milestones{/number}",
+  "mirror_url": null,
+  "name": "angular.js",
+  "notifications_url": "https://api.github.com/repos/angular/angular.js/notifications{?since,all,participating}",
+  "open_issues": 1137,
+  "open_issues_count": 1137,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/139426?v=3",
+    "events_url": "https://api.github.com/users/angular/events{/privacy}",
+    "followers_url": "https://api.github.com/users/angular/followers",
+    "following_url": "https://api.github.com/users/angular/following{/other_user}",
+    "gists_url": "https://api.github.com/users/angular/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/angular",
+    "id": 139426,
+    "login": "angular",
+    "organizations_url": "https://api.github.com/users/angular/orgs",
+    "received_events_url": "https://api.github.com/users/angular/received_events",
+    "repos_url": "https://api.github.com/users/angular/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/angular/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/angular/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/angular"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/angular/angular.js/pulls{/number}",
+  "pushed_at": "2014-12-02T22:32:46Z",
+  "releases_url": "https://api.github.com/repos/angular/angular.js/releases{/id}",
+  "size": 203469,
+  "ssh_url": "git@github.com:angular/angular.js.git",
+  "stargazers_count": 32338,
+  "stargazers_url": "https://api.github.com/repos/angular/angular.js/stargazers",
+  "statuses_url": "https://api.github.com/repos/angular/angular.js/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/angular/angular.js/subscribers",
+  "subscription_url": "https://api.github.com/repos/angular/angular.js/subscription",
+  "svn_url": "https://github.com/angular/angular.js",
+  "tags_url": "https://api.github.com/repos/angular/angular.js/tags",
+  "teams_url": "https://api.github.com/repos/angular/angular.js/teams",
+  "trees_url": "https://api.github.com/repos/angular/angular.js/git/trees{/sha}",
+  "updated_at": "2014-12-02T22:40:56Z",
+  "url": "https://api.github.com/repos/angular/angular.js",
+  "watchers": 32338,
+  "watchers_count": 32338
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/whayler1/angular.js/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 9:08:44 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/whayler1/angular.js/releases{/id}</releases_url>
+  <size>60635</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/angular/angular.js/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/angular/angular.js/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/angular/angular.js/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/angular/angular.js/branches{/branch}",
+  "clone_url": "https://github.com/angular/angular.js.git",
+  "collaborators_url": "https://api.github.com/repos/angular/angular.js/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/angular/angular.js/comments{/number}",
+  "commits_url": "https://api.github.com/repos/angular/angular.js/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/angular/angular.js/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/angular/angular.js/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/angular/angular.js/contributors",
+  "created_at": "2010-01-06T00:34:37Z",
+  "default_branch": "master",
+  "description": "HTML enhanced for web apps",
+  "downloads_url": "https://api.github.com/repos/angular/angular.js/downloads",
+  "events_url": "https://api.github.com/repos/angular/angular.js/events",
+  "fork": false,
+  "forks": 12661,
+  "forks_count": 12661,
+  "forks_url": "https://api.github.com/repos/angular/angular.js/forks",
+  "full_name": "angular/angular.js",
+  "git_commits_url": "https://api.github.com/repos/angular/angular.js/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/angular/angular.js/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/angular/angular.js/git/tags{/sha}",
+  "git_url": "git://github.com/angular/angular.js.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "http://angularjs.org",
+  "hooks_url": "https://api.github.com/repos/angular/angular.js/hooks",
+  "html_url": "https://github.com/angular/angular.js",
+  "id": 460078,
+  "issue_comment_url": "https://api.github.com/repos/angular/angular.js/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/angular/angular.js/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/angular/angular.js/issues{/number}",
+  "keys_url": "https://api.github.com/repos/angular/angular.js/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/angular/angular.js/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/angular/angular.js/languages",
+  "merges_url": "https://api.github.com/repos/angular/angular.js/merges",
+  "milestones_url": "https://api.github.com/repos/angular/angular.js/milestones{/number}",
+  "mirror_url": null,
+  "name": "angular.js",
+  "notifications_url": "https://api.github.com/repos/angular/angular.js/notifications{?since,all,participating}",
+  "open_issues": 1137,
+  "open_issues_count": 1137,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/139426?v=3",
+    "events_url": "https://api.github.com/users/angular/events{/privacy}",
+    "followers_url": "https://api.github.com/users/angular/followers",
+    "following_url": "https://api.github.com/users/angular/following{/other_user}",
+    "gists_url": "https://api.github.com/users/angular/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/angular",
+    "id": 139426,
+    "login": "angular",
+    "organizations_url": "https://api.github.com/users/angular/orgs",
+    "received_events_url": "https://api.github.com/users/angular/received_events",
+    "repos_url": "https://api.github.com/users/angular/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/angular/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/angular/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/angular"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/angular/angular.js/pulls{/number}",
+  "pushed_at": "2014-12-02T22:32:46Z",
+  "releases_url": "https://api.github.com/repos/angular/angular.js/releases{/id}",
+  "size": 203469,
+  "ssh_url": "git@github.com:angular/angular.js.git",
+  "stargazers_count": 32338,
+  "stargazers_url": "https://api.github.com/repos/angular/angular.js/stargazers",
+  "statuses_url": "https://api.github.com/repos/angular/angular.js/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/angular/angular.js/subscribers",
+  "subscription_url": "https://api.github.com/repos/angular/angular.js/subscription",
+  "svn_url": "https://github.com/angular/angular.js",
+  "tags_url": "https://api.github.com/repos/angular/angular.js/tags",
+  "teams_url": "https://api.github.com/repos/angular/angular.js/teams",
+  "trees_url": "https://api.github.com/repos/angular/angular.js/git/trees{/sha}",
+  "updated_at": "2014-12-02T22:40:56Z",
+  "url": "https://api.github.com/repos/angular/angular.js",
+  "watchers": 32338,
+  "watchers_count": 32338
+}</source>
+  <ssh_url>git@github.com:whayler1/angular.js.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/whayler1/angular.js/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/whayler1/angular.js/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/whayler1/angular.js/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/whayler1/angular.js/subscription</subscription_url>
+  <svn_url>https://github.com/whayler1/angular.js</svn_url>
+  <tags_url>https://api.github.com/repos/whayler1/angular.js/tags</tags_url>
+  <teams_url>https://api.github.com/repos/whayler1/angular.js/teams</teams_url>
+  <trees_url>https://api.github.com/repos/whayler1/angular.js/git/trees{/sha}</trees_url>
+  <updated_at>12/2/2014 9:02:35 PM</updated_at>
+  <url>https://api.github.com/repos/whayler1/angular.js</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

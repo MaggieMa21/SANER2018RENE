@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>547d3c04bd3543179e008af1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/Etn40ff/CI20_linux/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/Etn40ff/CI20_linux/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/Etn40ff/CI20_linux/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/Etn40ff/CI20_linux/branches{/branch}</branches_url>
+  <clone_url>https://github.com/Etn40ff/CI20_linux.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/Etn40ff/CI20_linux/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/Etn40ff/CI20_linux/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/Etn40ff/CI20_linux/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/Etn40ff/CI20_linux/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/Etn40ff/CI20_linux/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/Etn40ff/CI20_linux/contributors</contributors_url>
+  <created_at>11/30/2014 11:40:16 PM</created_at>
+  <default_branch>wip-ci20-v3.16-merge</default_branch>
+  <description>Linux kernel source tree with MIPS Creator CI20 (JZ4780 based) board patches/development for upstreaming</description>
+  <downloads_url>https://api.github.com/repos/Etn40ff/CI20_linux/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/Etn40ff/CI20_linux/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/Etn40ff/CI20_linux/forks</forks_url>
+  <full_name>Etn40ff/CI20_linux</full_name>
+  <git_commits_url>https://api.github.com/repos/Etn40ff/CI20_linux/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/Etn40ff/CI20_linux/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/Etn40ff/CI20_linux/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/Etn40ff/CI20_linux.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>False</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/Etn40ff/CI20_linux/hooks</hooks_url>
+  <html_url>https://github.com/Etn40ff/CI20_linux</html_url>
+  <id>27354370</id>
+  <issue_comment_url>https://api.github.com/repos/Etn40ff/CI20_linux/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/Etn40ff/CI20_linux/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/Etn40ff/CI20_linux/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/Etn40ff/CI20_linux/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/Etn40ff/CI20_linux/labels{/name}</labels_url>
+  <language>C</language>
+  <languages_url>https://api.github.com/repos/Etn40ff/CI20_linux/languages</languages_url>
+  <merges_url>https://api.github.com/repos/Etn40ff/CI20_linux/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/Etn40ff/CI20_linux/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>CI20_linux</name>
+  <network_count>7077</network_count>
+  <notifications_url>https://api.github.com/repos/Etn40ff/CI20_linux/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1158010?v=3</avatar_url>
+    <events_url>https://api.github.com/users/Etn40ff/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/Etn40ff/followers</followers_url>
+    <following_url>https://api.github.com/users/Etn40ff/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/Etn40ff/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/Etn40ff</html_url>
+    <id>1158010</id>
+    <login>Etn40ff</login>
+    <organizations_url>https://api.github.com/users/Etn40ff/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/Etn40ff/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/Etn40ff/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/Etn40ff/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/Etn40ff/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/Etn40ff</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/ZubairLK/CI20_linux/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ZubairLK/CI20_linux/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ZubairLK/CI20_linux/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ZubairLK/CI20_linux/branches{/branch}",
+  "clone_url": "https://github.com/ZubairLK/CI20_linux.git",
+  "collaborators_url": "https://api.github.com/repos/ZubairLK/CI20_linux/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ZubairLK/CI20_linux/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ZubairLK/CI20_linux/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ZubairLK/CI20_linux/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ZubairLK/CI20_linux/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ZubairLK/CI20_linux/contributors",
+  "created_at": "2014-08-08T14:38:16Z",
+  "default_branch": "wip-ci20-v3.16-merge",
+  "description": "Linux kernel source tree with MIPS Creator CI20 (JZ4780 based) board patches/development for upstreaming",
+  "downloads_url": "https://api.github.com/repos/ZubairLK/CI20_linux/downloads",
+  "events_url": "https://api.github.com/repos/ZubairLK/CI20_linux/events",
+  "fork": true,
+  "forks": 1,
+  "forks_count": 1,
+  "forks_url": "https://api.github.com/repos/ZubairLK/CI20_linux/forks",
+  "full_name": "ZubairLK/CI20_linux",
+  "git_commits_url": "https://api.github.com/repos/ZubairLK/CI20_linux/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ZubairLK/CI20_linux/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ZubairLK/CI20_linux/git/tags{/sha}",
+  "git_url": "git://github.com/ZubairLK/CI20_linux.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/ZubairLK/CI20_linux/hooks",
+  "html_url": "https://github.com/ZubairLK/CI20_linux",
+  "id": 22760735,
+  "issue_comment_url": "https://api.github.com/repos/ZubairLK/CI20_linux/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ZubairLK/CI20_linux/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ZubairLK/CI20_linux/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ZubairLK/CI20_linux/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ZubairLK/CI20_linux/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/ZubairLK/CI20_linux/languages",
+  "merges_url": "https://api.github.com/repos/ZubairLK/CI20_linux/merges",
+  "milestones_url": "https://api.github.com/repos/ZubairLK/CI20_linux/milestones{/number}",
+  "mirror_url": null,
+  "name": "CI20_linux",
+  "notifications_url": "https://api.github.com/repos/ZubairLK/CI20_linux/notifications{?since,all,participating}",
+  "open_issues": 1,
+  "open_issues_count": 1,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3186710?v=3",
+    "events_url": "https://api.github.com/users/ZubairLK/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ZubairLK/followers",
+    "following_url": "https://api.github.com/users/ZubairLK/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZubairLK/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ZubairLK",
+    "id": 3186710,
+    "login": "ZubairLK",
+    "organizations_url": "https://api.github.com/users/ZubairLK/orgs",
+    "received_events_url": "https://api.github.com/users/ZubairLK/received_events",
+    "repos_url": "https://api.github.com/users/ZubairLK/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ZubairLK/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZubairLK/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ZubairLK"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ZubairLK/CI20_linux/pulls{/number}",
+  "pushed_at": "2014-11-21T16:55:15Z",
+  "releases_url": "https://api.github.com/repos/ZubairLK/CI20_linux/releases{/id}",
+  "size": 1248126,
+  "ssh_url": "git@github.com:ZubairLK/CI20_linux.git",
+  "stargazers_count": 2,
+  "stargazers_url": "https://api.github.com/repos/ZubairLK/CI20_linux/stargazers",
+  "statuses_url": "https://api.github.com/repos/ZubairLK/CI20_linux/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ZubairLK/CI20_linux/subscribers",
+  "subscription_url": "https://api.github.com/repos/ZubairLK/CI20_linux/subscription",
+  "svn_url": "https://github.com/ZubairLK/CI20_linux",
+  "tags_url": "https://api.github.com/repos/ZubairLK/CI20_linux/tags",
+  "teams_url": "https://api.github.com/repos/ZubairLK/CI20_linux/teams",
+  "trees_url": "https://api.github.com/repos/ZubairLK/CI20_linux/git/trees{/sha}",
+  "updated_at": "2014-11-21T16:55:15Z",
+  "url": "https://api.github.com/repos/ZubairLK/CI20_linux",
+  "watchers": 2,
+  "watchers_count": 2
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/Etn40ff/CI20_linux/pulls{/number}</pulls_url>
+  <pushed_at>12/2/2014 4:07:36 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/Etn40ff/CI20_linux/releases{/id}</releases_url>
+  <size>1248126</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/torvalds/linux/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/torvalds/linux/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/torvalds/linux/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/torvalds/linux/branches{/branch}",
+  "clone_url": "https://github.com/torvalds/linux.git",
+  "collaborators_url": "https://api.github.com/repos/torvalds/linux/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/torvalds/linux/comments{/number}",
+  "commits_url": "https://api.github.com/repos/torvalds/linux/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/torvalds/linux/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/torvalds/linux/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/torvalds/linux/contributors",
+  "created_at": "2011-09-04T22:48:12Z",
+  "default_branch": "master",
+  "description": "Linux kernel source tree",
+  "downloads_url": "https://api.github.com/repos/torvalds/linux/downloads",
+  "events_url": "https://api.github.com/repos/torvalds/linux/events",
+  "fork": false,
+  "forks": 7077,
+  "forks_count": 7077,
+  "forks_url": "https://api.github.com/repos/torvalds/linux/forks",
+  "full_name": "torvalds/linux",
+  "git_commits_url": "https://api.github.com/repos/torvalds/linux/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/torvalds/linux/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/torvalds/linux/git/tags{/sha}",
+  "git_url": "git://github.com/torvalds/linux.git",
+  "has_downloads": true,
+  "has_issues": false,
+  "has_pages": false,
+  "has_wiki": false,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/torvalds/linux/hooks",
+  "html_url": "https://github.com/torvalds/linux",
+  "id": 2325298,
+  "issue_comment_url": "https://api.github.com/repos/torvalds/linux/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/torvalds/linux/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/torvalds/linux/issues{/number}",
+  "keys_url": "https://api.github.com/repos/torvalds/linux/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/torvalds/linux/labels{/name}",
+  "language": "C",
+  "languages_url": "https://api.github.com/repos/torvalds/linux/languages",
+  "merges_url": "https://api.github.com/repos/torvalds/linux/merges",
+  "milestones_url": "https://api.github.com/repos/torvalds/linux/milestones{/number}",
+  "mirror_url": null,
+  "name": "linux",
+  "notifications_url": "https://api.github.com/repos/torvalds/linux/notifications{?since,all,participating}",
+  "open_issues": 63,
+  "open_issues_count": 63,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=3",
+    "events_url": "https://api.github.com/users/torvalds/events{/privacy}",
+    "followers_url": "https://api.github.com/users/torvalds/followers",
+    "following_url": "https://api.github.com/users/torvalds/following{/other_user}",
+    "gists_url": "https://api.github.com/users/torvalds/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/torvalds",
+    "id": 1024025,
+    "login": "torvalds",
+    "organizations_url": "https://api.github.com/users/torvalds/orgs",
+    "received_events_url": "https://api.github.com/users/torvalds/received_events",
+    "repos_url": "https://api.github.com/users/torvalds/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/torvalds/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/torvalds/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/torvalds"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/torvalds/linux/pulls{/number}",
+  "pushed_at": "2014-12-01T00:44:29Z",
+  "releases_url": "https://api.github.com/repos/torvalds/linux/releases{/id}",
+  "size": 1478489,
+  "ssh_url": "git@github.com:torvalds/linux.git",
+  "stargazers_count": 17665,
+  "stargazers_url": "https://api.github.com/repos/torvalds/linux/stargazers",
+  "statuses_url": "https://api.github.com/repos/torvalds/linux/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/torvalds/linux/subscribers",
+  "subscription_url": "https://api.github.com/repos/torvalds/linux/subscription",
+  "svn_url": "https://github.com/torvalds/linux",
+  "tags_url": "https://api.github.com/repos/torvalds/linux/tags",
+  "teams_url": "https://api.github.com/repos/torvalds/linux/teams",
+  "trees_url": "https://api.github.com/repos/torvalds/linux/git/trees{/sha}",
+  "updated_at": "2014-12-02T03:38:18Z",
+  "url": "https://api.github.com/repos/torvalds/linux",
+  "watchers": 17665,
+  "watchers_count": 17665
+}</source>
+  <ssh_url>git@github.com:Etn40ff/CI20_linux.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/Etn40ff/CI20_linux/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/Etn40ff/CI20_linux/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/Etn40ff/CI20_linux/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/Etn40ff/CI20_linux/subscription</subscription_url>
+  <svn_url>https://github.com/Etn40ff/CI20_linux</svn_url>
+  <tags_url>https://api.github.com/repos/Etn40ff/CI20_linux/tags</tags_url>
+  <teams_url>https://api.github.com/repos/Etn40ff/CI20_linux/teams</teams_url>
+  <trees_url>https://api.github.com/repos/Etn40ff/CI20_linux/git/trees{/sha}</trees_url>
+  <updated_at>11/30/2014 11:44:08 PM</updated_at>
+  <url>https://api.github.com/repos/Etn40ff/CI20_linux</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

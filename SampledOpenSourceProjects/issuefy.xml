@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d4121bd3543153c0118f1</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/rfsbraz/issuefy/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/rfsbraz/issuefy/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/rfsbraz/issuefy/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/rfsbraz/issuefy/branches{/branch}</branches_url>
+  <clone_url>https://github.com/rfsbraz/issuefy.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/rfsbraz/issuefy/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/rfsbraz/issuefy/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/rfsbraz/issuefy/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/rfsbraz/issuefy/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/rfsbraz/issuefy/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/rfsbraz/issuefy/contributors</contributors_url>
+  <created_at>11/26/2014 2:37:25 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>Redmine plugin for creating issues from a spreadsheet file, and save a lot of time.</description>
+  <downloads_url>https://api.github.com/repos/rfsbraz/issuefy/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/rfsbraz/issuefy/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/rfsbraz/issuefy/forks</forks_url>
+  <full_name>rfsbraz/issuefy</full_name>
+  <git_commits_url>https://api.github.com/repos/rfsbraz/issuefy/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/rfsbraz/issuefy/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/rfsbraz/issuefy/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/rfsbraz/issuefy.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>
+  </homepage>
+  <hooks_url>https://api.github.com/repos/rfsbraz/issuefy/hooks</hooks_url>
+  <html_url>https://github.com/rfsbraz/issuefy</html_url>
+  <id>27180845</id>
+  <issue_comment_url>https://api.github.com/repos/rfsbraz/issuefy/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/rfsbraz/issuefy/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/rfsbraz/issuefy/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/rfsbraz/issuefy/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/rfsbraz/issuefy/labels{/name}</labels_url>
+  <language>Ruby</language>
+  <languages_url>https://api.github.com/repos/rfsbraz/issuefy/languages</languages_url>
+  <merges_url>https://api.github.com/repos/rfsbraz/issuefy/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/rfsbraz/issuefy/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>issuefy</name>
+  <network_count>8</network_count>
+  <notifications_url>https://api.github.com/repos/rfsbraz/issuefy/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/770716?v=3</avatar_url>
+    <events_url>https://api.github.com/users/rfsbraz/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/rfsbraz/followers</followers_url>
+    <following_url>https://api.github.com/users/rfsbraz/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/rfsbraz/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/rfsbraz</html_url>
+    <id>770716</id>
+    <login>rfsbraz</login>
+    <organizations_url>https://api.github.com/users/rfsbraz/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/rfsbraz/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/rfsbraz/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/rfsbraz/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/rfsbraz/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/rfsbraz</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/tchx84/issuefy/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/tchx84/issuefy/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/tchx84/issuefy/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/tchx84/issuefy/branches{/branch}",
+  "clone_url": "https://github.com/tchx84/issuefy.git",
+  "collaborators_url": "https://api.github.com/repos/tchx84/issuefy/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/tchx84/issuefy/comments{/number}",
+  "commits_url": "https://api.github.com/repos/tchx84/issuefy/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/tchx84/issuefy/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/tchx84/issuefy/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/tchx84/issuefy/contributors",
+  "created_at": "2013-05-25T20:44:41Z",
+  "default_branch": "master",
+  "description": "Redmine plugin for creating issues from a spreadsheet file, and save a lot of time.",
+  "downloads_url": "https://api.github.com/repos/tchx84/issuefy/downloads",
+  "events_url": "https://api.github.com/repos/tchx84/issuefy/events",
+  "fork": false,
+  "forks": 8,
+  "forks_count": 8,
+  "forks_url": "https://api.github.com/repos/tchx84/issuefy/forks",
+  "full_name": "tchx84/issuefy",
+  "git_commits_url": "https://api.github.com/repos/tchx84/issuefy/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/tchx84/issuefy/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/tchx84/issuefy/git/tags{/sha}",
+  "git_url": "git://github.com/tchx84/issuefy.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/tchx84/issuefy/hooks",
+  "html_url": "https://github.com/tchx84/issuefy",
+  "id": 10289596,
+  "issue_comment_url": "https://api.github.com/repos/tchx84/issuefy/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/tchx84/issuefy/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/tchx84/issuefy/issues{/number}",
+  "keys_url": "https://api.github.com/repos/tchx84/issuefy/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/tchx84/issuefy/labels{/name}",
+  "language": "Ruby",
+  "languages_url": "https://api.github.com/repos/tchx84/issuefy/languages",
+  "merges_url": "https://api.github.com/repos/tchx84/issuefy/merges",
+  "milestones_url": "https://api.github.com/repos/tchx84/issuefy/milestones{/number}",
+  "mirror_url": null,
+  "name": "issuefy",
+  "notifications_url": "https://api.github.com/repos/tchx84/issuefy/notifications{?since,all,participating}",
+  "open_issues": 3,
+  "open_issues_count": 3,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/481418?v=3",
+    "events_url": "https://api.github.com/users/tchx84/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tchx84/followers",
+    "following_url": "https://api.github.com/users/tchx84/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tchx84/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tchx84",
+    "id": 481418,
+    "login": "tchx84",
+    "organizations_url": "https://api.github.com/users/tchx84/orgs",
+    "received_events_url": "https://api.github.com/users/tchx84/received_events",
+    "repos_url": "https://api.github.com/users/tchx84/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tchx84/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tchx84/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tchx84"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/tchx84/issuefy/pulls{/number}",
+  "pushed_at": "2013-11-24T21:39:35Z",
+  "releases_url": "https://api.github.com/repos/tchx84/issuefy/releases{/id}",
+  "size": 221,
+  "ssh_url": "git@github.com:tchx84/issuefy.git",
+  "stargazers_count": 15,
+  "stargazers_url": "https://api.github.com/repos/tchx84/issuefy/stargazers",
+  "statuses_url": "https://api.github.com/repos/tchx84/issuefy/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/tchx84/issuefy/subscribers",
+  "subscription_url": "https://api.github.com/repos/tchx84/issuefy/subscription",
+  "svn_url": "https://github.com/tchx84/issuefy",
+  "tags_url": "https://api.github.com/repos/tchx84/issuefy/tags",
+  "teams_url": "https://api.github.com/repos/tchx84/issuefy/teams",
+  "trees_url": "https://api.github.com/repos/tchx84/issuefy/git/trees{/sha}",
+  "updated_at": "2013-12-17T17:55:23Z",
+  "url": "https://api.github.com/repos/tchx84/issuefy",
+  "watchers": 15,
+  "watchers_count": 15
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/rfsbraz/issuefy/pulls{/number}</pulls_url>
+  <pushed_at>11/26/2014 2:57:19 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/rfsbraz/issuefy/releases{/id}</releases_url>
+  <size>111</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/tchx84/issuefy/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/tchx84/issuefy/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/tchx84/issuefy/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/tchx84/issuefy/branches{/branch}",
+  "clone_url": "https://github.com/tchx84/issuefy.git",
+  "collaborators_url": "https://api.github.com/repos/tchx84/issuefy/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/tchx84/issuefy/comments{/number}",
+  "commits_url": "https://api.github.com/repos/tchx84/issuefy/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/tchx84/issuefy/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/tchx84/issuefy/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/tchx84/issuefy/contributors",
+  "created_at": "2013-05-25T20:44:41Z",
+  "default_branch": "master",
+  "description": "Redmine plugin for creating issues from a spreadsheet file, and save a lot of time.",
+  "downloads_url": "https://api.github.com/repos/tchx84/issuefy/downloads",
+  "events_url": "https://api.github.com/repos/tchx84/issuefy/events",
+  "fork": false,
+  "forks": 8,
+  "forks_count": 8,
+  "forks_url": "https://api.github.com/repos/tchx84/issuefy/forks",
+  "full_name": "tchx84/issuefy",
+  "git_commits_url": "https://api.github.com/repos/tchx84/issuefy/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/tchx84/issuefy/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/tchx84/issuefy/git/tags{/sha}",
+  "git_url": "git://github.com/tchx84/issuefy.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "",
+  "hooks_url": "https://api.github.com/repos/tchx84/issuefy/hooks",
+  "html_url": "https://github.com/tchx84/issuefy",
+  "id": 10289596,
+  "issue_comment_url": "https://api.github.com/repos/tchx84/issuefy/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/tchx84/issuefy/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/tchx84/issuefy/issues{/number}",
+  "keys_url": "https://api.github.com/repos/tchx84/issuefy/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/tchx84/issuefy/labels{/name}",
+  "language": "Ruby",
+  "languages_url": "https://api.github.com/repos/tchx84/issuefy/languages",
+  "merges_url": "https://api.github.com/repos/tchx84/issuefy/merges",
+  "milestones_url": "https://api.github.com/repos/tchx84/issuefy/milestones{/number}",
+  "mirror_url": null,
+  "name": "issuefy",
+  "notifications_url": "https://api.github.com/repos/tchx84/issuefy/notifications{?since,all,participating}",
+  "open_issues": 3,
+  "open_issues_count": 3,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/481418?v=3",
+    "events_url": "https://api.github.com/users/tchx84/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tchx84/followers",
+    "following_url": "https://api.github.com/users/tchx84/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tchx84/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tchx84",
+    "id": 481418,
+    "login": "tchx84",
+    "organizations_url": "https://api.github.com/users/tchx84/orgs",
+    "received_events_url": "https://api.github.com/users/tchx84/received_events",
+    "repos_url": "https://api.github.com/users/tchx84/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tchx84/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tchx84/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tchx84"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/tchx84/issuefy/pulls{/number}",
+  "pushed_at": "2013-11-24T21:39:35Z",
+  "releases_url": "https://api.github.com/repos/tchx84/issuefy/releases{/id}",
+  "size": 221,
+  "ssh_url": "git@github.com:tchx84/issuefy.git",
+  "stargazers_count": 15,
+  "stargazers_url": "https://api.github.com/repos/tchx84/issuefy/stargazers",
+  "statuses_url": "https://api.github.com/repos/tchx84/issuefy/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/tchx84/issuefy/subscribers",
+  "subscription_url": "https://api.github.com/repos/tchx84/issuefy/subscription",
+  "svn_url": "https://github.com/tchx84/issuefy",
+  "tags_url": "https://api.github.com/repos/tchx84/issuefy/tags",
+  "teams_url": "https://api.github.com/repos/tchx84/issuefy/teams",
+  "trees_url": "https://api.github.com/repos/tchx84/issuefy/git/trees{/sha}",
+  "updated_at": "2013-12-17T17:55:23Z",
+  "url": "https://api.github.com/repos/tchx84/issuefy",
+  "watchers": 15,
+  "watchers_count": 15
+}</source>
+  <ssh_url>git@github.com:rfsbraz/issuefy.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/rfsbraz/issuefy/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/rfsbraz/issuefy/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/rfsbraz/issuefy/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/rfsbraz/issuefy/subscription</subscription_url>
+  <svn_url>https://github.com/rfsbraz/issuefy</svn_url>
+  <tags_url>https://api.github.com/repos/rfsbraz/issuefy/tags</tags_url>
+  <teams_url>https://api.github.com/repos/rfsbraz/issuefy/teams</teams_url>
+  <trees_url>https://api.github.com/repos/rfsbraz/issuefy/git/trees{/sha}</trees_url>
+  <updated_at>11/26/2014 2:57:20 PM</updated_at>
+  <url>https://api.github.com/repos/rfsbraz/issuefy</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

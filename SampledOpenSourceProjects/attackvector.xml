@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548d4d50bd354309ed010c70</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/attackvector/attackvector/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/attackvector/attackvector/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/attackvector/attackvector/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/attackvector/attackvector/branches{/branch}</branches_url>
+  <clone_url>https://github.com/attackvector/attackvector.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/attackvector/attackvector/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/attackvector/attackvector/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/attackvector/attackvector/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/attackvector/attackvector/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/attackvector/attackvector/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/attackvector/attackvector/contributors</contributors_url>
+  <created_at>12/14/2014 8:41:49 AM</created_at>
+  <default_branch>master</default_branch>
+  <description>AttackVector Linux (password: books) you wouldn't steal a car? or an mp3? or a bin? or a distro? or src?</description>
+  <downloads_url>https://api.github.com/repos/attackvector/attackvector/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/attackvector/attackvector/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/attackvector/attackvector/forks</forks_url>
+  <full_name>attackvector/attackvector</full_name>
+  <git_commits_url>https://api.github.com/repos/attackvector/attackvector/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/attackvector/attackvector/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/attackvector/attackvector/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/attackvector/attackvector.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>False</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>https://mega.co.nz/#!HVl0SARD!rMKjkT0T-eM1G8JeFO5P_XIMEqlxYqYkO3Wd3nXafZs</homepage>
+  <hooks_url>https://api.github.com/repos/attackvector/attackvector/hooks</hooks_url>
+  <html_url>https://github.com/attackvector/attackvector</html_url>
+  <id>27988581</id>
+  <issue_comment_url>https://api.github.com/repos/attackvector/attackvector/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/attackvector/attackvector/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/attackvector/attackvector/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/attackvector/attackvector/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/attackvector/attackvector/labels{/name}</labels_url>
+  <language>
+  </language>
+  <languages_url>https://api.github.com/repos/attackvector/attackvector/languages</languages_url>
+  <merges_url>https://api.github.com/repos/attackvector/attackvector/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/attackvector/attackvector/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>attackvector</name>
+  <network_count>13</network_count>
+  <notifications_url>https://api.github.com/repos/attackvector/attackvector/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/10183264?v=3</avatar_url>
+    <events_url>https://api.github.com/users/attackvector/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/attackvector/followers</followers_url>
+    <following_url>https://api.github.com/users/attackvector/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/attackvector/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/attackvector</html_url>
+    <id>10183264</id>
+    <login>attackvector</login>
+    <organizations_url>https://api.github.com/users/attackvector/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/attackvector/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/attackvector/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/attackvector/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/attackvector/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/attackvector</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/ksoona/attackvector/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ksoona/attackvector/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ksoona/attackvector/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ksoona/attackvector/branches{/branch}",
+  "clone_url": "https://github.com/ksoona/attackvector.git",
+  "collaborators_url": "https://api.github.com/repos/ksoona/attackvector/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ksoona/attackvector/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ksoona/attackvector/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ksoona/attackvector/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ksoona/attackvector/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ksoona/attackvector/contributors",
+  "created_at": "2013-06-08T07:43:43Z",
+  "default_branch": "master",
+  "description": "AttackVector Linux (password: books) you wouldn't steal a car? or an mp3? or a bin? or a distro? or src?",
+  "downloads_url": "https://api.github.com/repos/ksoona/attackvector/downloads",
+  "events_url": "https://api.github.com/repos/ksoona/attackvector/events",
+  "fork": false,
+  "forks": 13,
+  "forks_count": 13,
+  "forks_url": "https://api.github.com/repos/ksoona/attackvector/forks",
+  "full_name": "ksoona/attackvector",
+  "git_commits_url": "https://api.github.com/repos/ksoona/attackvector/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ksoona/attackvector/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ksoona/attackvector/git/tags{/sha}",
+  "git_url": "git://github.com/ksoona/attackvector.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "https://mega.co.nz/#!HVl0SARD!rMKjkT0T-eM1G8JeFO5P_XIMEqlxYqYkO3Wd3nXafZs",
+  "hooks_url": "https://api.github.com/repos/ksoona/attackvector/hooks",
+  "html_url": "https://github.com/ksoona/attackvector",
+  "id": 10565551,
+  "issue_comment_url": "https://api.github.com/repos/ksoona/attackvector/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ksoona/attackvector/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ksoona/attackvector/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ksoona/attackvector/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ksoona/attackvector/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/ksoona/attackvector/languages",
+  "merges_url": "https://api.github.com/repos/ksoona/attackvector/merges",
+  "milestones_url": "https://api.github.com/repos/ksoona/attackvector/milestones{/number}",
+  "mirror_url": null,
+  "name": "attackvector",
+  "notifications_url": "https://api.github.com/repos/ksoona/attackvector/notifications{?since,all,participating}",
+  "open_issues": 2,
+  "open_issues_count": 2,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4369364?v=3",
+    "events_url": "https://api.github.com/users/ksoona/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ksoona/followers",
+    "following_url": "https://api.github.com/users/ksoona/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ksoona/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ksoona",
+    "id": 4369364,
+    "login": "ksoona",
+    "organizations_url": "https://api.github.com/users/ksoona/orgs",
+    "received_events_url": "https://api.github.com/users/ksoona/received_events",
+    "repos_url": "https://api.github.com/users/ksoona/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ksoona/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ksoona/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ksoona"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ksoona/attackvector/pulls{/number}",
+  "pushed_at": "2014-11-22T06:45:14Z",
+  "releases_url": "https://api.github.com/repos/ksoona/attackvector/releases{/id}",
+  "size": 247644,
+  "ssh_url": "git@github.com:ksoona/attackvector.git",
+  "stargazers_count": 27,
+  "stargazers_url": "https://api.github.com/repos/ksoona/attackvector/stargazers",
+  "statuses_url": "https://api.github.com/repos/ksoona/attackvector/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ksoona/attackvector/subscribers",
+  "subscription_url": "https://api.github.com/repos/ksoona/attackvector/subscription",
+  "svn_url": "https://github.com/ksoona/attackvector",
+  "tags_url": "https://api.github.com/repos/ksoona/attackvector/tags",
+  "teams_url": "https://api.github.com/repos/ksoona/attackvector/teams",
+  "trees_url": "https://api.github.com/repos/ksoona/attackvector/git/trees{/sha}",
+  "updated_at": "2014-12-14T08:41:47Z",
+  "url": "https://api.github.com/repos/ksoona/attackvector",
+  "watchers": 27,
+  "watchers_count": 27
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/attackvector/attackvector/pulls{/number}</pulls_url>
+  <pushed_at>11/22/2014 6:45:14 AM</pushed_at>
+  <releases_url>https://api.github.com/repos/attackvector/attackvector/releases{/id}</releases_url>
+  <size>247644</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/ksoona/attackvector/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/ksoona/attackvector/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/ksoona/attackvector/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/ksoona/attackvector/branches{/branch}",
+  "clone_url": "https://github.com/ksoona/attackvector.git",
+  "collaborators_url": "https://api.github.com/repos/ksoona/attackvector/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/ksoona/attackvector/comments{/number}",
+  "commits_url": "https://api.github.com/repos/ksoona/attackvector/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/ksoona/attackvector/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/ksoona/attackvector/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/ksoona/attackvector/contributors",
+  "created_at": "2013-06-08T07:43:43Z",
+  "default_branch": "master",
+  "description": "AttackVector Linux (password: books) you wouldn't steal a car? or an mp3? or a bin? or a distro? or src?",
+  "downloads_url": "https://api.github.com/repos/ksoona/attackvector/downloads",
+  "events_url": "https://api.github.com/repos/ksoona/attackvector/events",
+  "fork": false,
+  "forks": 13,
+  "forks_count": 13,
+  "forks_url": "https://api.github.com/repos/ksoona/attackvector/forks",
+  "full_name": "ksoona/attackvector",
+  "git_commits_url": "https://api.github.com/repos/ksoona/attackvector/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/ksoona/attackvector/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/ksoona/attackvector/git/tags{/sha}",
+  "git_url": "git://github.com/ksoona/attackvector.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": false,
+  "has_wiki": true,
+  "homepage": "https://mega.co.nz/#!HVl0SARD!rMKjkT0T-eM1G8JeFO5P_XIMEqlxYqYkO3Wd3nXafZs",
+  "hooks_url": "https://api.github.com/repos/ksoona/attackvector/hooks",
+  "html_url": "https://github.com/ksoona/attackvector",
+  "id": 10565551,
+  "issue_comment_url": "https://api.github.com/repos/ksoona/attackvector/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/ksoona/attackvector/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/ksoona/attackvector/issues{/number}",
+  "keys_url": "https://api.github.com/repos/ksoona/attackvector/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/ksoona/attackvector/labels{/name}",
+  "language": "Python",
+  "languages_url": "https://api.github.com/repos/ksoona/attackvector/languages",
+  "merges_url": "https://api.github.com/repos/ksoona/attackvector/merges",
+  "milestones_url": "https://api.github.com/repos/ksoona/attackvector/milestones{/number}",
+  "mirror_url": null,
+  "name": "attackvector",
+  "notifications_url": "https://api.github.com/repos/ksoona/attackvector/notifications{?since,all,participating}",
+  "open_issues": 2,
+  "open_issues_count": 2,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4369364?v=3",
+    "events_url": "https://api.github.com/users/ksoona/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ksoona/followers",
+    "following_url": "https://api.github.com/users/ksoona/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ksoona/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ksoona",
+    "id": 4369364,
+    "login": "ksoona",
+    "organizations_url": "https://api.github.com/users/ksoona/orgs",
+    "received_events_url": "https://api.github.com/users/ksoona/received_events",
+    "repos_url": "https://api.github.com/users/ksoona/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ksoona/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ksoona/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ksoona"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/ksoona/attackvector/pulls{/number}",
+  "pushed_at": "2014-11-22T06:45:14Z",
+  "releases_url": "https://api.github.com/repos/ksoona/attackvector/releases{/id}",
+  "size": 247644,
+  "ssh_url": "git@github.com:ksoona/attackvector.git",
+  "stargazers_count": 27,
+  "stargazers_url": "https://api.github.com/repos/ksoona/attackvector/stargazers",
+  "statuses_url": "https://api.github.com/repos/ksoona/attackvector/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/ksoona/attackvector/subscribers",
+  "subscription_url": "https://api.github.com/repos/ksoona/attackvector/subscription",
+  "svn_url": "https://github.com/ksoona/attackvector",
+  "tags_url": "https://api.github.com/repos/ksoona/attackvector/tags",
+  "teams_url": "https://api.github.com/repos/ksoona/attackvector/teams",
+  "trees_url": "https://api.github.com/repos/ksoona/attackvector/git/trees{/sha}",
+  "updated_at": "2014-12-14T08:41:47Z",
+  "url": "https://api.github.com/repos/ksoona/attackvector",
+  "watchers": 27,
+  "watchers_count": 27
+}</source>
+  <ssh_url>git@github.com:attackvector/attackvector.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/attackvector/attackvector/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/attackvector/attackvector/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/attackvector/attackvector/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/attackvector/attackvector/subscription</subscription_url>
+  <svn_url>https://github.com/attackvector/attackvector</svn_url>
+  <tags_url>https://api.github.com/repos/attackvector/attackvector/tags</tags_url>
+  <teams_url>https://api.github.com/repos/attackvector/attackvector/teams</teams_url>
+  <trees_url>https://api.github.com/repos/attackvector/attackvector/git/trees{/sha}</trees_url>
+  <updated_at>12/14/2014 8:41:47 AM</updated_at>
+  <url>https://api.github.com/repos/attackvector/attackvector</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>

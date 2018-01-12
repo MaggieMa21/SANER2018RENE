@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <_id>
+    <oid>548a3dabbd354309de0019dd</oid>
+  </_id>
+  <archive_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/{archive_format}{/ref}</archive_url>
+  <assignees_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/assignees{/user}</assignees_url>
+  <blobs_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/git/blobs{/sha}</blobs_url>
+  <branches_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/branches{/branch}</branches_url>
+  <clone_url>https://github.com/jspades/angularjs-ee-boilerplate.git</clone_url>
+  <collaborators_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/collaborators{/collaborator}</collaborators_url>
+  <comments_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/comments{/number}</comments_url>
+  <commits_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/commits{/sha}</commits_url>
+  <compare_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/compare/{base}...{head}</compare_url>
+  <contents_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/contents/{+path}</contents_url>
+  <contributors_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/contributors</contributors_url>
+  <created_at>12/8/2014 12:46:25 PM</created_at>
+  <default_branch>master</default_branch>
+  <description>angularjs enterprise edition boilerplate</description>
+  <downloads_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/downloads</downloads_url>
+  <events_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/events</events_url>
+  <fork>True</fork>
+  <forks>0</forks>
+  <forks_count>0</forks_count>
+  <forks_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/forks</forks_url>
+  <full_name>jspades/angularjs-ee-boilerplate</full_name>
+  <git_commits_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/git/commits{/sha}</git_commits_url>
+  <git_refs_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/git/refs{/sha}</git_refs_url>
+  <git_tags_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/git/tags{/sha}</git_tags_url>
+  <git_url>git://github.com/jspades/angularjs-ee-boilerplate.git</git_url>
+  <has_downloads>True</has_downloads>
+  <has_issues>False</has_issues>
+  <has_pages>True</has_pages>
+  <has_wiki>True</has_wiki>
+  <homepage>https://the-front.github.io/angularjs-ee-boilerplate/</homepage>
+  <hooks_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/hooks</hooks_url>
+  <html_url>https://github.com/jspades/angularjs-ee-boilerplate</html_url>
+  <id>27714414</id>
+  <issue_comment_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/issues/comments/{number}</issue_comment_url>
+  <issue_events_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/issues/events{/number}</issue_events_url>
+  <issues_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/issues{/number}</issues_url>
+  <keys_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/keys{/key_id}</keys_url>
+  <labels_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/labels{/name}</labels_url>
+  <language>JavaScript</language>
+  <languages_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/languages</languages_url>
+  <merges_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/merges</merges_url>
+  <milestones_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/milestones{/number}</milestones_url>
+  <mirror_url>
+  </mirror_url>
+  <name>angularjs-ee-boilerplate</name>
+  <network_count>15</network_count>
+  <notifications_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/notifications{?since,all,participating}</notifications_url>
+  <open_issues>0</open_issues>
+  <open_issues_count>0</open_issues_count>
+  <owner>
+    <avatar_url>https://avatars.githubusercontent.com/u/1572665?v=3</avatar_url>
+    <events_url>https://api.github.com/users/jspades/events{/privacy}</events_url>
+    <followers_url>https://api.github.com/users/jspades/followers</followers_url>
+    <following_url>https://api.github.com/users/jspades/following{/other_user}</following_url>
+    <gists_url>https://api.github.com/users/jspades/gists{/gist_id}</gists_url>
+    <gravatar_id>
+    </gravatar_id>
+    <html_url>https://github.com/jspades</html_url>
+    <id>1572665</id>
+    <login>jspades</login>
+    <organizations_url>https://api.github.com/users/jspades/orgs</organizations_url>
+    <received_events_url>https://api.github.com/users/jspades/received_events</received_events_url>
+    <repos_url>https://api.github.com/users/jspades/repos</repos_url>
+    <site_admin>False</site_admin>
+    <starred_url>https://api.github.com/users/jspades/starred{/owner}{/repo}</starred_url>
+    <subscriptions_url>https://api.github.com/users/jspades/subscriptions</subscriptions_url>
+    <type>User</type>
+    <url>https://api.github.com/users/jspades</url>
+  </owner>
+  <parent>{
+  "archive_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/branches{/branch}",
+  "clone_url": "https://github.com/the-front/angularjs-ee-boilerplate.git",
+  "collaborators_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/comments{/number}",
+  "commits_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/contributors",
+  "created_at": "2013-11-28T13:48:47Z",
+  "default_branch": "master",
+  "description": "angularjs enterprise edition boilerplate",
+  "downloads_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/downloads",
+  "events_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/events",
+  "fork": false,
+  "forks": 15,
+  "forks_count": 15,
+  "forks_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/forks",
+  "full_name": "the-front/angularjs-ee-boilerplate",
+  "git_commits_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/tags{/sha}",
+  "git_url": "git://github.com/the-front/angularjs-ee-boilerplate.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "https://the-front.github.io/angularjs-ee-boilerplate/",
+  "hooks_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/hooks",
+  "html_url": "https://github.com/the-front/angularjs-ee-boilerplate",
+  "id": 14778084,
+  "issue_comment_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/issues{/number}",
+  "keys_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/languages",
+  "merges_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/merges",
+  "milestones_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/milestones{/number}",
+  "mirror_url": null,
+  "name": "angularjs-ee-boilerplate",
+  "notifications_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/notifications{?since,all,participating}",
+  "open_issues": 9,
+  "open_issues_count": 9,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9087044?v=3",
+    "events_url": "https://api.github.com/users/the-front/events{/privacy}",
+    "followers_url": "https://api.github.com/users/the-front/followers",
+    "following_url": "https://api.github.com/users/the-front/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-front/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/the-front",
+    "id": 9087044,
+    "login": "the-front",
+    "organizations_url": "https://api.github.com/users/the-front/orgs",
+    "received_events_url": "https://api.github.com/users/the-front/received_events",
+    "repos_url": "https://api.github.com/users/the-front/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/the-front/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-front/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/the-front"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/pulls{/number}",
+  "pushed_at": "2014-12-08T13:00:57Z",
+  "releases_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/releases{/id}",
+  "size": 5746,
+  "ssh_url": "git@github.com:the-front/angularjs-ee-boilerplate.git",
+  "stargazers_count": 34,
+  "stargazers_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/stargazers",
+  "statuses_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/subscribers",
+  "subscription_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/subscription",
+  "svn_url": "https://github.com/the-front/angularjs-ee-boilerplate",
+  "tags_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/tags",
+  "teams_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/teams",
+  "trees_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/trees{/sha}",
+  "updated_at": "2014-12-10T10:40:10Z",
+  "url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate",
+  "watchers": 34,
+  "watchers_count": 34
+}</parent>
+  <permissions>
+    <admin>False</admin>
+    <pull>True</pull>
+    <push>False</push>
+  </permissions>
+  <private>False</private>
+  <pulls_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/pulls{/number}</pulls_url>
+  <pushed_at>12/8/2014 12:46:53 PM</pushed_at>
+  <releases_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/releases{/id}</releases_url>
+  <size>4422</size>
+  <source>{
+  "archive_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/{archive_format}{/ref}",
+  "assignees_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/assignees{/user}",
+  "blobs_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/blobs{/sha}",
+  "branches_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/branches{/branch}",
+  "clone_url": "https://github.com/the-front/angularjs-ee-boilerplate.git",
+  "collaborators_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/collaborators{/collaborator}",
+  "comments_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/comments{/number}",
+  "commits_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/commits{/sha}",
+  "compare_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/compare/{base}...{head}",
+  "contents_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/contents/{+path}",
+  "contributors_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/contributors",
+  "created_at": "2013-11-28T13:48:47Z",
+  "default_branch": "master",
+  "description": "angularjs enterprise edition boilerplate",
+  "downloads_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/downloads",
+  "events_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/events",
+  "fork": false,
+  "forks": 15,
+  "forks_count": 15,
+  "forks_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/forks",
+  "full_name": "the-front/angularjs-ee-boilerplate",
+  "git_commits_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/commits{/sha}",
+  "git_refs_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/refs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/tags{/sha}",
+  "git_url": "git://github.com/the-front/angularjs-ee-boilerplate.git",
+  "has_downloads": true,
+  "has_issues": true,
+  "has_pages": true,
+  "has_wiki": true,
+  "homepage": "https://the-front.github.io/angularjs-ee-boilerplate/",
+  "hooks_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/hooks",
+  "html_url": "https://github.com/the-front/angularjs-ee-boilerplate",
+  "id": 14778084,
+  "issue_comment_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/issues/comments/{number}",
+  "issue_events_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/issues/events{/number}",
+  "issues_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/issues{/number}",
+  "keys_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/keys{/key_id}",
+  "labels_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/labels{/name}",
+  "language": "JavaScript",
+  "languages_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/languages",
+  "merges_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/merges",
+  "milestones_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/milestones{/number}",
+  "mirror_url": null,
+  "name": "angularjs-ee-boilerplate",
+  "notifications_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/notifications{?since,all,participating}",
+  "open_issues": 9,
+  "open_issues_count": 9,
+  "owner": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9087044?v=3",
+    "events_url": "https://api.github.com/users/the-front/events{/privacy}",
+    "followers_url": "https://api.github.com/users/the-front/followers",
+    "following_url": "https://api.github.com/users/the-front/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-front/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/the-front",
+    "id": 9087044,
+    "login": "the-front",
+    "organizations_url": "https://api.github.com/users/the-front/orgs",
+    "received_events_url": "https://api.github.com/users/the-front/received_events",
+    "repos_url": "https://api.github.com/users/the-front/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/the-front/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-front/subscriptions",
+    "type": "Organization",
+    "url": "https://api.github.com/users/the-front"
+  },
+  "private": false,
+  "pulls_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/pulls{/number}",
+  "pushed_at": "2014-12-08T13:00:57Z",
+  "releases_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/releases{/id}",
+  "size": 5746,
+  "ssh_url": "git@github.com:the-front/angularjs-ee-boilerplate.git",
+  "stargazers_count": 34,
+  "stargazers_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/stargazers",
+  "statuses_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/statuses/{sha}",
+  "subscribers_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/subscribers",
+  "subscription_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/subscription",
+  "svn_url": "https://github.com/the-front/angularjs-ee-boilerplate",
+  "tags_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/tags",
+  "teams_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/teams",
+  "trees_url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate/git/trees{/sha}",
+  "updated_at": "2014-12-10T10:40:10Z",
+  "url": "https://api.github.com/repos/the-front/angularjs-ee-boilerplate",
+  "watchers": 34,
+  "watchers_count": 34
+}</source>
+  <ssh_url>git@github.com:jspades/angularjs-ee-boilerplate.git</ssh_url>
+  <stargazers_count>0</stargazers_count>
+  <stargazers_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/stargazers</stargazers_url>
+  <statuses_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/statuses/{sha}</statuses_url>
+  <subscribers_count>1</subscribers_count>
+  <subscribers_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/subscribers</subscribers_url>
+  <subscription_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/subscription</subscription_url>
+  <svn_url>https://github.com/jspades/angularjs-ee-boilerplate</svn_url>
+  <tags_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/tags</tags_url>
+  <teams_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/teams</teams_url>
+  <trees_url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate/git/trees{/sha}</trees_url>
+  <updated_at>12/8/2014 12:46:25 PM</updated_at>
+  <url>https://api.github.com/repos/jspades/angularjs-ee-boilerplate</url>
+  <watchers>0</watchers>
+  <watchers_count>0</watchers_count>
+</Properties>
